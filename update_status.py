@@ -21,24 +21,27 @@ def fetch_repo_status(repo):
     
     if response.status_code == 200:
         data = response.json()
-        latest_commit = requests.get(data["commits_url"].replace("{/sha}", ""), auth=(GH_USERNAME, GH_TOKEN)).json()[0]
+        latest_commit_data = requests.get(data["commits_url"].replace("{/sha}", ""), auth=(GH_USERNAME, GH_TOKEN)).json()[0]
+        commit_message = latest_commit_data["commit"]["message"]
+        commit_author = latest_commit_data["commit"]["author"]["name"]
 
         return {
             "name": repo,
             "url": data["html_url"],
             "last_updated": data["updated_at"].split("T")[0],
-            "latest_commit": latest_commit["commit"]["message"],
+            "latest_commit": commit_message,
+            "author": commit_author,
             "issues": data["open_issues_count"],
             "stars": data["stargazers_count"],
             "forks": data["forks_count"],
-            "ci_cd_status": "✅"  # Placeholder (can be automated)
+            "ci_cd_status": "✅"
         }
     return None
 
 def generate_markdown(repos_data):
-    """Generate README content in the new UI format"""
+    """Generate README content in a structured format"""
     md_content = "# 🚀 GitHub Repository Status Tracker\n\n"
-    md_content += "This page automatically updates the latest commit details of the listed repositories.\n\n---\n"
+    md_content += "This page automatically updates with the latest commit details.\n\n---\n"
 
     for repo in repos_data:
         md_content += f"""
@@ -46,6 +49,8 @@ def generate_markdown(repos_data):
 🗓 **Last Updated:** `{repo['last_updated']}`  
 🔄 **Latest Commit:**  
 > _{repo['latest_commit']}_
+
+👤 **Author:** `{repo['author']}`  
 
 🔗 [View Repository]({repo['url']}) | 🏷 **Issues/PRs:** `{repo['issues']}`  
 ⭐ **Stars:** `{repo['stars']}` | 🍴 **Forks:** `{repo['forks']}` | {repo['ci_cd_status']} **CI/CD Status**  
