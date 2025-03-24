@@ -15,15 +15,23 @@ def load_repos():
         return json.load(file)["repositories"]
 
 def fetch_repo_status(repo):
-    """Fetch repository details from GitHub API"""
+    """Fetch repository details with pagination for commits"""
     url = API_URL.format(GH_USERNAME, repo)
     response = requests.get(url, auth=(GH_USERNAME, GH_TOKEN))
     
     if response.status_code == 200:
         data = response.json()
-        latest_commit_data = requests.get(data["commits_url"].replace("{/sha}", ""), auth=(GH_USERNAME, GH_TOKEN)).json()[0]
-        commit_message = latest_commit_data["commit"]["message"]
-        commit_author = latest_commit_data["commit"]["author"]["name"]
+
+        # Fetch latest commit with pagination
+        commits_url = data["commits_url"].replace("{/sha}", "?per_page=1&page=1")
+        latest_commit_data = requests.get(commits_url, auth=(GH_USERNAME, GH_TOKEN)).json()
+        
+        if latest_commit_data:
+            commit_message = latest_commit_data[0]["commit"]["message"]
+            commit_author = latest_commit_data[0]["commit"]["author"]["name"]
+        else:
+            commit_message = "No commits found"
+            commit_author = "Unknown"
 
         return {
             "name": repo,
