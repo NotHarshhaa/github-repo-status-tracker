@@ -22,22 +22,23 @@ def fetch_repo_status(repo):
     if response.status_code == 200:
         data = response.json()
 
-        # Fetch latest commit with pagination
-        commits_url = data["commits_url"].replace("{/sha}", "?per_page=1&page=1")
+        # Fetch latest commit
+        commits_url = f"https://api.github.com/repos/{GH_USERNAME}/{repo}/commits?per_page=1&page=1"
         latest_commit_data = requests.get(commits_url, auth=(GH_USERNAME, GH_TOKEN)).json()
         
         if latest_commit_data:
-            commit_message = latest_commit_data[0]["commit"]["message"]
+            commit_sha = latest_commit_data[0]["sha"]  # Get commit SHA
+            commit_url = f"https://github.com/{GH_USERNAME}/{repo}/commit/{commit_sha}"
             commit_author = latest_commit_data[0]["commit"]["author"]["name"]
         else:
-            commit_message = "No commits found"
+            commit_url = "No commits found"
             commit_author = "Unknown"
 
         return {
             "name": repo,
             "url": data["html_url"],
             "last_updated": data["updated_at"].split("T")[0],
-            "latest_commit": commit_message,
+            "latest_commit": commit_url,
             "author": commit_author,
             "issues": data["open_issues_count"],
             "stars": data["stargazers_count"],
@@ -55,8 +56,7 @@ def generate_markdown(repos_data):
         md_content += f"""
 ## 📂 [{repo['name']}]({repo['url']})
 🗓 **Last Updated:** `{repo['last_updated']}`  
-🔄 **Latest Commit:**  
-> _{repo['latest_commit']}_
+🔄 **Latest Commit:** [View Commit]({repo['latest_commit']})  
 
 👤 **Author:** `{repo['author']}`  
 
