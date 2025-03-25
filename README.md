@@ -11,7 +11,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/devops-tools) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `150` | 🍴 **Forks:** `131` | ✅ **CI/CD Status**  
+⭐ **Stars:** `152` | 🍴 **Forks:** `132` | ✅ **CI/CD Status**  
 
 ---
 
@@ -22,7 +22,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `104` | 🍴 **Forks:** `81` | ✅ **CI/CD Status**  
+⭐ **Stars:** `104` | 🍴 **Forks:** `82` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1438` | 🍴 **Forks:** `1777` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1439` | 🍴 **Forks:** `1781` | ✅ **CI/CD Status**  
 
 ---
 
@@ -60,13 +60,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform)
-🗓 **Last Updated:** `2025-03-18`  
+🗓 **Last Updated:** `2025-03-24`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-EKS_Terraform/commit/bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `17` | 🍴 **Forks:** `50` | ✅ **CI/CD Status**  
+⭐ **Stars:** `18` | 🍴 **Forks:** `51` | ✅ **CI/CD Status**  
 
 ---
 
@@ -155,16 +155,5 @@ This page automatically updates with the latest commit details.
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
 ⭐ **Stars:** `258` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
-
----
-
-## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
-🗓 **Last Updated:** `2025-03-22`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra/commit/2fec48f59b8ea0a59f03314763fe18fc4fe05fbd)  
-
-👤 **Author:** `NotHarshhaa`  
-
-🔗 [View Repository](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `8` | 🍴 **Forks:** `16` | ✅ **CI/CD Status**  
 
 ---
