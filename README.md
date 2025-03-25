@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1440` | 🍴 **Forks:** `1782` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1442` | 🍴 **Forks:** `1783` | ✅ **CI/CD Status**  
 
 ---
 
@@ -148,23 +148,12 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path)
-🗓 **Last Updated:** `2025-03-22`  
+🗓 **Last Updated:** `2025-03-25`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
-⭐ **Stars:** `258` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
-
----
-
-## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
-🗓 **Last Updated:** `2025-03-22`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra/commit/2fec48f59b8ea0a59f03314763fe18fc4fe05fbd)  
-
-👤 **Author:** `NotHarshhaa`  
-
-🔗 [View Repository](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `8` | 🍴 **Forks:** `16` | ✅ **CI/CD Status**  
+⭐ **Stars:** `259` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
 
 ---
