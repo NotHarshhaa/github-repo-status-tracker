@@ -5,13 +5,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [devops-tools](https://github.com/NotHarshhaa/devops-tools)
-🗓 **Last Updated:** `2025-03-24`  
+🗓 **Last Updated:** `2025-03-26`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/devops-tools) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `152` | 🍴 **Forks:** `132` | ✅ **CI/CD Status**  
+⭐ **Stars:** `153` | 🍴 **Forks:** `135` | ✅ **CI/CD Status**  
 
 ---
 
@@ -27,13 +27,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard)
-🗓 **Last Updated:** `2025-03-23`  
+🗓 **Last Updated:** `2025-03-26`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/8b38c62550894ffc8d6c3353605b3fa038ce5317)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-dashboard) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `43` | 🍴 **Forks:** `39` | ✅ **CI/CD Status**  
+⭐ **Stars:** `44` | 🍴 **Forks:** `39` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1448` | 🍴 **Forks:** `1786` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1450` | 🍴 **Forks:** `1787` | ✅ **CI/CD Status**  
 
 ---
 
