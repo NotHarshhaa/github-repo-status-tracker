@@ -5,13 +5,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [devops-tools](https://github.com/NotHarshhaa/devops-tools)
-🗓 **Last Updated:** `2025-03-26`  
+🗓 **Last Updated:** `2025-03-27`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/devops-tools) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `153` | 🍴 **Forks:** `135` | ✅ **CI/CD Status**  
+⭐ **Stars:** `154` | 🍴 **Forks:** `135` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1451` | 🍴 **Forks:** `1790` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1453` | 🍴 **Forks:** `1793` | ✅ **CI/CD Status**  
 
 ---
 
