@@ -22,7 +22,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `104` | 🍴 **Forks:** `82` | ✅ **CI/CD Status**  
+⭐ **Stars:** `104` | 🍴 **Forks:** `83` | ✅ **CI/CD Status**  
 
 ---
 
@@ -33,7 +33,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-dashboard) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `44` | 🍴 **Forks:** `39` | ✅ **CI/CD Status**  
+⭐ **Stars:** `44` | 🍴 **Forks:** `40` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1451` | 🍴 **Forks:** `1788` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1451` | 🍴 **Forks:** `1790` | ✅ **CI/CD Status**  
 
 ---
 
