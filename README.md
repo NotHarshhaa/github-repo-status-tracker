@@ -5,13 +5,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [devops-tools](https://github.com/NotHarshhaa/devops-tools)
-🗓 **Last Updated:** `2025-03-27`  
+🗓 **Last Updated:** `2025-03-29`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/devops-tools) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `154` | 🍴 **Forks:** `135` | ✅ **CI/CD Status**  
+⭐ **Stars:** `155` | 🍴 **Forks:** `135` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1456` | 🍴 **Forks:** `1800` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1457` | 🍴 **Forks:** `1800` | ✅ **CI/CD Status**  
 
 ---
 
@@ -126,13 +126,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
-🗓 **Last Updated:** `2025-03-15`  
+🗓 **Last Updated:** `2025-03-29`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `139` | 🍴 **Forks:** `155` | ✅ **CI/CD Status**  
+⭐ **Stars:** `140` | 🍴 **Forks:** `155` | ✅ **CI/CD Status**  
 
 ---
 
@@ -154,7 +154,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
-⭐ **Stars:** `263` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
+⭐ **Stars:** `264` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
 
 ---
 
