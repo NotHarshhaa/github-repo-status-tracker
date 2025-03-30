@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A showcase of my GitHub repositories, dynamically loaded using JavaScript.">
+  <title>My GitHub Repositories</title>
+  <link rel="stylesheet" href="style.css">
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome for Icons -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js" defer></script>
+</head>
+<body>
+  <header>
+    <header>
+      <div class="logo-container">
+        <a href="https://t.me/prodevopsguy" target="_blank">
+          <img src="logo-light.png" alt="Logo" id="site-logo">
+        </a>
+        <h1><strong>Most Useful DevOps/Cloud GitHub Repositories to Learning and Become a DevOps Engineer</strong></h1>
+      </div>
+      <button id="theme-toggle">
+        <i class="fas fa-moon"></i>  <!-- Default icon -->
+      </button>
+    </header>
+    
+    <!-- Add FontAwesome for icons -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js" crossorigin="anonymous"></script>  
+  </header>
+<!-- Navigation Bar -->
+<nav id="navbar">
+  <ul>
+    <li><a href="#repo-list"><i class="fas fa-code-branch"></i> Repositories</a></li>
+    <li><a href="#about"><i class="fas fa-user"></i> About</a></li>
+    <li><a href="#connect"><i class="fas fa-plug"></i> Connect</a></li>
+    <li><a href="https://t.me/prodevopsguy" target="_blank"><i class="fab fa-telegram"></i> Join Telegram</a></li>
+  </ul>
+</nav>
+
+<!-- About Section -->
+<section id="about">
+  <div class="about-content">
+    <h2>🌍 About Me - <span class="highlight">DevOps & Cloud Enthusiast</span></h2>
+    <p>
+      <strong>🌟 Passionate DevOps & Cloud Enthusiast:</strong> I specialize in <strong>DevOps</strong>, <strong>Cloud Computing</strong>, and <strong>Automation</strong>. My expertise lies in leveraging cutting-edge tools like <strong>Kubernetes</strong>, <strong>Terraform</strong>, and <strong>Docker</strong> to design and implement scalable, reliable, and efficient cloud solutions.
+    </p>
+    <p>
+      <strong>🚀 Open-Source Contributor:</strong> I actively contribute to open-source projects, sharing knowledge and collaborating with the global tech community to solve real-world challenges.
+    </p>
+    <p>
+      <strong>📬 Connect with Me:</strong> Have questions, ideas, or need guidance? Feel free to reach out on 
+      <a href="https://t.me/NotHarshhaa" target="_blank" class="custom-link">Telegram</a>. Let's collaborate and grow together!
+    </p>
+  </div>
+</section>
+
+  <main id="repo-list" aria-live="polite">
+    <!-- Repository data will be dynamically added here -->
+  </main>
+
+  <section class="connect">
+    <h2>⭐ Hit the Star - <span class="highlight">Support the Project</span></h2>
+    <p>
+      <strong>🌟 Found this repository helpful?</strong> If you plan to use it for learning, please consider giving it a star ⭐. Your support motivates me to keep improving and adding more valuable content! 🚀
+    </p>
+    
+    <hr>
+    
+    <h2>🛠️ Author & Community - <span class="highlight">Crafted with Passion</span></h2>
+    <p>
+      <strong>💡 About the Author:</strong> This project is crafted with passion by 
+      <a href="https://github.com/NotHarshhaa" target="_blank" class="custom-link">Harshhaa</a>. I’d love to hear your feedback! Feel free to open an issue, suggest improvements, or just drop by for a discussion.
+    </p>
+    <p>
+      <strong>💪 Building a Community:</strong> Let’s collaborate and build a strong DevOps community together! Your ideas and contributions are always welcome.
+    </p>
+    
+    <hr>
+    <h2>📧 Let's Connect - <span class="highlight">Stay in Touch</span></h2>
+    <div class="social-links">
+      <a href="https://linkedin.com/in/harshhaa-vardhan-reddy" target="_blank" class="linkedin">LinkedIn</a>
+      <a href="https://github.com/NotHarshhaa" target="_blank" class="github">GitHub</a>
+      <a href="https://t.me/prodevopsguy" target="_blank" class="telegram">Telegram</a>
+      <a href="https://dev.to/notharshhaa" target="_blank" class="devto">Dev.to</a>
+      <a href="https://hashnode.com/@prodevopsguy" target="_blank" class="hashnode">Hashnode</a>
+    </div>
+  
+    <hr>
+  
+    <h2>📢 Stay Updated!</h2>
+    <p>Want to stay up to date with the latest DevOps trends, best practices, and project updates? Follow me on my blogs and social channels! 🚀</p>
+  </section>  
+
+  <footer>
+    <p>&copy; 2025 <a href="https://github.com/NotHarshhaa" target="_blank">NotHarshhaa</a>. All rights reserved.</p>
+  </footer>
+
+  <button id="goToTopBtn" onclick="scrollToTop()">
+    <i class="fas fa-arrow-up"></i>
+  </button>  
+
+  <script src="script.js" defer></script>
+</body>
+</html>

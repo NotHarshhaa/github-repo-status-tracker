@@ -1,0 +1,806 @@
+/* Base Styles */
+:root {
+  --bg-color: #f0f4f8;
+  --text-color: #333;
+  --header-bg: linear-gradient(90deg, #007bff, #4a90e2);
+  --repo-bg: white;
+  --border-color: #007bff;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+body.dark-mode {
+  --bg-color: #1e1e2e;
+  --text-color: #ffffff;
+  --header-bg: linear-gradient(90deg, #333, #555);
+  --repo-bg: #2c2c3e;
+  --border-color: #f39c12;
+  --shadow-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Default Light Mode Header */
+header {
+  background: var(--header-bg);
+  color: white;
+  padding: 1.5rem 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 4px 12px var(--shadow-color);
+  border-bottom: 3px solid var(--border-color);
+  transition: all 0.3s ease-in-out;
+  border-radius: 20px; /* Rounded corners */
+  margin: 10px; /* Spacing around the header */
+}
+
+/* Dark Mode - White Header */
+body.dark-mode header {
+  background: white;
+  color: black;
+}
+
+/* Ensure the header does not stretch too much */
+header {
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Logo Container */
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+/* Logo Styling */
+.logo-container img {
+  width: 220px;  /* Medium Scalable Size */
+  height: auto;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+/* Dark Mode - Adjust Logo */
+body.dark-mode .logo-container img {
+  content: url('logo-dark.png'); /* Use a different logo if needed */
+}
+
+/* Header Title */
+.logo-container h1 {
+  font-size: 1.7rem;
+  font-weight: bold;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Dark Mode - Title Turns Black */
+body.dark-mode .logo-container h1 {
+  color: black;
+  text-shadow: none;
+}
+
+/* Show logo in mobile mode */
+@media (max-width: 768px) {
+  .logo-container img {
+    display: block !important;  /* Ensure logo is always visible */
+    width: 150px; /* Adjust size for mobile */
+    height: auto;
+    margin: 0 auto; /* Center the logo */
+  }
+  
+  .logo-container {
+    justify-content: center; /* Center align */
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* Theme Toggle Icon */
+#theme-toggle {
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}
+
+/* Dark Mode - Change Icon Color */
+body.dark-mode #theme-toggle {
+  color: black;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .logo-container img {
+    width: 200px; /* Slightly smaller for tablets */
+  }
+}
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .logo-container {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .logo-container img {
+    width: 160px; /* Optimized for small screens */
+  }
+
+  .logo-container h1 {
+    font-size: 1.4rem;
+  }
+
+  #theme-toggle {
+    font-size: 1.5rem;
+  }
+}
+
+/* Repository Grid */
+#repo-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Repository Item */
+.repo-item {
+  background: var(--repo-bg);
+  border-radius: 10px;
+  padding: 1.2rem;
+  box-shadow: 0px 5px 10px var(--shadow-color);
+  transition: transform 0.3s ease-in-out;
+  border-left: 5px solid var(--border-color);
+  overflow-wrap: break-word;
+}
+
+.repo-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px var(--shadow-color);
+}
+
+/* Repository Title */
+.repo-item h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  word-break: break-word;
+}
+
+.repo-item h2 a {
+  text-decoration: none;
+  color: var(--border-color);
+  transition: color 0.3s ease;
+}
+
+.repo-item h2 a:hover {
+  color: #0056b3;
+}
+
+/* Repository Details */
+.repo-item p {
+  font-size: 0.95rem;
+  color: var(--text-color);
+  margin: 0.3rem 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Icons */
+.repo-item p i {
+  color: var(--border-color);
+  font-size: 1rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: var(--header-bg);
+  color: white;
+  margin-top: 20px;
+}
+
+/* Mobile-Friendly */
+@media (max-width: 768px) {
+  header {
+      font-size: 1.5rem;
+      padding: 1rem;
+  }
+
+  #repo-list {
+      grid-template-columns: 1fr;
+      padding: 1.5rem;
+  }
+
+  .repo-item {
+      padding: 1.2rem;
+  }
+}
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: #1e1e2e;
+  color: #ffffff;
+}
+
+/* Logo Click Effect */
+.logo-container a {
+  display: inline-block;
+}
+
+.logo-container img {
+  width: 300px;  
+  height: 75px;
+  object-fit: contain;
+  transition: transform 0.3s ease, opacity 0.3s;
+}
+
+/* Hover Effect */
+.logo-container a:hover img {
+  transform: scale(1.05);
+  opacity: 0.8;
+}
+
+/* Dark Mode - Change Logo */
+body.dark-mode .logo-container img {
+  content: url('logo-dark.png');
+}
+
+/* Navigation Bar */
+#navbar {
+  background: var(--header-bg);
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding: 10px 0;
+  box-shadow: 0 4px 8px var(--shadow-color);
+}
+
+#navbar ul {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+#navbar a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Dark Mode - Navbar */
+body.dark-mode #navbar {
+  background: black;
+}
+
+body.dark-mode #navbar a {
+  color: white;
+}
+
+/* About Section */
+#about {
+  background: var(--bg-light);
+  padding: 3rem;
+  text-align: center;
+}
+
+/* Container to keep image and text aligned */
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Image Styling */
+.about-image {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px var(--shadow-color);
+}
+
+/* Content Styling */
+.about-content {
+  text-align: left;
+  max-width: 600px;
+}
+
+/* Heading */
+.about-content h2 {
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+/* Highlight Important Words */
+.highlight {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+/* Paragraphs */
+.about-content p {
+  font-size: 1.1rem;
+  color: var(--text-color);
+  margin-bottom: 10px;
+}
+
+/* Make Bold Text Stand Out */
+.about-content strong {
+  color: #2c3e50;
+}
+
+/* Links */
+.about-content a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Links Hover Effect */
+.about-content a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-container {
+      flex-direction: column;
+      text-align: center;
+  }
+
+  .about-content {
+      text-align: center;
+  }
+}
+
+/* About Section Styling */
+#about {
+  width: 100%;
+  max-width: 1200px; /* Ensures it doesn't stretch too much */
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 90%; /* Allows better text flow */
+  margin: 0 auto;
+}
+
+/* Ensure paragraph spans full width */
+.about-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--text-color); /* Use variable for dynamic text color */
+  text-align: justify;
+  width: 100%;
+}
+
+/* Responsive Fix */
+@media (max-width: 768px) {
+  .about-content {
+    max-width: 100%; /* Allows full width on smaller screens */
+  }
+
+  .about-content p {
+    font-size: 1rem;
+    text-align: left;
+  }
+}
+
+/* About Section Text */
+.about-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333; /* Default text color */
+  text-align: justify;
+  width: 100%;
+  max-width: 95%;
+  margin: 0 auto;
+  transition: color 0.3s ease-in-out;
+}
+
+/* Bold Text (Light Mode) */
+.about-content p strong {
+  color: #222; /* Darker shade for emphasis */
+  font-weight: bold;
+}
+
+/* Dark Mode - Text Color Fix */
+body.dark-mode .about-content p {
+  color: white;
+}
+
+/* Dark Mode - Bold Text Color */
+body.dark-mode .about-content p strong {
+  color: #f8d847; /* Highlighted yellow for better visibility */
+}
+
+/* Link Styling */
+.custom-link {
+  color: #007bff; /* Blue in light mode */
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.custom-link:hover {
+  text-decoration: underline;
+}
+
+/* Dark Mode - Link Color */
+body.dark-mode .custom-link {
+  color: #4db8ff; /* Lighter blue for better visibility */
+}
+
+/* Background Gradient Animation */
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Light Mode - Background Animation */
+body {
+  background: linear-gradient(-45deg, #6a11cb, #2575fc, #ff758c, #ff7eb3);
+  background-size: 400% 400%;
+  animation: gradientAnimation 10s ease infinite;
+  transition: background 0.3s ease-in-out;
+}
+
+/* Dark Mode - Background Animation */
+body.dark-mode {
+  background: linear-gradient(-45deg, #141e30, #243b55, #0f2027);
+  background-size: 400% 400%;
+  animation: gradientAnimation 10s ease infinite;
+}
+
+/* About Section Background (Semi-Transparent for Readability) */
+#about {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 90%;
+  margin: auto;
+}
+
+/* Dark Mode - About Section */
+body.dark-mode #about {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* Navbar - Fixed, Full Width & Matched with Header */
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%; /* Ensures full width */
+  max-width: 100vw; /* Prevents overflow */
+  background: var(--header-bg); /* Matches header */
+  box-shadow: 0px 4px 12px var(--shadow-color);
+  padding: 10px 3rem; /* Matches header padding */
+  z-index: 1000;
+  transition: background 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  border-bottom: 3px solid var(--border-color);
+}
+
+/* Light Mode Navbar */
+body:not(.dark-mode) #navbar {
+  background: white;
+  color: black;
+}
+
+/* Dark Mode Navbar */
+body.dark-mode #navbar {
+  background: #2c3e50; /* Matches dark header */
+  color: white;
+}
+
+/* Navbar List */
+#navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Navbar Links */
+#navbar ul li a {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--text-color);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+#navbar ul li a:hover {
+  background: #ffcc00;
+  color: #2c3e50;
+}
+
+/* Dark Mode Navbar Links */
+body.dark-mode #navbar ul li a {
+  color: white;
+}
+
+body.dark-mode #navbar ul li a:hover {
+  background: #007bff;
+  color: white;
+}
+
+/* Responsive Navbar */
+@media (max-width: 1024px) {
+  #navbar {
+    padding: 10px 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  #navbar {
+    padding: 10px 1rem;
+  }
+
+  #navbar ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  #navbar ul li a {
+    padding: 8px 15px;
+  }
+}
+
+/* Footer Styling */
+footer {
+  background: var(--header-bg);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 20px;
+  border-radius: 15px 15px 0 0; /* Rounded top corners */
+  box-shadow: 0px -4px 10px var(--shadow-color);
+  transition: all 0.3s ease-in-out;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Footer Text */
+footer p {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+/* Footer Links */
+footer a {
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+footer a:hover {
+  color: #ffd633;
+  text-decoration: underline;
+}
+
+/* Dark Mode - Footer */
+body.dark-mode footer {
+  background: white;
+  color: black;
+  box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.1);
+}
+
+body.dark-mode footer a {
+  color: #007bff;
+}
+
+body.dark-mode footer a:hover {
+  color: #0056b3;
+}
+
+/* Responsive Footer */
+@media (max-width: 768px) {
+  footer {
+    padding: 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* Footer Links Responsive */
+footer a {
+  font-size: 0.9rem;
+  padding: 5px 10px;
+}
+
+/* Footer Links Responsive - Dark Mode */
+body.dark-mode footer a {
+  font-size: 0.9rem;
+  padding: 5px 10px;
+}
+
+/* Go to Top Button */
+#goToTopBtn {
+  display: none; /* Hidden by default */
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s, transform 0.3s;
+}
+
+#goToTopBtn:hover {
+  background-color: #0056b3;
+}
+
+/* Show button when scrolling */
+#goToTopBtn.show {
+  display: block;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  #goToTopBtn {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  #goToTopBtn {
+    bottom: 15px;
+    right: 15px;
+    width: 35px;
+    height: 35px;
+    font-size: 16px;
+  }
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* =========== Connect Section (Similar to Repo Card Style) =========== */
+.connect {
+  background: var(--repo-bg);
+  border-radius: 10px;
+  padding: 1.2rem;
+  box-shadow: 0px 5px 10px var(--shadow-color);
+  border-left: 5px solid var(--border-color);
+  text-align: center;
+  margin-top: 40px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.connect:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px var(--shadow-color);
+}
+
+/* Section Titles */
+.connect h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: var(--border-color);
+}
+
+/* Section Paragraphs */
+.connect p {
+  font-size: 0.95rem;
+  color: var(--text-color);
+  margin: 0.3rem 0;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Section Separators */
+.connect hr {
+  width: 50%;
+  margin: 15px auto;
+  border: 1px solid var(--border-color);
+}
+
+/* Social Links */
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.social-links a {
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  border-left: 4px solid transparent;
+}
+
+/* Social Link Colors */
+.social-links .linkedin { background-color: #0077B5; color: white; border-left-color: #004f85; }
+.social-links .github { background-color: #181717; color: white; border-left-color: #0e0d0d; }
+.social-links .telegram { background-color: #26A5E4; color: white; border-left-color: #1a75b3; }
+.social-links .devto { background-color: #0A0A0A; color: white; border-left-color: #050505; }
+.social-links .hashnode { background-color: #2962FF; color: white; border-left-color: #1a3fbf; }
+
+.social-links a:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    margin-top: 75px; /* Adjust this value as needed */
+  }
+}

@@ -20,7 +20,12 @@
       "AWS-DevOps_Real-Time_Deployment",
       "devops-cheatsheet",
       "DevOps-Interview-Questions",
-      "into-the-devops"
+      "into-the-devops",
+      "AWS-Terraform-Workshop",
+      "tf-ecr-ecs-gh-deploy",
+      "eks-cluster-terraform",
+      "CI-CD_EKS-GitHub_Actions",
+      "uber-clone"
     ]
   }
-  
+ 
