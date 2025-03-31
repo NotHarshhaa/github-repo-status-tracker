@@ -16,24 +16,24 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator)
-🗓 **Last Updated:** `2025-03-28`  
+🗓 **Last Updated:** `2025-03-30`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `105` | 🍴 **Forks:** `83` | ✅ **CI/CD Status**  
+⭐ **Stars:** `106` | 🍴 **Forks:** `83` | ✅ **CI/CD Status**  
 
 ---
 
 ## 📂 [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard)
-🗓 **Last Updated:** `2025-03-26`  
+🗓 **Last Updated:** `2025-03-30`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/8b38c62550894ffc8d6c3353605b3fa038ce5317)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-dashboard) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `44` | 🍴 **Forks:** `40` | ✅ **CI/CD Status**  
+⭐ **Stars:** `45` | 🍴 **Forks:** `40` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1460` | 🍴 **Forks:** `1802` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1462` | 🍴 **Forks:** `1802` | ✅ **CI/CD Status**  
 
 ---
 
