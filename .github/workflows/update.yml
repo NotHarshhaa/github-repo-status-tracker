@@ -31,5 +31,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "git-tracker: 🔄 Auto-update repository status"
+          git diff --staged --quiet || git commit -m "git-tracker: 🔄 Auto-update repository status"
           git push
