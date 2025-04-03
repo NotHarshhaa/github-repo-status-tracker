@@ -16,13 +16,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator)
-🗓 **Last Updated:** `2025-03-30`  
+🗓 **Last Updated:** `2025-04-03`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `106` | 🍴 **Forks:** `83` | ✅ **CI/CD Status**  
+⭐ **Stars:** `107` | 🍴 **Forks:** `83` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1472` | 🍴 **Forks:** `1813` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1473` | 🍴 **Forks:** `1813` | ✅ **CI/CD Status**  
 
 ---
 
@@ -55,7 +55,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `207` | 🍴 **Forks:** `148` | ✅ **CI/CD Status**  
+⭐ **Stars:** `207` | 🍴 **Forks:** `149` | ✅ **CI/CD Status**  
 
 ---
 
@@ -126,13 +126,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
-🗓 **Last Updated:** `2025-03-29`  
+🗓 **Last Updated:** `2025-04-03`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `140` | 🍴 **Forks:** `156` | ✅ **CI/CD Status**  
+⭐ **Stars:** `141` | 🍴 **Forks:** `156` | ✅ **CI/CD Status**  
 
 ---
 
@@ -148,13 +148,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path)
-🗓 **Last Updated:** `2025-04-01`  
+🗓 **Last Updated:** `2025-04-03`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
-⭐ **Stars:** `266` | 🍴 **Forks:** `155` | ✅ **CI/CD Status**  
+⭐ **Stars:** `267` | 🍴 **Forks:** `155` | ✅ **CI/CD Status**  
 
 ---
 
