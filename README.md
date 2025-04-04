@@ -38,13 +38,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
-🗓 **Last Updated:** `2025-04-03`  
+🗓 **Last Updated:** `2025-04-04`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/5b4f2a48825e8d8bb03a531efa8eec66ad1e4540)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1474` | 🍴 **Forks:** `1815` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1478` | 🍴 **Forks:** `1816` | ✅ **CI/CD Status**  
 
 ---
 
@@ -93,8 +93,8 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone)
-🗓 **Last Updated:** `2025-03-16`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Zomato-Clone/commit/797aae243a19a915010c7ad3d891fe01342a8610)  
+🗓 **Last Updated:** `2025-04-04`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685)  
 
 👤 **Author:** `NotHarshhaa`  
 
@@ -148,13 +148,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path)
-🗓 **Last Updated:** `2025-04-03`  
+🗓 **Last Updated:** `2025-04-04`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
-⭐ **Stars:** `268` | 🍴 **Forks:** `155` | ✅ **CI/CD Status**  
+⭐ **Stars:** `269` | 🍴 **Forks:** `155` | ✅ **CI/CD Status**  
 
 ---
 
