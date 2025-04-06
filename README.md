@@ -11,7 +11,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/devops-tools) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `156` | 🍴 **Forks:** `136` | ✅ **CI/CD Status**  
+⭐ **Stars:** `156` | 🍴 **Forks:** `137` | ✅ **CI/CD Status**  
 
 ---
 
@@ -22,7 +22,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `108` | 🍴 **Forks:** `83` | ✅ **CI/CD Status**  
+⭐ **Stars:** `108` | 🍴 **Forks:** `84` | ✅ **CI/CD Status**  
 
 ---
 
@@ -33,18 +33,18 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-dashboard) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `45` | 🍴 **Forks:** `40` | ✅ **CI/CD Status**  
+⭐ **Stars:** `45` | 🍴 **Forks:** `41` | ✅ **CI/CD Status**  
 
 ---
 
 ## 📂 [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
-🗓 **Last Updated:** `2025-04-05`  
+🗓 **Last Updated:** `2025-04-06`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/5b4f2a48825e8d8bb03a531efa8eec66ad1e4540)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1487` | 🍴 **Forks:** `1821` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1506` | 🍴 **Forks:** `1832` | ✅ **CI/CD Status**  
 
 ---
 
@@ -55,7 +55,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `208` | 🍴 **Forks:** `149` | ✅ **CI/CD Status**  
+⭐ **Stars:** `208` | 🍴 **Forks:** `151` | ✅ **CI/CD Status**  
 
 ---
 
@@ -99,7 +99,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Zomato-Clone) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `7` | 🍴 **Forks:** `43` | ✅ **CI/CD Status**  
+⭐ **Stars:** `7` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
 
 ---
 
@@ -110,7 +110,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Learning-Prometheus) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `14` | 🍴 **Forks:** `24` | ✅ **CI/CD Status**  
+⭐ **Stars:** `14` | 🍴 **Forks:** `25` | ✅ **CI/CD Status**  
 
 ---
 
@@ -121,7 +121,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Kubernetes) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `139` | 🍴 **Forks:** `179` | ✅ **CI/CD Status**  
+⭐ **Stars:** `139` | 🍴 **Forks:** `180` | ✅ **CI/CD Status**  
 
 ---
 
@@ -132,7 +132,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `143` | 🍴 **Forks:** `157` | ✅ **CI/CD Status**  
+⭐ **Stars:** `143` | 🍴 **Forks:** `158` | ✅ **CI/CD Status**  
 
 ---
 
@@ -143,17 +143,28 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `42` | 🍴 **Forks:** `39` | ✅ **CI/CD Status**  
+⭐ **Stars:** `42` | 🍴 **Forks:** `40` | ✅ **CI/CD Status**  
 
 ---
 
 ## 📂 [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path)
-🗓 **Last Updated:** `2025-04-04`  
+🗓 **Last Updated:** `2025-04-06`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
-⭐ **Stars:** `270` | 🍴 **Forks:** `156` | ✅ **CI/CD Status**  
+⭐ **Stars:** `271` | 🍴 **Forks:** `157` | ✅ **CI/CD Status**  
+
+---
+
+## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
+🗓 **Last Updated:** `2025-03-22`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra/commit/2fec48f59b8ea0a59f03314763fe18fc4fe05fbd)  
+
+👤 **Author:** `NotHarshhaa`  
+
+🔗 [View Repository](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 🏷 **Issues/PRs:** `0`  
+⭐ **Stars:** `8` | 🍴 **Forks:** `16` | ✅ **CI/CD Status**  
 
 ---
