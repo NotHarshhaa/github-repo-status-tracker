@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1516` | 🍴 **Forks:** `1841` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1516` | 🍴 **Forks:** `1844` | ✅ **CI/CD Status**  
 
 ---
 
@@ -55,7 +55,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `209` | 🍴 **Forks:** `152` | ✅ **CI/CD Status**  
+⭐ **Stars:** `210` | 🍴 **Forks:** `152` | ✅ **CI/CD Status**  
 
 ---
 
