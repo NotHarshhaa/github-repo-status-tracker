@@ -5,13 +5,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [devops-tools](https://github.com/NotHarshhaa/devops-tools)
-🗓 **Last Updated:** `2025-04-07`  
+🗓 **Last Updated:** `2025-04-09`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/devops-tools) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `157` | 🍴 **Forks:** `137` | ✅ **CI/CD Status**  
+⭐ **Stars:** `158` | 🍴 **Forks:** `137` | ✅ **CI/CD Status**  
 
 ---
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1517` | 🍴 **Forks:** `1846` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1518` | 🍴 **Forks:** `1848` | ✅ **CI/CD Status**  
 
 ---
 
@@ -55,7 +55,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `210` | 🍴 **Forks:** `152` | ✅ **CI/CD Status**  
+⭐ **Stars:** `210` | 🍴 **Forks:** `153` | ✅ **CI/CD Status**  
 
 ---
 
@@ -121,7 +121,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Kubernetes) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `141` | 🍴 **Forks:** `183` | ✅ **CI/CD Status**  
+⭐ **Stars:** `142` | 🍴 **Forks:** `183` | ✅ **CI/CD Status**  
 
 ---
 
@@ -148,13 +148,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path)
-🗓 **Last Updated:** `2025-04-06`  
+🗓 **Last Updated:** `2025-04-09`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
-⭐ **Stars:** `272` | 🍴 **Forks:** `157` | ✅ **CI/CD Status**  
+⭐ **Stars:** `273` | 🍴 **Forks:** `157` | ✅ **CI/CD Status**  
 
 ---
 
