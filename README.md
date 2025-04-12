@@ -49,13 +49,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning)
-🗓 **Last Updated:** `2025-04-11`  
+🗓 **Last Updated:** `2025-04-12`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/9dc9b852a04d57fb939d2ace3b3d567478f1a0b4)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `212` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
+⭐ **Stars:** `213` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
 
 ---
 
@@ -148,13 +148,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path)
-🗓 **Last Updated:** `2025-04-11`  
+🗓 **Last Updated:** `2025-04-12`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-learning-path) | 🏷 **Issues/PRs:** `2`  
-⭐ **Stars:** `275` | 🍴 **Forks:** `158` | ✅ **CI/CD Status**  
+⭐ **Stars:** `276` | 🍴 **Forks:** `158` | ✅ **CI/CD Status**  
 
 ---
 
