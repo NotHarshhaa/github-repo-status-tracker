@@ -39,23 +39,23 @@ This page automatically updates with the latest commit details.
 
 ## 📂 [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 🗓 **Last Updated:** `2025-04-13`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/5b4f2a48825e8d8bb03a531efa8eec66ad1e4540)  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/56dd0e4fc2b84fd11ba5363913332619a4841ce5)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1533` | 🍴 **Forks:** `1861` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1534` | 🍴 **Forks:** `1862` | ✅ **CI/CD Status**  
 
 ---
 
 ## 📂 [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning)
-🗓 **Last Updated:** `2025-04-12`  
+🗓 **Last Updated:** `2025-04-13`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/9dc9b852a04d57fb939d2ace3b3d567478f1a0b4)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `213` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
+⭐ **Stars:** `214` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
 
 ---
 
