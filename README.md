@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1528` | 🍴 **Forks:** `1859` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1532` | 🍴 **Forks:** `1860` | ✅ **CI/CD Status**  
 
 ---
 
@@ -116,7 +116,7 @@ This page automatically updates with the latest commit details.
 
 ## 📂 [Kubernetes](https://github.com/NotHarshhaa/Kubernetes)
 🗓 **Last Updated:** `2025-04-12`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Kubernetes/commit/d7acc3a4ec30069b9691a257edbe1e2fe8d74eb1)  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5)  
 
 👤 **Author:** `NotHarshhaa`  
 
