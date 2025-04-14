@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1538` | 🍴 **Forks:** `1865` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1540` | 🍴 **Forks:** `1867` | ✅ **CI/CD Status**  
 
 ---
 
@@ -55,7 +55,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `215` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
+⭐ **Stars:** `216` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
 
 ---
 
@@ -115,13 +115,13 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [Kubernetes](https://github.com/NotHarshhaa/Kubernetes)
-🗓 **Last Updated:** `2025-04-12`  
+🗓 **Last Updated:** `2025-04-14`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Kubernetes) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `142` | 🍴 **Forks:** `183` | ✅ **CI/CD Status**  
+⭐ **Stars:** `143` | 🍴 **Forks:** `183` | ✅ **CI/CD Status**  
 
 ---
 
@@ -132,7 +132,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `143` | 🍴 **Forks:** `159` | ✅ **CI/CD Status**  
+⭐ **Stars:** `143` | 🍴 **Forks:** `160` | ✅ **CI/CD Status**  
 
 ---
 
