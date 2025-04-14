@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1537` | 🍴 **Forks:** `1864` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1538` | 🍴 **Forks:** `1865` | ✅ **CI/CD Status**  
 
 ---
 
