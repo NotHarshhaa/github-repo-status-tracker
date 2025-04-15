@@ -55,7 +55,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `216` | 🍴 **Forks:** `154` | ✅ **CI/CD Status**  
+⭐ **Stars:** `217` | 🍴 **Forks:** `155` | ✅ **CI/CD Status**  
 
 ---
 
