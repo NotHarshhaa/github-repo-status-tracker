@@ -27,8 +27,8 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard)
-🗓 **Last Updated:** `2025-04-15`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/8b38c62550894ffc8d6c3353605b3fa038ce5317)  
+🗓 **Last Updated:** `2025-04-17`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/a81343272b9e0ca5acd0143c05b33c30fe2cb456)  
 
 👤 **Author:** `NotHarshhaa`  
 
@@ -44,7 +44,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1546` | 🍴 **Forks:** `1877` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1546` | 🍴 **Forks:** `1880` | ✅ **CI/CD Status**  
 
 ---
 
@@ -99,7 +99,7 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Zomato-Clone) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `8` | 🍴 **Forks:** `44` | ✅ **CI/CD Status**  
+⭐ **Stars:** `8` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
 
 ---
 
