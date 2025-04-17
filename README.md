@@ -38,24 +38,24 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
-🗓 **Last Updated:** `2025-04-16`  
+🗓 **Last Updated:** `2025-04-17`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/56dd0e4fc2b84fd11ba5363913332619a4841ce5)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/DevOps-Projects) | 🏷 **Issues/PRs:** `7`  
-⭐ **Stars:** `1544` | 🍴 **Forks:** `1876` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1546` | 🍴 **Forks:** `1877` | ✅ **CI/CD Status**  
 
 ---
 
 ## 📂 [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning)
-🗓 **Last Updated:** `2025-04-16`  
+🗓 **Last Updated:** `2025-04-17`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/9dc9b852a04d57fb939d2ace3b3d567478f1a0b4)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 🏷 **Issues/PRs:** `1`  
-⭐ **Stars:** `220` | 🍴 **Forks:** `158` | ✅ **CI/CD Status**  
+⭐ **Stars:** `221` | 🍴 **Forks:** `158` | ✅ **CI/CD Status**  
 
 ---
 
@@ -93,24 +93,24 @@ This page automatically updates with the latest commit details.
 ---
 
 ## 📂 [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone)
-🗓 **Last Updated:** `2025-04-04`  
+🗓 **Last Updated:** `2025-04-17`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Zomato-Clone) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `7` | 🍴 **Forks:** `44` | ✅ **CI/CD Status**  
+⭐ **Stars:** `8` | 🍴 **Forks:** `44` | ✅ **CI/CD Status**  
 
 ---
 
 ## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
-🗓 **Last Updated:** `2025-04-15`  
+🗓 **Last Updated:** `2025-04-17`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0)  
 
 👤 **Author:** `NotHarshhaa`  
 
 🔗 [View Repository](https://github.com/NotHarshhaa/Learning-Prometheus) | 🏷 **Issues/PRs:** `0`  
-⭐ **Stars:** `15` | 🍴 **Forks:** `27` | ✅ **CI/CD Status**  
+⭐ **Stars:** `16` | 🍴 **Forks:** `28` | ✅ **CI/CD Status**  
 
 ---
 
