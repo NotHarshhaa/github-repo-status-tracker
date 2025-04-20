@@ -2,34 +2,34 @@ name: Update Repository Status
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: ⬇️ Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Install Dependencies
+      - name: 📦 Install Dependencies
         run: pip install requests
 
-      - name: Run Update Script
+      - name: 🛠️ Run Update Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python update_status.py
 
-      - name: Commit and Push Changes
+      - name: 🔁 Commit and Push Changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet || git commit -m "git-tracker: 🔄 Auto-update repository status"
           git push
