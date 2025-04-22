@@ -872,46 +872,58 @@ body.dark-mode #navbar ul li a:hover {
   }
 }
 
-/* Footer Styling */
+/* ========= Footer Styling ========== */
 footer {
   background: var(--header-bg);
   color: white;
   text-align: center;
-  padding: 1rem;
-  margin-top: 20px;
-  border-radius: 15px 15px 0 0; /* Rounded top corners */
-  box-shadow: 0px -4px 10px var(--shadow-color);
+  padding: 1.5rem 1rem;
+  margin-top: 3rem;
+  border-radius: 1.2rem 1.2rem 0 0;
+  box-shadow: 0 -6px 20px var(--shadow-color);
   transition: all 0.3s ease-in-out;
-  max-width: 90%;
+  max-width: 95%;
   margin-left: auto;
   margin-right: auto;
+  backdrop-filter: blur(10px);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-/* Footer Text */
+/* ========= Footer Text ========== */
 footer p {
   font-size: 1rem;
   font-weight: 500;
   margin: 0;
+  color: var(--text-color);
 }
 
-/* Footer Links */
+/* ========= Footer Links ========== */
 footer a {
   color: #ffcc00;
   text-decoration: none;
-  font-weight: bold;
-  transition: color 0.3s ease-in-out;
+  font-weight: 600;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+  font-size: 0.95rem;
+  padding: 6px 12px;
+  display: inline-block;
+  border-radius: 6px;
 }
 
 footer a:hover {
-  color: #ffd633;
-  text-decoration: underline;
+  color: #fff8a6;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.05);
 }
 
-/* Dark Mode - Footer */
+/* ========= Dark Mode Footer ========== */
 body.dark-mode footer {
-  background: white;
-  color: black;
-  box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.1);
+  background: #f5fffd;
+  color: #222;
+  box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.1);
+}
+
+body.dark-mode footer p {
+  color: #333;
 }
 
 body.dark-mode footer a {
@@ -920,53 +932,80 @@ body.dark-mode footer a {
 
 body.dark-mode footer a:hover {
   color: #0056b3;
+  text-shadow: none;
+  background-color: rgba(0, 123, 255, 0.1);
 }
 
-/* Responsive Footer */
+/* ========= Responsive Footer ========== */
 @media (max-width: 768px) {
   footer {
-    padding: 0.8rem;
+    padding: 1rem;
     font-size: 0.9rem;
+  }
+
+  footer a {
+    font-size: 0.85rem;
+    padding: 5px 10px;
   }
 }
 
-/* Footer Links Responsive */
-footer a {
-  font-size: 0.9rem;
-  padding: 5px 10px;
-}
-
-/* Footer Links Responsive - Dark Mode */
-body.dark-mode footer a {
-  font-size: 0.9rem;
-  padding: 5px 10px;
-}
-
-/* Go to Top Button */
+/* ========== Go to Top Button ========== */
 #goToTopBtn {
   display: none; /* Hidden by default */
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background-color: #007bff;
+  width: 55px;
+  height: 55px;
+  background: linear-gradient(135deg, #007bff, #0056b3);
   color: white;
   border: none;
   border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  font-size: 20px;
+  font-size: 22px;
+  font-weight: bold;
   cursor: pointer;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
-  transition: opacity 0.3s, transform 0.3s;
+  box-shadow: 0 8px 15px rgba(0, 123, 255, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
+  z-index: 999;
 }
 
+/* Hover Effect */
 #goToTopBtn:hover {
-  background-color: #0056b3;
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 12px 20px rgba(0, 123, 255, 0.4);
+  background: linear-gradient(135deg, #0056b3, #003d80);
 }
 
 /* Show button when scrolling */
 #goToTopBtn.show {
   display: block;
+  animation: bounceIn 0.4s ease;
+}
+
+/* Optional Bounce In Animation */
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.7);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.15);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Mobile Adjustments */
+@media (max-width: 600px) {
+  #goToTopBtn {
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+    bottom: 15px;
+    right: 15px;
+  }
 }
 
 /* Responsive adjustments */
@@ -997,84 +1036,165 @@ html {
   scroll-behavior: smooth;
 }
 
-/* =========== Connect Section (Similar to Repo Card Style) =========== */
+/* =========== Connect Section =========== */
 .connect {
   background: var(--repo-bg);
-  border-radius: 10px;
-  padding: 1.2rem;
-  box-shadow: 0px 5px 10px var(--shadow-color);
-  border-left: 5px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid var(--border-color);
   text-align: center;
-  margin-top: 40px;
-  transition: transform 0.3s ease-in-out;
+  margin: 3rem auto;
+  max-width: 900px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+body.dark-mode .connect {
+  background: rgba(0, 0, 0, 0.3);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
 }
 
 .connect:hover {
   transform: translateY(-5px);
-  box-shadow: 0px 10px 20px var(--shadow-color);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
 }
 
 /* Section Titles */
 .connect h2 {
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
-  font-weight: 600;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
   color: var(--border-color);
 }
 
 /* Section Paragraphs */
 .connect p {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   color: var(--text-color);
-  margin: 0.3rem 0;
+  margin: 0.75rem auto;
   max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+  line-height: 1.7;
 }
 
 /* Section Separators */
 .connect hr {
-  width: 50%;
-  margin: 15px auto;
+  width: 60%;
+  margin: 1.5rem auto;
   border: 1px solid var(--border-color);
 }
 
-/* Social Links */
+/* Social Links Container */
 .social-links {
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 1rem;
   flex-wrap: wrap;
-  margin-top: 10px;
+  margin-top: 1.5rem;
 }
 
+/* Social Button Styles */
 .social-links a {
   text-decoration: none;
-  padding: 10px 15px;
-  border-radius: 5px;
-  font-weight: bold;
-  transition: all 0.3s ease-in-out;
-  font-size: 0.95rem;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  font-size: 1rem;
   display: inline-flex;
   align-items: center;
-  gap: 5px;
+  gap: 0.5rem;
   border-left: 4px solid transparent;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease-in-out;
 }
 
-/* Social Link Colors */
-.social-links .linkedin { background-color: #0077B5; color: white; border-left-color: #004f85; }
-.social-links .github { background-color: #181717; color: white; border-left-color: #0e0d0d; }
-.social-links .telegram { background-color: #26A5E4; color: white; border-left-color: #1a75b3; }
-.social-links .devto { background-color: #0A0A0A; color: white; border-left-color: #050505; }
-.social-links .hashnode { background-color: #2962FF; color: white; border-left-color: #1a3fbf; }
+/* Individual Platform Styles */
+.social-links .linkedin {
+  background-color: #0077B5;
+  color: white;
+  border-left-color: #004f85;
+}
+
+.social-links .github {
+  background-color: #181717;
+  color: white;
+  border-left-color: #0e0d0d;
+}
+
+.social-links .telegram {
+  background-color: #26A5E4;
+  color: white;
+  border-left-color: #1a75b3;
+}
+
+.social-links .devto {
+  background-color: #0A0A0A;
+  color: white;
+  border-left-color: #050505;
+}
+
+.social-links .hashnode {
+  background-color: #2962FF;
+  color: white;
+  border-left-color: #1a3fbf;
+}
 
 .social-links a:hover {
-  opacity: 0.9;
-  transform: translateY(-2px);
+  opacity: 0.92;
+  transform: translateY(-3px) scale(1.02);
 }
 
+/* Responsive Adjustments */
 @media screen and (max-width: 768px) {
-  header {
-    margin-top: 75px; /* Adjust this value as needed */
+  .connect {
+    padding: 1.5rem;
+    margin: 2rem 1rem;
+  }
+
+  .connect h2 {
+    font-size: 1.3rem;
+  }
+
+  .connect p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .social-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .social-links a {
+    width: 100%;
+    max-width: 300px;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    background: linear-gradient(to bottom, #6a11cb, #2575fc);
+    animation: none;
+    background-size: cover;
+  }
+
+  body.dark-mode {
+    background: linear-gradient(to bottom, #141e30, #243b55);
+    animation: none;
+  }
+
+  #about {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: none;
+    box-shadow: none;
+    transition: none;
+  }
+
+  body.dark-mode #about {
+    background: rgba(0, 0, 0, 0.85);
+  }
+
+  .about-content p {
+    transition: none;
   }
 }

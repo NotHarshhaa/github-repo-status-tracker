@@ -158,16 +158,15 @@ window.addEventListener('unhandledrejection', (event) => {
   console.error('Unhandled promise rejection:', event.reason);
 });
 
-// Scroll-to-top button behavior
 window.onscroll = function () {
-  const goToTopBtn = document.getElementById("goToTopBtn");
-  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-    goToTopBtn.classList.add("show");
+  const btn = document.getElementById("goToTopBtn");
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+    btn.classList.add("show");
   } else {
-    goToTopBtn.classList.remove("show");
+    btn.classList.remove("show");
   }
 };
 
-function scrollToTop() {
+document.getElementById("goToTopBtn").onclick = function () {
   window.scrollTo({ top: 0, behavior: "smooth" });
-}
+};
