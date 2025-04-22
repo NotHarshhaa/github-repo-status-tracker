@@ -1,126 +1,200 @@
-/* Base Styles */
+/* Base Theme Variables */
 :root {
-  --bg-color: #f0f4f8;
-  --text-color: #333;
-  --header-bg: linear-gradient(90deg, #007bff, #4a90e2);
-  --repo-bg: white;
-  --border-color: #007bff;
-  --shadow-color: rgba(0, 0, 0, 0.1);
+  --primary-color: #007bff;
+  --accent-color: #4a90e2;
+  --bg-color: #f9fbfc;
+  --text-color: #1c1c1c;
+  --link-color: #007bff;
+  --header-bg: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+  --repo-bg: #ffffff;
+  --border-color: var(--primary-color);
+  --shadow-color: rgba(0, 0, 0, 0.08);
+  --highlight-color: #ffce00;
+
+  --card-radius: 12px;
+  --transition: 0.3s ease-in-out;
+  --glow: 0 0 10px rgba(74, 144, 226, 0.4);
+  --glass-blur: blur(12px);
 }
 
+/* Dark Mode Theme Overrides */
 body.dark-mode {
+  --primary-color: #f39c12;
+  --accent-color: #e67e22;
   --bg-color: #1e1e2e;
-  --text-color: #ffffff;
+  --text-color: #f0f0f0;
+  --link-color: #f39c12;
   --header-bg: linear-gradient(90deg, #333, #555);
   --repo-bg: #2c2c3e;
   --border-color: #f39c12;
-  --shadow-color: rgba(255, 255, 255, 0.1);
+  --shadow-color: rgba(255, 255, 255, 0.05);
+  --highlight-color: #f1c40f;
+
+  --glow: 0 0 10px rgba(243, 156, 18, 0.3);
 }
 
-/* Default Light Mode Header */
+/* ====================
+   Header Styles (Light & Dark)
+==================== */
 header {
   background: var(--header-bg);
   color: white;
-  padding: 1.5rem 3rem;
+  padding: 1.5rem 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  box-shadow: 0px 4px 12px var(--shadow-color);
+  flex-wrap: wrap;
+  box-shadow: 0 4px 12px var(--shadow-color);
   border-bottom: 3px solid var(--border-color);
-  transition: all 0.3s ease-in-out;
-  border-radius: 20px; /* Rounded corners */
-  margin: 10px; /* Spacing around the header */
-}
-
-/* Dark Mode - White Header */
-body.dark-mode header {
-  background: white;
-  color: black;
-}
-
-/* Ensure the header does not stretch too much */
-header {
+  border-radius: 20px;
   max-width: 95%;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 1rem auto;
+  transition: background 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Logo Container */
+body.dark-mode header {
+  background: #3a095c; /* Solid deep navy-blue tone */
+  color: #f0f0f0;
+  border-bottom: 3px solid var(--border-color);
+  box-shadow: 0 4px 16px rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(4px); /* Optional for subtle glass look */
+}
+
+/* ================
+   Logo Container
+================ */
 .logo-container {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
-/* Logo Styling */
 .logo-container img {
-  width: 220px;  /* Medium Scalable Size */
+  width: 200px;
   height: auto;
   object-fit: contain;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  cursor: pointer;
 }
 
-/* Dark Mode - Adjust Logo */
+.logo-container img:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
+
+/* Dark Mode - Auto Switch Logo */
 body.dark-mode .logo-container img {
-  content: url('logo-dark.png'); /* Use a different logo if needed */
+  content: url('logo-dark.png');
 }
 
-/* Header Title */
+/* =====================
+   Header Title Styles
+===================== */
 .logo-container h1 {
-  font-size: 1.7rem;
-  font-weight: bold;
+  font-size: 1.6rem;
+  font-weight: 700;
   margin: 0;
   text-transform: uppercase;
   letter-spacing: 1.2px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+  color: inherit;
 }
 
-/* Dark Mode - Title Turns Black */
-body.dark-mode .logo-container h1 {
-  color: black;
-  text-shadow: none;
-}
+/* Dark Mode: No extra override needed if using `color: inherit` above */
 
-/* Show logo in mobile mode */
+/* ========================
+   Mobile Responsive Header
+======================== */
 @media (max-width: 768px) {
-  .logo-container img {
-    display: block !important;  /* Ensure logo is always visible */
-    width: 150px; /* Adjust size for mobile */
-    height: auto;
-    margin: 0 auto; /* Center the logo */
-  }
-  
-  .logo-container {
-    justify-content: center; /* Center align */
-    width: 100%;
+  header {
+    flex-direction: column;
     text-align: center;
+    padding: 1.2rem 1rem;
+  }
+
+  .logo-container {
+    justify-content: center;
+    width: 100%;
+    gap: 0.8rem;
+  }
+
+  .logo-container img {
+    width: 140px;
+    margin: 0 auto;
+  }
+
+  .logo-container h1 {
+    font-size: 1.2rem;
+    letter-spacing: 1px;
   }
 }
 
-/* Theme Toggle Icon */
 #theme-toggle {
-  background: none;
-  border: none;
-  font-size: 1.8rem;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  font-size: 1.4rem;
   color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
-  transition: transform 0.3s ease;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
 }
 
 #theme-toggle:hover {
   transform: scale(1.1);
-  opacity: 0.8;
 }
 
-/* Dark Mode - Change Icon Color */
-body.dark-mode #theme-toggle {
-  color: black;
+#theme-toggle:active {
+  transform: scale(0.95);
+}
+
+/* Icon styles */
+#theme-toggle .icon {
+  position: absolute;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  font-size: 1.3rem;
+}
+
+/* Show moon icon by default */
+#theme-toggle .sun {
+  opacity: 0;
+  transform: scale(0.5) rotate(180deg);
+}
+
+body.dark-mode #theme-toggle .moon {
+  opacity: 0;
+  transform: scale(0.5) rotate(-180deg);
+}
+
+body.dark-mode #theme-toggle .sun {
+  opacity: 1;
+  transform: scale(1) rotate(0deg);
+}
+
+/* Smooth rotate animation */
+.rotate-animation {
+  animation: spin 0.4s ease-in-out;
+}
+
+@keyframes spin {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(180deg); }
 }
 
 /* Responsive Design */
 @media (max-width: 1024px) {
   .logo-container img {
-    width: 200px; /* Slightly smaller for tablets */
+    width: 200px;
   }
 }
 
@@ -137,7 +211,7 @@ body.dark-mode #theme-toggle {
   }
 
   .logo-container img {
-    width: 160px; /* Optimized for small screens */
+    width: 140px; /* Optimized for small screens */
   }
 
   .logo-container h1 {
@@ -152,40 +226,48 @@ body.dark-mode #theme-toggle {
 /* Repository Grid */
 #repo-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 20px;
-  padding: 2rem;
-  max-width: 1200px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  padding: 2rem 1rem;
+  max-width: 1300px;
   margin: auto;
 }
 
-/* Repository Item */
+/* Repository Item Card */
 .repo-item {
   background: var(--repo-bg);
-  border-radius: 10px;
-  padding: 1.2rem;
-  box-shadow: 0px 5px 10px var(--shadow-color);
-  transition: transform 0.3s ease-in-out;
-  border-left: 5px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.5rem;
+  border-left: 6px solid var(--border-color);
+  box-shadow: 0 8px 24px var(--shadow-color);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   overflow-wrap: break-word;
+  position: relative;
 }
 
+/* Hover animation */
 .repo-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0px 10px 20px var(--shadow-color);
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 12px 30px var(--shadow-color);
 }
 
 /* Repository Title */
 .repo-item h2 {
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
-  font-weight: 600;
+  font-size: 1.3rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+  color: var(--border-color);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   word-break: break-word;
 }
 
 .repo-item h2 a {
   text-decoration: none;
-  color: var(--border-color);
+  color: inherit;
   transition: color 0.3s ease;
 }
 
@@ -197,16 +279,103 @@ body.dark-mode #theme-toggle {
 .repo-item p {
   font-size: 0.95rem;
   color: var(--text-color);
-  margin: 0.3rem 0;
+  margin: 0.4rem 0;
+  line-height: 1.5;
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
 }
 
 /* Icons */
 .repo-item p i {
   color: var(--border-color);
   font-size: 1rem;
+}
+
+/* Special tag for last updated */
+.repo-item .last-updated {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-top: 0.8rem;
+}
+
+/* Dark mode tweaks (optional overrides) */
+body.dark-mode .repo-item {
+  box-shadow: 0 6px 20px rgba(255, 255, 255, 0.08);
+}
+
+/* Badges */
+.badges {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.badge {
+  background: var(--border-color);
+  color: white;
+  font-size: 0.75rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 999px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* Stats Badges */
+.stats {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.stat-badge {
+  background: rgba(0, 0, 0, 0.08);
+  padding: 0.35rem 0.7rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  backdrop-filter: blur(6px);
+}
+
+/* Repo Action Buttons */
+.repo-buttons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+}
+
+.repo-buttons a {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: background 0.3s ease;
+}
+
+.btn-view {
+  background: #007bff;
+  color: white;
+}
+
+.btn-view:hover {
+  background: #0056b3;
+}
+
+.btn-demo {
+  background: #28a745;
+  color: white;
+}
+
+.btn-demo:hover {
+  background: #1c7c31;
 }
 
 /* Footer */
@@ -260,54 +429,76 @@ body.dark-mode {
 
 /* Dark Mode - Change Logo */
 body.dark-mode .logo-container img {
-  content: url('logo-dark.png');
+  content: url('logo-light.png');
 }
 
 /* Navigation Bar */
 #navbar {
-  background: var(--header-bg);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   color: white;
   position: sticky;
   top: 0;
   z-index: 1000;
-  padding: 10px 0;
-  box-shadow: 0 4px 8px var(--shadow-color);
+  padding: 16px 0;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+/* Navigation Links */
 #navbar ul {
   display: flex;
   justify-content: center;
-  gap: 25px;
+  gap: 30px;
   list-style: none;
   padding: 0;
   margin: 0;
+  flex-wrap: wrap;
 }
 
 #navbar li {
-  display: inline;
+  display: inline-block;
 }
 
 #navbar a {
   color: white;
-  font-size: 1.2rem;
-  font-weight: bold;
+  font-size: 1rem;
+  font-weight: 600;
   text-decoration: none;
-  padding: 10px 15px;
-  border-radius: 5px;
-  transition: all 0.3s ease-in-out;
+  padding: 10px 18px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+#navbar a::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: -1;
+}
+
+#navbar a:hover::before {
+  opacity: 1;
 }
 
 #navbar a:hover {
-  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
 }
 
 /* Dark Mode - Navbar */
 body.dark-mode #navbar {
-  background: black;
+  background: rgba(0, 0, 0, 0.6);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 body.dark-mode #navbar a {
-  color: white;
+  color: #f1f1f1;
 }
 
 /* About Section */
@@ -389,87 +580,167 @@ body.dark-mode #navbar a {
   }
 }
 
-/* About Section Styling */
+/* Base About Section */
 #about {
   width: 100%;
-  max-width: 1200px; /* Ensures it doesn't stretch too much */
-  margin: 0 auto;
+  max-width: 1200px;
+  margin: 2rem auto;
   padding: 2rem;
   text-align: center;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
 }
 
+/* About Content */
+.about-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Text Content */
+.about-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-color, #333);
+  text-align: justify;
+  width: 100%;
+  padding: 0 1rem;
+  max-width: 100%;
+}
+
+/* Paragraph Emphasis */
+.about-content p strong {
+  color: #111;
+}
+
+@media (max-width: 768px) {
+  #about {
+    padding: 1rem 0.75rem;          /* Reduce padding */
+    margin: 1rem auto;              /* Smaller top/bottom margin */
+    border-radius: 12px;            /* Slightly less rounded */
+    max-width: 70%;                 /* Reduce card width */
+  }
+
+  .about-content p {
+    font-size: 0.95rem;             /* Slightly smaller text */
+    line-height: 1.6;
+  }
+
+  .about-content h2 {
+    font-size: 1.3rem;              /* Smaller heading */
+    margin-bottom: 1rem;
+  }
+}
+
+/* Dark Mode Support */
+body.dark-mode #about {
+  background: rgba(0, 0, 0, 0.25);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+}
+
+/* About Section Content */
 .about-content {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  max-width: 90%; /* Allows better text flow */
+  max-width: 90%;
   margin: 0 auto;
+  gap: 1.5rem; /* Space between elements */
 }
 
 /* Ensure paragraph spans full width */
 .about-content p {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  color: var(--text-color); /* Use variable for dynamic text color */
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: var(--text-color, #333); /* Fallback to #333 */
   text-align: justify;
   width: 100%;
+  transition: color 0.3s ease-in-out;
 }
 
-/* Responsive Fix */
+/* Dark Mode Text Color */
+body.dark-mode .about-content p {
+  color: #f0f0f0;
+}
+
+/* Responsive Fix for Mobile */
 @media (max-width: 768px) {
+  #about {
+    padding: 2rem 1rem;
+  }
+
   .about-content {
-    max-width: 100%; /* Allows full width on smaller screens */
+    max-width: 100%;
+    padding: 0 0.5rem;
   }
 
   .about-content p {
-    font-size: 1rem;
+    font-size: 1.05rem;
     text-align: left;
+    line-height: 1.7;
   }
 }
 
 /* About Section Text */
 .about-content p {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  color: #333; /* Default text color */
+  font-size: 1.15rem;
+  line-height: 1.9;
+  color: #333;
   text-align: justify;
   width: 100%;
   max-width: 95%;
   margin: 0 auto;
-  transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.about-content p:hover {
+  transform: translateY(-2px);
 }
 
 /* Bold Text (Light Mode) */
 .about-content p strong {
-  color: #222; /* Darker shade for emphasis */
-  font-weight: bold;
+  color: #111;
+  font-weight: 600;
 }
 
 /* Dark Mode - Text Color Fix */
 body.dark-mode .about-content p {
-  color: white;
+  color: #f0f0f0;
 }
 
 /* Dark Mode - Bold Text Color */
 body.dark-mode .about-content p strong {
-  color: #f8d847; /* Highlighted yellow for better visibility */
+  color: #ffd369;
 }
 
 /* Link Styling */
 .custom-link {
-  color: #007bff; /* Blue in light mode */
-  font-weight: bold;
+  color: #007bff;
+  font-weight: 600;
   text-decoration: none;
+  transition: color 0.3s ease-in-out;
 }
 
 .custom-link:hover {
   text-decoration: underline;
+  color: #0056b3;
 }
 
 /* Dark Mode - Link Color */
 body.dark-mode .custom-link {
-  color: #4db8ff; /* Lighter blue for better visibility */
+  color: #4db8ff;
+}
+
+body.dark-mode .custom-link:hover {
+  color: #87cefa;
 }
 
 /* Background Gradient Animation */
@@ -483,30 +754,33 @@ body.dark-mode .custom-link {
 body {
   background: linear-gradient(-45deg, #6a11cb, #2575fc, #ff758c, #ff7eb3);
   background-size: 400% 400%;
-  animation: gradientAnimation 10s ease infinite;
-  transition: background 0.3s ease-in-out;
+  animation: gradientAnimation 12s ease infinite;
+  transition: background 0.4s ease-in-out;
 }
 
 /* Dark Mode - Background Animation */
 body.dark-mode {
-  background: linear-gradient(-45deg, #141e30, #243b55, #0f2027);
+  background: linear-gradient(-45deg, #0f2027, #203a43, #2c5364);
   background-size: 400% 400%;
-  animation: gradientAnimation 10s ease infinite;
+  animation: gradientAnimation 12s ease infinite;
 }
 
-/* About Section Background (Semi-Transparent for Readability) */
+/* About Section Container */
 #about {
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(5px);
-  padding: 2rem;
-  border-radius: 10px;
-  max-width: 90%;
-  margin: auto;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+  padding: 2rem 1.5rem;
+  border-radius: 15px;
+  max-width: 95%;
+  margin: 2rem auto;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease-in-out;
 }
 
 /* Dark Mode - About Section */
 body.dark-mode #about {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.35);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
 }
 
 /* Navbar - Fixed, Full Width & Matched with Header */

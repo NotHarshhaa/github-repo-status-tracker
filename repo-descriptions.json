@@ -1,29 +1,160 @@
 {
-    "AWS-Terraform-Workshop": "Beginner-friendly guide to setting up AWS infrastructure using Terraform.",
-    "tf-ecr-ecs-gh-deploy": "Automated deployment of a Python application to AWS ECS using GitHub Actions, Docker, and Terraform.",
-    "eks-cluster-terraform": "Terraform-based provisioning of an Amazon EKS Cluster for Kubernetes deployments.",
-    "CI-CD_EKS-GitHub_Actions": "CI/CD pipeline for deploying a Node.js app on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.",
-    "devops-tools": "Collection of essential DevOps tools for development, deployment, monitoring, security, and automation.",
-    "Certified_Kubernetes_Administrator": "Master Kubernetes from scratch and prepare for the CKA certification.",
-    "kubernetes-dashboard": "Kubernetes dashboard with integrated health checks and Trivy scanning.",
-    "DevOps-Projects": "Real-world DevOps projects from beginner to advanced levels.",
-    "uber-clone": "Full-stack Uber-like transportation application with DevSecOps integration.",
-    "kubernetes-projects-learning": "Practical Kubernetes projects to master deployment, management, and scaling of containerized applications.",
-    "AWS-EKS_Terraform": "Provision Amazon EKS Cluster on AWS using Terraform.",
-    "Deployment-of-super-Mario-on-Kubernetes-using-terraform": "Deploy Super Mario game on Amazon EKS using Terraform.",
-    "cloud-native-monitoring-app": "Monitoring app built with Python, containerized with Docker, and deployed to EKS.",
-    "Zomato-Clone": "Full-stack food delivery application inspired by Zomato with DevSecOps integration.",
-    "Learning-Prometheus": "Repository for learning and implementing Prometheus monitoring in Kubernetes environments.",
-    "Kubernetes": "Comprehensive Kubernetes learning and deployment repository from basic to advanced.",
-    "DevOps_Setup-Installations": "Guides for installing and setting up essential DevOps and DevSecOps tools.",
-    "DevOps-Tool-Installer": "Automated installation/uninstallation scripts for essential DevOps tools on Linux and Windows.",
-    "kubernetes-learning-path": "Step-by-step Kubernetes learning path from beginner to advanced.",
-    "Jenkins-Terraform-AWS-Infra": "Terraform scripts for AWS infrastructure provisioning with Jenkins integration.",
-    "azure-all_in_one": "Curated list of Azure resources, libraries, guides, and blogs.",
-    "aws-billing-alert-terraform": "Terraform module for setting up AWS billing alerts.",
-    "AWS-DevOps_Real-Time_Deployment": "End-to-end AWS DevOps deployment pipeline from Dev to Production.",
-    "devops-cheatsheet": "Quick-reference DevOps cheatsheets covering CI/CD, cloud, security, monitoring, and automation.",
-    "DevOps-Interview-Questions": "550+ DevOps interview questions with detailed answers covering CI/CD, Kubernetes, Terraform, and cloud.",
-    "into-the-devops": "Comprehensive DevOps interview guide covering Linux, AWS, Kubernetes, Terraform, Docker, and more."
+  "AWS-Terraform-Workshop": {
+    "displayName": "Hands-On AWS Terraform Workshop",
+    "description": "Step-by-step guide for beginners to learn how to provision and manage AWS infrastructure using Terraform.",
+    "techStack": ["AWS", "Terraform"],
+    "status": "Complete"
+  },
+  "tf-ecr-ecs-gh-deploy": {
+    "displayName": "CI/CD for ECS via GitHub Actions",
+    "description": "Set up a full CI/CD pipeline to build and deploy a Python application to AWS ECS using ECR, Terraform, and GitHub Actions.",
+    "techStack": ["AWS", "ECS", "GitHub Actions", "Terraform"],
+    "status": "Stable"
+  },
+  "eks-cluster-terraform": {
+    "displayName": "EKS Cluster Automation with Terraform",
+    "description": "Provision an Amazon EKS Cluster using Terraform for scalable Kubernetes deployments on AWS.",
+    "techStack": ["AWS", "EKS", "Terraform", "Kubernetes"],
+    "status": "Complete"
+  },
+  "CI-CD_EKS-GitHub_Actions": {
+    "displayName": "Node.js CI/CD on EKS",
+    "description": "Automated CI/CD pipeline to deploy Node.js applications on Amazon EKS using GitHub Actions and Infrastructure as Code.",
+    "techStack": ["Node.js", "GitHub Actions", "EKS", "Terraform"],
+    "status": "Ongoing"
+  },
+  "devops-tools": {
+    "displayName": "Curated DevOps Tools",
+    "description": "Collection of essential DevOps tools for containerization, monitoring, and security with hands-on configurations.",
+    "techStack": ["Docker", "Prometheus", "Grafana", "Trivy"],
+    "status": "Stable"
+  },
+  "Certified_Kubernetes_Administrator": {
+    "displayName": "CKA Exam Preparation",
+    "description": "In-depth study notes, labs, and resources to prepare for the Certified Kubernetes Administrator (CKA) exam.",
+    "techStack": ["Kubernetes", "Linux"],
+    "status": "Complete"
+  },
+  "kubernetes-dashboard": {
+    "displayName": "Kubernetes Monitoring Dashboard",
+    "description": "Setup of Kubernetes Dashboard with integrated Prometheus monitoring and Trivy for security scanning.",
+    "techStack": ["Kubernetes", "Trivy", "Prometheus"],
+    "status": "Stable"
+  },
+  "DevOps-Projects": {
+    "displayName": "Practical DevOps Projects",
+    "description": "Hands-on DevOps project collection ranging from beginner to advanced level to boost real-world experience.",
+    "techStack": ["CI/CD", "Docker", "Cloud", "Monitoring"],
+    "status": "Growing"
+  },
+  "uber-clone": {
+    "displayName": "Full-stack Uber Clone with CI/CD",
+    "description": "End-to-end Uber clone app built using MERN stack with integrated DevSecOps and CI/CD pipelines.",
+    "techStack": ["React", "Node.js", "MongoDB", "Docker"],
+    "status": "In Progress",
+    "demoUrl": "https://uber-clone-demo.netlify.app"
+  },
+  "kubernetes-projects-learning": {
+    "displayName": "Kubernetes Project Playground",
+    "description": "Hands-on Kubernetes projects focused on deployment, scaling, and YAML configurations for practical learning.",
+    "techStack": ["Kubernetes", "Docker", "YAML"],
+    "status": "Learning"
+  },
+  "AWS-EKS_Terraform": {
+    "displayName": "Provision EKS with Terraform",
+    "description": "Deploy a fully functional Amazon EKS cluster using Terraform automation with reusable modules.",
+    "techStack": ["Terraform", "EKS", "AWS"],
+    "status": "Stable"
+  },
+  "Deployment-of-super-Mario-on-Kubernetes-using-terraform": {
+    "displayName": "Super Mario Game on Kubernetes",
+    "description": "Deploy the classic Super Mario game on an AWS EKS cluster using Terraform — fun meets DevOps!",
+    "techStack": ["Kubernetes", "Terraform", "Game Dev"],
+    "status": "Fun",
+    "demoUrl": "https://super-mario-k8s.vercel.app"
+  },
+  "cloud-native-monitoring-app": {
+    "displayName": "Cloud Native Monitoring App",
+    "description": "Create a Python-based app for monitoring container workloads on EKS using Prometheus and Docker.",
+    "techStack": ["Python", "Docker", "EKS", "Prometheus"],
+    "status": "Stable"
+  },
+  "Zomato-Clone": {
+    "displayName": "Zomato Full-stack Clone",
+    "description": "Build a full-stack food delivery app like Zomato with CI/CD and secure DevOps practices.",
+    "techStack": ["React", "Node.js", "CI/CD", "Docker"],
+    "status": "In Progress"
+  },
+  "Learning-Prometheus": {
+    "displayName": "Prometheus Learning Hub",
+    "description": "Explore Prometheus from scratch with real-world use cases and integrations in Kubernetes environments.",
+    "techStack": ["Prometheus", "Kubernetes", "Grafana"],
+    "status": "Complete"
+  },
+  "Kubernetes": {
+    "displayName": "Complete Kubernetes Repository",
+    "description": "All-in-one repository for Kubernetes learners with guides, configurations, and Helm charts.",
+    "techStack": ["Kubernetes", "Cloud", "Helm"],
+    "status": "Stable"
+  },
+  "DevOps_Setup-Installations": {
+    "displayName": "DevOps Setup & Install Scripts",
+    "description": "Step-by-step installation and setup instructions for key DevOps and DevSecOps tools on Linux.",
+    "techStack": ["Linux", "Shell Scripts", "Docker"],
+    "status": "Active"
+  },
+  "DevOps-Tool-Installer": {
+    "displayName": "Cross-Platform DevOps Installer",
+    "description": "Universal scripts to install major DevOps tools on both Windows and Linux systems.",
+    "techStack": ["Shell", "PowerShell", "Linux"],
+    "status": "Maintained"
+  },
+  "kubernetes-learning-path": {
+    "displayName": "Kubernetes Beginner to Pro Path",
+    "description": "A structured Kubernetes learning path designed for gradual progression from basic to advanced topics.",
+    "techStack": ["Kubernetes", "Cloud", "YAML"],
+    "status": "Learning"
+  },
+  "Jenkins-Terraform-AWS-Infra": {
+    "displayName": "Jenkins & Terraform AWS Infra",
+    "description": "Build AWS infrastructure using Terraform and automate deployments using Jenkins pipelines.",
+    "techStack": ["Terraform", "AWS", "Jenkins"],
+    "status": "Complete"
+  },
+  "azure-all_in_one": {
+    "displayName": "All-in-One Azure Guide",
+    "description": "Comprehensive resources and guides for deploying and managing services on Microsoft Azure.",
+    "techStack": ["Azure", "Cloud"],
+    "status": "Updated"
+  },
+  "aws-billing-alert-terraform": {
+    "displayName": "AWS Billing Alerts with Terraform",
+    "description": "Create and configure cost and usage alerts on AWS using simple Terraform modules.",
+    "techStack": ["AWS", "Terraform"],
+    "status": "Useful"
+  },
+  "AWS-DevOps_Real-Time_Deployment": {
+    "displayName": "AWS DevOps Pipeline Project",
+    "description": "Real-time DevOps project demonstrating full CI/CD lifecycle for AWS infrastructure and application deployment.",
+    "techStack": ["CI/CD", "AWS", "Docker", "Terraform"],
+    "status": "Complete"
+  },
+  "devops-cheatsheet": {
+    "displayName": "DevOps Cheatsheet Collection",
+    "description": "Ready-to-use cheat sheets for common DevOps tasks, commands, and best practices.",
+    "techStack": ["DevOps", "Cheatsheet"],
+    "status": "Handy"
+  },
+  "DevOps-Interview-Questions": {
+    "displayName": "DevOps Interview Kit",
+    "description": "Comprehensive collection of 550+ curated DevOps interview questions with answers and concepts.",
+    "techStack": ["DevOps", "Interview", "Cloud"],
+    "status": "Updated"
+  },
+  "into-the-devops": {
+    "displayName": "Beginner’s Guide: Into the DevOps",
+    "description": "Complete beginner-friendly DevOps guide covering core concepts from Linux to Cloud and CI/CD.",
+    "techStack": ["Linux", "AWS", "Kubernetes", "Terraform"],
+    "status": "Learning"
   }
-  
+}
