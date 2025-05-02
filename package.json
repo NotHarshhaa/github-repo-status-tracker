@@ -1,0 +1,51 @@
+{
+  "name": "repos-prodevopsguytech",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@radix-ui/react-avatar": "^1.0.4",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-tooltip": "^1.0.7",
+    "@vercel/analytics": "^1.1.4",
+    "@vercel/speed-insights": "^1.0.10",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "cmdk": "^0.2.1",
+    "framer-motion": "^12.7.3",
+    "geist": "^1.2.2",
+    "lucide-react": "^0.300.0",
+    "next": "^14.2.28",
+    "next-themes": "^0.4.6",
+    "node-fetch": "^3.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "autoprefixer": "^10.4.17",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.0.4",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "postcss": "^8.4.35",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
+  },
+  "packageManager": "pnpm@10.8.1+sha512.c50088ba998c67b8ca8c99df8a5e02fd2ae2e2b29aaf238feaa9e124248d3f48f9fb6db2424949ff901cffbb5e0f0cc1ad6aedb602cd29450751d11c35023677"
+}
