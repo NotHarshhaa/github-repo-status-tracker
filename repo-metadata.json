@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 1592,
-    "forks": 1926,
+    "stars": 1593,
+    "forks": 1927,
     "issues": 9,
-    "lastUpdated": "2025-05-03T10:15:27Z",
+    "lastUpdated": "2025-05-03T16:21:25Z",
     "lastCommit": "4297af26bc18a615b53e18a53bf2061654b81ed1"
   },
   {
@@ -185,10 +185,10 @@
   },
   {
     "repo": "eks-cluster-terraform",
-    "stars": 59,
+    "stars": 60,
     "forks": 60,
     "issues": 0,
-    "lastUpdated": "2025-04-26T20:37:47Z",
+    "lastUpdated": "2025-05-03T15:00:27Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
