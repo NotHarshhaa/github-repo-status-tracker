@@ -34,6 +34,7 @@ projects.forEach(project => {
     project.forks = meta.forks;
     project.issues = meta.issues;
     project.lastUpdated = meta.lastUpdated;
+    project.lastCommit = meta.lastCommit;
   }
 });
 

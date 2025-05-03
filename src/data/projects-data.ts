@@ -12,6 +12,7 @@ interface Project {
   forks: number;
   issues: number;
   lastUpdated: string;
+  lastCommit: string;
 }
 
 export const PROJECTS: Project[] = [
@@ -29,7 +30,8 @@ export const PROJECTS: Project[] = [
     "stars": 5,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2025-04-15T17:59:55Z"
+    "lastUpdated": "2025-04-15T17:59:55Z",
+    "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
   },
   {
     "title": "ECR to ECS Deployment with GitHub Actions",
@@ -47,7 +49,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2025-03-28T07:11:00Z"
+    "lastUpdated": "2025-03-28T07:11:00Z",
+    "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
   },
   {
     "title": "Amazon EKS Cluster with Terraform",
@@ -63,7 +66,8 @@ export const PROJECTS: Project[] = [
     "stars": 59,
     "forks": 60,
     "issues": 0,
-    "lastUpdated": "2025-04-26T20:37:47Z"
+    "lastUpdated": "2025-04-26T20:37:47Z",
+    "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
     "title": "CI/CD on EKS using GitHub Actions",
@@ -81,7 +85,8 @@ export const PROJECTS: Project[] = [
     "stars": 87,
     "forks": 69,
     "issues": 0,
-    "lastUpdated": "2025-04-27T08:43:03Z"
+    "lastUpdated": "2025-04-27T08:43:03Z",
+    "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
   },
   {
     "title": "DevOps Tools Collection",
@@ -96,7 +101,8 @@ export const PROJECTS: Project[] = [
     "stars": 161,
     "forks": 140,
     "issues": 1,
-    "lastUpdated": "2025-05-02T07:38:50Z"
+    "lastUpdated": "2025-05-02T07:38:50Z",
+    "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
   },
   {
     "title": "Certified Kubernetes Administrator (CKA) Prep",
@@ -111,7 +117,8 @@ export const PROJECTS: Project[] = [
     "stars": 111,
     "forks": 87,
     "issues": 0,
-    "lastUpdated": "2025-04-26T20:37:06Z"
+    "lastUpdated": "2025-04-26T20:37:06Z",
+    "lastCommit": "7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1"
   },
   {
     "title": "Secure Kubernetes Dashboard",
@@ -127,7 +134,8 @@ export const PROJECTS: Project[] = [
     "stars": 47,
     "forks": 43,
     "issues": 0,
-    "lastUpdated": "2025-04-26T20:38:08Z"
+    "lastUpdated": "2025-04-26T20:38:08Z",
+    "lastCommit": "a81343272b9e0ca5acd0143c05b33c30fe2cb456"
   },
   {
     "title": "Real-World DevOps Projects",
@@ -143,7 +151,8 @@ export const PROJECTS: Project[] = [
     "stars": 1590,
     "forks": 1924,
     "issues": 9,
-    "lastUpdated": "2025-05-02T07:53:17Z"
+    "lastUpdated": "2025-05-02T07:53:17Z",
+    "lastCommit": "4297af26bc18a615b53e18a53bf2061654b81ed1"
   },
   {
     "title": "Uber Clone with DevSecOps",
@@ -159,7 +168,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2025-04-17T02:17:01Z"
+    "lastUpdated": "2025-04-17T02:17:01Z",
+    "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
   },
   {
     "title": "Kubernetes Learning Projects",
@@ -174,7 +184,8 @@ export const PROJECTS: Project[] = [
     "stars": 230,
     "forks": 166,
     "issues": 0,
-    "lastUpdated": "2025-05-02T04:31:32Z"
+    "lastUpdated": "2025-05-02T04:31:32Z",
+    "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
   },
   {
     "title": "Provisioning EKS on AWS with Terraform",
@@ -191,7 +202,8 @@ export const PROJECTS: Project[] = [
     "stars": 19,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2025-04-15T18:03:22Z"
+    "lastUpdated": "2025-04-15T18:03:22Z",
+    "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
   },
   {
     "title": "Deploy Super Mario on EKS",
@@ -207,7 +219,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 17,
     "issues": 0,
-    "lastUpdated": "2025-03-17T05:38:10Z"
+    "lastUpdated": "2025-03-17T05:38:10Z",
+    "lastCommit": "e174ff110b003113e4e2dbc8153afdd49df38fab"
   },
   {
     "title": "Cloud-Native Monitoring App",
@@ -224,7 +237,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2025-04-15T18:04:31Z"
+    "lastUpdated": "2025-04-15T18:04:31Z",
+    "lastCommit": "15102a44dc31d8f340e4ae1ca83db337b488c483"
   },
   {
     "title": "Zomato Clone with DevSecOps",
@@ -240,7 +254,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 48,
     "issues": 0,
-    "lastUpdated": "2025-04-17T02:18:29Z"
+    "lastUpdated": "2025-04-17T02:18:29Z",
+    "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
   },
   {
     "title": "Learning Prometheus Monitoring",
@@ -256,7 +271,8 @@ export const PROJECTS: Project[] = [
     "stars": 16,
     "forks": 28,
     "issues": 0,
-    "lastUpdated": "2025-04-17T02:18:02Z"
+    "lastUpdated": "2025-04-17T02:18:02Z",
+    "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
   },
   {
     "title": "Kubernetes Mastery Guide",
@@ -271,7 +287,8 @@ export const PROJECTS: Project[] = [
     "stars": 151,
     "forks": 184,
     "issues": 0,
-    "lastUpdated": "2025-04-30T08:34:45Z"
+    "lastUpdated": "2025-04-30T08:34:45Z",
+    "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
     "title": "DevOps Setup & Installation Guides",
@@ -286,7 +303,8 @@ export const PROJECTS: Project[] = [
     "stars": 146,
     "forks": 162,
     "issues": 0,
-    "lastUpdated": "2025-04-28T20:27:52Z"
+    "lastUpdated": "2025-04-28T20:27:52Z",
+    "lastCommit": "b27233f4a9f414b5c104dc042203f43b693ff01c"
   },
   {
     "title": "DevOps Tool Installer Scripts",
@@ -301,7 +319,8 @@ export const PROJECTS: Project[] = [
     "stars": 44,
     "forks": 44,
     "issues": 0,
-    "lastUpdated": "2025-04-30T08:40:57Z"
+    "lastUpdated": "2025-04-30T08:40:57Z",
+    "lastCommit": "be9c6c56a2e085cdccf0b8cf6191c8cc9ae15bad"
   },
   {
     "title": "Kubernetes Learning Path",
@@ -316,7 +335,8 @@ export const PROJECTS: Project[] = [
     "stars": 287,
     "forks": 159,
     "issues": 2,
-    "lastUpdated": "2025-05-01T05:13:50Z"
+    "lastUpdated": "2025-05-01T05:13:50Z",
+    "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
     "title": "AWS Infra with Jenkins and Terraform",
@@ -333,7 +353,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2025-04-15T18:10:14Z"
+    "lastUpdated": "2025-04-15T18:10:14Z",
+    "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
   },
   {
     "title": "Azure Cloud Resources Hub",
@@ -348,7 +369,8 @@ export const PROJECTS: Project[] = [
     "stars": 76,
     "forks": 48,
     "issues": 0,
-    "lastUpdated": "2025-04-27T08:43:04Z"
+    "lastUpdated": "2025-04-27T08:43:04Z",
+    "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
   },
   {
     "title": "AWS Billing Alert with Terraform",
@@ -364,7 +386,8 @@ export const PROJECTS: Project[] = [
     "stars": 47,
     "forks": 45,
     "issues": 0,
-    "lastUpdated": "2025-04-26T20:38:09Z"
+    "lastUpdated": "2025-04-26T20:38:09Z",
+    "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"
   },
   {
     "title": "Real-Time AWS DevOps Deployment",
@@ -380,7 +403,8 @@ export const PROJECTS: Project[] = [
     "stars": 24,
     "forks": 44,
     "issues": 0,
-    "lastUpdated": "2025-04-30T08:38:57Z"
+    "lastUpdated": "2025-04-30T08:38:57Z",
+    "lastCommit": "fc3b67f8c40d779988b71b25120f49bf14922842"
   },
   {
     "title": "DevOps Cheatsheet",
@@ -395,7 +419,8 @@ export const PROJECTS: Project[] = [
     "stars": 147,
     "forks": 116,
     "issues": 0,
-    "lastUpdated": "2025-05-02T07:38:51Z"
+    "lastUpdated": "2025-05-02T07:38:51Z",
+    "lastCommit": "e3da043f7f5f84bb6ff6de63bdb4e04ef891e3f7"
   },
   {
     "title": "DevOps Interview Questions",
@@ -411,7 +436,8 @@ export const PROJECTS: Project[] = [
     "stars": 195,
     "forks": 142,
     "issues": 1,
-    "lastUpdated": "2025-05-01T08:49:48Z"
+    "lastUpdated": "2025-05-01T08:49:48Z",
+    "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
     "title": "Into the DevOps",
@@ -426,6 +452,7 @@ export const PROJECTS: Project[] = [
     "stars": 437,
     "forks": 308,
     "issues": 0,
-    "lastUpdated": "2025-05-01T14:55:06Z"
+    "lastUpdated": "2025-05-01T14:55:06Z",
+    "lastCommit": "9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37"
   }
 ];

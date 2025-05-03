@@ -61,6 +61,7 @@ export default function Page() {
                                 forks={project.forks}
                                 issues={project.issues}
                                 lastUpdated={project.lastUpdated}
+								lastCommit={project.lastCommit}
 							/>
 						))}
 					</div>

@@ -59,6 +59,7 @@ export interface PersonalWebsiteUrl {
 }
 
 export interface Project {
+	lastCommit: string | undefined
 	stars: number | undefined
 	forks: number | undefined
 	issues: number | undefined

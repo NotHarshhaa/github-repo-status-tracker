@@ -10,7 +10,7 @@ import {
 } from './ui/card'
 import { Badge } from './ui/badge'
 import { Button } from './ui/button'
-import { Star, GitFork, Bug, Clock, Github } from 'lucide-react'
+import { Star, GitFork, Bug, Clock, Github, GitCommit } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import {
   Tooltip,
@@ -28,6 +28,7 @@ interface Props {
   forks?: number
   issues?: number
   lastUpdated?: string
+  lastCommit?: string
 }
 
 export function ProjectCard({
@@ -39,6 +40,7 @@ export function ProjectCard({
   forks,
   issues,
   lastUpdated,
+  lastCommit,
 }: Props) {
   let status: 'active' | 'inactive' | undefined = undefined
   let statusTooltip = ''
@@ -105,7 +107,7 @@ export function ProjectCard({
             ))}
           </div>
 
-          {(stars != null || forks != null || issues != null || lastUpdated) && (
+          {(stars != null || forks != null || issues != null || lastUpdated || lastCommit) && (
             <div className="text-xs text-muted-foreground font-mono flex gap-4 flex-wrap items-center">
               {stars != null && (
                 <Tooltip>
@@ -165,8 +167,23 @@ export function ProjectCard({
                       })}
                     </p>
                   </TooltipContent>
-              </Tooltip>
-            )}
+                </Tooltip>
+              )}
+              {lastCommit && (
+                <Tooltip>
+                  <button
+                    onClick={() =>
+                      link && window.open(`https://github.com/${link.split("github.com/")[1]}/commit/${lastCommit}`, "_blank")
+                    }
+                    className="inline-flex items-center gap-1 px-2 py-1 text-sm rounded transition-colors
+                            bg-blue-100 text-blue-800 hover:bg-blue-200
+                            dark:bg-blue-900 dark:text-blue-200 dark:hover:bg-blue-800"
+                  >
+                    <GitCommit className="h-4 w-4" />
+                    {lastCommit.slice(0, 7)}
+                  </button>
+                </Tooltip>
+              )}
             </div>
           )}
 
