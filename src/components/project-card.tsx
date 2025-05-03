@@ -11,6 +11,7 @@ import {
 import { Badge } from './ui/badge'
 import { Button } from './ui/button'
 import { Star, GitFork, Bug, Clock, Github } from 'lucide-react'
+import { cn } from '@/lib/utils'
 
 interface Props {
   title: string
@@ -33,19 +34,45 @@ export function ProjectCard({
   issues,
   lastUpdated,
 }: Props) {
+  let status: 'active' | 'inactive' | undefined = undefined
+  let statusTooltip = ''
+
+  if (lastUpdated) {
+    const last = new Date(lastUpdated)
+    const now = new Date()
+    const diffDays = Math.floor((now.getTime() - last.getTime()) / (1000 * 60 * 60 * 24))
+    status = diffDays <= 90 ? 'active' : 'inactive'
+    statusTooltip = `${diffDays} day${diffDays === 1 ? '' : 's'} since last update`
+  }
+
   return (
     <Card className="flex flex-col overflow-hidden border border-border bg-card text-card-foreground p-6 shadow-md rounded-2xl hover:shadow-xl transition-shadow duration-300">
       <CardHeader className="mb-2">
         <div className="space-y-2">
-          <CardTitle className="text-lg font-semibold flex items-center gap-2">
+          <CardTitle className="text-lg font-semibold flex items-center gap-2 flex-wrap">
             {title}
             {link && <span className="h-2 w-2 rounded-full bg-green-500" />}
+            {status && (
+              <Badge
+                title={statusTooltip}
+                className={cn(
+                  'text-[10px] px-2 py-0.5 rounded-md capitalize cursor-help',
+                  status === 'active'
+                    ? 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300'
+                    : 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-300'
+                )}
+              >
+                {status}
+              </Badge>
+            )}
           </CardTitle>
+
           {link && (
             <div className="hidden font-mono text-sm text-muted-foreground underline print:visible">
               {link.replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\/$/, '')}
             </div>
           )}
+
           <CardDescription className="font-mono text-sm text-muted-foreground">
             {description}
           </CardDescription>
