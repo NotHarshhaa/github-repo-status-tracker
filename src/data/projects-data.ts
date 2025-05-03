@@ -114,10 +114,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 111,
+    "stars": 112,
     "forks": 87,
     "issues": 0,
-    "lastUpdated": "2025-04-26T20:37:06Z",
+    "lastUpdated": "2025-05-03T08:49:30Z",
     "lastCommit": "7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1590,
-    "forks": 1924,
+    "stars": 1592,
+    "forks": 1926,
     "issues": 9,
-    "lastUpdated": "2025-05-02T07:53:17Z",
+    "lastUpdated": "2025-05-03T10:15:27Z",
     "lastCommit": "4297af26bc18a615b53e18a53bf2061654b81ed1"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 230,
-    "forks": 166,
+    "forks": 167,
     "issues": 0,
     "lastUpdated": "2025-05-02T04:31:32Z",
     "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 147,
+    "stars": 148,
     "forks": 116,
     "issues": 0,
-    "lastUpdated": "2025-05-02T07:38:51Z",
+    "lastUpdated": "2025-05-03T07:59:11Z",
     "lastCommit": "e3da043f7f5f84bb6ff6de63bdb4e04ef891e3f7"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 437,
+    "stars": 438,
     "forks": 308,
     "issues": 0,
-    "lastUpdated": "2025-05-01T14:55:06Z",
+    "lastUpdated": "2025-05-03T08:28:43Z",
     "lastCommit": "9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37"
   }
 ];
