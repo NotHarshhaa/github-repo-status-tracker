@@ -97,7 +97,7 @@ export function ProjectCard({
 
         {link && (
           <a href={link} target="_blank" rel="noreferrer" className="w-fit">
-            <Button variant="outline" className="flex items-center gap-2 text-sm">
+            <Button variant="github" className="flex items-center gap-2 text-sm">
               <Github className="h-5 w-5" />
               View on GitHub
             </Button>
