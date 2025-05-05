@@ -26,7 +26,7 @@
   {
     "repo": "DevOps-Projects",
     "stars": 1594,
-    "forks": 1930,
+    "forks": 1933,
     "issues": 9,
     "lastUpdated": "2025-05-04T12:27:43Z",
     "lastCommit": "4297af26bc18a615b53e18a53bf2061654b81ed1"
@@ -105,10 +105,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 287,
+    "stars": 288,
     "forks": 159,
     "issues": 2,
-    "lastUpdated": "2025-05-01T05:13:50Z",
+    "lastUpdated": "2025-05-05T06:02:30Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -146,10 +146,10 @@
   {
     "repo": "devops-cheatsheet",
     "stars": 148,
-    "forks": 116,
+    "forks": 117,
     "issues": 0,
-    "lastUpdated": "2025-05-04T20:24:28Z",
-    "lastCommit": "e3da043f7f5f84bb6ff6de63bdb4e04ef891e3f7"
+    "lastUpdated": "2025-05-05T04:14:22Z",
+    "lastCommit": "efd4b12c7ec2733622ab2cae570113369ad5c099"
   },
   {
     "repo": "DevOps-Interview-Questions",

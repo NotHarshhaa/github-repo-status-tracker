@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-05%2001:43%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-05%2006:29%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/4297af26bc18a615b53e18a53bf2061654b81ed1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `9`  
-⭐ **Stars:** `1594` | 🍴 **Forks:** `1930` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1594` | 🍴 **Forks:** `1933` | ✅ **CI/CD Status**  
 
 ---
 
@@ -361,11 +361,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-learning-path)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path)
 
-🗓 **Last Updated:** `2025-05-01`  
+🗓 **Last Updated:** `2025-05-05`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `287` | 🍴 **Forks:** `159` | ✅ **CI/CD Status**  
+⭐ **Stars:** `288` | 🍴 **Forks:** `159` | ✅ **CI/CD Status**  
 
 ---
 
@@ -431,11 +431,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-cheatsheet)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet)
 
-🗓 **Last Updated:** `2025-05-04`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/e3da043f7f5f84bb6ff6de63bdb4e04ef891e3f7)  
-👤 **Author:** `ProDevOpsGuy Tech`  
+🗓 **Last Updated:** `2025-05-05`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/efd4b12c7ec2733622ab2cae570113369ad5c099)  
+👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `148` | 🍴 **Forks:** `116` | ✅ **CI/CD Status**  
+⭐ **Stars:** `148` | 🍴 **Forks:** `117` | ✅ **CI/CD Status**  
 
 ---
 
