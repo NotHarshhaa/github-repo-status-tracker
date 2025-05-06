@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 1597,
-    "forks": 1938,
+    "forks": 1937,
     "issues": 9,
     "lastUpdated": "2025-05-05T18:24:34Z",
     "lastCommit": "4297af26bc18a615b53e18a53bf2061654b81ed1"
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 236,
-    "forks": 169,
+    "stars": 237,
+    "forks": 170,
     "issues": 0,
-    "lastUpdated": "2025-05-05T23:11:40Z",
+    "lastUpdated": "2025-05-06T08:48:00Z",
     "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 151,
-    "forks": 119,
+    "stars": 152,
+    "forks": 120,
     "issues": 0,
-    "lastUpdated": "2025-05-05T16:47:09Z",
+    "lastUpdated": "2025-05-06T11:29:25Z",
     "lastCommit": "efd4b12c7ec2733622ab2cae570113369ad5c099"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 198,
+    "stars": 199,
     "forks": 144,
     "issues": 1,
-    "lastUpdated": "2025-05-06T00:41:14Z",
+    "lastUpdated": "2025-05-06T10:13:13Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 439,
+    "stars": 440,
     "forks": 308,
     "issues": 0,
-    "lastUpdated": "2025-05-05T19:11:40Z",
+    "lastUpdated": "2025-05-06T12:16:18Z",
     "lastCommit": "9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37"
   }
 ];
