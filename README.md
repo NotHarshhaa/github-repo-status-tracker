@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-06%2001:40%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-06%2006:28%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -309,7 +309,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `16` | 🍴 **Forks:** `28` | ✅ **CI/CD Status**  
+⭐ **Stars:** `16` | 🍴 **Forks:** `29` | ✅ **CI/CD Status**  
 
 ---
 
@@ -365,7 +365,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `288` | 🍴 **Forks:** `159` | ✅ **CI/CD Status**  
+⭐ **Stars:** `288` | 🍴 **Forks:** `160` | ✅ **CI/CD Status**  
 
 ---
 

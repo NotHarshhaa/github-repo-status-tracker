@@ -269,7 +269,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 16,
-    "forks": 28,
+    "forks": 29,
     "issues": 0,
     "lastUpdated": "2025-04-17T02:18:02Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -333,7 +333,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 288,
-    "forks": 159,
+    "forks": 160,
     "issues": 2,
     "lastUpdated": "2025-05-05T06:02:30Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
