@@ -72,7 +72,36 @@
 	}
 	body {
 		@apply bg-background text-foreground;
+		animation: fadein 0.7s;
+		/* background-attachment: fixed; */
+		background-image: 
+			r repeating-linear-gradient(135deg, hsl(var(--muted) / 0.04) 0px, hsl(var(--muted) / 0.04) 2px, transparent 2px, transparent 24px),
+			r repeating-linear-gradient(45deg, hsl(var(--muted) / 0.04) 0px, hsl(var(--muted) / 0.04) 2px, transparent 2px, transparent 24px);
 	}
+	::-webkit-scrollbar {
+		width: 8px;
+		background: transparent;
+	}
+	::-webkit-scrollbar-thumb {
+		background: rgba(120,120,120,0.18);
+		border-radius: 8px;
+		transition: background 0.3s;
+	}
+	::-webkit-scrollbar-thumb:hover {
+		background: rgba(120,120,120,0.32);
+	}
+	::-webkit-scrollbar-track {
+		background: transparent;
+	}
+	::selection {
+		background: hsl(var(--primary) / 0.18);
+		color: hsl(var(--primary));
+	}
+}
+
+@keyframes fadein {
+	from { opacity: 0; }
+	to { opacity: 1; }
 }
 
 .print-force-new-page {
