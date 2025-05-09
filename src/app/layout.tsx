@@ -19,18 +19,31 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html
       lang='en'
       suppressHydrationWarning
+      className="scroll-smooth"
     >
       <head />
       <body
         className={cn(
-          'min-h-screen bg-background font-sans antialiased',
+          // Modern background gradient
+          'min-h-screen bg-gradient-to-br from-background via-background/90 to-background/80',
+          // Font smoothing and antialiasing
+          'font-sans antialiased subpixel-antialiased',
+          // Fade-in animation
+          'animate-fadein',
+          // Custom scrollbar
+          'scrollbar-thin scrollbar-thumb-rounded scrollbar-thumb-muted/40 scrollbar-track-transparent',
+          // Container for large screens
+          'flex flex-col items-center justify-center',
           GeistSans.variable,
           GeistMono.variable
         )}
       >
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem={true}>
           <TooltipProvider>
-            {children}
+            {/* Main content container for max width and padding */}
+            <div className="w-full max-w-[1600px] px-2 sm:px-4 md:px-8 lg:px-12 xl:px-20 2xl:px-32 transition-all duration-300">
+              {children}
+            </div>
           </TooltipProvider>
         </ThemeProvider>
       </body>
