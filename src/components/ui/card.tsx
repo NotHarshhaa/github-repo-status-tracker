@@ -6,7 +6,10 @@ const Card = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElemen
     <div
       ref={ref}
       className={cn(
-        'rounded-2xl border bg-card text-card-foreground shadow-sm transition-all duration-300 ease-in-out hover:shadow-lg hover:scale-[1.02]',
+        // Glassmorphism and modern card styles
+        'rounded-3xl border border-border/60 bg-card/80 backdrop-blur-md text-card-foreground shadow-xl transition-all duration-300 ease-in-out',
+        'hover:shadow-2xl hover:scale-[1.025] hover:border-primary/40',
+        'ring-1 ring-border/30',
         className
       )}
       {...props}
@@ -19,7 +22,7 @@ const CardHeader = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDiv
   ({ className, ...props }, ref) => (
     <div
       ref={ref}
-      className={cn('flex flex-col gap-1.5 px-6 pt-6', className)}
+      className={cn('flex flex-col gap-2 px-8 pt-8 pb-2 bg-card/60 rounded-t-3xl', className)}
       {...props}
     />
   )
@@ -30,7 +33,7 @@ const CardTitle = React.forwardRef<HTMLParagraphElement, React.HTMLAttributes<HT
   ({ className, ...props }, ref) => (
     <h3
       ref={ref}
-      className={cn('text-xl font-semibold leading-none tracking-tight', className)}
+      className={cn('text-2xl font-bold leading-tight tracking-tight', className)}
       {...props}
     />
   )
@@ -43,7 +46,7 @@ const CardDescription = React.forwardRef<
 >(({ className, ...props }, ref) => (
   <p
     ref={ref}
-    className={cn('text-sm text-muted-foreground', className)}
+    className={cn('text-base text-muted-foreground', className)}
     {...props}
   />
 ))
@@ -53,7 +56,7 @@ const CardContent = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDi
   ({ className, ...props }, ref) => (
     <div
       ref={ref}
-      className={cn('px-6 py-4 text-sm font-mono', className)}
+      className={cn('px-8 py-6 text-base font-mono', className)}
       {...props}
     />
   )
@@ -64,7 +67,7 @@ const CardFooter = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDiv
   ({ className, ...props }, ref) => (
     <div
       ref={ref}
-      className={cn('flex items-center justify-between px-6 pb-6 pt-2', className)}
+      className={cn('flex items-center justify-between px-8 pb-6 pt-4 bg-card/60 rounded-b-3xl', className)}
       {...props}
     />
   )
