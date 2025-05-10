@@ -4,10 +4,8 @@ import { Badge } from '@/components/ui/badge'
 import { Section } from '@/components/ui/section'
 import { ButtonLink } from '@/components/button-link'
 import { ProjectCard } from '@/components/project-card'
-import { CommandMenu } from '@/components/command-menu'
 import { GlobeIcon, ArrowUp } from 'lucide-react'
 import { data } from '@/constants'
-import { ThemeToggle } from '@/components/theme-toggle'
 import { Button } from '@/components/ui/button'
 import { useEffect, useState } from 'react'
 import { cn } from '@/lib/utils'
@@ -107,31 +105,6 @@ export default function Page() {
 						</div>
 					</Section>
 				</section>
-
-				<CommandMenu
-					links={[
-						{
-							url: data.personalWebsiteUrl.url,
-							title: data.personalWebsiteUrl.name
-						},
-						{
-							url: `mailto:${data.contact.email.at}`,
-							title: data.contact.email.name
-						},
-						{
-							url: `tel:${data.contact.tel.phoneNumber}`,
-							title: data.contact.tel.name
-						},
-						...data.contact.social.map((socialMediaLink) => ({
-							url: socialMediaLink.url,
-							title: socialMediaLink.name
-						})),
-						{
-							url: data.contact.link.url,
-							title: data.contact.link.name
-						}
-					]}
-				/>
 
 				{/* Scroll to Top Button */}
 				<Button
