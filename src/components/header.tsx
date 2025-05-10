@@ -1,9 +1,12 @@
-import { Cloud, Github, Menu, Info, Layers, FolderGit2 } from 'lucide-react';
+import { Cloud, Github, Menu, Info, Layers, FolderGit2, Sun, Moon } from 'lucide-react';
 import { useState } from 'react';
-import { ThemeToggle } from './theme-toggle';
+import { useTheme } from 'next-themes';
 
 export function Header() {
   const [open, setOpen] = useState(false);
+  const { theme, setTheme } = useTheme();
+  const isDark = theme === 'dark';
+
   return (
     <header className="w-full">
       {/* Header Bar */}
@@ -24,58 +27,64 @@ export function Header() {
           </button>
           {/* Dropdown menu */}
           {open && (
-            <div className="absolute right-0 top-14 w-56 rounded-3xl bg-background/90 backdrop-blur-2xl border border-primary/20 shadow-2xl py-2 z-50 animate-fadein flex flex-col gap-1">
+            <div className="absolute right-0 top-14 w-48 rounded-xl bg-background/95 border border-border/60 py-1 z-50 animate-fadein flex flex-col shadow-sm">
               <a
                 href="#about"
-                className="flex items-center gap-2 px-5 py-3 text-primary hover:bg-primary/10 rounded-2xl transition-colors font-semibold text-base"
+                className="flex items-center gap-2 px-4 py-2 text-foreground hover:bg-primary/5 hover:border-l-2 hover:border-primary/60 rounded-none font-medium text-sm transition-colors"
                 onClick={() => setOpen(false)}
               >
-                <Info className="h-5 w-5" /> About
+                <Info className="h-4 w-4" /> About
               </a>
               <a
                 href="#tech-stack"
-                className="flex items-center gap-2 px-5 py-3 text-primary hover:bg-primary/10 rounded-2xl transition-colors font-semibold text-base"
+                className="flex items-center gap-2 px-4 py-2 text-foreground hover:bg-primary/5 hover:border-l-2 hover:border-primary/60 rounded-none font-medium text-sm transition-colors"
                 onClick={() => setOpen(false)}
               >
-                <Layers className="h-5 w-5" /> Tech Stack
+                <Layers className="h-4 w-4" /> Tech Stack
               </a>
-              <div className="h-px bg-gradient-to-r from-transparent via-primary/30 to-transparent my-1 mx-3" />
+              <div className="h-px bg-border/60 my-1 mx-2" />
               <a
                 href="#all-repositories"
-                className="flex items-center gap-2 px-5 py-3 text-primary hover:bg-primary/10 rounded-2xl transition-colors font-semibold text-base"
+                className="flex items-center gap-2 px-4 py-2 text-foreground hover:bg-primary/5 hover:border-l-2 hover:border-primary/60 rounded-none font-medium text-sm transition-colors"
                 onClick={() => setOpen(false)}
               >
-                <FolderGit2 className="h-5 w-5" /> All Repositories
+                <FolderGit2 className="h-4 w-4" /> All Repositories
               </a>
-              {/* Divider above theme toggle */}
-              <div className="h-px bg-gradient-to-r from-transparent via-primary/20 to-transparent my-2 mx-3" />
-              <div className="flex items-center justify-center py-2">
-                <ThemeToggle />
-              </div>
+              <div className="h-px bg-border/40 my-1 mx-2" />
+              <button
+                className="flex items-center gap-2 px-4 py-2 w-full text-foreground hover:bg-primary/5 hover:border-l-2 hover:border-primary/60 rounded-none font-medium text-sm transition-colors"
+                onClick={() => {
+                  setTheme(isDark ? 'light' : 'dark');
+                  setOpen(false);
+                }}
+                aria-label="Toggle theme"
+                type="button"
+              >
+                {isDark ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
+                <span>{isDark ? 'Light Mode' : 'Dark Mode'}</span>
+              </button>
             </div>
           )}
         </div>
       </div>
       {/* Hero Section */}
-      <div className="relative flex flex-col items-center justify-center text-center px-4 py-16 sm:py-20 md:py-28 lg:py-32 animate-fadein">
-        {/* Enhanced background with radial gradient and glow */}
-        <div
-          className="absolute inset-0 mx-auto max-w-3xl h-full rounded-3xl bg-background/80 backdrop-blur-2xl shadow-2xl border border-primary/20 -z-10"
-          style={{
-            background:
-              'radial-gradient(ellipse at 50% 30%, rgba(59,130,246,0.13) 0%, transparent 80%), var(--tw-bg-opacity, 1)',
-          }}
-        />
-        <div className="flex flex-col items-center gap-5">
-          <Cloud className="h-20 w-20 text-blue-400 drop-shadow-2xl mb-2 animate-float-glow" />
-          <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold bg-gradient-to-r from-primary to-blue-500 bg-clip-text text-transparent drop-shadow-xl relative">
-            DevOps/GitHub Repositories
-            <span className="block h-1.5 w-2/3 mx-auto mt-3 bg-gradient-to-r from-primary/60 via-blue-400 to-primary/60 rounded-full animate-gradient-move" />
+      <div
+        className="relative flex flex-col items-center justify-center text-center px-2 sm:px-6 py-8 sm:py-12 md:py-16 lg:py-20 animate-fadein rounded-3xl mx-auto max-w-md sm:max-w-2xl md:max-w-3xl lg:max-w-4xl xl:max-w-5xl bg-background/80 backdrop-blur-2xl shadow-2xl border border-primary/20 mt-4 sm:mt-8 md:mt-12"
+        style={{
+          background:
+            'radial-gradient(ellipse at 50% 30%, rgba(59,130,246,0.13) 0%, transparent 80%), var(--tw-bg-opacity, 1)',
+        }}
+      >
+        <div className="flex flex-col items-center gap-3 sm:gap-5">
+          <Cloud className="h-10 w-10 sm:h-14 sm:w-14 md:h-16 md:w-16 lg:h-20 lg:w-20 text-blue-400 drop-shadow-2xl mb-1 sm:mb-2 animate-float-glow" />
+          <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold bg-gradient-to-r from-primary to-blue-500 bg-clip-text text-transparent drop-shadow-xl relative">
+            DevOps/Cloud GitHub Repositories
+            <span className="block h-1 w-2/3 mx-auto mt-2 sm:mt-3 bg-gradient-to-r from-primary/60 via-blue-400 to-primary/60 rounded-full animate-gradient-move" />
           </h1>
-          <span className="text-md sm:text-xl font-semibold text-blue-500/90 tracking-wide mt-1 mb-2">
+          <span className="text-xs sm:text-base md:text-lg font-semibold text-blue-500/90 tracking-wide mt-1 mb-1 sm:mb-2">
             by ProDevOpsGuy Tech
           </span>
-          <p className="mt-2 max-w-2xl text-base sm:text-xl text-muted-foreground font-mono">
+          <p className="mt-2 max-w-xl sm:max-w-2xl text-xs sm:text-base md:text-lg text-muted-foreground font-mono">
             Discover, learn, and grow with the best open-source DevOps and Cloud repositories curated for engineers and professionals.
           </p>
         </div>
