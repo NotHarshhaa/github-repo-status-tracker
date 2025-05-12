@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-12%2001:44%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-12%2006:30%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -347,11 +347,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer)
 
-🗓 **Last Updated:** `2025-04-30`  
+🗓 **Last Updated:** `2025-05-12`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/be9c6c56a2e085cdccf0b8cf6191c8cc9ae15bad)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `44` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
+⭐ **Stars:** `45` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
 
 ---
 
@@ -365,7 +365,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `296` | 🍴 **Forks:** `160` | ✅ **CI/CD Status**  
+⭐ **Stars:** `296` | 🍴 **Forks:** `159` | ✅ **CI/CD Status**  
 
 ---
 
@@ -445,11 +445,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions)
 
-🗓 **Last Updated:** `2025-05-10`  
+🗓 **Last Updated:** `2025-05-12`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `203` | 🍴 **Forks:** `151` | ✅ **CI/CD Status**  
+⭐ **Stars:** `204` | 🍴 **Forks:** `151` | ✅ **CI/CD Status**  
 
 ---
 
