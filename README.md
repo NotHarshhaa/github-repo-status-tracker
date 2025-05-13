@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-12%2018:28%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-13%2001:42%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -361,11 +361,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-learning-path)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path)
 
-🗓 **Last Updated:** `2025-05-10`  
+🗓 **Last Updated:** `2025-05-12`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `296` | 🍴 **Forks:** `159` | ✅ **CI/CD Status**  
+⭐ **Stars:** `295` | 🍴 **Forks:** `159` | ✅ **CI/CD Status**  
 
 ---
 
