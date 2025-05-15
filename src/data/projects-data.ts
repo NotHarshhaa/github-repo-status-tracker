@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 166,
-    "forks": 143,
+    "forks": 144,
     "issues": 2,
     "lastUpdated": "2025-05-14T16:26:14Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1621,
-    "forks": 1960,
+    "stars": 1622,
+    "forks": 1962,
     "issues": 9,
-    "lastUpdated": "2025-05-14T17:18:18Z",
+    "lastUpdated": "2025-05-14T23:40:15Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
@@ -235,7 +235,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/cloud-native-monitoring-app"
     },
     "stars": 7,
-    "forks": 16,
+    "forks": 17,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:04:31Z",
     "lastCommit": "15102a44dc31d8f340e4ae1ca83db337b488c483"
@@ -301,7 +301,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 146,
-    "forks": 162,
+    "forks": 163,
     "issues": 0,
     "lastUpdated": "2025-04-28T20:27:52Z",
     "lastCommit": "b27233f4a9f414b5c104dc042203f43b693ff01c"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 155,
-    "forks": 122,
+    "forks": 123,
     "issues": 0,
     "lastUpdated": "2025-05-14T15:27:51Z",
     "lastCommit": "95fded2bfb115e3e749cbd21764cc6f2a0006ea7"
