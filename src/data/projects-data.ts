@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1631,
-    "forks": 1966,
+    "stars": 1632,
+    "forks": 1969,
     "issues": 9,
-    "lastUpdated": "2025-05-16T09:31:40Z",
+    "lastUpdated": "2025-05-16T13:16:04Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 240,
-    "forks": 172,
+    "forks": 173,
     "issues": 0,
     "lastUpdated": "2025-05-16T09:41:56Z",
     "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
@@ -351,7 +351,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra"
     },
     "stars": 9,
-    "forks": 18,
+    "forks": 19,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:10:14Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
