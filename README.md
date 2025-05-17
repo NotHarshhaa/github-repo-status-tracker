@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-17%2006:26%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-17%2012:36%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `9`  
-⭐ **Stars:** `1635` | 🍴 **Forks:** `1971` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1636` | 🍴 **Forks:** `1972` | ✅ **CI/CD Status**  
 
 ---
 
@@ -239,7 +239,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `240` | 🍴 **Forks:** `173` | ✅ **CI/CD Status**  
+⭐ **Stars:** `240` | 🍴 **Forks:** `174` | ✅ **CI/CD Status**  
 
 ---
 
@@ -361,11 +361,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-learning-path)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path)
 
-🗓 **Last Updated:** `2025-05-15`  
+🗓 **Last Updated:** `2025-05-17`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `296` | 🍴 **Forks:** `160` | ✅ **CI/CD Status**  
+⭐ **Stars:** `298` | 🍴 **Forks:** `161` | ✅ **CI/CD Status**  
 
 ---
 
@@ -445,11 +445,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions)
 
-🗓 **Last Updated:** `2025-05-16`  
+🗓 **Last Updated:** `2025-05-17`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `212` | 🍴 **Forks:** `156` | ✅ **CI/CD Status**  
+⭐ **Stars:** `213` | 🍴 **Forks:** `156` | ✅ **CI/CD Status**  
 
 ---
 
