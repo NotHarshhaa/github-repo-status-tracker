@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-19%2012:42%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-19%2018:28%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -183,7 +183,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `166` | 🍴 **Forks:** `144` | ✅ **CI/CD Status**  
+⭐ **Stars:** `166` | 🍴 **Forks:** `145` | ✅ **CI/CD Status**  
 
 ---
 
@@ -197,7 +197,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `112` | 🍴 **Forks:** `87` | ✅ **CI/CD Status**  
+⭐ **Stars:** `112` | 🍴 **Forks:** `88` | ✅ **CI/CD Status**  
 
 ---
 
@@ -211,7 +211,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/a81343272b9e0ca5acd0143c05b33c30fe2cb456)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `47` | 🍴 **Forks:** `43` | ✅ **CI/CD Status**  
+⭐ **Stars:** `47` | 🍴 **Forks:** `44` | ✅ **CI/CD Status**  
 
 ---
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `9`  
-⭐ **Stars:** `1639` | 🍴 **Forks:** `1983` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1639` | 🍴 **Forks:** `1986` | ✅ **CI/CD Status**  
 
 ---
 
@@ -323,7 +323,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `152` | 🍴 **Forks:** `184` | ✅ **CI/CD Status**  
+⭐ **Stars:** `152` | 🍴 **Forks:** `185` | ✅ **CI/CD Status**  
 
 ---
 
@@ -337,7 +337,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `146` | 🍴 **Forks:** `163` | ✅ **CI/CD Status**  
+⭐ **Stars:** `146` | 🍴 **Forks:** `164` | ✅ **CI/CD Status**  
 
 ---
 
@@ -351,7 +351,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/b304b621f3eb2af5eeeabe6258578f3176bf9fd9)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `45` | 🍴 **Forks:** `47` | ✅ **CI/CD Status**  
+⭐ **Stars:** `45` | 🍴 **Forks:** `48` | ✅ **CI/CD Status**  
 
 ---
 
@@ -365,7 +365,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `298` | 🍴 **Forks:** `161` | ✅ **CI/CD Status**  
+⭐ **Stars:** `298` | 🍴 **Forks:** `162` | ✅ **CI/CD Status**  
 
 ---
 
@@ -393,7 +393,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `77` | 🍴 **Forks:** `48` | ✅ **CI/CD Status**  
+⭐ **Stars:** `77` | 🍴 **Forks:** `49` | ✅ **CI/CD Status**  
 
 ---
 
@@ -407,7 +407,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/360677ff36bf88d19ac92002c0285807e4c604bb)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `47` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
+⭐ **Stars:** `47` | 🍴 **Forks:** `46` | ✅ **CI/CD Status**  
 
 ---
 
@@ -431,11 +431,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-cheatsheet)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet)
 
-🗓 **Last Updated:** `2025-05-16`  
+🗓 **Last Updated:** `2025-05-19`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/95fded2bfb115e3e749cbd21764cc6f2a0006ea7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `157` | 🍴 **Forks:** `124` | ✅ **CI/CD Status**  
+⭐ **Stars:** `157` | 🍴 **Forks:** `125` | ✅ **CI/CD Status**  
 
 ---
 
@@ -449,7 +449,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `217` | 🍴 **Forks:** `158` | ✅ **CI/CD Status**  
+⭐ **Stars:** `222` | 🍴 **Forks:** `162` | ✅ **CI/CD Status**  
 
 ---
 
@@ -463,7 +463,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `443` | 🍴 **Forks:** `307` | ✅ **CI/CD Status**  
+⭐ **Stars:** `443` | 🍴 **Forks:** `308` | ✅ **CI/CD Status**  
 
 ---
 
@@ -505,7 +505,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `62` | 🍴 **Forks:** `60` | ✅ **CI/CD Status**  
+⭐ **Stars:** `62` | 🍴 **Forks:** `61` | ✅ **CI/CD Status**  
 
 ---
 
@@ -519,7 +519,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `88` | 🍴 **Forks:** `70` | ✅ **CI/CD Status**  
+⭐ **Stars:** `88` | 🍴 **Forks:** `71` | ✅ **CI/CD Status**  
 
 ---
 
