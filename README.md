@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-26%2018:27%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-27%2001:41%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `9`  
-⭐ **Stars:** `1663` | 🍴 **Forks:** `2016` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1665` | 🍴 **Forks:** `2017` | ✅ **CI/CD Status**  
 
 ---
 
@@ -239,7 +239,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `246` | 🍴 **Forks:** `175` | ✅ **CI/CD Status**  
+⭐ **Stars:** `247` | 🍴 **Forks:** `175` | ✅ **CI/CD Status**  
 
 ---
 
@@ -333,11 +333,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations)
 
-🗓 **Last Updated:** `2025-05-23`  
+🗓 **Last Updated:** `2025-05-26`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `148` | 🍴 **Forks:** `164` | ✅ **CI/CD Status**  
+⭐ **Stars:** `149` | 🍴 **Forks:** `164` | ✅ **CI/CD Status**  
 
 ---
 
@@ -449,7 +449,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `245` | 🍴 **Forks:** `174` | ✅ **CI/CD Status**  
+⭐ **Stars:** `245` | 🍴 **Forks:** `175` | ✅ **CI/CD Status**  
 
 ---
 
@@ -459,11 +459,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/into-the-devops)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops)
 
-🗓 **Last Updated:** `2025-05-25`  
+🗓 **Last Updated:** `2025-05-26`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `457` | 🍴 **Forks:** `316` | ✅ **CI/CD Status**  
+⭐ **Stars:** `459` | 🍴 **Forks:** `316` | ✅ **CI/CD Status**  
 
 ---
 
@@ -519,7 +519,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `92` | 🍴 **Forks:** `71` | ✅ **CI/CD Status**  
+⭐ **Stars:** `93` | 🍴 **Forks:** `71` | ✅ **CI/CD Status**  
 
 ---
 
