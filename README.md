@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-27%2001:41%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-05-27%2006:29%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -197,7 +197,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `114` | 🍴 **Forks:** `88` | ✅ **CI/CD Status**  
+⭐ **Stars:** `114` | 🍴 **Forks:** `89` | ✅ **CI/CD Status**  
 
 ---
 
@@ -221,11 +221,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Projects)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects)
 
-🗓 **Last Updated:** `2025-05-26`  
+🗓 **Last Updated:** `2025-05-27`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `9`  
-⭐ **Stars:** `1665` | 🍴 **Forks:** `2017` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1666` | 🍴 **Forks:** `2019` | ✅ **CI/CD Status**  
 
 ---
 
@@ -337,7 +337,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `149` | 🍴 **Forks:** `164` | ✅ **CI/CD Status**  
+⭐ **Stars:** `149` | 🍴 **Forks:** `166` | ✅ **CI/CD Status**  
 
 ---
 
@@ -463,7 +463,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `459` | 🍴 **Forks:** `316` | ✅ **CI/CD Status**  
+⭐ **Stars:** `459` | 🍴 **Forks:** `318` | ✅ **CI/CD Status**  
 
 ---
 
@@ -519,7 +519,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `93` | 🍴 **Forks:** `71` | ✅ **CI/CD Status**  
+⭐ **Stars:** `93` | 🍴 **Forks:** `72` | ✅ **CI/CD Status**  
 
 ---
 
