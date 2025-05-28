@@ -33,11 +33,11 @@ export type RepoData = {
 // Main data export
 export const REPOS_DATA: RepoData = {
 	// General info
-	name: 'Most Useful DevOps/Cloud GitHub Repositories for Learning and Become a Professional DevOps Engineer',
+	name: 'DevOps & Cloud GitHub Repositories',
 	location: 'Hyderabad, India',
 	locationLink: 'https://www.google.com/maps/place/Hyderabad',
-	about: `This page features a curated list of the most useful DevOps and Cloud GitHub repositories to help you learn essential skills and become a professional DevOps Engineer.`,
-	summary: `Explore top open-source GitHub repositories focused on DevOps, Cloud Computing, CI/CD, containerization, infrastructure as code, and monitoring. This collection is designed for beginners and professionals aiming to build practical knowledge through hands-on tools and projects. Whether you're learning Kubernetes, Docker, Terraform, or cloud services like AWS and Azure, these repositories provide real-world guidance to grow your DevOps skills and career.`,
+	about: 'A curated collection of essential DevOps and Cloud repositories.',
+	summary: 'A comprehensive collection of DevOps and Cloud resources.',
 	personalWebsiteUrl: {
 		name: 'Portfolio',
 		url: 'https://notharshhaa.site'

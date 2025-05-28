@@ -2,14 +2,14 @@
 
 import { Badge } from '@/components/ui/badge'
 import { Section } from '@/components/ui/section'
-import { ButtonLink } from '@/components/button-link'
 import { ProjectCard } from '@/components/project-card'
-import { GlobeIcon, ArrowUp } from 'lucide-react'
+import { ArrowUp } from 'lucide-react'
 import { data } from '@/constants'
 import { Button } from '@/components/ui/button'
 import { useEffect, useState } from 'react'
 import { cn } from '@/lib/utils'
 import { Header } from '@/components/header'
+import { Footer } from '@/components/footer'
 
 export default function Page() {
 	const [showScrollTop, setShowScrollTop] = useState(false)
@@ -30,43 +30,8 @@ export default function Page() {
 	return (
 		<main className="min-h-screen bg-gradient-to-b from-background to-background/95">
 			<Header />
-			<div className="mx-auto max-w-[1400px] relative scroll-my-12 overflow-auto p-3 sm:p-4 md:p-6 lg:p-8 print:p-12">
-				<section className="mx-auto w-full max-w-[1200px] space-y-8 sm:space-y-10 md:space-y-12 bg-background/80 text-foreground print:space-y-6 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 border border-border/50">
-					<div className='flex items-center justify-between'>
-						<div className='flex-1 space-y-2 sm:space-y-3'>
-							<div className="space-y-1.5 sm:space-y-2">
-								<h1 className='text-2xl sm:text-3xl md:text-4xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent'>
-									{data.name}
-								</h1>
-								<p className='max-w-4xl text-pretty font-mono text-sm sm:text-base text-muted-foreground leading-relaxed'>
-									{data.about}
-								</p>
-								<p className='max-w-md items-center text-pretty font-mono text-xs sm:text-sm text-muted-foreground'>
-									<a
-										className='inline-flex gap-x-1.5 sm:gap-x-2 align-baseline leading-none hover:text-primary transition-colors'
-										href={data.locationLink}
-										target='_blank'
-										rel='noreferrer'
-									>
-										<GlobeIcon className='size-3 sm:size-4' />
-										{data.location}
-									</a>
-								</p>
-							</div>
-
-							<ButtonLink data={data} />
-						</div>
-					</div>
-
-					<Section id="about">
-						<h2 className='text-xl sm:text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent'>
-							About
-						</h2>
-						<p className='text-pretty font-mono text-sm sm:text-base text-muted-foreground leading-relaxed mt-3 sm:mt-4'>
-							{data.summary}
-						</p>
-					</Section>
-
+			<div className="mx-auto max-w-[1600px] relative scroll-my-12 overflow-auto p-3 sm:p-4 md:p-6 lg:p-8 print:p-12">
+				<section className="mx-auto w-full max-w-[1400px] space-y-8 sm:space-y-10 md:space-y-12 bg-background/80 text-foreground print:space-y-6 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 border border-border/50">
 					<Section id="tech-stack">
 						<h2 className='text-xl sm:text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent'>
 							Tech Stack
@@ -87,7 +52,7 @@ export default function Page() {
 						<h2 className='text-xl sm:text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent'>
 							All Repositories
 						</h2>
-						<div className='px-1 sm:px-2 grid grid-cols-1 gap-3 sm:gap-4 print:grid-cols-3 print:gap-2 md:grid-cols-2 lg:grid-cols-3 mt-3 sm:mt-4'>
+						<div className='px-1 sm:px-2 grid grid-cols-1 gap-3 sm:gap-4 print:grid-cols-3 print:gap-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mt-3 sm:mt-4'>
 							{data.projects.map((project) => (
 								<ProjectCard
 									key={project.title}
@@ -123,6 +88,7 @@ export default function Page() {
 					<ArrowUp className="size-4 sm:size-5" />
 				</Button>
 			</div>
+			<Footer />
 		</main>
 	)
 }

@@ -55,13 +55,13 @@ export function ProjectCard({
 
   return (
     <TooltipProvider>
-      <Card className="group flex flex-col overflow-visible border border-border/50 bg-card/50 backdrop-blur-sm text-card-foreground p-6 shadow-lg hover:shadow-xl transition-all duration-300 rounded-2xl hover:border-border/80 hover:bg-card/80">
-        <CardHeader className="mb-4">
-          <div className="space-y-3">
-            <CardTitle className="text-xl font-bold flex items-center gap-2 flex-wrap group-hover:text-primary transition-colors">
+      <Card className="group flex flex-col overflow-visible border border-border/50 bg-card/50 backdrop-blur-sm text-card-foreground p-3 sm:p-6 shadow-lg hover:shadow-xl transition-all duration-300 rounded-xl sm:rounded-2xl hover:border-border/80 hover:bg-card/80">
+        <CardHeader className="mb-2 sm:mb-4 p-0 sm:p-0 space-y-2 sm:space-y-3">
+          <div className="space-y-2 sm:space-y-3">
+            <CardTitle className="text-lg sm:text-xl font-bold flex items-center gap-1.5 sm:gap-2 flex-wrap group-hover:text-primary transition-colors">
               {title}
               {link && (
-                <span className="h-2 w-2 rounded-full bg-green-500 animate-pulse" />
+                <span className="h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full bg-green-500 animate-pulse" />
               )}
               {status && (
                 <TooltipProvider>
@@ -69,7 +69,7 @@ export function ProjectCard({
                     <TooltipTrigger asChild>
                       <Badge
                         className={cn(
-                          'text-[11px] px-2.5 py-1 rounded-full font-medium capitalize cursor-default transition-colors',
+                          'text-[10px] sm:text-[11px] px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-full font-medium capitalize cursor-default transition-colors',
                           status === 'active'
                             ? 'bg-green-100/80 text-green-800 dark:bg-green-900/80 dark:text-green-300'
                             : 'bg-red-100/80 text-red-800 dark:bg-red-900/80 dark:text-red-300'
@@ -85,22 +85,22 @@ export function ProjectCard({
             </CardTitle>
 
             {link && (
-              <div className="hidden font-mono text-sm text-muted-foreground/80 underline print:visible">
+              <div className="hidden font-mono text-xs sm:text-sm text-muted-foreground/80 underline print:visible">
                 {link.replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\/$/, '')}
               </div>
             )}
 
-            <CardDescription className="font-mono text-sm text-muted-foreground/90 leading-relaxed">
+            <CardDescription className="font-mono text-xs sm:text-sm text-muted-foreground/90 leading-relaxed">
               {description}
             </CardDescription>
           </div>
         </CardHeader>
 
-        <CardContent className="mt-auto flex flex-col gap-5">
-          <div className="flex flex-wrap gap-2">
+        <CardContent className="mt-auto flex flex-col gap-3 sm:gap-5 p-0 sm:p-0">
+          <div className="flex flex-wrap gap-1.5 sm:gap-2">
             {tags.map(tag => (
               <Badge
-                className="px-3 py-1 text-xs font-medium rounded-full bg-secondary/50 hover:bg-secondary/80 transition-colors"
+                className="px-2 sm:px-3 py-0.5 sm:py-1 text-[10px] sm:text-xs font-medium rounded-full bg-secondary/50 hover:bg-secondary/80 transition-colors"
                 variant="secondary"
                 key={tag}
               >
@@ -110,12 +110,12 @@ export function ProjectCard({
           </div>
 
           {(stars != null || forks != null || issues != null || lastUpdated || lastCommit) && (
-            <div className="text-xs text-muted-foreground/90 font-mono flex gap-5 flex-wrap items-center">
+            <div className="text-[10px] sm:text-xs text-muted-foreground/90 font-mono flex gap-3 sm:gap-5 flex-wrap items-center">
               {stars != null && (
                 <Tooltip>
                   <TooltipTrigger asChild>
-                    <span className="inline-flex items-center gap-1.5 hover:text-primary transition-colors">
-                      <Star className="h-4 w-4" /> {stars.toLocaleString()}
+                    <span className="inline-flex items-center gap-1 sm:gap-1.5 hover:text-primary transition-colors">
+                      <Star className="h-3 w-3 sm:h-4 sm:w-4" /> {stars.toLocaleString()}
                     </span>
                   </TooltipTrigger>
                   <TooltipContent side="top" className="text-xs">
@@ -126,8 +126,8 @@ export function ProjectCard({
               {forks != null && (
                 <Tooltip>
                   <TooltipTrigger asChild>
-                    <span className="inline-flex items-center gap-1.5 hover:text-primary transition-colors">
-                      <GitFork className="h-4 w-4" /> {forks.toLocaleString()}
+                    <span className="inline-flex items-center gap-1 sm:gap-1.5 hover:text-primary transition-colors">
+                      <GitFork className="h-3 w-3 sm:h-4 sm:w-4" /> {forks.toLocaleString()}
                     </span>
                   </TooltipTrigger>
                   <TooltipContent side="top" className="text-xs">
@@ -138,72 +138,65 @@ export function ProjectCard({
               {issues != null && (
                 <Tooltip>
                   <TooltipTrigger asChild>
-                    <span className="inline-flex items-center gap-1.5 hover:text-primary transition-colors">
-                      <Bug className="h-4 w-4" /> {issues.toLocaleString()}
+                    <span className="inline-flex items-center gap-1 sm:gap-1.5 hover:text-primary transition-colors">
+                      <Bug className="h-3 w-3 sm:h-4 sm:w-4" /> {issues.toLocaleString()}
                     </span>
                   </TooltipTrigger>
                   <TooltipContent side="top" className="text-xs">
-                    <p>{issues.toLocaleString()} open issues</p>
+                    <p>{issues.toLocaleString()} issues</p>
                   </TooltipContent>
                 </Tooltip>
               )}
               {lastUpdated && (
                 <Tooltip>
                   <TooltipTrigger asChild>
-                    <span className="relative inline-flex items-center gap-1.5 hover:text-primary transition-colors">
-                      <Clock className="h-4 w-4" />
-                      {new Date(lastUpdated).toLocaleDateString(undefined, {
-                        year: 'numeric',
-                        month: 'short',
+                    <span className="inline-flex items-center gap-1 sm:gap-1.5 hover:text-primary transition-colors">
+                      <Clock className="h-3 w-3 sm:h-4 sm:w-4" />
+                      {new Date(lastUpdated).toLocaleDateString('en-US', {
                         day: 'numeric',
+                        month: 'short',
+                        year: 'numeric'
                       })}
                     </span>
                   </TooltipTrigger>
-                  <TooltipContent side="top" align="center" className="text-xs">
-                    <p>
-                      Last updated on{' '}
-                      {new Date(lastUpdated).toLocaleDateString(undefined, {
-                        year: 'numeric',
-                        month: 'long',
-                        day: 'numeric',
-                      })}
-                    </p>
+                  <TooltipContent side="top" className="text-xs">
+                    <p>Last updated on {new Date(lastUpdated).toLocaleDateString()}</p>
                   </TooltipContent>
                 </Tooltip>
               )}
               {lastCommit && (
                 <Tooltip>
-                  <button
-                    onClick={() =>
-                      link && window.open(`https://github.com/${link.split("github.com/")[1]}/commit/${lastCommit}`, "_blank")
-                    }
-                    className="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs rounded-full transition-all
-                            bg-blue-100/80 text-blue-800 hover:bg-blue-200/80 hover:scale-105
-                            dark:bg-blue-900/80 dark:text-blue-200 dark:hover:bg-blue-800/80"
-                  >
-                    <GitCommit className="h-3.5 w-3.5" />
-                    {lastCommit.slice(0, 7)}
-                  </button>
+                  <TooltipTrigger asChild>
+                    <span className="inline-flex items-center gap-1 sm:gap-1.5 hover:text-primary transition-colors">
+                      <GitCommit className="h-3 w-3 sm:h-4 sm:w-4" />
+                      {lastCommit.slice(0, 7)}
+                    </span>
+                  </TooltipTrigger>
+                  <TooltipContent side="top" className="text-xs">
+                    <p>Latest commit: {lastCommit}</p>
+                  </TooltipContent>
                 </Tooltip>
               )}
             </div>
           )}
 
           {link && (
-            <a 
-              href={link} 
-              target="_blank" 
-              rel="noreferrer" 
-              className="w-fit mt-2"
+            <Button
+              asChild
+              variant="outline"
+              size="sm"
+              className="w-full mt-2 sm:mt-3 text-xs sm:text-sm h-8 sm:h-9 bg-black text-white hover:bg-black/90 hover:text-white dark:bg-white dark:text-black dark:hover:bg-white/90 dark:hover:text-black border-0 transition-colors duration-200"
             >
-              <Button 
-                variant="github" 
-                className="flex items-center gap-2 text-sm px-5 py-2.5 rounded-full hover:scale-105 transition-all duration-300 shadow-md hover:shadow-lg"
+              <a
+                href={link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5"
               >
-                <Github className="h-5 w-5" />
+                <Github className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
                 View on GitHub
-              </Button>
-            </a>
+              </a>
+            </Button>
           )}
         </CardContent>
       </Card>
