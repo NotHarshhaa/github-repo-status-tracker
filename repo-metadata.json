@@ -25,18 +25,18 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 1676,
-    "forks": 2030,
+    "stars": 1678,
+    "forks": 2031,
     "issues": 10,
-    "lastUpdated": "2025-05-28T06:14:32Z",
+    "lastUpdated": "2025-05-29T14:49:20Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 248,
+    "stars": 247,
     "forks": 175,
     "issues": 0,
-    "lastUpdated": "2025-05-27T14:24:06Z",
+    "lastUpdated": "2025-05-29T15:20:24Z",
     "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 312,
+    "stars": 313,
     "forks": 163,
     "issues": 2,
-    "lastUpdated": "2025-05-28T14:51:32Z",
+    "lastUpdated": "2025-05-29T14:46:20Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -154,7 +154,7 @@
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 249,
-    "forks": 179,
+    "forks": 180,
     "issues": 1,
     "lastUpdated": "2025-05-29T07:49:58Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
@@ -193,10 +193,10 @@
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
-    "stars": 93,
+    "stars": 94,
     "forks": 74,
     "issues": 0,
-    "lastUpdated": "2025-05-26T20:16:50Z",
+    "lastUpdated": "2025-05-29T14:47:30Z",
     "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
   },
   {
