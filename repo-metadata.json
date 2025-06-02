@@ -25,18 +25,18 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 1685,
+    "stars": 1688,
     "forks": 2039,
     "issues": 10,
-    "lastUpdated": "2025-06-01T10:46:20Z",
+    "lastUpdated": "2025-06-02T00:37:18Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 249,
+    "stars": 250,
     "forks": 176,
     "issues": 0,
-    "lastUpdated": "2025-06-01T11:30:29Z",
+    "lastUpdated": "2025-06-01T20:08:26Z",
     "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
   },
   {
@@ -198,5 +198,13 @@
     "issues": 0,
     "lastUpdated": "2025-05-29T14:47:30Z",
     "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
+  },
+  {
+    "repo": "uber-clone",
+    "stars": 2,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2025-04-17T02:17:01Z",
+    "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
   }
 ]
