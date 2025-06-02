@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-02%2001:47%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-02%2006:31%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -487,11 +487,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/tf-ecr-ecs-gh-deploy)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/tf-ecr-ecs-gh-deploy)
 
-🗓 **Last Updated:** `2025-03-28`  
+🗓 **Last Updated:** `2025-06-02`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy/commit/76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `6` | 🍴 **Forks:** `15` | ✅ **CI/CD Status**  
+⭐ **Stars:** `7` | 🍴 **Forks:** `15` | ✅ **CI/CD Status**  
 
 ---
 
