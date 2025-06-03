@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Terraform-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 10,
     "issues": 0,
-    "lastUpdated": "2025-04-15T17:59:55Z",
+    "lastUpdated": "2025-06-03T13:36:09Z",
     "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1724,
-    "forks": 2095,
+    "stars": 1734,
+    "forks": 2109,
     "issues": 10,
-    "lastUpdated": "2025-06-03T12:22:21Z",
+    "lastUpdated": "2025-06-03T17:53:57Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 315,
+    "stars": 316,
     "forks": 165,
     "issues": 2,
-    "lastUpdated": "2025-05-31T10:30:30Z",
+    "lastUpdated": "2025-06-03T14:56:46Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 162,
+    "stars": 163,
     "forks": 124,
     "issues": 0,
-    "lastUpdated": "2025-05-31T16:32:08Z",
+    "lastUpdated": "2025-06-03T16:16:30Z",
     "lastCommit": "95fded2bfb115e3e749cbd21764cc6f2a0006ea7"
   },
   {

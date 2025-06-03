@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-03%2012:42%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-03%2018:29%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `10`  
-⭐ **Stars:** `1724` | 🍴 **Forks:** `2095` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1734` | 🍴 **Forks:** `2109` | ✅ **CI/CD Status**  
 
 ---
 
@@ -361,11 +361,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-learning-path)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path)
 
-🗓 **Last Updated:** `2025-05-31`  
+🗓 **Last Updated:** `2025-06-03`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `315` | 🍴 **Forks:** `165` | ✅ **CI/CD Status**  
+⭐ **Stars:** `316` | 🍴 **Forks:** `165` | ✅ **CI/CD Status**  
 
 ---
 
@@ -431,11 +431,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-cheatsheet)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet)
 
-🗓 **Last Updated:** `2025-05-31`  
+🗓 **Last Updated:** `2025-06-03`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/95fded2bfb115e3e749cbd21764cc6f2a0006ea7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `162` | 🍴 **Forks:** `124` | ✅ **CI/CD Status**  
+⭐ **Stars:** `163` | 🍴 **Forks:** `124` | ✅ **CI/CD Status**  
 
 ---
 
@@ -473,11 +473,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop)
 
-🗓 **Last Updated:** `2025-04-15`  
+🗓 **Last Updated:** `2025-06-03`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `5` | 🍴 **Forks:** `10` | ✅ **CI/CD Status**  
+⭐ **Stars:** `6` | 🍴 **Forks:** `10` | ✅ **CI/CD Status**  
 
 ---
 
