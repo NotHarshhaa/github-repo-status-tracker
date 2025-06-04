@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-04%2012:42%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-04%2018:29%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `10`  
-⭐ **Stars:** `1749` | 🍴 **Forks:** `2138` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1762` | 🍴 **Forks:** `2140` | ✅ **CI/CD Status**  
 
 ---
 
@@ -239,7 +239,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `250` | 🍴 **Forks:** `176` | ✅ **CI/CD Status**  
+⭐ **Stars:** `250` | 🍴 **Forks:** `177` | ✅ **CI/CD Status**  
 
 ---
 
@@ -253,7 +253,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-EKS_Terraform/commit/bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `19` | 🍴 **Forks:** `52` | ✅ **CI/CD Status**  
+⭐ **Stars:** `19` | 🍴 **Forks:** `53` | ✅ **CI/CD Status**  
 
 ---
 
@@ -267,7 +267,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/e174ff110b003113e4e2dbc8153afdd49df38fab)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `9` | 🍴 **Forks:** `18` | ✅ **CI/CD Status**  
+⭐ **Stars:** `9` | 🍴 **Forks:** `19` | ✅ **CI/CD Status**  
 
 ---
 
@@ -281,7 +281,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/cloud-native-monitoring-app/commit/15102a44dc31d8f340e4ae1ca83db337b488c483)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `7` | 🍴 **Forks:** `17` | ✅ **CI/CD Status**  
+⭐ **Stars:** `7` | 🍴 **Forks:** `18` | ✅ **CI/CD Status**  
 
 ---
 
@@ -295,7 +295,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `8` | 🍴 **Forks:** `51` | ✅ **CI/CD Status**  
+⭐ **Stars:** `8` | 🍴 **Forks:** `52` | ✅ **CI/CD Status**  
 
 ---
 
@@ -309,7 +309,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `16` | 🍴 **Forks:** `29` | ✅ **CI/CD Status**  
+⭐ **Stars:** `16` | 🍴 **Forks:** `30` | ✅ **CI/CD Status**  
 
 ---
 
@@ -379,7 +379,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra/commit/2fec48f59b8ea0a59f03314763fe18fc4fe05fbd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `9` | 🍴 **Forks:** `19` | ✅ **CI/CD Status**  
+⭐ **Stars:** `9` | 🍴 **Forks:** `20` | ✅ **CI/CD Status**  
 
 ---
 
@@ -421,7 +421,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/fc3b67f8c40d779988b71b25120f49bf14922842)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `24` | 🍴 **Forks:** `44` | ✅ **CI/CD Status**  
+⭐ **Stars:** `24` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
 
 ---
 
@@ -449,7 +449,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `258` | 🍴 **Forks:** `183` | ✅ **CI/CD Status**  
+⭐ **Stars:** `258` | 🍴 **Forks:** `184` | ✅ **CI/CD Status**  
 
 ---
 
@@ -477,7 +477,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `6` | 🍴 **Forks:** `10` | ✅ **CI/CD Status**  
+⭐ **Stars:** `6` | 🍴 **Forks:** `11` | ✅ **CI/CD Status**  
 
 ---
 
@@ -491,7 +491,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy/commit/76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `8` | 🍴 **Forks:** `15` | ✅ **CI/CD Status**  
+⭐ **Stars:** `8` | 🍴 **Forks:** `16` | ✅ **CI/CD Status**  
 
 ---
 
@@ -529,11 +529,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/uber-clone)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/uber-clone)
 
-🗓 **Last Updated:** `2025-04-17`  
+🗓 **Last Updated:** `2025-06-04`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/uber-clone/commit/d54f10fc513fc2fdd33f92041ae0f9dfaac36c43)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `2` | 🍴 **Forks:** `2` | ✅ **CI/CD Status**  
+⭐ **Stars:** `3` | 🍴 **Forks:** `3` | ✅ **CI/CD Status**  
 
 ---
 <!-- END_REPO_STATUS -->
