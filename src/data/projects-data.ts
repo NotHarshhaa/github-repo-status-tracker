@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1808,
-    "forks": 2171,
+    "stars": 1811,
+    "forks": 2173,
     "issues": 10,
-    "lastUpdated": "2025-06-07T05:42:05Z",
+    "lastUpdated": "2025-06-07T11:51:28Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
@@ -203,7 +203,7 @@ export const PROJECTS: Project[] = [
     "forks": 53,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
-    "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
+    "lastCommit": null
   },
   {
     "title": "Deploy Super Mario on EKS",
