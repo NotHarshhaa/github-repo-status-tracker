@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
     "stars": 63,
-    "forks": 63,
+    "forks": 64,
     "issues": 0,
     "lastUpdated": "2025-05-24T06:19:43Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1811,
-    "forks": 2173,
+    "stars": 1812,
+    "forks": 2175,
     "issues": 10,
-    "lastUpdated": "2025-06-07T11:51:28Z",
+    "lastUpdated": "2025-06-07T15:43:59Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
@@ -203,7 +203,7 @@ export const PROJECTS: Project[] = [
     "forks": 53,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
-    "lastCommit": null
+    "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
   },
   {
     "title": "Deploy Super Mario on EKS",
@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 77,
-    "forks": 50,
+    "forks": 51,
     "issues": 0,
     "lastUpdated": "2025-05-06T13:08:25Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 261,
-    "forks": 187,
+    "stars": 262,
+    "forks": 188,
     "issues": 1,
-    "lastUpdated": "2025-06-06T14:03:40Z",
+    "lastUpdated": "2025-06-07T11:53:33Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
