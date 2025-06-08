@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-08%2012:37%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-08%2018:25%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `10`  
-⭐ **Stars:** `1817` | 🍴 **Forks:** `2180` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1817` | 🍴 **Forks:** `2182` | ✅ **CI/CD Status**  
 
 ---
 
@@ -431,11 +431,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-cheatsheet)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet)
 
-🗓 **Last Updated:** `2025-06-05`  
+🗓 **Last Updated:** `2025-06-08`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/95fded2bfb115e3e749cbd21764cc6f2a0006ea7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `164` | 🍴 **Forks:** `126` | ✅ **CI/CD Status**  
+⭐ **Stars:** `165` | 🍴 **Forks:** `126` | ✅ **CI/CD Status**  
 
 ---
 
@@ -449,7 +449,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `264` | 🍴 **Forks:** `189` | ✅ **CI/CD Status**  
+⭐ **Stars:** `265` | 🍴 **Forks:** `189` | ✅ **CI/CD Status**  
 
 ---
 
@@ -463,7 +463,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `465` | 🍴 **Forks:** `319` | ✅ **CI/CD Status**  
+⭐ **Stars:** `465` | 🍴 **Forks:** `320` | ✅ **CI/CD Status**  
 
 ---
 
