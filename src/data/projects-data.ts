@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 166,
+    "stars": 168,
     "forks": 146,
     "issues": 2,
-    "lastUpdated": "2025-05-14T16:26:14Z",
+    "lastUpdated": "2025-06-08T04:41:56Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1812,
-    "forks": 2175,
+    "stars": 1813,
+    "forks": 2178,
     "issues": 10,
-    "lastUpdated": "2025-06-07T15:43:59Z",
+    "lastUpdated": "2025-06-08T04:04:16Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
@@ -284,10 +284,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 152,
+    "stars": 153,
     "forks": 187,
     "issues": 0,
-    "lastUpdated": "2025-05-06T13:09:35Z",
+    "lastUpdated": "2025-06-08T04:04:55Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 317,
+    "stars": 318,
     "forks": 167,
     "issues": 2,
-    "lastUpdated": "2025-06-05T21:54:58Z",
+    "lastUpdated": "2025-06-08T04:04:36Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 464,
+    "stars": 465,
     "forks": 319,
     "issues": 0,
-    "lastUpdated": "2025-06-04T09:21:59Z",
+    "lastUpdated": "2025-06-08T04:04:23Z",
     "lastCommit": "9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37"
   }
 ];
