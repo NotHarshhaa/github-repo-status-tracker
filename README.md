@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-12%2012:41%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-12%2018:28%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `10`  
-⭐ **Stars:** `1826` | 🍴 **Forks:** `2205` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1826` | 🍴 **Forks:** `2208` | ✅ **CI/CD Status**  
 
 ---
 
@@ -347,8 +347,8 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer)
 
-🗓 **Last Updated:** `2025-05-12`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/b304b621f3eb2af5eeeabe6258578f3176bf9fd9)  
+🗓 **Last Updated:** `2025-06-12`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/5901417d456e13a0659c8f4585e9f2794912a3fd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
 ⭐ **Stars:** `45` | 🍴 **Forks:** `49` | ✅ **CI/CD Status**  
@@ -431,11 +431,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-cheatsheet)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet)
 
-🗓 **Last Updated:** `2025-06-10`  
+🗓 **Last Updated:** `2025-06-12`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/95fded2bfb115e3e749cbd21764cc6f2a0006ea7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `166` | 🍴 **Forks:** `126` | ✅ **CI/CD Status**  
+⭐ **Stars:** `168` | 🍴 **Forks:** `126` | ✅ **CI/CD Status**  
 
 ---
 
@@ -449,7 +449,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `269` | 🍴 **Forks:** `191` | ✅ **CI/CD Status**  
+⭐ **Stars:** `271` | 🍴 **Forks:** `191` | ✅ **CI/CD Status**  
 
 ---
 
