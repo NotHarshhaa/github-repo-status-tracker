@@ -26,15 +26,15 @@
   {
     "repo": "DevOps-Projects",
     "stars": 1828,
-    "forks": 2209,
+    "forks": 2210,
     "issues": 10,
-    "lastUpdated": "2025-06-13T01:40:48Z",
+    "lastUpdated": "2025-06-13T06:32:33Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
     "repo": "kubernetes-projects-learning",
     "stars": 257,
-    "forks": 178,
+    "forks": 179,
     "issues": 0,
     "lastUpdated": "2025-06-12T00:54:07Z",
     "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
@@ -148,8 +148,8 @@
     "stars": 168,
     "forks": 126,
     "issues": 0,
-    "lastUpdated": "2025-06-13T04:20:48Z",
-    "lastCommit": "9e48e60a9e3044226e858040595edb1499ecf48e"
+    "lastUpdated": "2025-06-13T09:07:29Z",
+    "lastCommit": "568ffc7bbadb044fd0f349ef09b2c9cddda6952a"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -161,10 +161,10 @@
   },
   {
     "repo": "into-the-devops",
-    "stars": 464,
+    "stars": 465,
     "forks": 320,
     "issues": 0,
-    "lastUpdated": "2025-06-11T11:57:42Z",
+    "lastUpdated": "2025-06-13T11:17:14Z",
     "lastCommit": "9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37"
   },
   {
