@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-13%2018:29%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-14%2001:41%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -193,11 +193,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/Certified_Kubernetes_Administrator)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator)
 
-🗓 **Last Updated:** `2025-06-04`  
+🗓 **Last Updated:** `2025-06-13`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `115` | 🍴 **Forks:** `90` | ✅ **CI/CD Status**  
+⭐ **Stars:** `116` | 🍴 **Forks:** `90` | ✅ **CI/CD Status**  
 
 ---
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `10`  
-⭐ **Stars:** `1830` | 🍴 **Forks:** `2210` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1831` | 🍴 **Forks:** `2209` | ✅ **CI/CD Status**  
 
 ---
 
@@ -435,7 +435,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/e68ffb5d8e36a7e3326648af6817a1f779956b50)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `169` | 🍴 **Forks:** `127` | ✅ **CI/CD Status**  
+⭐ **Stars:** `170` | 🍴 **Forks:** `127` | ✅ **CI/CD Status**  
 
 ---
 
@@ -463,7 +463,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/9eef2bc334cdf3c1ff86a903b18d8523c8dc9d37)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `465` | 🍴 **Forks:** `320` | ✅ **CI/CD Status**  
+⭐ **Stars:** `466` | 🍴 **Forks:** `320` | ✅ **CI/CD Status**  
 
 ---
 
