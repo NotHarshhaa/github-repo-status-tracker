@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-16%2012:43%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-16%2018:29%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -221,11 +221,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Projects)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects)
 
-🗓 **Last Updated:** `2025-06-15`  
+🗓 **Last Updated:** `2025-06-16`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/536800970d92f3e7d09f82efa79d7adf80cdbb87)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `10`  
-⭐ **Stars:** `1836` | 🍴 **Forks:** `2218` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1835` | 🍴 **Forks:** `2218` | ✅ **CI/CD Status**  
 
 ---
 
@@ -235,11 +235,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-projects-learning)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-projects-learning)
 
-🗓 **Last Updated:** `2025-06-12`  
+🗓 **Last Updated:** `2025-06-16`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `257` | 🍴 **Forks:** `179` | ✅ **CI/CD Status**  
+⭐ **Stars:** `258` | 🍴 **Forks:** `179` | ✅ **CI/CD Status**  
 
 ---
 
@@ -337,7 +337,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `152` | 🍴 **Forks:** `167` | ✅ **CI/CD Status**  
+⭐ **Stars:** `152` | 🍴 **Forks:** `169` | ✅ **CI/CD Status**  
 
 ---
 
@@ -361,11 +361,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-learning-path)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path)
 
-🗓 **Last Updated:** `2025-06-14`  
+🗓 **Last Updated:** `2025-06-16`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `320` | 🍴 **Forks:** `168` | ✅ **CI/CD Status**  
+⭐ **Stars:** `321` | 🍴 **Forks:** `168` | ✅ **CI/CD Status**  
 
 ---
 
@@ -393,7 +393,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `77` | 🍴 **Forks:** `51` | ✅ **CI/CD Status**  
+⭐ **Stars:** `77` | 🍴 **Forks:** `53` | ✅ **CI/CD Status**  
 
 ---
 
@@ -435,7 +435,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/ffb1bb1ad5d411f9f34ef45daa8336e2a9481234)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `173` | 🍴 **Forks:** `129` | ✅ **CI/CD Status**  
+⭐ **Stars:** `174` | 🍴 **Forks:** `129` | ✅ **CI/CD Status**  
 
 ---
 
@@ -449,7 +449,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `275` | 🍴 **Forks:** `194` | ✅ **CI/CD Status**  
+⭐ **Stars:** `275` | 🍴 **Forks:** `195` | ✅ **CI/CD Status**  
 
 ---
 
