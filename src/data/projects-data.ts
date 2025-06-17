@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1836,
+    "stars": 1839,
     "forks": 2219,
     "issues": 10,
-    "lastUpdated": "2025-06-16T23:02:00Z",
+    "lastUpdated": "2025-06-17T06:24:45Z",
     "lastCommit": "536800970d92f3e7d09f82efa79d7adf80cdbb87"
   },
   {
@@ -184,8 +184,8 @@ export const PROJECTS: Project[] = [
     "stars": 258,
     "forks": 179,
     "issues": 0,
-    "lastUpdated": "2025-06-16T14:49:31Z",
-    "lastCommit": "ba98f7d924181b1ca5e78a0d8a16d3169c8f98d5"
+    "lastUpdated": "2025-06-17T03:50:47Z",
+    "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
     "title": "Provisioning EKS on AWS with Terraform",
