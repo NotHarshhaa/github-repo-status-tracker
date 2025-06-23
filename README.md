@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-22%2018:26%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-23%2001:51%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/4293437b9b0386db1350cb3d41a116c94bdbbc16)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `10`  
-⭐ **Stars:** `1864` | 🍴 **Forks:** `2253` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1864` | 🍴 **Forks:** `2254` | ✅ **CI/CD Status**  
 
 ---
 
@@ -239,7 +239,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `259` | 🍴 **Forks:** `180` | ✅ **CI/CD Status**  
+⭐ **Stars:** `260` | 🍴 **Forks:** `180` | ✅ **CI/CD Status**  
 
 ---
 
@@ -459,11 +459,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/into-the-devops)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops)
 
-🗓 **Last Updated:** `2025-06-22`  
+🗓 **Last Updated:** `2025-06-23`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `627` | 🍴 **Forks:** `394` | ✅ **CI/CD Status**  
+⭐ **Stars:** `629` | 🍴 **Forks:** `395` | ✅ **CI/CD Status**  
 
 ---
 
