@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1872,
-    "forks": 2261,
+    "stars": 1873,
+    "forks": 2262,
     "issues": 10,
-    "lastUpdated": "2025-06-23T16:31:15Z",
+    "lastUpdated": "2025-06-24T02:13:49Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -238,7 +238,7 @@ export const PROJECTS: Project[] = [
     "forks": 18,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:04:31Z",
-    "lastCommit": "15102a44dc31d8f340e4ae1ca83db337b488c483"
+    "lastCommit": null
   },
   {
     "title": "Zomato Clone with DevSecOps",
