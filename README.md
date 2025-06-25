@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-25%2006:31%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-06-25%2012:43%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -183,7 +183,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `170` | 🍴 **Forks:** `147` | ✅ **CI/CD Status**  
+⭐ **Stars:** `170` | 🍴 **Forks:** `148` | ✅ **CI/CD Status**  
 
 ---
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/4293437b9b0386db1350cb3d41a116c94bdbbc16)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `11`  
-⭐ **Stars:** `1879` | 🍴 **Forks:** `2267` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1880` | 🍴 **Forks:** `2269` | ✅ **CI/CD Status**  
 
 ---
 
@@ -239,7 +239,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `260` | 🍴 **Forks:** `180` | ✅ **CI/CD Status**  
+⭐ **Stars:** `260` | 🍴 **Forks:** `181` | ✅ **CI/CD Status**  
 
 ---
 
@@ -337,7 +337,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `152` | 🍴 **Forks:** `169` | ✅ **CI/CD Status**  
+⭐ **Stars:** `152` | 🍴 **Forks:** `170` | ✅ **CI/CD Status**  
 
 ---
 
@@ -351,7 +351,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/5901417d456e13a0659c8f4585e9f2794912a3fd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `45` | 🍴 **Forks:** `49` | ✅ **CI/CD Status**  
+⭐ **Stars:** `45` | 🍴 **Forks:** `50` | ✅ **CI/CD Status**  
 
 ---
 
@@ -393,7 +393,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `77` | 🍴 **Forks:** `53` | ✅ **CI/CD Status**  
+⭐ **Stars:** `77` | 🍴 **Forks:** `54` | ✅ **CI/CD Status**  
 
 ---
 
@@ -421,7 +421,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/fc3b67f8c40d779988b71b25120f49bf14922842)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `24` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
+⭐ **Stars:** `24` | 🍴 **Forks:** `46` | ✅ **CI/CD Status**  
 
 ---
 
@@ -435,7 +435,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/ffb1bb1ad5d411f9f34ef45daa8336e2a9481234)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `181` | 🍴 **Forks:** `130` | ✅ **CI/CD Status**  
+⭐ **Stars:** `181` | 🍴 **Forks:** `131` | ✅ **CI/CD Status**  
 
 ---
 
@@ -445,11 +445,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions)
 
-🗓 **Last Updated:** `2025-06-24`  
+🗓 **Last Updated:** `2025-06-25`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `291` | 🍴 **Forks:** `205` | ✅ **CI/CD Status**  
+⭐ **Stars:** `292` | 🍴 **Forks:** `207` | ✅ **CI/CD Status**  
 
 ---
 
@@ -463,7 +463,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `647` | 🍴 **Forks:** `404` | ✅ **CI/CD Status**  
+⭐ **Stars:** `647` | 🍴 **Forks:** `407` | ✅ **CI/CD Status**  
 
 ---
 
@@ -477,7 +477,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `6` | 🍴 **Forks:** `11` | ✅ **CI/CD Status**  
+⭐ **Stars:** `6` | 🍴 **Forks:** `12` | ✅ **CI/CD Status**  
 
 ---
 
@@ -533,7 +533,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/uber-clone/commit/d54f10fc513fc2fdd33f92041ae0f9dfaac36c43)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `3` | 🍴 **Forks:** `3` | ✅ **CI/CD Status**  
+⭐ **Stars:** `3` | 🍴 **Forks:** `4` | ✅ **CI/CD Status**  
 
 ---
 <!-- END_REPO_STATUS -->
