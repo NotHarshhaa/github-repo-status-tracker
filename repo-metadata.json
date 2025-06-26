@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 1887,
-    "forks": 2275,
+    "stars": 1888,
+    "forks": 2274,
     "issues": 11,
-    "lastUpdated": "2025-06-26T07:58:06Z",
+    "lastUpdated": "2025-06-26T14:48:46Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 326,
+    "stars": 329,
     "forks": 168,
     "issues": 2,
-    "lastUpdated": "2025-06-26T12:21:37Z",
+    "lastUpdated": "2025-06-26T17:35:29Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -145,66 +145,10 @@
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 181,
+    "stars": 182,
     "forks": 131,
     "issues": 0,
-    "lastUpdated": "2025-06-23T10:39:40Z",
+    "lastUpdated": "2025-06-26T14:28:46Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
-  },
-  {
-    "repo": "DevOps-Interview-Questions",
-    "stars": 293,
-    "forks": 209,
-    "issues": 1,
-    "lastUpdated": "2025-06-25T17:01:19Z",
-    "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
-  },
-  {
-    "repo": "into-the-devops",
-    "stars": 651,
-    "forks": 408,
-    "issues": 0,
-    "lastUpdated": "2025-06-26T05:59:21Z",
-    "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
-  },
-  {
-    "repo": "AWS-Terraform-Workshop",
-    "stars": 6,
-    "forks": 12,
-    "issues": 0,
-    "lastUpdated": "2025-06-03T13:36:09Z",
-    "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
-  },
-  {
-    "repo": "tf-ecr-ecs-gh-deploy",
-    "stars": 8,
-    "forks": 17,
-    "issues": 0,
-    "lastUpdated": "2025-06-04T10:27:42Z",
-    "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
-  },
-  {
-    "repo": "eks-cluster-terraform",
-    "stars": 63,
-    "forks": 64,
-    "issues": 0,
-    "lastUpdated": "2025-05-24T06:19:43Z",
-    "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
-  },
-  {
-    "repo": "CI-CD_EKS-GitHub_Actions",
-    "stars": 95,
-    "forks": 75,
-    "issues": 0,
-    "lastUpdated": "2025-06-23T11:49:59Z",
-    "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
-  },
-  {
-    "repo": "uber-clone",
-    "stars": 3,
-    "forks": 4,
-    "issues": 0,
-    "lastUpdated": "2025-06-04T17:05:43Z",
-    "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
   }
 ]
