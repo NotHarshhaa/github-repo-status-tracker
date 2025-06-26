@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1884,
+    "stars": 1885,
     "forks": 2270,
     "issues": 11,
-    "lastUpdated": "2025-06-25T17:24:31Z",
+    "lastUpdated": "2025-06-25T20:24:06Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 649,
+    "stars": 651,
     "forks": 407,
     "issues": 0,
-    "lastUpdated": "2025-06-25T17:56:41Z",
+    "lastUpdated": "2025-06-25T20:58:14Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   }
 ];
