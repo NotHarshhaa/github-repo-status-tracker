@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
     "stars": 6,
-    "forks": 12,
+    "forks": 13,
     "issues": 0,
     "lastUpdated": "2025-06-03T13:36:09Z",
     "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1893,
-    "forks": 2282,
+    "stars": 1895,
+    "forks": 2285,
     "issues": 11,
-    "lastUpdated": "2025-06-27T17:02:37Z",
+    "lastUpdated": "2025-06-28T12:05:45Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 296,
-    "forks": 209,
+    "forks": 210,
     "issues": 1,
     "lastUpdated": "2025-06-28T05:56:00Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
