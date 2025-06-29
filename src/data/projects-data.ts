@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1901,
-    "forks": 2290,
+    "stars": 1905,
+    "forks": 2293,
     "issues": 11,
-    "lastUpdated": "2025-06-29T09:23:40Z",
+    "lastUpdated": "2025-06-29T16:50:23Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-EKS_Terraform"
     },
     "stars": 19,
-    "forks": 53,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 184,
+    "stars": 185,
     "forks": 131,
     "issues": 0,
-    "lastUpdated": "2025-06-28T01:07:25Z",
+    "lastUpdated": "2025-06-29T14:17:44Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 296,
+    "stars": 297,
     "forks": 210,
     "issues": 1,
-    "lastUpdated": "2025-06-28T05:56:00Z",
+    "lastUpdated": "2025-06-29T18:23:37Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
@@ -450,7 +450,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 658,
-    "forks": 413,
+    "forks": 412,
     "issues": 0,
     "lastUpdated": "2025-06-29T09:06:03Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
