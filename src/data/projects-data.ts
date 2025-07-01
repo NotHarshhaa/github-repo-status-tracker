@@ -50,7 +50,7 @@ export const PROJECTS: Project[] = [
     "forks": 17,
     "issues": 0,
     "lastUpdated": "2025-06-04T10:27:42Z",
-    "lastCommit": null
+    "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
   },
   {
     "title": "Amazon EKS Cluster with Terraform",
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 330,
+    "stars": 331,
     "forks": 168,
     "issues": 2,
-    "lastUpdated": "2025-06-27T22:39:54Z",
+    "lastUpdated": "2025-07-01T04:41:18Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
