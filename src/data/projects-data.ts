@@ -50,7 +50,7 @@ export const PROJECTS: Project[] = [
     "forks": 17,
     "issues": 0,
     "lastUpdated": "2025-06-04T10:27:42Z",
-    "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
+    "lastCommit": null
   },
   {
     "title": "Amazon EKS Cluster with Terraform",
@@ -148,11 +148,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1912,
-    "forks": 2296,
+    "stars": 1914,
+    "forks": 2298,
     "issues": 11,
-    "lastUpdated": "2025-06-30T16:46:54Z",
-    "lastCommit": null
+    "lastUpdated": "2025-07-01T00:35:57Z",
+    "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
     "title": "Uber Clone with DevSecOps",
@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 77,
-    "forks": 54,
+    "forks": 55,
     "issues": 0,
     "lastUpdated": "2025-05-06T13:08:25Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 185,
-    "forks": 131,
+    "stars": 186,
+    "forks": 132,
     "issues": 0,
-    "lastUpdated": "2025-06-29T14:17:44Z",
+    "lastUpdated": "2025-06-30T13:04:22Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 658,
+    "stars": 659,
     "forks": 413,
     "issues": 0,
-    "lastUpdated": "2025-06-29T09:06:03Z",
+    "lastUpdated": "2025-06-30T14:03:59Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   }
 ];
