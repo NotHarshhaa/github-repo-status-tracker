@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1919,
+    "stars": 1920,
     "forks": 2303,
     "issues": 11,
-    "lastUpdated": "2025-07-02T01:17:44Z",
+    "lastUpdated": "2025-07-02T08:44:53Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 267,
-    "forks": 184,
+    "forks": 185,
     "issues": 1,
     "lastUpdated": "2025-06-29T21:27:41Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 331,
+    "stars": 332,
     "forks": 168,
     "issues": 2,
-    "lastUpdated": "2025-07-01T04:41:18Z",
+    "lastUpdated": "2025-07-02T06:43:55Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 77,
-    "forks": 55,
+    "forks": 56,
     "issues": 0,
     "lastUpdated": "2025-05-06T13:08:25Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 186,
-    "forks": 133,
+    "forks": 134,
     "issues": 0,
     "lastUpdated": "2025-06-30T13:04:22Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 297,
-    "forks": 211,
+    "stars": 298,
+    "forks": 212,
     "issues": 1,
-    "lastUpdated": "2025-06-29T18:23:37Z",
+    "lastUpdated": "2025-07-02T12:41:54Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 664,
-    "forks": 414,
+    "stars": 666,
+    "forks": 416,
     "issues": 0,
-    "lastUpdated": "2025-07-02T03:48:52Z",
+    "lastUpdated": "2025-07-02T12:41:36Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   }
 ];
