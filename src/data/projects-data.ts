@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1924,
-    "forks": 2310,
+    "stars": 1925,
+    "forks": 2311,
     "issues": 11,
-    "lastUpdated": "2025-07-03T10:34:42Z",
+    "lastUpdated": "2025-07-04T03:04:30Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -304,7 +304,7 @@ export const PROJECTS: Project[] = [
     "forks": 170,
     "issues": 0,
     "lastUpdated": "2025-06-16T12:28:12Z",
-    "lastCommit": null
+    "lastCommit": "b27233f4a9f414b5c104dc042203f43b693ff01c"
   },
   {
     "title": "DevOps Tool Installer Scripts",
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 300,
-    "forks": 216,
+    "stars": 302,
+    "forks": 217,
     "issues": 1,
-    "lastUpdated": "2025-07-03T16:43:15Z",
+    "lastUpdated": "2025-07-04T05:10:02Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
