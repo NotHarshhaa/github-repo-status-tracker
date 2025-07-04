@@ -304,7 +304,7 @@ export const PROJECTS: Project[] = [
     "forks": 170,
     "issues": 0,
     "lastUpdated": "2025-06-16T12:28:12Z",
-    "lastCommit": "b27233f4a9f414b5c104dc042203f43b693ff01c"
+    "lastCommit": null
   },
   {
     "title": "DevOps Tool Installer Scripts",
