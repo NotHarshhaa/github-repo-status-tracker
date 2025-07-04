@@ -156,5 +156,17 @@
     "description": "Complete beginner-friendly DevOps guide covering core concepts from Linux to Cloud and CI/CD.",
     "techStack": ["Linux", "AWS", "Kubernetes", "Terraform"],
     "status": "Learning"
+  },
+  "From-Docker-to-Kubernetes": {
+    "displayName": "From Docker to Kubernetes",
+    "description": "A comprehensive open source learning platform end-to-end from Docker to Kubernetes for containerized applications.",
+    "techStack": ["Docker", "Kubernetes", "CI/CD"],
+    "status": "Learning"
+  },
+  "DevOps-Engineering": {
+    "displayName": "DevOps Engineering",
+    "description": "A comprehensive guide to DevOps engineering, covering the entire lifecycle of a software project from development to deployment.",
+    "techStack": ["DevOps", "Engineering", "Cloud"],
+    "status": "Learning"
   }
 }

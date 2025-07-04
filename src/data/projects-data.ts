@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1925,
-    "forks": 2311,
+    "stars": 1926,
+    "forks": 2310,
     "issues": 11,
-    "lastUpdated": "2025-07-04T03:04:30Z",
+    "lastUpdated": "2025-07-04T11:38:26Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 333,
-    "forks": 169,
+    "stars": 334,
+    "forks": 170,
     "issues": 2,
-    "lastUpdated": "2025-07-02T21:09:57Z",
+    "lastUpdated": "2025-07-04T08:28:16Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -449,10 +449,44 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 668,
+    "stars": 669,
     "forks": 416,
     "issues": 0,
-    "lastUpdated": "2025-07-03T08:09:54Z",
+    "lastUpdated": "2025-07-04T07:48:09Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
+  },
+  {
+    "title": "From Docker to Kubernetes",
+    "techStack": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "description": "A comprehensive open source learning platform end-to-end from Docker to Kubernetes for containerized applications.",
+    "link": {
+      "label": "github.com/NotHarshhaa/From-Docker-to-Kubernetes",
+      "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
+    },
+    "stars": 8,
+    "forks": 5,
+    "issues": 1,
+    "lastUpdated": "2025-07-01T09:49:10Z",
+    "lastCommit": "39d19d98ceeeb09ea859ea6799bf62cb40fa0519"
+  },
+  {
+    "title": "DevOps Engineering",
+    "techStack": [
+      "DevOps",
+      "Engineering"
+    ],
+    "description": "A comprehensive guide to DevOps engineering, covering the entire lifecycle of a software project from development to deployment.",
+    "link": {
+      "label": "github.com/NotHarshhaa/DevOps-Engineering",
+      "href": "https://github.com/NotHarshhaa/DevOps-Engineering"
+    },
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2025-06-05T13:05:16Z",
+    "lastCommit": "8a3028aa42018eb61e9f691d5e332019c4d9a2b1"
   }
 ];

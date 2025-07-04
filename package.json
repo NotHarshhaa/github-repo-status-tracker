@@ -17,6 +17,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "cmdk": "^0.2.1",
+    "dotenv": "^17.0.1",
     "framer-motion": "^12.7.3",
     "geist": "^1.2.2",
     "lucide-react": "^0.300.0",

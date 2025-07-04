@@ -25,7 +25,9 @@
       "tf-ecr-ecs-gh-deploy",
       "eks-cluster-terraform",
       "CI-CD_EKS-GitHub_Actions",
-      "uber-clone"
+      "uber-clone",
+      "From-Docker-to-Kubernetes",
+      "DevOps-Engineering"
     ]
   }
  

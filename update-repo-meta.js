@@ -1,4 +1,5 @@
 // update-repo-meta.js
+require('dotenv').config();
 const fs = require('fs');
 
 // Your GitHub username
@@ -31,7 +32,9 @@ const repos = [
   "tf-ecr-ecs-gh-deploy",
   "eks-cluster-terraform",
   "CI-CD_EKS-GitHub_Actions",
-  "uber-clone"
+  "uber-clone",
+  "From-Docker-to-Kubernetes",
+  "DevOps-Engineering"
 ];
 
 // GitHub token (optional, use env var to avoid rate limits)
