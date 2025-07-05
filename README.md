@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-04%2006:31%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-05%2003:27%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/4293437b9b0386db1350cb3d41a116c94bdbbc16)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `11`  
-⭐ **Stars:** `1925` | 🍴 **Forks:** `2311` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1929` | 🍴 **Forks:** `2310` | ✅ **CI/CD Status**  
 
 ---
 
@@ -361,11 +361,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-learning-path)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path)
 
-🗓 **Last Updated:** `2025-07-02`  
+🗓 **Last Updated:** `2025-07-04`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `333` | 🍴 **Forks:** `169` | ✅ **CI/CD Status**  
+⭐ **Stars:** `335` | 🍴 **Forks:** `170` | ✅ **CI/CD Status**  
 
 ---
 
@@ -459,11 +459,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/into-the-devops)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops)
 
-🗓 **Last Updated:** `2025-07-03`  
+🗓 **Last Updated:** `2025-07-04`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `668` | 🍴 **Forks:** `416` | ✅ **CI/CD Status**  
+⭐ **Stars:** `669` | 🍴 **Forks:** `416` | ✅ **CI/CD Status**  
 
 ---
 
@@ -534,6 +534,34 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
 ⭐ **Stars:** `3` | 🍴 **Forks:** `4` | ✅ **CI/CD Status**  
+
+---
+
+## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/From-Docker-to-Kubernetes?style=social)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/From-Docker-to-Kubernetes?style=social)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes)
+
+🗓 **Last Updated:** `2025-07-04`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/ecdae5c42084230227f0a36e32d74250526e2487)  
+👤 **Author:** `NotHarshhaa`  
+🏷 **Open Issues:** `1`  
+⭐ **Stars:** `8` | 🍴 **Forks:** `5` | ✅ **CI/CD Status**  
+
+---
+
+## 📂 [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering)
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Engineering?style=social)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Engineering?style=social)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Engineering)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Engineering)
+
+🗓 **Last Updated:** `2025-06-05`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Engineering/commit/8a3028aa42018eb61e9f691d5e332019c4d9a2b1)  
+👤 **Author:** `NotHarshhaa`  
+🏷 **Open Issues:** `0`  
+⭐ **Stars:** `1` | 🍴 **Forks:** `1` | ✅ **CI/CD Status**  
 
 ---
 <!-- END_REPO_STATUS -->
