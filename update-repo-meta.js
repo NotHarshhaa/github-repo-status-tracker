@@ -1,6 +1,20 @@
 // update-repo-meta.js
-require('dotenv').config();
 const fs = require('fs');
+
+// Try to load .env file if it exists (for local development)
+try {
+  fs.readFileSync('.env', 'utf8')
+    .split('\n')
+    .filter(line => line.trim() && !line.startsWith('#'))
+    .forEach(line => {
+      const [key, value] = line.split('=');
+      if (!process.env[key.trim()]) {
+        process.env[key.trim()] = value.trim();
+      }
+    });
+} catch (err) {
+  // .env file doesn't exist, that's fine - we'll use existing env vars
+}
 
 // Your GitHub username
 const githubUsername = 'NotHarshhaa';

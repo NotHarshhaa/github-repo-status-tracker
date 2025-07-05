@@ -32,6 +32,8 @@ jobs:
           node-version: '22.14.0'
 
       - name: 📜 Run Node.js Scripts
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           node update-repo-meta.js
           node merge-metadata.js
