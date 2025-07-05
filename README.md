@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-05%2012:38%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-05%2018:26%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/4293437b9b0386db1350cb3d41a116c94bdbbc16)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `11`  
-⭐ **Stars:** `1932` | 🍴 **Forks:** `2311` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1932` | 🍴 **Forks:** `2312` | ✅ **CI/CD Status**  
 
 ---
 
@@ -333,8 +333,8 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations)
 
-🗓 **Last Updated:** `2025-06-16`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/b27233f4a9f414b5c104dc042203f43b693ff01c)  
+🗓 **Last Updated:** `2025-07-05`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/fb4fea6db2c6a441f2b33780baa326f18fbda379)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
 ⭐ **Stars:** `152` | 🍴 **Forks:** `170` | ✅ **CI/CD Status**  
@@ -463,7 +463,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `670` | 🍴 **Forks:** `416` | ✅ **CI/CD Status**  
+⭐ **Stars:** `671` | 🍴 **Forks:** `417` | ✅ **CI/CD Status**  
 
 ---
 
@@ -519,7 +519,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `97` | 🍴 **Forks:** `75` | ✅ **CI/CD Status**  
+⭐ **Stars:** `98` | 🍴 **Forks:** `75` | ✅ **CI/CD Status**  
 
 ---
 

@@ -82,10 +82,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 97,
+    "stars": 98,
     "forks": 75,
     "issues": 0,
-    "lastUpdated": "2025-07-05T08:55:55Z",
+    "lastUpdated": "2025-07-05T15:37:46Z",
     "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
   },
   {
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 1932,
-    "forks": 2311,
+    "forks": 2312,
     "issues": 11,
     "lastUpdated": "2025-07-05T10:07:28Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
@@ -303,8 +303,8 @@ export const PROJECTS: Project[] = [
     "stars": 152,
     "forks": 170,
     "issues": 0,
-    "lastUpdated": "2025-06-16T12:28:12Z",
-    "lastCommit": "b27233f4a9f414b5c104dc042203f43b693ff01c"
+    "lastUpdated": "2025-07-05T16:23:23Z",
+    "lastCommit": "fb4fea6db2c6a441f2b33780baa326f18fbda379"
   },
   {
     "title": "DevOps Tool Installer Scripts",
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 670,
-    "forks": 416,
+    "stars": 671,
+    "forks": 417,
     "issues": 0,
-    "lastUpdated": "2025-07-05T10:46:36Z",
+    "lastUpdated": "2025-07-05T17:12:15Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
