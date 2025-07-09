@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 1945,
-    "forks": 2323,
+    "forks": 2322,
     "issues": 11,
     "lastUpdated": "2025-07-08T15:13:51Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
