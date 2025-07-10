@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
     "stars": 7,
-    "forks": 13,
+    "forks": 12,
     "issues": 0,
     "lastUpdated": "2025-07-01T17:26:55Z",
     "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
     "stars": 63,
-    "forks": 65,
+    "forks": 64,
     "issues": 0,
     "lastUpdated": "2025-05-24T06:19:43Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 171,
-    "forks": 148,
+    "forks": 149,
     "issues": 2,
     "lastUpdated": "2025-07-01T12:26:57Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
@@ -132,7 +132,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
     "stars": 48,
-    "forks": 45,
+    "forks": 44,
     "issues": 0,
     "lastUpdated": "2025-06-16T19:38:17Z",
     "lastCommit": "a81343272b9e0ca5acd0143c05b33c30fe2cb456"
@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 157,
-    "forks": 188,
+    "forks": 187,
     "issues": 0,
     "lastUpdated": "2025-06-23T06:49:26Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -316,10 +316,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Tool-Installer",
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
-    "stars": 46,
+    "stars": 47,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2025-07-09T08:32:22Z",
+    "lastUpdated": "2025-07-10T16:43:34Z",
     "lastCommit": "79c2ccc1695744802268809c0851844ee7db6001"
   },
   {
@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 77,
-    "forks": 56,
+    "forks": 55,
     "issues": 0,
     "lastUpdated": "2025-05-06T13:08:25Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 681,
-    "forks": 424,
+    "stars": 682,
+    "forks": 423,
     "issues": 0,
-    "lastUpdated": "2025-07-10T09:49:46Z",
+    "lastUpdated": "2025-07-10T12:54:23Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
