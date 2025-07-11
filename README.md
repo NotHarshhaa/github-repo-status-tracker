@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-11%2012:42%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-11%2018:29%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -179,11 +179,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-tools)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools)
 
-🗓 **Last Updated:** `2025-07-01`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `171` | 🍴 **Forks:** `149` | ✅ **CI/CD Status**  
+⭐ **Stars:** `172` | 🍴 **Forks:** `149` | ✅ **CI/CD Status**  
 
 ---
 
@@ -193,11 +193,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/Certified_Kubernetes_Administrator)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator)
 
-🗓 **Last Updated:** `2025-07-01`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `119` | 🍴 **Forks:** `92` | ✅ **CI/CD Status**  
+⭐ **Stars:** `120` | 🍴 **Forks:** `92` | ✅ **CI/CD Status**  
 
 ---
 
@@ -207,11 +207,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-dashboard)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard)
 
-🗓 **Last Updated:** `2025-06-16`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/a81343272b9e0ca5acd0143c05b33c30fe2cb456)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `48` | 🍴 **Forks:** `44` | ✅ **CI/CD Status**  
+⭐ **Stars:** `49` | 🍴 **Forks:** `44` | ✅ **CI/CD Status**  
 
 ---
 
@@ -225,7 +225,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Projects/commit/4293437b9b0386db1350cb3d41a116c94bdbbc16)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `12`  
-⭐ **Stars:** `1955` | 🍴 **Forks:** `2332` | ✅ **CI/CD Status**  
+⭐ **Stars:** `1957` | 🍴 **Forks:** `2332` | ✅ **CI/CD Status**  
 
 ---
 
@@ -319,11 +319,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/Kubernetes)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes)
 
-🗓 **Last Updated:** `2025-06-23`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `157` | 🍴 **Forks:** `187` | ✅ **CI/CD Status**  
+⭐ **Stars:** `158` | 🍴 **Forks:** `187` | ✅ **CI/CD Status**  
 
 ---
 
@@ -337,7 +337,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `155` | 🍴 **Forks:** `171` | ✅ **CI/CD Status**  
+⭐ **Stars:** `156` | 🍴 **Forks:** `170` | ✅ **CI/CD Status**  
 
 ---
 
@@ -347,11 +347,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer)
 
-🗓 **Last Updated:** `2025-07-10`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/79c2ccc1695744802268809c0851844ee7db6001)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `47` | 🍴 **Forks:** `52` | ✅ **CI/CD Status**  
+⭐ **Stars:** `48` | 🍴 **Forks:** `52` | ✅ **CI/CD Status**  
 
 ---
 
@@ -361,11 +361,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-learning-path)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path)
 
-🗓 **Last Updated:** `2025-07-08`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `336` | 🍴 **Forks:** `170` | ✅ **CI/CD Status**  
+⭐ **Stars:** `337` | 🍴 **Forks:** `169` | ✅ **CI/CD Status**  
 
 ---
 
@@ -403,11 +403,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/aws-billing-alert-terraform)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-billing-alert-terraform)
 
-🗓 **Last Updated:** `2025-04-26`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/360677ff36bf88d19ac92002c0285807e4c604bb)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `47` | 🍴 **Forks:** `48` | ✅ **CI/CD Status**  
+⭐ **Stars:** `48` | 🍴 **Forks:** `48` | ✅ **CI/CD Status**  
 
 ---
 
@@ -435,7 +435,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/devops-cheatsheet/commit/ffb1bb1ad5d411f9f34ef45daa8336e2a9481234)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `190` | 🍴 **Forks:** `135` | ✅ **CI/CD Status**  
+⭐ **Stars:** `191` | 🍴 **Forks:** `135` | ✅ **CI/CD Status**  
 
 ---
 
@@ -459,11 +459,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/into-the-devops)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops)
 
-🗓 **Last Updated:** `2025-07-10`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `682` | 🍴 **Forks:** `423` | ✅ **CI/CD Status**  
+⭐ **Stars:** `683` | 🍴 **Forks:** `424` | ✅ **CI/CD Status**  
 
 ---
 
@@ -501,11 +501,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/eks-cluster-terraform)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/eks-cluster-terraform)
 
-🗓 **Last Updated:** `2025-05-24`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `63` | 🍴 **Forks:** `64` | ✅ **CI/CD Status**  
+⭐ **Stars:** `64` | 🍴 **Forks:** `64` | ✅ **CI/CD Status**  
 
 ---
 
@@ -515,11 +515,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/CI-CD_EKS-GitHub_Actions)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions)
 
-🗓 **Last Updated:** `2025-07-05`  
+🗓 **Last Updated:** `2025-07-11`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `98` | 🍴 **Forks:** `77` | ✅ **CI/CD Status**  
+⭐ **Stars:** `99` | 🍴 **Forks:** `77` | ✅ **CI/CD Status**  
 
 ---
 
