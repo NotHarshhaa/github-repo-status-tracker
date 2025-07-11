@@ -25,18 +25,18 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 1952,
-    "forks": 2331,
+    "stars": 1955,
+    "forks": 2332,
     "issues": 12,
-    "lastUpdated": "2025-07-11T06:26:29Z",
+    "lastUpdated": "2025-07-11T09:12:21Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 272,
+    "stars": 273,
     "forks": 186,
     "issues": 1,
-    "lastUpdated": "2025-07-09T18:49:31Z",
+    "lastUpdated": "2025-07-11T07:41:17Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -89,10 +89,10 @@
   },
   {
     "repo": "DevOps_Setup-Installations",
-    "stars": 154,
+    "stars": 155,
     "forks": 171,
     "issues": 0,
-    "lastUpdated": "2025-07-06T15:39:14Z",
+    "lastUpdated": "2025-07-11T07:41:36Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -145,18 +145,18 @@
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 189,
+    "stars": 190,
     "forks": 135,
     "issues": 0,
-    "lastUpdated": "2025-07-06T08:44:57Z",
+    "lastUpdated": "2025-07-11T07:40:58Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 309,
+    "stars": 310,
     "forks": 231,
     "issues": 2,
-    "lastUpdated": "2025-07-10T06:10:18Z",
+    "lastUpdated": "2025-07-11T11:38:52Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
@@ -209,10 +209,10 @@
   },
   {
     "repo": "From-Docker-to-Kubernetes",
-    "stars": 8,
+    "stars": 9,
     "forks": 5,
     "issues": 1,
-    "lastUpdated": "2025-07-04T12:45:43Z",
+    "lastUpdated": "2025-07-11T07:41:33Z",
     "lastCommit": "ecdae5c42084230227f0a36e32d74250526e2487"
   },
   {
