@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
     "stars": 64,
-    "forks": 64,
+    "forks": 65,
     "issues": 0,
     "lastUpdated": "2025-07-11T16:53:41Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 1960,
-    "forks": 2332,
+    "forks": 2334,
     "issues": 12,
     "lastUpdated": "2025-07-12T01:11:29Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 310,
-    "forks": 231,
+    "forks": 232,
     "issues": 2,
     "lastUpdated": "2025-07-11T11:38:52Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
@@ -450,7 +450,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 683,
-    "forks": 424,
+    "forks": 426,
     "issues": 0,
     "lastUpdated": "2025-07-11T16:52:20Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
