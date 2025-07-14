@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1966,
-    "forks": 2338,
+    "stars": 1967,
+    "forks": 2340,
     "issues": 12,
-    "lastUpdated": "2025-07-13T15:26:31Z",
+    "lastUpdated": "2025-07-14T02:29:51Z",
     "lastCommit": "4293437b9b0386db1350cb3d41a116c94bdbbc16"
   },
   {
@@ -383,10 +383,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/aws-billing-alert-terraform",
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
-    "stars": 48,
+    "stars": 49,
     "forks": 48,
     "issues": 0,
-    "lastUpdated": "2025-07-11T16:54:13Z",
+    "lastUpdated": "2025-07-14T04:31:16Z",
     "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"
   },
   {
