@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 686,
+    "stars": 687,
     "forks": 427,
     "issues": 0,
-    "lastUpdated": "2025-07-14T18:18:55Z",
+    "lastUpdated": "2025-07-14T19:14:11Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
