@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 100,
-    "forks": 77,
+    "forks": 78,
     "issues": 0,
     "lastUpdated": "2025-07-14T14:21:07Z",
     "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 1977,
-    "forks": 2356,
+    "stars": 1980,
+    "forks": 2355,
     "issues": 12,
-    "lastUpdated": "2025-07-17T07:35:29Z",
+    "lastUpdated": "2025-07-17T18:30:11Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -284,10 +284,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 158,
+    "stars": 159,
     "forks": 187,
     "issues": 0,
-    "lastUpdated": "2025-07-11T16:53:48Z",
+    "lastUpdated": "2025-07-17T13:03:04Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 192,
+    "stars": 193,
     "forks": 136,
     "issues": 0,
-    "lastUpdated": "2025-07-11T20:57:38Z",
+    "lastUpdated": "2025-07-17T18:27:33Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 317,
-    "forks": 236,
+    "forks": 238,
     "issues": 2,
     "lastUpdated": "2025-07-16T14:35:39Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 692,
-    "forks": 431,
+    "stars": 693,
+    "forks": 432,
     "issues": 0,
-    "lastUpdated": "2025-07-17T07:27:05Z",
+    "lastUpdated": "2025-07-17T18:22:09Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
