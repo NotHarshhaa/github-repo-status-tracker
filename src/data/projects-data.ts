@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 172,
+    "stars": 173,
     "forks": 149,
     "issues": 2,
-    "lastUpdated": "2025-07-11T16:53:02Z",
+    "lastUpdated": "2025-07-21T08:31:46Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
   },
   {
@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 120,
-    "forks": 91,
+    "forks": 92,
     "issues": 0,
     "lastUpdated": "2025-07-11T16:53:25Z",
     "lastCommit": "7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2047,
-    "forks": 2385,
+    "stars": 2048,
+    "forks": 2387,
     "issues": 12,
-    "lastUpdated": "2025-07-21T05:31:39Z",
+    "lastUpdated": "2025-07-21T08:37:41Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 194,
-    "forks": 137,
+    "forks": 138,
     "issues": 0,
     "lastUpdated": "2025-07-19T02:28:32Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 322,
-    "forks": 245,
+    "forks": 246,
     "issues": 2,
     "lastUpdated": "2025-07-21T06:19:55Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
@@ -467,7 +467,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
     "stars": 10,
-    "forks": 6,
+    "forks": 7,
     "issues": 1,
     "lastUpdated": "2025-07-20T16:41:04Z",
     "lastCommit": "e273ab199452670522e5cace6fa7009a6b42c717"
@@ -484,7 +484,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Engineering"
     },
     "stars": 1,
-    "forks": 1,
+    "forks": 2,
     "issues": 0,
     "lastUpdated": "2025-06-05T13:05:16Z",
     "lastCommit": "8a3028aa42018eb61e9f691d5e332019c4d9a2b1"
