@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2057,
-    "forks": 2395,
+    "stars": 2062,
+    "forks": 2397,
     "issues": 12,
-    "lastUpdated": "2025-07-22T07:42:21Z",
+    "lastUpdated": "2025-07-22T18:15:37Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-EKS_Terraform"
     },
     "stars": 19,
-    "forks": 52,
+    "forks": 51,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 159,
-    "forks": 187,
+    "forks": 186,
     "issues": 0,
     "lastUpdated": "2025-07-17T13:03:04Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -301,7 +301,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 156,
-    "forks": 170,
+    "forks": 169,
     "issues": 0,
     "lastUpdated": "2025-07-15T16:19:07Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
@@ -333,7 +333,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 341,
-    "forks": 169,
+    "forks": 168,
     "issues": 2,
     "lastUpdated": "2025-07-21T19:51:34Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 195,
-    "forks": 139,
+    "forks": 138,
     "issues": 0,
     "lastUpdated": "2025-07-22T08:39:23Z",
     "lastCommit": "ffb1bb1ad5d411f9f34ef45daa8336e2a9481234"
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 693,
+    "stars": 694,
     "forks": 432,
     "issues": 0,
-    "lastUpdated": "2025-07-17T18:22:09Z",
+    "lastUpdated": "2025-07-22T14:28:21Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
