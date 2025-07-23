@@ -25,16 +25,16 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2065,
+    "stars": 2068,
     "forks": 2399,
     "issues": 12,
-    "lastUpdated": "2025-07-23T06:09:29Z",
+    "lastUpdated": "2025-07-23T11:25:43Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
     "repo": "kubernetes-projects-learning",
     "stars": 276,
-    "forks": 189,
+    "forks": 190,
     "issues": 1,
     "lastUpdated": "2025-07-16T04:34:18Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -162,7 +162,7 @@
   {
     "repo": "into-the-devops",
     "stars": 694,
-    "forks": 432,
+    "forks": 433,
     "issues": 0,
     "lastUpdated": "2025-07-22T14:28:21Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -210,7 +210,7 @@
   {
     "repo": "From-Docker-to-Kubernetes",
     "stars": 10,
-    "forks": 7,
+    "forks": 8,
     "issues": 1,
     "lastUpdated": "2025-07-22T05:36:04Z",
     "lastCommit": "f808b505f00c9b62d661ac5760b3d9b183972246"
