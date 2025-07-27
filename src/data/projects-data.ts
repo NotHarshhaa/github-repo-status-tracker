@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 174,
+    "stars": 175,
     "forks": 149,
     "issues": 2,
-    "lastUpdated": "2025-07-27T03:52:15Z",
+    "lastUpdated": "2025-07-27T13:15:48Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2085,
-    "forks": 2413,
+    "stars": 2087,
+    "forks": 2414,
     "issues": 12,
-    "lastUpdated": "2025-07-27T07:42:44Z",
+    "lastUpdated": "2025-07-27T15:36:38Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 276,
-    "forks": 191,
+    "forks": 192,
     "issues": 1,
     "lastUpdated": "2025-07-16T04:34:18Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 346,
+    "stars": 347,
     "forks": 170,
     "issues": 2,
-    "lastUpdated": "2025-07-26T08:03:47Z",
+    "lastUpdated": "2025-07-27T18:26:25Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 196,
-    "forks": 140,
+    "forks": 141,
     "issues": 0,
     "lastUpdated": "2025-07-25T21:36:53Z",
     "lastCommit": "e7aa33d6f8c06e711813863807c255015c8c1368"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 327,
+    "stars": 330,
     "forks": 251,
     "issues": 2,
-    "lastUpdated": "2025-07-26T14:15:32Z",
+    "lastUpdated": "2025-07-27T16:51:58Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
