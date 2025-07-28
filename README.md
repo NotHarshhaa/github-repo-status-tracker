@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-28%2012:48%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-07-28%2018:33%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -211,7 +211,7 @@ This page automatically updates with the latest commit details.
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/e8faec5436936b02b906822395bebc33b5681b3a)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `49` | 🍴 **Forks:** `45` | ✅ **CI/CD Status**  
+⭐ **Stars:** `49` | 🍴 **Forks:** `47` | ✅ **CI/CD Status**  
 
 ---
 
@@ -235,11 +235,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-projects-learning)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-projects-learning)
 
-🗓 **Last Updated:** `2025-07-16`  
+🗓 **Last Updated:** `2025-07-28`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
-⭐ **Stars:** `276` | 🍴 **Forks:** `192` | ✅ **CI/CD Status**  
+⭐ **Stars:** `277` | 🍴 **Forks:** `192` | ✅ **CI/CD Status**  
 
 ---
 
@@ -557,8 +557,8 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Engineering)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Engineering)
 
-🗓 **Last Updated:** `2025-06-05`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Engineering/commit/8a3028aa42018eb61e9f691d5e332019c4d9a2b1)  
+🗓 **Last Updated:** `2025-07-28`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Engineering/commit/6823699211c38d505f1204ff24c29ef2747c7a2a)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
 ⭐ **Stars:** `1` | 🍴 **Forks:** `2` | ✅ **CI/CD Status**  

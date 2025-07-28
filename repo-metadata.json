@@ -18,7 +18,7 @@
   {
     "repo": "kubernetes-dashboard",
     "stars": 49,
-    "forks": 45,
+    "forks": 47,
     "issues": 0,
     "lastUpdated": "2025-07-26T09:35:49Z",
     "lastCommit": "e8faec5436936b02b906822395bebc33b5681b3a"
@@ -33,10 +33,10 @@
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 276,
+    "stars": 277,
     "forks": 192,
     "issues": 1,
-    "lastUpdated": "2025-07-16T04:34:18Z",
+    "lastUpdated": "2025-07-28T13:59:21Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -220,7 +220,7 @@
     "stars": 1,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2025-06-05T13:05:16Z",
-    "lastCommit": "8a3028aa42018eb61e9f691d5e332019c4d9a2b1"
+    "lastUpdated": "2025-07-28T18:32:30Z",
+    "lastCommit": "6823699211c38d505f1204ff24c29ef2747c7a2a"
   }
 ]
