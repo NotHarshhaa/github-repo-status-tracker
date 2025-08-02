@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2107,
-    "forks": 2434,
+    "stars": 2108,
+    "forks": 2432,
     "issues": 12,
-    "lastUpdated": "2025-08-02T09:13:05Z",
+    "lastUpdated": "2025-08-02T15:00:17Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 279,
-    "forks": 192,
+    "forks": 193,
     "issues": 1,
     "lastUpdated": "2025-08-01T21:44:11Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -251,10 +251,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Zomato-Clone",
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 60,
     "issues": 0,
-    "lastUpdated": "2025-04-17T02:18:29Z",
+    "lastUpdated": "2025-08-02T15:03:11Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
   },
   {
@@ -316,10 +316,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Tool-Installer",
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
-    "stars": 48,
+    "stars": 49,
     "forks": 56,
     "issues": 0,
-    "lastUpdated": "2025-07-31T17:22:35Z",
+    "lastUpdated": "2025-08-02T14:48:20Z",
     "lastCommit": "79610cbee416d001d9cbb467bab7e3fbedb778fa"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 346,
-    "forks": 256,
+    "forks": 257,
     "issues": 2,
     "lastUpdated": "2025-08-01T22:59:27Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
