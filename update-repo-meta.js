@@ -48,7 +48,9 @@ const repos = [
   "CI-CD_EKS-GitHub_Actions",
   "uber-clone",
   "From-Docker-to-Kubernetes",
-  "DevOps-Engineering"
+  "DevOps-Engineering",
+  "Cloud-Native-DevOps-Project",
+  "awesome-devops-cloud"
 ];
 
 // GitHub token (optional, use env var to avoid rate limits)

@@ -168,5 +168,17 @@
     "description": "A comprehensive guide to DevOps engineering, covering the entire lifecycle of a software project from development to deployment.",
     "techStack": ["DevOps", "Engineering", "Cloud"],
     "status": "Learning"
+  },
+  "Cloud-Native-DevOps-Project": {
+    "displayName": "Cloud Native DevOps Project",
+    "description": "Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernetes – all on AWS!",
+    "techStack": ["Cloud", "DevOps", "Kubernetes"],
+    "status": "Learning"
+  },
+  "awesome-devops-cloud": {
+    "displayName": "Awesome DevOps Cloud",
+    "description": "A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilities, and guides — beautifully categorized and easily searchable in one place.",
+    "techStack": ["DevOps", "Cloud", "Kubernetes"],
+    "status": "Learning"
   }
 }

@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Terraform-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2025-08-03T01:30:09Z",
+    "lastUpdated": "2025-08-05T04:18:20Z",
     "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
   },
   {
@@ -469,8 +469,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 10,
     "issues": 1,
-    "lastUpdated": "2025-07-29T15:46:14Z",
-    "lastCommit": "c62d668e4b3fbf9b920c6a1a25b20cbe24bcc48e"
+    "lastUpdated": "2025-08-05T04:05:29Z",
+    "lastCommit": "6f117119d7eb35dfe30db961e8410cbb0006d5a9"
   },
   {
     "title": "DevOps Engineering",
@@ -488,5 +488,40 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2025-07-30T06:20:50Z",
     "lastCommit": "bac41cba20250ff09532f87727ebd8de2b1b3df5"
+  },
+  {
+    "title": "Cloud Native DevOps Project",
+    "techStack": [
+      "Cloud",
+      "DevOps",
+      "Kubernetes"
+    ],
+    "description": "Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernetes – all on AWS!",
+    "link": {
+      "label": "github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
+      "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
+    },
+    "stars": 6,
+    "forks": 9,
+    "issues": 0,
+    "lastUpdated": "2025-07-31T03:26:04Z",
+    "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
+  },
+  {
+    "title": "Awesome DevOps Cloud",
+    "techStack": [
+      "DevOps",
+      "Cloud"
+    ],
+    "description": "A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilities, and guides — beautifully categorized and easily searchable in one place.",
+    "link": {
+      "label": "github.com/NotHarshhaa/awesome-devops-cloud",
+      "href": "https://github.com/NotHarshhaa/awesome-devops-cloud"
+    },
+    "stars": 3,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2025-08-03T18:18:00Z",
+    "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   }
 ];
