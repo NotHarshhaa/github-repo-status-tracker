@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-08-05%2001:56%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-08-05%2006:35%20UTC-blue?style=flat-square)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -445,11 +445,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions)
 
-🗓 **Last Updated:** `2025-08-04`  
+🗓 **Last Updated:** `2025-08-05`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/dabc4a8da7066ab0126ab99298d5747d81fe3ca7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `2`  
-⭐ **Stars:** `350` | 🍴 **Forks:** `267` | ✅ **CI/CD Status**  
+⭐ **Stars:** `351` | 🍴 **Forks:** `268` | ✅ **CI/CD Status**  
 
 ---
 
@@ -473,11 +473,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop)
 
-🗓 **Last Updated:** `2025-08-03`  
+🗓 **Last Updated:** `2025-08-05`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `8` | 🍴 **Forks:** `12` | ✅ **CI/CD Status**  
+⭐ **Stars:** `9` | 🍴 **Forks:** `12` | ✅ **CI/CD Status**  
 
 ---
 
@@ -501,11 +501,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/eks-cluster-terraform)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/eks-cluster-terraform)
 
-🗓 **Last Updated:** `2025-08-03`  
+🗓 **Last Updated:** `2025-08-05`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `65` | 🍴 **Forks:** `65` | ✅ **CI/CD Status**  
+⭐ **Stars:** `66` | 🍴 **Forks:** `65` | ✅ **CI/CD Status**  
 
 ---
 
@@ -515,11 +515,11 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/CI-CD_EKS-GitHub_Actions)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions)
 
-🗓 **Last Updated:** `2025-08-03`  
+🗓 **Last Updated:** `2025-08-05`  
 🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
-⭐ **Stars:** `101` | 🍴 **Forks:** `79` | ✅ **CI/CD Status**  
+⭐ **Stars:** `102` | 🍴 **Forks:** `79` | ✅ **CI/CD Status**  
 
 ---
 
@@ -543,8 +543,8 @@ This page automatically updates with the latest commit details.
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes)
 
-🗓 **Last Updated:** `2025-07-29`  
-🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/c62d668e4b3fbf9b920c6a1a25b20cbe24bcc48e)  
+🗓 **Last Updated:** `2025-08-05`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/6f117119d7eb35dfe30db961e8410cbb0006d5a9)  
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `1`  
 ⭐ **Stars:** `11` | 🍴 **Forks:** `10` | ✅ **CI/CD Status**  
@@ -562,6 +562,34 @@ This page automatically updates with the latest commit details.
 👤 **Author:** `NotHarshhaa`  
 🏷 **Open Issues:** `0`  
 ⭐ **Stars:** `3` | 🍴 **Forks:** `3` | ✅ **CI/CD Status**  
+
+---
+
+## 📂 [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project)
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Cloud-Native-DevOps-Project?style=social)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Cloud-Native-DevOps-Project?style=social)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Cloud-Native-DevOps-Project)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project)
+
+🗓 **Last Updated:** `2025-07-31`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b)  
+👤 **Author:** `NotHarshhaa`  
+🏷 **Open Issues:** `0`  
+⭐ **Stars:** `6` | 🍴 **Forks:** `9` | ✅ **CI/CD Status**  
+
+---
+
+## 📂 [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud)
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/awesome-devops-cloud?style=social)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/awesome-devops-cloud?style=social)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/awesome-devops-cloud)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/awesome-devops-cloud)
+
+🗓 **Last Updated:** `2025-08-03`  
+🔄 **Latest Commit:** [View Commit](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192)  
+👤 **Author:** `NotHarshhaa`  
+🏷 **Open Issues:** `0`  
+⭐ **Stars:** `3` | 🍴 **Forks:** `2` | ✅ **CI/CD Status**  
 
 ---
 <!-- END_REPO_STATUS -->
