@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 102,
-    "forks": 79,
+    "forks": 80,
     "issues": 0,
     "lastUpdated": "2025-08-05T05:21:16Z",
     "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
@@ -383,10 +383,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/aws-billing-alert-terraform",
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
-    "stars": 49,
-    "forks": 48,
+    "stars": 50,
+    "forks": 49,
     "issues": 0,
-    "lastUpdated": "2025-07-14T04:31:16Z",
+    "lastUpdated": "2025-08-07T05:16:13Z",
     "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 354,
+    "stars": 357,
     "forks": 269,
     "issues": 2,
-    "lastUpdated": "2025-08-07T01:55:19Z",
+    "lastUpdated": "2025-08-07T05:45:48Z",
     "lastCommit": "dabc4a8da7066ab0126ab99298d5747d81fe3ca7"
   },
   {
