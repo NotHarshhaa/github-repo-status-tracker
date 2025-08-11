@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 2132,
-    "forks": 2454,
+    "forks": 2455,
     "issues": 12,
     "lastUpdated": "2025-08-11T08:45:39Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 161,
-    "forks": 187,
+    "forks": 188,
     "issues": 0,
     "lastUpdated": "2025-08-07T07:04:19Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -317,7 +317,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
     "stars": 49,
-    "forks": 56,
+    "forks": 57,
     "issues": 0,
     "lastUpdated": "2025-08-02T14:48:20Z",
     "lastCommit": "79610cbee416d001d9cbb467bab7e3fbedb778fa"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 373,
-    "forks": 279,
+    "stars": 375,
+    "forks": 283,
     "issues": 2,
-    "lastUpdated": "2025-08-11T09:29:34Z",
+    "lastUpdated": "2025-08-11T17:29:05Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -466,10 +466,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/From-Docker-to-Kubernetes",
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
-    "stars": 11,
-    "forks": 10,
+    "stars": 12,
+    "forks": 13,
     "issues": 1,
-    "lastUpdated": "2025-08-05T04:05:29Z",
+    "lastUpdated": "2025-08-11T17:29:17Z",
     "lastCommit": "6f117119d7eb35dfe30db961e8410cbb0006d5a9"
   },
   {
@@ -483,10 +483,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Engineering",
       "href": "https://github.com/NotHarshhaa/DevOps-Engineering"
     },
-    "stars": 3,
+    "stars": 4,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2025-07-30T06:20:50Z",
+    "lastUpdated": "2025-08-11T17:34:51Z",
     "lastCommit": "bac41cba20250ff09532f87727ebd8de2b1b3df5"
   },
   {
