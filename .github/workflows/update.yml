@@ -2,8 +2,8 @@ name: Update Repository Status
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: "0 */6 * * *" # Run every 6 hours
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
   update-readme:
@@ -12,36 +12,77 @@ jobs:
     steps:
       - name: ⬇️ Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Full history for better commit messages
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.11"
+          cache: "pip" # Cache pip dependencies for faster runs
 
       - name: 📦 Install Python Dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
+
+      - name: 🔍 Check GitHub API Rate Limit
+        run: |
+          echo "Checking GitHub API rate limit status..."
+          curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/rate_limit | jq .
 
       - name: 🛠️ Run Python Update Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python update_status.py
+          GH_USERNAME: "NotHarshhaa"
+          LOG_LEVEL: "INFO"
+        run: |
+          echo "Running repository status update script..."
+          python update_status.py --sort stars --verbose
 
       - name: 🧰 Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22.14.0'
+          node-version: "22.x"
+          cache: "npm" # Cache npm dependencies
+
+      - name: 📦 Install Node.js Dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm ci
+          fi
 
       - name: 📜 Run Node.js Scripts
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          node update-repo-meta.js
-          node merge-metadata.js
+          if [ -f update-repo-meta.js ]; then
+            echo "Running update-repo-meta.js..."
+            node update-repo-meta.js
+          fi
+
+          if [ -f merge-metadata.js ]; then
+            echo "Running merge-metadata.js..."
+            node merge-metadata.js
+          fi
+
+      - name: 📊 Generate Status Summary
+        run: |
+          echo "### Repository Status Update Results" >> $GITHUB_STEP_SUMMARY
+          echo "- Updated at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- Updated repositories: $(grep -o '## 📂' README.md | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "See the [README.md](https://github.com/${{ github.repository }}/blob/main/README.md) for details." >> $GITHUB_STEP_SUMMARY
 
       - name: 🔁 Commit and Push Changes
         run: |
           git config --global user.name "NotHarshhaa"
           git config --global user.email "NotHarshhaa@users.noreply.github.com"
-          git add .
-          git diff --staged --quiet || git commit -m "git-tracker: 🔄 Auto-update repository status"
-          git push
+
+          # Check if there are any changes to commit
+          if git diff --name-only | grep -q .; then
+            echo "Changes detected, committing..."
+            git add .
+            git commit -m "git-tracker: 🔄 Auto-update repository status [skip ci]"
+            git push
+          else
+            echo "No changes detected, skipping commit"
+          fi

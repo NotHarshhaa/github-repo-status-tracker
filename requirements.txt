@@ -1,1 +1,5 @@
-requests
+requests>=2.28.0
+python-dotenv>=1.0.0
+argparse>=1.4.0
+pathlib>=1.0.1
+typing>=3.7.4.3
