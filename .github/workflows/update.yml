@@ -29,6 +29,11 @@ jobs:
           echo "Checking GitHub API rate limit status..."
           curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/rate_limit | jq .
 
+      - name: 🧹 Clean README before update
+        run: |
+          echo "Cleaning README.md to remove any duplicate sections..."
+          python cleanup_readme.py --verbose --backup
+
       - name: 🛠️ Run Python Update Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -69,6 +74,7 @@ jobs:
           echo "### Repository Status Update Results" >> $GITHUB_STEP_SUMMARY
           echo "- Updated at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
           echo "- Updated repositories: $(grep -o '## 📂' README.md | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "- Duplicates removed: $(test -f README.md.bak && (grep -o '## 📂' README.md.bak | wc -l) || echo 0) - $(grep -o '## 📂' README.md | wc -l) = $(($(test -f README.md.bak && (grep -o '## 📂' README.md.bak | wc -l) || echo 0) - $(grep -o '## 📂' README.md | wc -l)))" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "See the [README.md](https://github.com/${{ github.repository }}/blob/main/README.md) for details." >> $GITHUB_STEP_SUMMARY
 

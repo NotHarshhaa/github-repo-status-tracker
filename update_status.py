@@ -111,7 +111,14 @@ def load_repos(config_file: str) -> List[str]:
             logger.error("Invalid configuration file: 'repositories' key not found")
             raise KeyError("Invalid configuration file: 'repositories' key not found")
 
-        repos = data["repositories"]
+        # Remove any duplicate repository names while preserving order
+        repos = []
+        seen = set()
+        for repo in data["repositories"]:
+            if repo not in seen:
+                repos.append(repo)
+                seen.add(repo)
+
         logger.info(f"Loaded {len(repos)} repositories from config file")
         return repos
 
@@ -437,11 +444,12 @@ def inject_into_readme(badge: str, new_content: str, readme_path: str) -> bool:
         end_marker = "<!-- END_REPO_STATUS -->"
 
         if start_marker in readme and end_marker in readme:
-            parts = readme.split(start_marker)
-            before = parts[0] + start_marker + "\n"
-            remaining = parts[1].split(end_marker)
-            after = "\n" + end_marker + remaining[1]
-            updated = before + new_content + after
+            # Get the content before the start marker
+            before_marker = readme.split(start_marker)[0]
+            # Get the content after the end marker
+            after_marker = readme.split(end_marker)[1] if end_marker in readme.split(start_marker)[1] else ""
+            # Create updated content with markers
+            updated = before_marker + start_marker + "\n" + new_content + "\n" + end_marker + after_marker
         else:
             # If markers don't exist, add them at the end
             if "# GitHub Repository Status" not in readme:
@@ -472,16 +480,25 @@ def sort_repos(repos_data: List[Dict[str, Any]], sort_by: Optional[str] = None) 
     if not sort_by or not repos_data:
         return repos_data
 
-    if sort_by == "stars":
-        return sorted(repos_data, key=lambda x: x.get("stars", 0), reverse=True)
-    elif sort_by == "forks":
-        return sorted(repos_data, key=lambda x: x.get("forks", 0), reverse=True)
-    elif sort_by == "issues":
-        return sorted(repos_data, key=lambda x: x.get("issues", 0), reverse=True)
-    elif sort_by == "updated":
-        return sorted(repos_data, key=lambda x: x.get("raw_updated_at", ""), reverse=True)
+    # First, remove any duplicates by repo name
+    unique_repos = {}
+    for repo in repos_data:
+        name = repo.get("name")
+        if name not in unique_repos or (unique_repos[name].get("raw_updated_at", "") < repo.get("raw_updated_at", "")):
+            unique_repos[name] = repo
 
-    return repos_data
+    deduplicated_data = list(unique_repos.values())
+
+    if sort_by == "stars":
+        return sorted(deduplicated_data, key=lambda x: x.get("stars", 0), reverse=True)
+    elif sort_by == "forks":
+        return sorted(deduplicated_data, key=lambda x: x.get("forks", 0), reverse=True)
+    elif sort_by == "issues":
+        return sorted(deduplicated_data, key=lambda x: x.get("issues", 0), reverse=True)
+    elif sort_by == "updated":
+        return sorted(deduplicated_data, key=lambda x: x.get("raw_updated_at", ""), reverse=True)
+
+    return deduplicated_data
 
 def export_json_data(repos_data: List[Dict[str, Any]]) -> None:
     """Export repository data to JSON file for potential use in web interfaces"""
@@ -543,18 +560,23 @@ def main() -> int:
                 logger.error(f"Error processing {repo}: {e}")
                 failed.append(repo)
 
-        # Sort repositories if requested
-        if args.sort:
-            logger.info(f"Sorting repositories by {args.sort}")
-            statuses = sort_repos(statuses, args.sort)
+        # Remove this sorting step - we'll handle it later with deduplication
+        # (This will be handled in the section where we generate the markdown)
 
         # Generate markdown and update README
         if statuses:
             # Export data to JSON for potential web interface use
             export_json_data(statuses)
 
+            # Log the number of repositories before and after deduplication
+            logger.info(f"Processing {len(statuses)} repositories (before deduplication)")
+
+            # Sort and deduplicate repositories
+            sorted_statuses = sort_repos(statuses, args.sort)
+            logger.info(f"Processed {len(sorted_statuses)} repositories (after deduplication)")
+
             # Generate markdown content
-            markdown = generate_repo_section(statuses)
+            markdown = generate_repo_section(sorted_statuses)
 
             # Create badge with timestamp
             timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
@@ -562,7 +584,7 @@ def main() -> int:
 
             # Update README
             if inject_into_readme(badge, markdown, args.readme):
-                logger.info(f"Updated {len(statuses)} repositories in README")
+                logger.info(f"Updated {len(sorted_statuses)} repositories in README")
             else:
                 logger.error("Failed to update README")
 
