@@ -25,18 +25,18 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2144,
-    "forks": 2464,
+    "stars": 2145,
+    "forks": 2465,
     "issues": 12,
-    "lastUpdated": "2025-08-14T01:37:13Z",
+    "lastUpdated": "2025-08-14T16:15:19Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 282,
+    "stars": 283,
     "forks": 195,
     "issues": 1,
-    "lastUpdated": "2025-08-14T11:09:34Z",
+    "lastUpdated": "2025-08-14T16:59:48Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -65,10 +65,10 @@
   },
   {
     "repo": "Zomato-Clone",
-    "stars": 9,
+    "stars": 10,
     "forks": 60,
     "issues": 0,
-    "lastUpdated": "2025-08-02T15:03:11Z",
+    "lastUpdated": "2025-08-14T15:25:18Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
   },
   {
@@ -89,10 +89,10 @@
   },
   {
     "repo": "DevOps_Setup-Installations",
-    "stars": 159,
+    "stars": 160,
     "forks": 171,
     "issues": 0,
-    "lastUpdated": "2025-08-14T00:05:16Z",
+    "lastUpdated": "2025-08-14T16:07:54Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -154,7 +154,7 @@
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 378,
-    "forks": 283,
+    "forks": 284,
     "issues": 2,
     "lastUpdated": "2025-08-14T08:58:05Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -185,10 +185,10 @@
   },
   {
     "repo": "eks-cluster-terraform",
-    "stars": 66,
+    "stars": 67,
     "forks": 65,
     "issues": 0,
-    "lastUpdated": "2025-08-05T05:21:11Z",
+    "lastUpdated": "2025-08-14T13:11:05Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
