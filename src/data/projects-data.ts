@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2141,
-    "forks": 2459,
+    "stars": 2144,
+    "forks": 2460,
     "issues": 12,
-    "lastUpdated": "2025-08-13T11:24:24Z",
+    "lastUpdated": "2025-08-14T01:37:13Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -165,10 +165,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/uber-clone",
       "href": "https://github.com/NotHarshhaa/uber-clone"
     },
-    "stars": 4,
+    "stars": 5,
     "forks": 6,
     "issues": 0,
-    "lastUpdated": "2025-08-03T01:53:57Z",
+    "lastUpdated": "2025-08-13T23:59:30Z",
     "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
   },
   {
@@ -300,10 +300,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 158,
+    "stars": 159,
     "forks": 171,
     "issues": 0,
-    "lastUpdated": "2025-08-03T01:54:58Z",
+    "lastUpdated": "2025-08-14T00:05:16Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
