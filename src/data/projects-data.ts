@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 175,
+    "stars": 176,
     "forks": 149,
     "issues": 2,
-    "lastUpdated": "2025-08-01T13:54:44Z",
+    "lastUpdated": "2025-08-14T18:49:00Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
   },
   {
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 2145,
-    "forks": 2465,
+    "forks": 2467,
     "issues": 12,
     "lastUpdated": "2025-08-14T16:15:19Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
@@ -301,7 +301,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 160,
-    "forks": 171,
+    "forks": 172,
     "issues": 0,
     "lastUpdated": "2025-08-14T16:07:54Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 352,
+    "stars": 353,
     "forks": 171,
     "issues": 2,
-    "lastUpdated": "2025-08-10T22:04:02Z",
+    "lastUpdated": "2025-08-15T01:17:03Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -384,7 +384,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
     "stars": 50,
-    "forks": 49,
+    "forks": 50,
     "issues": 0,
     "lastUpdated": "2025-08-07T05:16:13Z",
     "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"
