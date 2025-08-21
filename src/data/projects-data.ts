@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2167,
+    "stars": 2168,
     "forks": 2495,
     "issues": 12,
-    "lastUpdated": "2025-08-21T12:07:48Z",
+    "lastUpdated": "2025-08-21T15:28:07Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 285,
+    "stars": 286,
     "forks": 195,
     "issues": 1,
-    "lastUpdated": "2025-08-19T11:44:17Z",
+    "lastUpdated": "2025-08-21T14:06:21Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 354,
+    "stars": 353,
     "forks": 171,
     "issues": 2,
-    "lastUpdated": "2025-08-20T07:46:49Z",
+    "lastUpdated": "2025-08-21T15:46:39Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 200,
-    "forks": 144,
+    "stars": 201,
+    "forks": 145,
     "issues": 0,
-    "lastUpdated": "2025-08-19T11:41:15Z",
+    "lastUpdated": "2025-08-21T15:06:38Z",
     "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 400,
+    "stars": 399,
     "forks": 298,
     "issues": 2,
-    "lastUpdated": "2025-08-20T18:54:37Z",
+    "lastUpdated": "2025-08-21T17:11:01Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
