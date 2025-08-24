@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--24%2012%3A38 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--24%2018%3A27 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2181` | 🍴 **Forks:** `2502` | 👀 **Watchers:** `2181` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2183` | 🍴 **Forks:** `2502` | 👀 **Watchers:** `2183` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `405` | 🍴 **Forks:** `302` | 👀 **Watchers:** `405` | ⚪ **CI/CD Status**
+⭐ **Stars:** `405` | 🍴 **Forks:** `303` | 👀 **Watchers:** `405` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `202` | 🍴 **Forks:** `146` | 👀 **Watchers:** `202` | ⚪ **CI/CD Status**
+⭐ **Stars:** `202` | 🍴 **Forks:** `147` | 👀 **Watchers:** `202` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -206,11 +206,11 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-08-19`
+🗓 **Last Updated:** `2025-08-24`
 🔄 **Latest Commit:** [CKA: README: Revamped README - Modernized design, improved structur...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1) on `2025-03-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `120` | 🍴 **Forks:** `92` | 👀 **Watchers:** `120` | ⚪ **CI/CD Status**
+⭐ **Stars:** `122` | 🍴 **Forks:** `93` | 👀 **Watchers:** `122` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
