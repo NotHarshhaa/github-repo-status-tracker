@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--24%2018%3A27 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--25%2001%3A43 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2183` | 🍴 **Forks:** `2502` | 👀 **Watchers:** `2183` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2185` | 🍴 **Forks:** `2502` | 👀 **Watchers:** `2185` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: README: Revamped README - Modernized design, improved structur...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1) on `2025-03-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `122` | 🍴 **Forks:** `93` | 👀 **Watchers:** `122` | ⚪ **CI/CD Status**
+⭐ **Stars:** `123` | 🍴 **Forks:** `94` | 👀 **Watchers:** `123` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
