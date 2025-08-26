@@ -17,18 +17,18 @@
   },
   {
     "repo": "kubernetes-dashboard",
-    "stars": 50,
+    "stars": 51,
     "forks": 48,
     "issues": 0,
-    "lastUpdated": "2025-08-19T11:41:16Z",
+    "lastUpdated": "2025-08-26T12:02:50Z",
     "lastCommit": "e8faec5436936b02b906822395bebc33b5681b3a"
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2187,
+    "stars": 2190,
     "forks": 2507,
     "issues": 12,
-    "lastUpdated": "2025-08-26T03:04:38Z",
+    "lastUpdated": "2025-08-26T12:00:14Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -154,7 +154,7 @@
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 406,
-    "forks": 306,
+    "forks": 307,
     "issues": 2,
     "lastUpdated": "2025-08-26T02:35:31Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
