@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--26%2012%3A45 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--26%2018%3A28 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2190` | 🍴 **Forks:** `2507` | 👀 **Watchers:** `2190` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2192` | 🍴 **Forks:** `2507` | 👀 **Watchers:** `2192` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `704` | 🍴 **Forks:** `437` | 👀 **Watchers:** `704` | ⚪ **CI/CD Status**
+⭐ **Stars:** `704` | 🍴 **Forks:** `438` | 👀 **Watchers:** `704` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `406` | 🍴 **Forks:** `307` | 👀 **Watchers:** `406` | ⚪ **CI/CD Status**
+⭐ **Stars:** `406` | 🍴 **Forks:** `308` | 👀 **Watchers:** `406` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `158` | 🍴 **Forks:** `173` | 👀 **Watchers:** `158` | ⚪ **CI/CD Status**
+⭐ **Stars:** `158` | 🍴 **Forks:** `174` | 👀 **Watchers:** `158` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -248,11 +248,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/azure-all_in_one?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-08-19`
+🗓 **Last Updated:** `2025-08-26`
 🔄 **Latest Commit:** [Azure Guide: README: Update header banner](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3) on `2025-03-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `76` | 🍴 **Forks:** `55` | 👀 **Watchers:** `76` | ⚪ **CI/CD Status**
+⭐ **Stars:** `77` | 🍴 **Forks:** `55` | 👀 **Watchers:** `77` | ⚪ **CI/CD Status**
 📄 **License:** `GNU Affero General Public License v3.0`
 
 `#azure` `#azure-app-service` `#azure-automation` `#azure-cli` `#azure-cloud`
