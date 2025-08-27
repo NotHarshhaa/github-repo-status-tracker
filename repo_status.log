@@ -4275,3 +4275,72 @@
 2025-08-27 01:37:17,550 - INFO - ✅ README.md updated with latest repo statuses!
 2025-08-27 01:37:17,550 - INFO - Updated 30 repositories in README
 2025-08-27 01:37:17,550 - INFO - Repository status update completed
+2025-08-27 06:28:58,609 - INFO - Starting GitHub Repository Status Update
+2025-08-27 06:28:58,735 - INFO - API Rate Limit: 4999/5000 requests remaining, resets at 2025-08-27 07:15:41
+2025-08-27 06:28:58,736 - INFO - Loaded 30 repositories from config file
+2025-08-27 06:28:58,736 - INFO - Processing repository: devops-tools
+2025-08-27 06:28:58,736 - INFO - Fetching data for devops-tools (attempt 1)
+2025-08-27 06:28:59,492 - INFO - Processing repository: Certified_Kubernetes_Administrator
+2025-08-27 06:28:59,492 - INFO - Fetching data for Certified_Kubernetes_Administrator (attempt 1)
+2025-08-27 06:29:00,106 - INFO - Processing repository: kubernetes-dashboard
+2025-08-27 06:29:00,106 - INFO - Fetching data for kubernetes-dashboard (attempt 1)
+2025-08-27 06:29:00,742 - INFO - Processing repository: DevOps-Projects
+2025-08-27 06:29:00,742 - INFO - Fetching data for DevOps-Projects (attempt 1)
+2025-08-27 06:29:01,399 - INFO - Processing repository: kubernetes-projects-learning
+2025-08-27 06:29:01,399 - INFO - Fetching data for kubernetes-projects-learning (attempt 1)
+2025-08-27 06:29:02,049 - INFO - Processing repository: AWS-EKS_Terraform
+2025-08-27 06:29:02,049 - INFO - Fetching data for AWS-EKS_Terraform (attempt 1)
+2025-08-27 06:29:02,806 - INFO - Processing repository: Deployment-of-super-Mario-on-Kubernetes-using-terraform
+2025-08-27 06:29:02,807 - INFO - Fetching data for Deployment-of-super-Mario-on-Kubernetes-using-terraform (attempt 1)
+2025-08-27 06:29:03,578 - INFO - Processing repository: cloud-native-monitoring-app
+2025-08-27 06:29:03,579 - INFO - Fetching data for cloud-native-monitoring-app (attempt 1)
+2025-08-27 06:29:04,355 - INFO - Processing repository: Zomato-Clone
+2025-08-27 06:29:04,355 - INFO - Fetching data for Zomato-Clone (attempt 1)
+2025-08-27 06:29:05,009 - INFO - Processing repository: Learning-Prometheus
+2025-08-27 06:29:05,009 - INFO - Fetching data for Learning-Prometheus (attempt 1)
+2025-08-27 06:29:05,741 - INFO - Processing repository: Kubernetes
+2025-08-27 06:29:05,741 - INFO - Fetching data for Kubernetes (attempt 1)
+2025-08-27 06:29:06,733 - INFO - Processing repository: DevOps_Setup-Installations
+2025-08-27 06:29:06,733 - INFO - Fetching data for DevOps_Setup-Installations (attempt 1)
+2025-08-27 06:29:07,372 - INFO - Processing repository: DevOps-Tool-Installer
+2025-08-27 06:29:07,372 - INFO - Fetching data for DevOps-Tool-Installer (attempt 1)
+2025-08-27 06:29:08,026 - INFO - Processing repository: kubernetes-learning-path
+2025-08-27 06:29:08,026 - INFO - Fetching data for kubernetes-learning-path (attempt 1)
+2025-08-27 06:29:08,673 - INFO - Processing repository: Jenkins-Terraform-AWS-Infra
+2025-08-27 06:29:08,674 - INFO - Fetching data for Jenkins-Terraform-AWS-Infra (attempt 1)
+2025-08-27 06:29:09,306 - INFO - Processing repository: azure-all_in_one
+2025-08-27 06:29:09,306 - INFO - Fetching data for azure-all_in_one (attempt 1)
+2025-08-27 06:29:09,989 - INFO - Processing repository: aws-billing-alert-terraform
+2025-08-27 06:29:09,989 - INFO - Fetching data for aws-billing-alert-terraform (attempt 1)
+2025-08-27 06:29:10,711 - INFO - Processing repository: AWS-DevOps_Real-Time_Deployment
+2025-08-27 06:29:10,711 - INFO - Fetching data for AWS-DevOps_Real-Time_Deployment (attempt 1)
+2025-08-27 06:29:11,370 - INFO - Processing repository: devops-cheatsheet
+2025-08-27 06:29:11,370 - INFO - Fetching data for devops-cheatsheet (attempt 1)
+2025-08-27 06:29:12,008 - INFO - Processing repository: DevOps-Interview-Questions
+2025-08-27 06:29:12,008 - INFO - Fetching data for DevOps-Interview-Questions (attempt 1)
+2025-08-27 06:29:12,722 - INFO - Processing repository: into-the-devops
+2025-08-27 06:29:12,723 - INFO - Fetching data for into-the-devops (attempt 1)
+2025-08-27 06:29:13,456 - INFO - Processing repository: AWS-Terraform-Workshop
+2025-08-27 06:29:13,457 - INFO - Fetching data for AWS-Terraform-Workshop (attempt 1)
+2025-08-27 06:29:14,205 - INFO - Processing repository: tf-ecr-ecs-gh-deploy
+2025-08-27 06:29:14,205 - INFO - Fetching data for tf-ecr-ecs-gh-deploy (attempt 1)
+2025-08-27 06:29:14,946 - INFO - Processing repository: eks-cluster-terraform
+2025-08-27 06:29:14,947 - INFO - Fetching data for eks-cluster-terraform (attempt 1)
+2025-08-27 06:29:15,674 - INFO - Processing repository: CI-CD_EKS-GitHub_Actions
+2025-08-27 06:29:15,674 - INFO - Fetching data for CI-CD_EKS-GitHub_Actions (attempt 1)
+2025-08-27 06:29:16,554 - INFO - Processing repository: uber-clone
+2025-08-27 06:29:16,554 - INFO - Fetching data for uber-clone (attempt 1)
+2025-08-27 06:29:17,214 - INFO - Processing repository: From-Docker-to-Kubernetes
+2025-08-27 06:29:17,214 - INFO - Fetching data for From-Docker-to-Kubernetes (attempt 1)
+2025-08-27 06:29:17,847 - INFO - Processing repository: DevOps-Engineering
+2025-08-27 06:29:17,847 - INFO - Fetching data for DevOps-Engineering (attempt 1)
+2025-08-27 06:29:18,582 - INFO - Processing repository: Cloud-Native-DevOps-Project
+2025-08-27 06:29:18,583 - INFO - Fetching data for Cloud-Native-DevOps-Project (attempt 1)
+2025-08-27 06:29:19,170 - INFO - Processing repository: awesome-devops-cloud
+2025-08-27 06:29:19,170 - INFO - Fetching data for awesome-devops-cloud (attempt 1)
+2025-08-27 06:29:19,910 - INFO - Repository metadata exported to repo-metadata.json
+2025-08-27 06:29:19,910 - INFO - Processing 30 repositories (before deduplication)
+2025-08-27 06:29:19,910 - INFO - Processed 30 repositories (after deduplication)
+2025-08-27 06:29:19,911 - INFO - ✅ README.md updated with latest repo statuses!
+2025-08-27 06:29:19,911 - INFO - Updated 30 repositories in README
+2025-08-27 06:29:19,912 - INFO - Repository status update completed
