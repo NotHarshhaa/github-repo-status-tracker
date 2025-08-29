@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2200,
-    "forks": 2513,
+    "stars": 2202,
+    "forks": 2516,
     "issues": 12,
-    "lastUpdated": "2025-08-28T21:13:35Z",
+    "lastUpdated": "2025-08-29T17:43:18Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -89,10 +89,10 @@
   },
   {
     "repo": "DevOps_Setup-Installations",
-    "stars": 158,
+    "stars": 159,
     "forks": 174,
     "issues": 0,
-    "lastUpdated": "2025-08-21T12:08:50Z",
+    "lastUpdated": "2025-08-29T16:07:11Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 355,
+    "stars": 356,
     "forks": 174,
     "issues": 2,
-    "lastUpdated": "2025-08-28T06:21:32Z",
+    "lastUpdated": "2025-08-29T16:10:54Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -154,7 +154,7 @@
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 409,
-    "forks": 313,
+    "forks": 314,
     "issues": 2,
     "lastUpdated": "2025-08-28T10:29:46Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -212,8 +212,8 @@
     "stars": 12,
     "forks": 14,
     "issues": 1,
-    "lastUpdated": "2025-08-14T09:00:00Z",
-    "lastCommit": "339a49e77d7f0dc4678d0528c70f7fc10954106b"
+    "lastUpdated": "2025-08-29T15:41:25Z",
+    "lastCommit": "9da181a663fc902fd2f6d53067a822b703423f24"
   },
   {
     "repo": "DevOps-Engineering",
