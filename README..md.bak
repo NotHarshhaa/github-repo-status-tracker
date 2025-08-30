@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--29%2012%3A40 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--29%2018%3A26 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-08-28`
+🗓 **Last Updated:** `2025-08-29`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2200` | 🍴 **Forks:** `2513` | 👀 **Watchers:** `2200` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2202` | 🍴 **Forks:** `2516` | 👀 **Watchers:** `2202` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `409` | 🍴 **Forks:** `313` | 👀 **Watchers:** `409` | ⚪ **CI/CD Status**
+⭐ **Stars:** `409` | 🍴 **Forks:** `314` | 👀 **Watchers:** `409` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-08-28`
+🗓 **Last Updated:** `2025-08-29`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `355` | 🍴 **Forks:** `174` | 👀 **Watchers:** `355` | ⚪ **CI/CD Status**
+⭐ **Stars:** `356` | 🍴 **Forks:** `174` | 👀 **Watchers:** `356` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -185,11 +185,11 @@ Comprehensive repository covering the installation and setup of essential DevOps
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-08-21`
+🗓 **Last Updated:** `2025-08-29`
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `158` | 🍴 **Forks:** `174` | 👀 **Watchers:** `158` | ⚪ **CI/CD Status**
+⭐ **Stars:** `159` | 🍴 **Forks:** `174` | 👀 **Watchers:** `159` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -416,14 +416,14 @@ A hands-on learning repository to help you master containerization and orchestra
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-08-14`
-🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v1.9.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/339a49e77d7f0dc4678d0528c70f7fc10954106b) on `2025-07-23`
+🗓 **Last Updated:** `2025-08-29`
+🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.0.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/9da181a663fc902fd2f6d53067a822b703423f24) on `2025-07-23`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
 ⭐ **Stars:** `12` | 🍴 **Forks:** `14` | 👀 **Watchers:** `12` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
-
+`#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
 
 ---
 
