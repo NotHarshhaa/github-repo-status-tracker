@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--01%2018%3A27 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--02%2001%3A38 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-08-31`
+🗓 **Last Updated:** `2025-09-01`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `411` | 🍴 **Forks:** `314` | 👀 **Watchers:** `411` | ⚪ **CI/CD Status**
+⭐ **Stars:** `412` | 🍴 **Forks:** `314` | 👀 **Watchers:** `412` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -147,7 +147,7 @@ A comprehensive collection of essential DevOps tools for development, deployment
 🔄 **Latest Commit:** [DevOps-Tools: README: Improved tool descriptions, categorized tools...](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be) on `2025-03-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `179` | 🍴 **Forks:** `150` | 👀 **Watchers:** `179` | ⚪ **CI/CD Status**
+⭐ **Stars:** `180` | 🍴 **Forks:** `150` | 👀 **Watchers:** `180` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
