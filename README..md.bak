@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--04%2012%3A38 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--04%2018%3A27 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-03`
+🗓 **Last Updated:** `2025-09-04`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2231` | 🍴 **Forks:** `2533` | 👀 **Watchers:** `2231` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2232` | 🍴 **Forks:** `2533` | 👀 **Watchers:** `2232` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-03`
+🗓 **Last Updated:** `2025-09-04`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `208` | 🍴 **Forks:** `151` | 👀 **Watchers:** `208` | ⚪ **CI/CD Status**
+⭐ **Stars:** `209` | 🍴 **Forks:** `151` | 👀 **Watchers:** `209` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -462,7 +462,7 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 🔄 **Latest Commit:** [AWS/Kubernetes/Terraform: README: Updated README.md with structured...](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/e174ff110b003113e4e2dbc8153afdd49df38fab) on `2025-03-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `22` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `23` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#eks` `#supermario` `#terraform`
