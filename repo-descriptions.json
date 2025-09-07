@@ -180,5 +180,17 @@
     "description": "A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilities, and guides — beautifully categorized and easily searchable in one place.",
     "techStack": ["DevOps", "Cloud", "Kubernetes"],
     "status": "Learning"
+  },
+  "devops-monitoring-in-a-box": {
+    "displayName": "DevOps Monitoring in a Box",
+    "description": "A Advanced DevOps Open Source Monitoring Platform to monitor and manage infrastructure and applications using Prometheus, Grafana, and other tools.",
+    "techStack": ["Prometheus", "Grafana", "Infrastructure", "Monitoring"],
+    "status": "Learning"
+  },
+  "devops-environment-toolkit-beginners": {
+    "displayName": "DevOps Environment Toolkit for Beginners",
+    "description": "A Beginners DevOps Environment Toolkit for Beginners to setup a Local DevOps environment using tools like Docker, Kubernetes, and Jenkins.",
+    "techStack": ["Docker", "Kubernetes", "Jenkins", "DevOps"],
+    "status": "Learning"
   }
 }

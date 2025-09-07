@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2234,
+    "stars": 2235,
     "forks": 2537,
     "issues": 12,
-    "lastUpdated": "2025-09-06T07:53:33Z",
+    "lastUpdated": "2025-09-07T06:28:01Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 419,
-    "forks": 319,
+    "forks": 320,
     "issues": 2,
     "lastUpdated": "2025-09-05T16:05:10Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -523,5 +523,40 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2025-08-03T18:18:00Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
+  },
+  {
+    "title": "DevOps Monitoring in a Box",
+    "techStack": [
+      "Prometheus",
+      "Grafana"
+    ],
+    "description": "A Advanced DevOps Open Source Monitoring Platform to monitor and manage infrastructure and applications using Prometheus, Grafana, and other tools.",
+    "link": {
+      "label": "github.com/NotHarshhaa/devops-monitoring-in-a-box",
+      "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
+    },
+    "stars": 6,
+    "forks": 7,
+    "issues": 0,
+    "lastUpdated": "2025-09-04T15:42:56Z",
+    "lastCommit": "b0410397ff9043f8adf68607dd8b9266c9af5207"
+  },
+  {
+    "title": "DevOps Environment Toolkit for Beginners",
+    "techStack": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "description": "A Beginners DevOps Environment Toolkit for Beginners to setup a Local DevOps environment using tools like Docker, Kubernetes, and Jenkins.",
+    "link": {
+      "label": "github.com/NotHarshhaa/devops-environment-toolkit-beginners",
+      "href": "https://github.com/NotHarshhaa/devops-environment-toolkit-beginners"
+    },
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2025-09-06T16:23:46Z",
+    "lastCommit": "bc6991b9da6e2767c466d608a7f02078c2154cb6"
   }
 ];

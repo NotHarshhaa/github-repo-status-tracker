@@ -50,7 +50,9 @@ const repos = [
   "From-Docker-to-Kubernetes",
   "DevOps-Engineering",
   "Cloud-Native-DevOps-Project",
-  "awesome-devops-cloud"
+  "awesome-devops-cloud",
+  "devops-monitoring-in-a-box",
+  "devops-environment-toolkit-beginners"
 ];
 
 // GitHub token (optional, use env var to avoid rate limits)
