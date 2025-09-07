@@ -1,10 +1,10 @@
 [
   {
     "repo": "devops-tools",
-    "stars": 180,
+    "stars": 181,
     "forks": 151,
     "issues": 2,
-    "lastUpdated": "2025-09-01T19:36:02Z",
+    "lastUpdated": "2025-09-07T16:06:40Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2236,
-    "forks": 2541,
+    "stars": 2239,
+    "forks": 2543,
     "issues": 12,
-    "lastUpdated": "2025-09-07T10:07:25Z",
+    "lastUpdated": "2025-09-07T13:36:47Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -106,7 +106,7 @@
   {
     "repo": "kubernetes-learning-path",
     "stars": 357,
-    "forks": 175,
+    "forks": 176,
     "issues": 2,
     "lastUpdated": "2025-08-31T16:32:29Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -153,24 +153,24 @@
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 422,
+    "stars": 423,
     "forks": 320,
     "issues": 2,
-    "lastUpdated": "2025-09-07T10:33:30Z",
+    "lastUpdated": "2025-09-07T15:23:35Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
     "repo": "into-the-devops",
-    "stars": 706,
+    "stars": 707,
     "forks": 440,
     "issues": 0,
-    "lastUpdated": "2025-09-05T04:19:10Z",
+    "lastUpdated": "2025-09-07T16:06:26Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
     "repo": "AWS-Terraform-Workshop",
     "stars": 9,
-    "forks": 13,
+    "forks": 14,
     "issues": 0,
     "lastUpdated": "2025-08-05T04:18:20Z",
     "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
@@ -194,7 +194,7 @@
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
     "stars": 103,
-    "forks": 81,
+    "forks": 82,
     "issues": 0,
     "lastUpdated": "2025-08-31T16:33:34Z",
     "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
@@ -210,7 +210,7 @@
   {
     "repo": "From-Docker-to-Kubernetes",
     "stars": 14,
-    "forks": 15,
+    "forks": 16,
     "issues": 1,
     "lastUpdated": "2025-09-02T05:59:59Z",
     "lastCommit": "9da181a663fc902fd2f6d53067a822b703423f24"
@@ -226,7 +226,7 @@
   {
     "repo": "Cloud-Native-DevOps-Project",
     "stars": 9,
-    "forks": 12,
+    "forks": 13,
     "issues": 0,
     "lastUpdated": "2025-08-29T09:16:42Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"

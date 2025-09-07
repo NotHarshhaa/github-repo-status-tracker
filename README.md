@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--07%2012%3A36 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--07%2018%3A25 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2236` | 🍴 **Forks:** `2541` | 👀 **Watchers:** `2236` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2239` | 🍴 **Forks:** `2543` | 👀 **Watchers:** `2239` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-05`
+🗓 **Last Updated:** `2025-09-07`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `706` | 🍴 **Forks:** `440` | 👀 **Watchers:** `706` | ⚪ **CI/CD Status**
+⭐ **Stars:** `707` | 🍴 **Forks:** `440` | 👀 **Watchers:** `707` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `422` | 🍴 **Forks:** `320` | 👀 **Watchers:** `422` | ⚪ **CI/CD Status**
+⭐ **Stars:** `423` | 🍴 **Forks:** `320` | 👀 **Watchers:** `423` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `357` | 🍴 **Forks:** `175` | 👀 **Watchers:** `357` | ⚪ **CI/CD Status**
+⭐ **Stars:** `357` | 🍴 **Forks:** `176` | 👀 **Watchers:** `357` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-01`
+🗓 **Last Updated:** `2025-09-07`
 🔄 **Latest Commit:** [DevOps-Tools: README: Improved tool descriptions, categorized tools...](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be) on `2025-03-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `180` | 🍴 **Forks:** `151` | 👀 **Watchers:** `180` | ⚪ **CI/CD Status**
+⭐ **Stars:** `181` | 🍴 **Forks:** `151` | 👀 **Watchers:** `181` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: app: Enhance Docker and application setup with multi-sta...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7) on `2025-03-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `103` | 🍴 **Forks:** `81` | 👀 **Watchers:** `103` | ⚪ **CI/CD Status**
+⭐ **Stars:** `103` | 🍴 **Forks:** `82` | 👀 **Watchers:** `103` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -420,7 +420,7 @@ A hands-on learning repository to help you master containerization and orchestra
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.0.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/9da181a663fc902fd2f6d53067a822b703423f24) on `2025-07-23`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `14` | 🍴 **Forks:** `15` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `16` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
@@ -504,7 +504,7 @@ Terraform scripts to automate the provisioning of AWS infrastructure, including 
 🔄 **Latest Commit:** [AWS-Workshop: Add initial Terraform configuration and README for AW...](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe) on `2025-03-28`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `13` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `14` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
@@ -525,7 +525,7 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `12` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `13` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`

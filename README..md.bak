@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--07%2006%3A26 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--07%2012%3A36 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-06`
+🗓 **Last Updated:** `2025-09-07`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2234` | 🍴 **Forks:** `2537` | 👀 **Watchers:** `2234` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2236` | 🍴 **Forks:** `2541` | 👀 **Watchers:** `2236` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-05`
+🗓 **Last Updated:** `2025-09-07`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `419` | 🍴 **Forks:** `319` | 👀 **Watchers:** `419` | ⚪ **CI/CD Status**
+⭐ **Stars:** `422` | 🍴 **Forks:** `320` | 👀 **Watchers:** `422` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -574,6 +574,27 @@ This is a monitoring app built with Python, and it would be containerized with D
 
 ---
 
+## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
+
+This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+
+🗓 **Last Updated:** `2025-09-07`
+🔄 **Latest Commit:** [devops-monitoring: README: enhance usage and deployment instructions](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/b0410397ff9043f8adf68607dd8b9266c9af5207) on `2025-09-04`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `7` | 🍴 **Forks:** `7` | 👀 **Watchers:** `7` | ✅ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
+
+---
+
 ## 📂 [uber-clone](https://github.com/NotHarshhaa/uber-clone)
 
 This repository is a full-stack transportation application inspired by Uber. It includes a React....
@@ -634,6 +655,27 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 📄 **License:** `No license`
 
 
+
+---
+
+## 📂 [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners)
+
+This repo provides a ready-to-use local setup with all the essential tools you need before starti...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+🗓 **Last Updated:** `2025-09-07`
+🔄 **Latest Commit:** [devops-toolkit: update README with new banner image](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners/commit/9f2a051e4ca2a24c994cf3cb10630fd6d418d1cb) on `2025-09-07`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `1` | 🍴 **Forks:** `2` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#devops` `#devops-environment` `#devops-tools` `#devops-tools-support` `#installation-scripts`
 
 ---
 <!-- END_REPO_STATUS -->
