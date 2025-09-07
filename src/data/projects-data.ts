@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2235,
-    "forks": 2537,
+    "stars": 2236,
+    "forks": 2541,
     "issues": 12,
-    "lastUpdated": "2025-09-07T06:28:01Z",
+    "lastUpdated": "2025-09-07T10:07:25Z",
     "lastCommit": "45a84272dc43add0e1c6b9e23969affff88ef0d9"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 419,
+    "stars": 422,
     "forks": 320,
     "issues": 2,
-    "lastUpdated": "2025-09-05T16:05:10Z",
+    "lastUpdated": "2025-09-07T10:33:30Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -535,10 +535,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-monitoring-in-a-box",
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
-    "stars": 6,
+    "stars": 7,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2025-09-04T15:42:56Z",
+    "lastUpdated": "2025-09-07T12:28:32Z",
     "lastCommit": "b0410397ff9043f8adf68607dd8b9266c9af5207"
   },
   {
@@ -554,9 +554,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-environment-toolkit-beginners"
     },
     "stars": 1,
-    "forks": 1,
+    "forks": 2,
     "issues": 0,
-    "lastUpdated": "2025-09-06T16:23:46Z",
-    "lastCommit": "bc6991b9da6e2767c466d608a7f02078c2154cb6"
+    "lastUpdated": "2025-09-07T07:34:21Z",
+    "lastCommit": "9f2a051e4ca2a24c994cf3cb10630fd6d418d1cb"
   }
 ];
