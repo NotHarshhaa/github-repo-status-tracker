@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 81,
-    "forks": 56,
+    "forks": 57,
     "issues": 0,
     "lastUpdated": "2025-08-31T16:33:56Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
