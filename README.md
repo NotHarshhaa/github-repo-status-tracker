@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--06%2018%3A24 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--07%2001%3A40 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-37](https://github.com/NotHarshhaa/DevOps-Projects/commit/45a84272dc43add0e1c6b9e23969affff88ef0d9) on `2025-07-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2234` | 🍴 **Forks:** `2536` | 👀 **Watchers:** `2234` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2234` | 🍴 **Forks:** `2537` | 👀 **Watchers:** `2234` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `706` | 🍴 **Forks:** `441` | 👀 **Watchers:** `706` | ⚪ **CI/CD Status**
+⭐ **Stars:** `706` | 🍴 **Forks:** `440` | 👀 **Watchers:** `706` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: README: Revamped README - Modernized design, improved structur...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1) on `2025-03-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `126` | 🍴 **Forks:** `97` | 👀 **Watchers:** `126` | ⚪ **CI/CD Status**
+⭐ **Stars:** `126` | 🍴 **Forks:** `98` | 👀 **Watchers:** `126` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -294,7 +294,7 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 🔄 **Latest Commit:** [Kubernetes-dashboard: feat: overhaul dashboard with enhanced UI, im...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/e8faec5436936b02b906822395bebc33b5681b3a) on `2025-07-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `52` | 🍴 **Forks:** `48` | 👀 **Watchers:** `52` | ⚪ **CI/CD Status**
+⭐ **Stars:** `52` | 🍴 **Forks:** `49` | 👀 **Watchers:** `52` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
