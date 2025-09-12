@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--11%2018%3A24 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--12%2001%3A24 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2250` | 🍴 **Forks:** `2557` | 👀 **Watchers:** `2250` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2251` | 🍴 **Forks:** `2558` | 👀 **Watchers:** `2251` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-11`
+🗓 **Last Updated:** `2025-09-12`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `430` | 🍴 **Forks:** `325` | 👀 **Watchers:** `430` | ⚪ **CI/CD Status**
+⭐ **Stars:** `431` | 🍴 **Forks:** `325` | 👀 **Watchers:** `431` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -101,11 +101,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-projects-learning?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-09`
+🗓 **Last Updated:** `2025-09-11`
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `294` | 🍴 **Forks:** `202` | 👀 **Watchers:** `294` | ⚪ **CI/CD Status**
+⭐ **Stars:** `295` | 🍴 **Forks:** `204` | 👀 **Watchers:** `295` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
