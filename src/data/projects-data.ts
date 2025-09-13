@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 2255,
-    "forks": 2561,
+    "forks": 2562,
     "issues": 12,
     "lastUpdated": "2025-09-13T11:34:40Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 297,
+    "stars": 299,
     "forks": 206,
     "issues": 1,
-    "lastUpdated": "2025-09-12T10:31:19Z",
+    "lastUpdated": "2025-09-13T16:18:56Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 10,
-    "forks": 61,
+    "forks": 60,
     "issues": 0,
     "lastUpdated": "2025-08-31T12:11:41Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
