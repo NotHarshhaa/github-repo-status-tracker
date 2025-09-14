@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2255,
-    "forks": 2566,
+    "stars": 2256,
+    "forks": 2567,
     "issues": 12,
-    "lastUpdated": "2025-09-14T12:21:24Z",
+    "lastUpdated": "2025-09-14T17:00:12Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 431,
+    "stars": 432,
     "forks": 327,
     "issues": 2,
-    "lastUpdated": "2025-09-12T09:49:12Z",
+    "lastUpdated": "2025-09-14T12:51:50Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -538,8 +538,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2025-09-12T04:38:31Z",
-    "lastCommit": "b0410397ff9043f8adf68607dd8b9266c9af5207"
+    "lastUpdated": "2025-09-14T15:48:04Z",
+    "lastCommit": "4b0e235ff93cc83ae30d39ff0afb42300c5b8d66"
   },
   {
     "title": "DevOps Environment Toolkit for Beginners",
