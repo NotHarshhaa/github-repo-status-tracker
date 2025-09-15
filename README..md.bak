@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--15%2006%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--15%2012%3A41 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2258` | 🍴 **Forks:** `2569` | 👀 **Watchers:** `2258` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2260` | 🍴 **Forks:** `2572` | 👀 **Watchers:** `2260` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -416,8 +416,8 @@ A hands-on learning repository to help you master containerization and orchestra
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-02`
-🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.0.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/9da181a663fc902fd2f6d53067a822b703423f24) on `2025-07-23`
+🗓 **Last Updated:** `2025-09-15`
+🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.1.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/10b7d343b17a1d941ed06e1b5e06ef94943a5d2d) on `2025-07-23`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
 ⭐ **Stars:** `14` | 🍴 **Forks:** `16` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
