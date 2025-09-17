@@ -114,10 +114,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 127,
+    "stars": 128,
     "forks": 98,
     "issues": 0,
-    "lastUpdated": "2025-09-14T07:22:58Z",
+    "lastUpdated": "2025-09-17T07:11:42Z",
     "lastCommit": "7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2359,
-    "forks": 2627,
+    "stars": 2387,
+    "forks": 2637,
     "issues": 12,
-    "lastUpdated": "2025-09-17T06:29:39Z",
+    "lastUpdated": "2025-09-17T12:30:31Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 300,
-    "forks": 207,
+    "forks": 208,
     "issues": 1,
     "lastUpdated": "2025-09-15T14:09:41Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-EKS_Terraform"
     },
     "stars": 19,
-    "forks": 52,
+    "forks": 53,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
@@ -301,7 +301,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 162,
-    "forks": 175,
+    "forks": 176,
     "issues": 0,
     "lastUpdated": "2025-09-15T01:33:04Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
@@ -317,7 +317,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
     "stars": 50,
-    "forks": 58,
+    "forks": 59,
     "issues": 0,
     "lastUpdated": "2025-09-13T10:18:12Z",
     "lastCommit": "79610cbee416d001d9cbb467bab7e3fbedb778fa"
@@ -351,7 +351,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra"
     },
     "stars": 9,
-    "forks": 22,
+    "forks": 23,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:10:14Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 436,
-    "forks": 331,
+    "forks": 332,
     "issues": 2,
     "lastUpdated": "2025-09-17T05:36:13Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
