@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--19%2006%3A30 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--19%2012%3A40 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2448` | 🍴 **Forks:** `2664` | 👀 **Watchers:** `2448` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2455` | 🍴 **Forks:** `2665` | 👀 **Watchers:** `2455` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `216` | 🍴 **Forks:** `154` | 👀 **Watchers:** `216` | ⚪ **CI/CD Status**
+⭐ **Stars:** `216` | 🍴 **Forks:** `155` | 👀 **Watchers:** `216` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -204,13 +204,13 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
 🗓 **Last Updated:** `2025-09-19`
-🔄 **Latest Commit:** [CKA: README: Revamped README - Modernized design, improved structur...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7bb781bac8fb9db8c9c17f7ef4ebf7e1d410f9e1) on `2025-03-24`
+🔄 **Latest Commit:** [CKA: k8s-learning: Add new pages for CKA, Helm, Operators, and Prom...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/a82fd58b9899791c8f2ccb97110c17430df36325) on `2025-09-19`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `129` | 🍴 **Forks:** `98` | 👀 **Watchers:** `129` | ⚪ **CI/CD Status**
+⭐ **Stars:** `129` | 🍴 **Forks:** `98` | 👀 **Watchers:** `129` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -252,7 +252,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [Azure Guide: README: Update header banner](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3) on `2025-03-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `84` | 🍴 **Forks:** `58` | 👀 **Watchers:** `84` | ⚪ **CI/CD Status**
+⭐ **Stars:** `84` | 🍴 **Forks:** `59` | 👀 **Watchers:** `84` | ⚪ **CI/CD Status**
 📄 **License:** `GNU Affero General Public License v3.0`
 
 `#azure` `#azure-app-service` `#azure-automation` `#azure-cli` `#azure-cloud`
