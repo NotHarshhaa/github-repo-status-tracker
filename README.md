@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--21%2012%3A37 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--21%2018%3A26 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2479` | 🍴 **Forks:** `2674` | 👀 **Watchers:** `2479` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2486` | 🍴 **Forks:** `2676` | 👀 **Watchers:** `2486` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -207,7 +207,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
 🗓 **Last Updated:** `2025-09-21`
-🔄 **Latest Commit:** [CKA: k8s-learning: Add new pages for CKA, Helm, Operators, and Prom...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/a82fd58b9899791c8f2ccb97110c17430df36325) on `2025-09-19`
+🔄 **Latest Commit:** [CKA: k8s-learning: Revise Operator learning modules and add new CRD...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/14369edd8d02e12f8f1afa338e73e923a944eab9) on `2025-09-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `130` | 🍴 **Forks:** `98` | 👀 **Watchers:** `130` | ❌ **CI/CD Status**
