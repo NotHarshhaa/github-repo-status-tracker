@@ -117,8 +117,8 @@ export const PROJECTS: Project[] = [
     "stars": 130,
     "forks": 98,
     "issues": 0,
-    "lastUpdated": "2025-09-22T05:52:16Z",
-    "lastCommit": "d25ad548e30326330a13cb8f62c4e189682cbd67"
+    "lastUpdated": "2025-09-22T09:55:28Z",
+    "lastCommit": "c438d5ad7993f567ebdebafb69f670e6138a0ee5"
   },
   {
     "title": "Secure Kubernetes Dashboard",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2488,
-    "forks": 2677,
+    "stars": 2489,
+    "forks": 2680,
     "issues": 12,
-    "lastUpdated": "2025-09-22T02:24:05Z",
+    "lastUpdated": "2025-09-22T10:38:57Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 438,
-    "forks": 339,
+    "forks": 340,
     "issues": 2,
     "lastUpdated": "2025-09-21T05:37:50Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
