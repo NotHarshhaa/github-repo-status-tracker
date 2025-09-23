@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--23%2001%3A26 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--23%2006%3A30 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-22`
+🗓 **Last Updated:** `2025-09-23`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2491` | 🍴 **Forks:** `2684` | 👀 **Watchers:** `2491` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2492` | 🍴 **Forks:** `2687` | 👀 **Watchers:** `2492` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `441` | 🍴 **Forks:** `341` | 👀 **Watchers:** `441` | ⚪ **CI/CD Status**
+⭐ **Stars:** `441` | 🍴 **Forks:** `342` | 👀 **Watchers:** `441` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `216` | 🍴 **Forks:** `155` | 👀 **Watchers:** `216` | ⚪ **CI/CD Status**
+⭐ **Stars:** `216` | 🍴 **Forks:** `156` | 👀 **Watchers:** `216` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -207,7 +207,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
 🗓 **Last Updated:** `2025-09-23`
-🔄 **Latest Commit:** [CKA: k8s-learning: Implement search functionality with modal and ke...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/c438d5ad7993f567ebdebafb69f670e6138a0ee5) on `2025-09-22`
+🔄 **Latest Commit:** [CKA: k8s-learning: Enhance Sidebar component with animations, searc...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/3c0bbe474ad55eda26e3111a7dbc862cb086c8f3) on `2025-09-23`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `136` | 🍴 **Forks:** `100` | 👀 **Watchers:** `136` | ❌ **CI/CD Status**
