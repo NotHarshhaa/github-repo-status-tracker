@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--22%2012%3A42 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--22%2018%3A27 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2489` | 🍴 **Forks:** `2680` | 👀 **Watchers:** `2489` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2490` | 🍴 **Forks:** `2681` | 👀 **Watchers:** `2490` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-21`
+🗓 **Last Updated:** `2025-09-22`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `438` | 🍴 **Forks:** `340` | 👀 **Watchers:** `438` | ⚪ **CI/CD Status**
+⭐ **Stars:** `439` | 🍴 **Forks:** `340` | 👀 **Watchers:** `439` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: k8s-learning: Implement search functionality with modal and ke...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/c438d5ad7993f567ebdebafb69f670e6138a0ee5) on `2025-09-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `130` | 🍴 **Forks:** `98` | 👀 **Watchers:** `130` | ❌ **CI/CD Status**
+⭐ **Stars:** `134` | 🍴 **Forks:** `99` | 👀 **Watchers:** `134` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -230,8 +230,8 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🗓 **Last Updated:** `2025-09-19`
 🔄 **Latest Commit:** [CI-CD EKS: app: Enhance Docker and application setup with multi-sta...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7) on `2025-03-27`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `104` | 🍴 **Forks:** `82` | 👀 **Watchers:** `104` | ⚪ **CI/CD Status**
+🏷 **Open Issues:** `1`
+⭐ **Stars:** `104` | 🍴 **Forks:** `83` | 👀 **Watchers:** `104` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
