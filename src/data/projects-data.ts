@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 104,
-    "forks": 83,
+    "forks": 84,
     "issues": 1,
     "lastUpdated": "2025-09-19T03:26:36Z",
     "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
@@ -114,10 +114,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 136,
+    "stars": 137,
     "forks": 100,
     "issues": 0,
-    "lastUpdated": "2025-09-23T07:18:43Z",
+    "lastUpdated": "2025-09-23T16:56:24Z",
     "lastCommit": "146c1ff4df6862748525fe1defb91d41270f4d00"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2496,
+    "stars": 2499,
     "forks": 2689,
     "issues": 12,
-    "lastUpdated": "2025-09-23T10:51:52Z",
+    "lastUpdated": "2025-09-23T15:23:42Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {
@@ -184,7 +184,7 @@ export const PROJECTS: Project[] = [
     "stars": 300,
     "forks": 209,
     "issues": 1,
-    "lastUpdated": "2025-09-15T14:09:41Z",
+    "lastUpdated": "2025-09-23T15:51:55Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 443,
-    "forks": 342,
+    "forks": 343,
     "issues": 2,
     "lastUpdated": "2025-09-23T10:47:18Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -450,7 +450,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 713,
-    "forks": 444,
+    "forks": 445,
     "issues": 0,
     "lastUpdated": "2025-09-18T05:51:26Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -535,10 +535,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-monitoring-in-a-box",
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2025-09-14T15:48:04Z",
+    "lastUpdated": "2025-09-23T12:44:55Z",
     "lastCommit": "4b0e235ff93cc83ae30d39ff0afb42300c5b8d66"
   },
   {
