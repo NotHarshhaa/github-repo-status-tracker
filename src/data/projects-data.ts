@@ -85,8 +85,8 @@ export const PROJECTS: Project[] = [
     "stars": 104,
     "forks": 84,
     "issues": 1,
-    "lastUpdated": "2025-09-19T03:26:36Z",
-    "lastCommit": "f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7"
+    "lastUpdated": "2025-09-24T15:11:03Z",
+    "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
   },
   {
     "title": "DevOps Tools Collection",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2506,
+    "stars": 2511,
     "forks": 2691,
     "issues": 12,
-    "lastUpdated": "2025-09-24T11:21:01Z",
+    "lastUpdated": "2025-09-24T18:09:54Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {

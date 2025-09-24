@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--24%2012%3A41 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--24%2018%3A27 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2506` | 🍴 **Forks:** `2691` | 👀 **Watchers:** `2506` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2511` | 🍴 **Forks:** `2691` | 👀 **Watchers:** `2511` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -225,10 +225,10 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-19`
-🔄 **Latest Commit:** [CI-CD EKS: app: Enhance Docker and application setup with multi-sta...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/f9f9629b03ee20d09a029f5cd38fa2c7c827a1c7) on `2025-03-27`
+🗓 **Last Updated:** `2025-09-24`
+🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
 ⭐ **Stars:** `104` | 🍴 **Forks:** `84` | 👀 **Watchers:** `104` | ⚪ **CI/CD Status**
