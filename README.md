@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--23%2018%3A29 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--24%2001%3A27 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-23`
+🗓 **Last Updated:** `2025-09-24`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2499` | 🍴 **Forks:** `2689` | 👀 **Watchers:** `2499` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2503` | 🍴 **Forks:** `2689` | 👀 **Watchers:** `2503` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: k8s-learning: Revamp HomePage and Navigation components](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/146c1ff4df6862748525fe1defb91d41270f4d00) on `2025-09-23`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `137` | 🍴 **Forks:** `100` | 👀 **Watchers:** `137` | ❌ **CI/CD Status**
+⭐ **Stars:** `139` | 🍴 **Forks:** `100` | 👀 **Watchers:** `139` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
