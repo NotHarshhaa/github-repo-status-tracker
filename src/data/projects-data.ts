@@ -117,8 +117,8 @@ export const PROJECTS: Project[] = [
     "stars": 141,
     "forks": 100,
     "issues": 0,
-    "lastUpdated": "2025-09-25T01:45:20Z",
-    "lastCommit": "146c1ff4df6862748525fe1defb91d41270f4d00"
+    "lastUpdated": "2025-09-25T13:21:24Z",
+    "lastCommit": "74fa933932f420575960d738e9402c2a15437ce6"
   },
   {
     "title": "Secure Kubernetes Dashboard",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2520,
+    "stars": 2523,
     "forks": 2694,
     "issues": 12,
-    "lastUpdated": "2025-09-25T12:15:12Z",
+    "lastUpdated": "2025-09-25T16:23:34Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 362,
+    "stars": 363,
     "forks": 178,
     "issues": 2,
-    "lastUpdated": "2025-09-25T11:28:36Z",
+    "lastUpdated": "2025-09-25T14:50:51Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 24,
-    "forks": 47,
+    "forks": 48,
     "issues": 0,
     "lastUpdated": "2025-09-25T11:43:42Z",
     "lastCommit": "3d8824f124e7750499ef07dd1057304e15c90ed0"

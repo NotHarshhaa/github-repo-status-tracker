@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--25%2012%3A42 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--25%2018%3A29 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2520` | 🍴 **Forks:** `2694` | 👀 **Watchers:** `2520` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2523` | 🍴 **Forks:** `2694` | 👀 **Watchers:** `2523` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `362` | 🍴 **Forks:** `178` | 👀 **Watchers:** `362` | ⚪ **CI/CD Status**
+⭐ **Stars:** `363` | 🍴 **Forks:** `178` | 👀 **Watchers:** `363` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -207,7 +207,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
 🗓 **Last Updated:** `2025-09-25`
-🔄 **Latest Commit:** [CKA: k8s-learning: Revamp HomePage and Navigation components](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/146c1ff4df6862748525fe1defb91d41270f4d00) on `2025-09-23`
+🔄 **Latest Commit:** [CKA: k8s-learning: Revamp Learning Pages with Enhanced Visuals and ...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/74fa933932f420575960d738e9402c2a15437ce6) on `2025-09-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `141` | 🍴 **Forks:** `100` | 👀 **Watchers:** `141` | ❌ **CI/CD Status**
@@ -357,7 +357,7 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 🔄 **Latest Commit:** [AWS-DevOps: Comprehensive updates to deployment configuration and s...](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/3d8824f124e7750499ef07dd1057304e15c90ed0) on `2025-09-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `24` | 🍴 **Forks:** `47` | 👀 **Watchers:** `24` | ⚪ **CI/CD Status**
+⭐ **Stars:** `24` | 🍴 **Forks:** `48` | 👀 **Watchers:** `24` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
