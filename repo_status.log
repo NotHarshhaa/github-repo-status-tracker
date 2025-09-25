@@ -12563,3 +12563,97 @@
 2025-09-25 01:27:13,230 - INFO - ✅ README.md updated with latest repo statuses!
 2025-09-25 01:27:13,230 - INFO - Updated 32 repositories in README
 2025-09-25 01:27:13,230 - INFO - Repository status update completed
+2025-09-25 06:30:26,820 - INFO - Starting GitHub Repository Status Update
+2025-09-25 06:30:27,023 - INFO - API Rate Limit: 5000/5000 requests remaining, resets at 2025-09-25 07:30:26
+2025-09-25 06:30:27,025 - INFO - Loaded 32 repositories from config file
+2025-09-25 06:30:27,025 - INFO - Processing repository: devops-tools
+2025-09-25 06:30:27,025 - INFO - Fetching data for devops-tools (attempt 1)
+2025-09-25 06:30:28,101 - INFO - Processing repository: Certified_Kubernetes_Administrator
+2025-09-25 06:30:28,101 - INFO - Fetching data for Certified_Kubernetes_Administrator (attempt 1)
+2025-09-25 06:30:38,112 - WARNING - Error fetching Certified_Kubernetes_Administrator (attempt 1): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/NotHarshhaa/Certified_Kubernetes_Administrator (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0712d159d0>, 'Connection to api.github.com timed out. (connect timeout=10)'))
+2025-09-25 06:30:38,112 - INFO - Retrying in 2 seconds...
+2025-09-25 06:30:40,112 - INFO - Fetching data for Certified_Kubernetes_Administrator (attempt 2)
+2025-09-25 06:30:41,484 - INFO - Processing repository: kubernetes-dashboard
+2025-09-25 06:30:41,484 - INFO - Fetching data for kubernetes-dashboard (attempt 1)
+2025-09-25 06:30:42,530 - INFO - Processing repository: DevOps-Projects
+2025-09-25 06:30:42,530 - INFO - Fetching data for DevOps-Projects (attempt 1)
+2025-09-25 06:30:43,505 - INFO - Processing repository: kubernetes-projects-learning
+2025-09-25 06:30:43,505 - INFO - Fetching data for kubernetes-projects-learning (attempt 1)
+2025-09-25 06:30:44,487 - INFO - Processing repository: AWS-EKS_Terraform
+2025-09-25 06:30:44,487 - INFO - Fetching data for AWS-EKS_Terraform (attempt 1)
+2025-09-25 06:30:45,620 - INFO - Processing repository: Deployment-of-super-Mario-on-Kubernetes-using-terraform
+2025-09-25 06:30:45,620 - INFO - Fetching data for Deployment-of-super-Mario-on-Kubernetes-using-terraform (attempt 1)
+2025-09-25 06:30:55,914 - WARNING - Error fetching Deployment-of-super-Mario-on-Kubernetes-using-terraform (attempt 1): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commits?per_page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0712d3ab90>, 'Connection to api.github.com timed out. (connect timeout=10)'))
+2025-09-25 06:30:55,915 - INFO - Retrying in 2 seconds...
+2025-09-25 06:30:57,915 - INFO - Fetching data for Deployment-of-super-Mario-on-Kubernetes-using-terraform (attempt 2)
+2025-09-25 06:30:58,884 - INFO - Processing repository: cloud-native-monitoring-app
+2025-09-25 06:30:58,884 - INFO - Fetching data for cloud-native-monitoring-app (attempt 1)
+2025-09-25 06:30:59,957 - INFO - Processing repository: Zomato-Clone
+2025-09-25 06:30:59,958 - INFO - Fetching data for Zomato-Clone (attempt 1)
+2025-09-25 06:31:00,947 - INFO - Processing repository: Learning-Prometheus
+2025-09-25 06:31:00,947 - INFO - Fetching data for Learning-Prometheus (attempt 1)
+2025-09-25 06:31:01,988 - INFO - Processing repository: Kubernetes
+2025-09-25 06:31:01,989 - INFO - Fetching data for Kubernetes (attempt 1)
+2025-09-25 06:31:03,246 - INFO - Processing repository: DevOps_Setup-Installations
+2025-09-25 06:31:03,246 - INFO - Fetching data for DevOps_Setup-Installations (attempt 1)
+2025-09-25 06:31:04,285 - INFO - Processing repository: DevOps-Tool-Installer
+2025-09-25 06:31:04,286 - INFO - Fetching data for DevOps-Tool-Installer (attempt 1)
+2025-09-25 06:31:14,588 - WARNING - Error fetching DevOps-Tool-Installer (attempt 1): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/NotHarshhaa/DevOps-Tool-Installer/commits?per_page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0712d2a950>, 'Connection to api.github.com timed out. (connect timeout=10)'))
+2025-09-25 06:31:14,588 - INFO - Retrying in 2 seconds...
+2025-09-25 06:31:16,588 - INFO - Fetching data for DevOps-Tool-Installer (attempt 2)
+2025-09-25 06:31:17,813 - INFO - Processing repository: kubernetes-learning-path
+2025-09-25 06:31:17,813 - INFO - Fetching data for kubernetes-learning-path (attempt 1)
+2025-09-25 06:31:18,787 - INFO - Processing repository: Jenkins-Terraform-AWS-Infra
+2025-09-25 06:31:18,787 - INFO - Fetching data for Jenkins-Terraform-AWS-Infra (attempt 1)
+2025-09-25 06:31:28,801 - WARNING - Error fetching Jenkins-Terraform-AWS-Infra (attempt 1): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/NotHarshhaa/Jenkins-Terraform-AWS-Infra (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0712d2a610>, 'Connection to api.github.com timed out. (connect timeout=10)'))
+2025-09-25 06:31:28,801 - INFO - Retrying in 2 seconds...
+2025-09-25 06:31:30,801 - INFO - Fetching data for Jenkins-Terraform-AWS-Infra (attempt 2)
+2025-09-25 06:31:31,910 - INFO - Processing repository: azure-all_in_one
+2025-09-25 06:31:31,910 - INFO - Fetching data for azure-all_in_one (attempt 1)
+2025-09-25 06:31:32,979 - INFO - Processing repository: aws-billing-alert-terraform
+2025-09-25 06:31:32,979 - INFO - Fetching data for aws-billing-alert-terraform (attempt 1)
+2025-09-25 06:31:34,048 - INFO - Processing repository: AWS-DevOps_Real-Time_Deployment
+2025-09-25 06:31:34,048 - INFO - Fetching data for AWS-DevOps_Real-Time_Deployment (attempt 1)
+2025-09-25 06:31:35,130 - INFO - Processing repository: devops-cheatsheet
+2025-09-25 06:31:35,130 - INFO - Fetching data for devops-cheatsheet (attempt 1)
+2025-09-25 06:31:36,148 - INFO - Processing repository: DevOps-Interview-Questions
+2025-09-25 06:31:36,148 - INFO - Fetching data for DevOps-Interview-Questions (attempt 1)
+2025-09-25 06:31:46,701 - WARNING - Error fetching DevOps-Interview-Questions (attempt 1): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/NotHarshhaa/DevOps-Interview-Questions/actions/workflows (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0712d53890>, 'Connection to api.github.com timed out. (connect timeout=10)'))
+2025-09-25 06:31:46,701 - INFO - Retrying in 2 seconds...
+2025-09-25 06:31:48,701 - INFO - Fetching data for DevOps-Interview-Questions (attempt 2)
+2025-09-25 06:31:49,702 - INFO - Processing repository: into-the-devops
+2025-09-25 06:31:49,702 - INFO - Fetching data for into-the-devops (attempt 1)
+2025-09-25 06:31:50,868 - INFO - Processing repository: AWS-Terraform-Workshop
+2025-09-25 06:31:50,868 - INFO - Fetching data for AWS-Terraform-Workshop (attempt 1)
+2025-09-25 06:32:01,672 - WARNING - Error fetching AWS-Terraform-Workshop (attempt 1): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/NotHarshhaa/AWS-Terraform-Workshop/languages (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0712d41b10>, 'Connection to api.github.com timed out. (connect timeout=10)'))
+2025-09-25 06:32:01,672 - INFO - Retrying in 2 seconds...
+2025-09-25 06:32:03,672 - INFO - Fetching data for AWS-Terraform-Workshop (attempt 2)
+2025-09-25 06:32:04,769 - INFO - Processing repository: tf-ecr-ecs-gh-deploy
+2025-09-25 06:32:04,769 - INFO - Fetching data for tf-ecr-ecs-gh-deploy (attempt 1)
+2025-09-25 06:32:06,139 - INFO - Processing repository: eks-cluster-terraform
+2025-09-25 06:32:06,140 - INFO - Fetching data for eks-cluster-terraform (attempt 1)
+2025-09-25 06:32:07,200 - INFO - Processing repository: CI-CD_EKS-GitHub_Actions
+2025-09-25 06:32:07,201 - INFO - Fetching data for CI-CD_EKS-GitHub_Actions (attempt 1)
+2025-09-25 06:32:08,403 - INFO - Processing repository: uber-clone
+2025-09-25 06:32:08,404 - INFO - Fetching data for uber-clone (attempt 1)
+2025-09-25 06:32:09,559 - INFO - Processing repository: From-Docker-to-Kubernetes
+2025-09-25 06:32:09,560 - INFO - Fetching data for From-Docker-to-Kubernetes (attempt 1)
+2025-09-25 06:32:10,702 - INFO - Processing repository: DevOps-Engineering
+2025-09-25 06:32:10,702 - INFO - Fetching data for DevOps-Engineering (attempt 1)
+2025-09-25 06:32:20,715 - WARNING - Error fetching DevOps-Engineering (attempt 1): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/NotHarshhaa/DevOps-Engineering (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0712d43810>, 'Connection to api.github.com timed out. (connect timeout=10)'))
+2025-09-25 06:32:20,715 - INFO - Retrying in 2 seconds...
+2025-09-25 06:32:22,715 - INFO - Fetching data for DevOps-Engineering (attempt 2)
+2025-09-25 06:32:23,728 - INFO - Processing repository: Cloud-Native-DevOps-Project
+2025-09-25 06:32:23,729 - INFO - Fetching data for Cloud-Native-DevOps-Project (attempt 1)
+2025-09-25 06:32:24,779 - INFO - Processing repository: awesome-devops-cloud
+2025-09-25 06:32:24,779 - INFO - Fetching data for awesome-devops-cloud (attempt 1)
+2025-09-25 06:32:25,867 - INFO - Processing repository: devops-monitoring-in-a-box
+2025-09-25 06:32:25,868 - INFO - Fetching data for devops-monitoring-in-a-box (attempt 1)
+2025-09-25 06:32:27,237 - INFO - Processing repository: devops-environment-toolkit-beginners
+2025-09-25 06:32:27,237 - INFO - Fetching data for devops-environment-toolkit-beginners (attempt 1)
+2025-09-25 06:32:28,445 - INFO - Repository metadata exported to repo-metadata.json
+2025-09-25 06:32:28,445 - INFO - Processing 32 repositories (before deduplication)
+2025-09-25 06:32:28,445 - INFO - Processed 32 repositories (after deduplication)
+2025-09-25 06:32:28,446 - INFO - ✅ README.md updated with latest repo statuses!
+2025-09-25 06:32:28,446 - INFO - Updated 32 repositories in README
+2025-09-25 06:32:28,446 - INFO - Repository status update completed

@@ -9,10 +9,10 @@
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
-    "stars": 140,
+    "stars": 141,
     "forks": 100,
     "issues": 0,
-    "lastUpdated": "2025-09-25T01:19:34Z",
+    "lastUpdated": "2025-09-25T01:45:20Z",
     "lastCommit": "146c1ff4df6862748525fe1defb91d41270f4d00"
   },
   {
@@ -145,18 +145,18 @@
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 217,
-    "forks": 157,
+    "stars": 218,
+    "forks": 158,
     "issues": 0,
-    "lastUpdated": "2025-09-23T09:23:24Z",
+    "lastUpdated": "2025-09-25T03:36:59Z",
     "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 443,
-    "forks": 344,
+    "stars": 444,
+    "forks": 346,
     "issues": 2,
-    "lastUpdated": "2025-09-23T10:47:18Z",
+    "lastUpdated": "2025-09-25T04:01:56Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
