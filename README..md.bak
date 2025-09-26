@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--26%2006%3A30 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--26%2012%3A41 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-25`
+🗓 **Last Updated:** `2025-09-26`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-38](https://github.com/NotHarshhaa/DevOps-Projects/commit/e04a1546608f03fafc938967a9c3279bdf3f601c) on `2025-09-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2524` | 🍴 **Forks:** `2694` | 👀 **Watchers:** `2524` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2528` | 🍴 **Forks:** `2696` | 👀 **Watchers:** `2528` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `713` | 🍴 **Forks:** `445` | 👀 **Watchers:** `713` | ⚪ **CI/CD Status**
+⭐ **Stars:** `713` | 🍴 **Forks:** `446` | 👀 **Watchers:** `713` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -101,7 +101,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-projects-learning?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-23`
+🗓 **Last Updated:** `2025-09-26`
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
@@ -542,11 +542,11 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-23`
-🔄 **Latest Commit:** [devops-monitoring: style: enhance sidebar and user menu components](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/4b0e235ff93cc83ae30d39ff0afb42300c5b8d66) on `2025-09-14`
+🗓 **Last Updated:** `2025-09-26`
+🔄 **Latest Commit:** [devops-monitoring: docker: update Dockerfile and package-lock.json ...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/9ab364a5e034adf89e38c43e9648db16b900319a) on `2025-09-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `7` | 👀 **Watchers:** `9` | ✅ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `7` | 👀 **Watchers:** `9` | 🔄 **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
