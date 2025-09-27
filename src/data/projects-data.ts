@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
     "stars": 9,
-    "forks": 14,
+    "forks": 15,
     "issues": 0,
     "lastUpdated": "2025-08-05T04:18:20Z",
     "lastCommit": "6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe"
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
     "stars": 69,
-    "forks": 66,
+    "forks": 67,
     "issues": 0,
     "lastUpdated": "2025-09-13T10:17:46Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 104,
-    "forks": 84,
+    "forks": 85,
     "issues": 1,
     "lastUpdated": "2025-09-24T15:11:03Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 182,
-    "forks": 151,
+    "forks": 152,
     "issues": 2,
     "lastUpdated": "2025-09-12T15:58:01Z",
     "lastCommit": "79e74472f441a75fbdb5f994b324b02d519244be"
@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 141,
-    "forks": 100,
+    "forks": 101,
     "issues": 0,
     "lastUpdated": "2025-09-25T13:21:24Z",
     "lastCommit": "74fa933932f420575960d738e9402c2a15437ce6"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2532,
-    "forks": 2705,
+    "stars": 2536,
+    "forks": 2710,
     "issues": 12,
-    "lastUpdated": "2025-09-27T05:09:16Z",
+    "lastUpdated": "2025-09-27T11:33:08Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 10,
-    "forks": 61,
+    "forks": 62,
     "issues": 0,
     "lastUpdated": "2025-08-31T12:11:41Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -269,7 +269,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 17,
-    "forks": 34,
+    "forks": 35,
     "issues": 0,
     "lastUpdated": "2025-09-03T05:19:10Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -301,7 +301,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 162,
-    "forks": 176,
+    "forks": 177,
     "issues": 0,
     "lastUpdated": "2025-09-15T01:33:04Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
@@ -384,7 +384,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
     "stars": 52,
-    "forks": 51,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2025-09-16T16:30:20Z",
     "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 24,
-    "forks": 48,
+    "forks": 49,
     "issues": 0,
     "lastUpdated": "2025-09-25T11:43:42Z",
     "lastCommit": "3d8824f124e7750499ef07dd1057304e15c90ed0"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 218,
-    "forks": 158,
+    "forks": 159,
     "issues": 0,
     "lastUpdated": "2025-09-25T03:36:59Z",
     "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 444,
-    "forks": 349,
+    "forks": 351,
     "issues": 2,
     "lastUpdated": "2025-09-25T04:01:56Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -538,8 +538,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2025-09-26T10:56:16Z",
-    "lastCommit": "9ab364a5e034adf89e38c43e9648db16b900319a"
+    "lastUpdated": "2025-09-27T07:44:49Z",
+    "lastCommit": "c4f660865df886577c592ee75a8f0b28ffe9fa90"
   },
   {
     "title": "DevOps Environment Toolkit for Beginners",
