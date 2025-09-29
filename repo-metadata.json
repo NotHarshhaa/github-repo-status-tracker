@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2540,
-    "forks": 2721,
+    "stars": 2543,
+    "forks": 2724,
     "issues": 12,
-    "lastUpdated": "2025-09-28T13:36:49Z",
+    "lastUpdated": "2025-09-28T20:01:41Z",
     "lastCommit": "e04a1546608f03fafc938967a9c3279bdf3f601c"
   },
   {
@@ -153,10 +153,10 @@
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 446,
+    "stars": 447,
     "forks": 353,
     "issues": 2,
-    "lastUpdated": "2025-09-28T13:08:37Z",
+    "lastUpdated": "2025-09-28T21:30:35Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -194,7 +194,7 @@
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
     "stars": 104,
-    "forks": 85,
+    "forks": 86,
     "issues": 1,
     "lastUpdated": "2025-09-24T15:11:03Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
