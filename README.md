@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--30%2012%3A43 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--30%2018%3A27 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2555` | 🍴 **Forks:** `2735` | 👀 **Watchers:** `2555` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2558` | 🍴 **Forks:** `2735` | 👀 **Watchers:** `2558` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-24`
+🗓 **Last Updated:** `2025-09-30`
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `104` | 🍴 **Forks:** `89` | 👀 **Watchers:** `104` | ⚪ **CI/CD Status**
+⭐ **Stars:** `105` | 🍴 **Forks:** `89` | 👀 **Watchers:** `105` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -269,11 +269,11 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/eks-cluster-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-13`
+🗓 **Last Updated:** `2025-09-30`
 🔄 **Latest Commit:** [Terraform: Update Kubernetes deployment configuration and enhance ....](https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1) on `2025-03-28`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `69` | 🍴 **Forks:** `68` | 👀 **Watchers:** `69` | ⚪ **CI/CD Status**
+⭐ **Stars:** `68` | 🍴 **Forks:** `68` | 👀 **Watchers:** `68` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#deployment` `#eks` `#terraform`
