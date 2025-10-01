@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--09--30%2018%3A27 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--01%2001%3A44 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2558` | 🍴 **Forks:** `2735` | 👀 **Watchers:** `2558` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2560` | 🍴 **Forks:** `2740` | 👀 **Watchers:** `2560` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `451` | 🍴 **Forks:** `357` | 👀 **Watchers:** `451` | ⚪ **CI/CD Status**
+⭐ **Stars:** `452` | 🍴 **Forks:** `358` | 👀 **Watchers:** `452` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `365` | 🍴 **Forks:** `178` | 👀 **Watchers:** `365` | ⚪ **CI/CD Status**
+⭐ **Stars:** `365` | 🍴 **Forks:** `179` | 👀 **Watchers:** `365` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -301,6 +301,27 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 
 ---
 
+## 📂 [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer)
+
+Automate the installation/uninstallation of essential DevOps tools on Linux and Windows with a si...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+🗓 **Last Updated:** `2025-10-01`
+🔄 **Latest Commit:** [DevOps-Tool-Installer: feat: Upgrade Linux scripts with enhanced fe...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/79610cbee416d001d9cbb467bab7e3fbedb778fa) on `2025-07-31`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `52` | 🍴 **Forks:** `60` | 👀 **Watchers:** `52` | ⚪ **CI/CD Status**
+📄 **License:** `BSD 3-Clause "New" or "Revised" License`
+
+`#ansible` `#devops` `#devops-tools` `#docker` `#github`
+
+---
+
 ## 📂 [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform)
 
 𝐓𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐚 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐦𝐨𝐝𝐮𝐥𝐞 𝐭𝐡𝐚𝐭 𝐡𝐞𝐥𝐩𝐬 𝐬𝐞𝐭 𝐮𝐩 𝐀𝐖𝐒 𝐛𝐢𝐥𝐥𝐢𝐧𝐠 𝐚𝐥𝐞𝐫𝐭𝐬
@@ -319,27 +340,6 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 📄 **License:** `No license`
 
 `#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
-
----
-
-## 📂 [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer)
-
-Automate the installation/uninstallation of essential DevOps tools on Linux and Windows with a si...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-🗓 **Last Updated:** `2025-09-13`
-🔄 **Latest Commit:** [DevOps-Tool-Installer: feat: Upgrade Linux scripts with enhanced fe...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/79610cbee416d001d9cbb467bab7e3fbedb778fa) on `2025-07-31`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `50` | 🍴 **Forks:** `60` | 👀 **Watchers:** `50` | ⚪ **CI/CD Status**
-📄 **License:** `BSD 3-Clause "New" or "Revised" License`
-
-`#ansible` `#devops` `#devops-tools` `#docker` `#github`
 
 ---
 
