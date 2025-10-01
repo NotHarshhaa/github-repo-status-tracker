@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--01%2012%3A43 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--01%2018%3A29 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2562` | 🍴 **Forks:** `2745` | 👀 **Watchers:** `2562` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2562` | 🍴 **Forks:** `2744` | 👀 **Watchers:** `2562` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `105` | 🍴 **Forks:** `89` | 👀 **Watchers:** `105` | ⚪ **CI/CD Status**
+⭐ **Stars:** `105` | 🍴 **Forks:** `90` | 👀 **Watchers:** `105` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -416,8 +416,8 @@ A hands-on learning repository to help you master containerization and orchestra
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-28`
-🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.1.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/10b7d343b17a1d941ed06e1b5e06ef94943a5d2d) on `2025-07-23`
+🗓 **Last Updated:** `2025-10-01`
+🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.2.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/edddb948694b131e4a2a999c7210bd7be47aa87b) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
 ⭐ **Stars:** `16` | 🍴 **Forks:** `17` | 👀 **Watchers:** `16` | ⚪ **CI/CD Status**

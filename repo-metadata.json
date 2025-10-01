@@ -26,7 +26,7 @@
   {
     "repo": "DevOps-Projects",
     "stars": 2562,
-    "forks": 2745,
+    "forks": 2744,
     "issues": 12,
     "lastUpdated": "2025-10-01T09:12:45Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
@@ -194,7 +194,7 @@
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
     "stars": 105,
-    "forks": 89,
+    "forks": 90,
     "issues": 1,
     "lastUpdated": "2025-09-30T13:15:59Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
@@ -212,8 +212,8 @@
     "stars": 16,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2025-09-28T07:56:39Z",
-    "lastCommit": "10b7d343b17a1d941ed06e1b5e06ef94943a5d2d"
+    "lastUpdated": "2025-10-01T16:40:15Z",
+    "lastCommit": "edddb948694b131e4a2a999c7210bd7be47aa87b"
   },
   {
     "repo": "DevOps-Engineering",
