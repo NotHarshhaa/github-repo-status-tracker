@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--02%2006%3A30 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--02%2012%3A40 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2562` | 🍴 **Forks:** `2746` | 👀 **Watchers:** `2562` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2564` | 🍴 **Forks:** `2746` | 👀 **Watchers:** `2564` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -141,10 +141,10 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-tools?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-tools?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-
-🗓 **Last Updated:** `2025-09-12`
-🔄 **Latest Commit:** [DevOps-Tools: README: Improved tool descriptions, categorized tools...](https://github.com/NotHarshhaa/devops-tools/commit/79e74472f441a75fbdb5f994b324b02d519244be) on `2025-03-24`
+🗓 **Last Updated:** `2025-10-02`
+🔄 **Latest Commit:** [DevOps-Tools: site: Initialize DevOps Arsenal website with Next.js,...](https://github.com/NotHarshhaa/devops-tools/commit/f9bbe76535557b2375f19b98fa3160cbfe7bc628) on `2025-10-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
 ⭐ **Stars:** `182` | 🍴 **Forks:** `153` | 👀 **Watchers:** `182` | ⚪ **CI/CD Status**
@@ -164,11 +164,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
 ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-20`
+🗓 **Last Updated:** `2025-10-02`
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `166` | 🍴 **Forks:** `195` | 👀 **Watchers:** `166` | ❌ **CI/CD Status**
+⭐ **Stars:** `167` | 🍴 **Forks:** `195` | 👀 **Watchers:** `167` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`

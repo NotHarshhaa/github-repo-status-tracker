@@ -101,8 +101,8 @@ export const PROJECTS: Project[] = [
     "stars": 182,
     "forks": 153,
     "issues": 2,
-    "lastUpdated": "2025-10-02T10:15:55Z",
-    "lastCommit": "f9bbe76535557b2375f19b98fa3160cbfe7bc628"
+    "lastUpdated": "2025-10-02T14:56:40Z",
+    "lastCommit": "0293871c70815d5c29cd89d4a32234458969a66c"
   },
   {
     "title": "Certified Kubernetes Administrator (CKA) Prep",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2564,
-    "forks": 2746,
+    "stars": 2568,
+    "forks": 2749,
     "issues": 12,
-    "lastUpdated": "2025-10-02T10:05:49Z",
+    "lastUpdated": "2025-10-02T16:19:50Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -366,10 +366,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/azure-all_in_one",
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
-    "stars": 84,
+    "stars": 85,
     "forks": 59,
     "issues": 0,
-    "lastUpdated": "2025-09-13T08:41:11Z",
+    "lastUpdated": "2025-10-02T13:06:58Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 452,
+    "stars": 453,
     "forks": 360,
     "issues": 2,
-    "lastUpdated": "2025-09-30T18:42:25Z",
+    "lastUpdated": "2025-10-02T15:29:22Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -466,10 +466,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/From-Docker-to-Kubernetes",
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
-    "stars": 16,
+    "stars": 17,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2025-10-01T16:40:15Z",
+    "lastUpdated": "2025-10-02T13:07:24Z",
     "lastCommit": "edddb948694b131e4a2a999c7210bd7be47aa87b"
   },
   {
