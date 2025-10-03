@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--02%2018%3A28 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--03%2001%3A25 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2568` | 🍴 **Forks:** `2749` | 👀 **Watchers:** `2568` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2568` | 🍴 **Forks:** `2753` | 👀 **Watchers:** `2568` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -311,11 +311,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-01`
+🗓 **Last Updated:** `2025-10-02`
 🔄 **Latest Commit:** [DevOps-Tool-Installer: feat: Upgrade Linux scripts with enhanced fe...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/79610cbee416d001d9cbb467bab7e3fbedb778fa) on `2025-07-31`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `52` | 🍴 **Forks:** `60` | 👀 **Watchers:** `52` | ⚪ **CI/CD Status**
+⭐ **Stars:** `53` | 🍴 **Forks:** `60` | 👀 **Watchers:** `53` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
 
 `#ansible` `#devops` `#devops-tools` `#docker` `#github`
