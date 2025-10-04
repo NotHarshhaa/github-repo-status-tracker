@@ -82,10 +82,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 104,
+    "stars": 105,
     "forks": 91,
     "issues": 1,
-    "lastUpdated": "2025-10-04T08:06:18Z",
+    "lastUpdated": "2025-10-04T17:44:30Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
   },
   {
@@ -99,9 +99,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 182,
-    "forks": 153,
+    "forks": 152,
     "issues": 2,
-    "lastUpdated": "2025-10-02T14:56:40Z",
+    "lastUpdated": "2025-10-04T17:44:23Z",
     "lastCommit": "0293871c70815d5c29cd89d4a32234458969a66c"
   },
   {
@@ -114,10 +114,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 142,
+    "stars": 143,
     "forks": 103,
     "issues": 0,
-    "lastUpdated": "2025-09-28T11:29:32Z",
+    "lastUpdated": "2025-10-04T17:44:36Z",
     "lastCommit": "74fa933932f420575960d738e9402c2a15437ce6"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2570,
+    "stars": 2569,
     "forks": 2759,
     "issues": 12,
-    "lastUpdated": "2025-10-04T02:05:21Z",
+    "lastUpdated": "2025-10-04T17:43:17Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -284,10 +284,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 167,
-    "forks": 196,
+    "stars": 166,
+    "forks": 195,
     "issues": 0,
-    "lastUpdated": "2025-10-02T12:09:06Z",
+    "lastUpdated": "2025-10-04T13:57:30Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -300,10 +300,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 163,
-    "forks": 182,
+    "stars": 164,
+    "forks": 181,
     "issues": 0,
-    "lastUpdated": "2025-09-28T02:23:54Z",
+    "lastUpdated": "2025-10-04T17:43:55Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 363,
+    "stars": 364,
     "forks": 179,
     "issues": 2,
-    "lastUpdated": "2025-10-03T22:18:08Z",
+    "lastUpdated": "2025-10-04T17:44:15Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 85,
-    "forks": 59,
+    "forks": 58,
     "issues": 0,
     "lastUpdated": "2025-10-02T13:06:58Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 220,
-    "forks": 161,
+    "stars": 221,
+    "forks": 162,
     "issues": 0,
-    "lastUpdated": "2025-09-30T11:59:41Z",
+    "lastUpdated": "2025-10-04T17:44:44Z",
     "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 714,
+    "stars": 715,
     "forks": 448,
     "issues": 0,
-    "lastUpdated": "2025-10-03T16:22:52Z",
+    "lastUpdated": "2025-10-04T17:44:06Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
