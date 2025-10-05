@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--04%2012%3A36 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--04%2018%3A26 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2570` | 🍴 **Forks:** `2759` | 👀 **Watchers:** `2570` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2569` | 🍴 **Forks:** `2759` | 👀 **Watchers:** `2569` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-03`
+🗓 **Last Updated:** `2025-10-04`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `714` | 🍴 **Forks:** `448` | 👀 **Watchers:** `714` | ⚪ **CI/CD Status**
+⭐ **Stars:** `715` | 🍴 **Forks:** `448` | 👀 **Watchers:** `715` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-03`
+🗓 **Last Updated:** `2025-10-04`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `363` | 🍴 **Forks:** `179` | 👀 **Watchers:** `363` | ⚪ **CI/CD Status**
+⭐ **Stars:** `364` | 🍴 **Forks:** `179` | 👀 **Watchers:** `364` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-30`
+🗓 **Last Updated:** `2025-10-04`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `220` | 🍴 **Forks:** `161` | 👀 **Watchers:** `220` | ⚪ **CI/CD Status**
+⭐ **Stars:** `221` | 🍴 **Forks:** `162` | 👀 **Watchers:** `221` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-02`
+🗓 **Last Updated:** `2025-10-04`
 🔄 **Latest Commit:** [DevOps-Tools: site: Implement categories and tools pages for enhanc...](https://github.com/NotHarshhaa/devops-tools/commit/0293871c70815d5c29cd89d4a32234458969a66c) on `2025-10-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `182` | 🍴 **Forks:** `153` | 👀 **Watchers:** `182` | ⚪ **CI/CD Status**
+⭐ **Stars:** `182` | 🍴 **Forks:** `152` | 👀 **Watchers:** `182` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -164,11 +164,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
 ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-02`
+🗓 **Last Updated:** `2025-10-04`
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `167` | 🍴 **Forks:** `196` | 👀 **Watchers:** `167` | ❌ **CI/CD Status**
+⭐ **Stars:** `166` | 🍴 **Forks:** `195` | 👀 **Watchers:** `166` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -185,11 +185,11 @@ Comprehensive repository covering the installation and setup of essential DevOps
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-28`
+🗓 **Last Updated:** `2025-10-04`
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `163` | 🍴 **Forks:** `182` | 👀 **Watchers:** `163` | ⚪ **CI/CD Status**
+⭐ **Stars:** `164` | 🍴 **Forks:** `181` | 👀 **Watchers:** `164` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -206,11 +206,11 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
-🗓 **Last Updated:** `2025-09-28`
+🗓 **Last Updated:** `2025-10-04`
 🔄 **Latest Commit:** [CKA: k8s-learning: Revamp Learning Pages with Enhanced Visuals and ...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/74fa933932f420575960d738e9402c2a15437ce6) on `2025-09-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `142` | 🍴 **Forks:** `103` | 👀 **Watchers:** `142` | ❌ **CI/CD Status**
+⭐ **Stars:** `143` | 🍴 **Forks:** `103` | 👀 **Watchers:** `143` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `104` | 🍴 **Forks:** `91` | 👀 **Watchers:** `104` | ⚪ **CI/CD Status**
+⭐ **Stars:** `105` | 🍴 **Forks:** `91` | 👀 **Watchers:** `105` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -252,7 +252,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [Azure Guide: README: Update header banner](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3) on `2025-03-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `85` | 🍴 **Forks:** `59` | 👀 **Watchers:** `85` | ⚪ **CI/CD Status**
+⭐ **Stars:** `85` | 🍴 **Forks:** `58` | 👀 **Watchers:** `85` | ⚪ **CI/CD Status**
 📄 **License:** `GNU Affero General Public License v3.0`
 
 `#azure` `#azure-app-service` `#azure-automation` `#azure-cli` `#azure-cloud`
