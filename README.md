@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--06%2006%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--06%2012%3A42 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2579` | 🍴 **Forks:** `2765` | 👀 **Watchers:** `2579` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2580` | 🍴 **Forks:** `2766` | 👀 **Watchers:** `2580` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -532,6 +532,27 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 
 ---
 
+## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
+
+This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+
+🗓 **Last Updated:** `2025-10-06`
+🔄 **Latest Commit:** [devops-monitoring: docker: introduce buildx support and optimize Do...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/c4f660865df886577c592ee75a8f0b28ffe9fa90) on `2025-09-27`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `9` | 🍴 **Forks:** `7` | 👀 **Watchers:** `9` | ✅ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
+
+---
+
 ## 📂 [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy)
 
 This project automates the deployment of a Python application to AWS Elastic Container Service (E...
@@ -550,27 +571,6 @@ This project automates the deployment of a Python application to AWS Elastic Con
 📄 **License:** `No license`
 
 `#aws` `#aws-ecs` `#github-actions` `#python` `#python-aws`
-
----
-
-## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
-
-This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
-
-🗓 **Last Updated:** `2025-10-03`
-🔄 **Latest Commit:** [devops-monitoring: docker: introduce buildx support and optimize Do...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/c4f660865df886577c592ee75a8f0b28ffe9fa90) on `2025-09-27`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `8` | 🍴 **Forks:** `7` | 👀 **Watchers:** `8` | ✅ **CI/CD Status**
-📄 **License:** `MIT License`
-
-`#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
 
 ---
 
