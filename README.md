@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--07%2001%3A26 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--07%2006%3A30 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-03`
+🗓 **Last Updated:** `2025-10-07`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `456` | 🍴 **Forks:** `360` | 👀 **Watchers:** `456` | ⚪ **CI/CD Status**
+⭐ **Stars:** `457` | 🍴 **Forks:** `360` | 👀 **Watchers:** `457` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -420,7 +420,7 @@ A hands-on learning repository to help you master containerization and orchestra
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.2.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/edddb948694b131e4a2a999c7210bd7be47aa87b) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `17` | 🍴 **Forks:** `17` | 👀 **Watchers:** `17` | ⚪ **CI/CD Status**
+⭐ **Stars:** `17` | 🍴 **Forks:** `18` | 👀 **Watchers:** `17` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
