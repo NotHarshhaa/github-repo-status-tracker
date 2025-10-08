@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--08%2001%3A26 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--08%2006%3A31 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `12`
-⭐ **Stars:** `2592` | 🍴 **Forks:** `2775` | 👀 **Watchers:** `2592` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2592` | 🍴 **Forks:** `2774` | 👀 **Watchers:** `2592` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-06`
+🗓 **Last Updated:** `2025-10-08`
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `107` | 🍴 **Forks:** `91` | 👀 **Watchers:** `107` | ⚪ **CI/CD Status**
+⭐ **Stars:** `108` | 🍴 **Forks:** `91` | 👀 **Watchers:** `108` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
