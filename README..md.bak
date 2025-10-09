@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--09%2006%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--09%2012%3A42 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `14`
-⭐ **Stars:** `2597` | 🍴 **Forks:** `2782` | 👀 **Watchers:** `2597` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2600` | 🍴 **Forks:** `2782` | 👀 **Watchers:** `2600` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `459` | 🍴 **Forks:** `362` | 👀 **Watchers:** `459` | ⚪ **CI/CD Status**
+⭐ **Stars:** `459` | 🍴 **Forks:** `363` | 👀 **Watchers:** `459` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-05`
+🗓 **Last Updated:** `2025-10-09`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `223` | 🍴 **Forks:** `163` | 👀 **Watchers:** `223` | ⚪ **CI/CD Status**
+⭐ **Stars:** `224` | 🍴 **Forks:** `165` | 👀 **Watchers:** `224` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: k8s-learning: Revamp Learning Pages with Enhanced Visuals and ...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/74fa933932f420575960d738e9402c2a15437ce6) on `2025-09-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `144` | 🍴 **Forks:** `103` | 👀 **Watchers:** `144` | ❌ **CI/CD Status**
+⭐ **Stars:** `144` | 🍴 **Forks:** `104` | 👀 **Watchers:** `144` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -395,11 +395,11 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Learning-Prometheus?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-09-03`
+🗓 **Last Updated:** `2025-10-09`
 🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `17` | 🍴 **Forks:** `35` | 👀 **Watchers:** `17` | ⚪ **CI/CD Status**
+⭐ **Stars:** `18` | 🍴 **Forks:** `35` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
