@@ -101,8 +101,8 @@ export const PROJECTS: Project[] = [
     "stars": 186,
     "forks": 154,
     "issues": 2,
-    "lastUpdated": "2025-10-06T18:52:14Z",
-    "lastCommit": "0293871c70815d5c29cd89d4a32234458969a66c"
+    "lastUpdated": "2025-10-09T06:29:18Z",
+    "lastCommit": "b7499cd11cee856e952cf314ae4f8299ae324704"
   },
   {
     "title": "Certified Kubernetes Administrator (CKA) Prep",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2596,
-    "forks": 2779,
+    "stars": 2597,
+    "forks": 2782,
     "issues": 14,
-    "lastUpdated": "2025-10-08T15:07:08Z",
+    "lastUpdated": "2025-10-09T04:04:23Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
