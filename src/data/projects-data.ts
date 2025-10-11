@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2602,
-    "forks": 2786,
+    "stars": 2603,
+    "forks": 2788,
     "issues": 14,
-    "lastUpdated": "2025-10-11T04:53:56Z",
+    "lastUpdated": "2025-10-11T13:18:15Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 367,
+    "stars": 368,
     "forks": 179,
     "issues": 2,
-    "lastUpdated": "2025-10-10T04:22:47Z",
+    "lastUpdated": "2025-10-11T13:19:19Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -383,10 +383,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/aws-billing-alert-terraform",
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
-    "stars": 53,
+    "stars": 54,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2025-10-05T16:33:20Z",
+    "lastUpdated": "2025-10-11T13:19:40Z",
     "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 224,
+    "stars": 225,
     "forks": 166,
     "issues": 0,
-    "lastUpdated": "2025-10-09T06:44:28Z",
+    "lastUpdated": "2025-10-11T13:19:33Z",
     "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 718,
+    "stars": 719,
     "forks": 450,
     "issues": 0,
-    "lastUpdated": "2025-10-10T23:22:22Z",
+    "lastUpdated": "2025-10-11T13:19:10Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
