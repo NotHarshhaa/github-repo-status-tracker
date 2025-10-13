@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--13%2006%3A32 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--13%2012%3A42 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `14`
-⭐ **Stars:** `2612` | 🍴 **Forks:** `2791` | 👀 **Watchers:** `2612` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2614` | 🍴 **Forks:** `2793` | 👀 **Watchers:** `2614` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-12`
+🗓 **Last Updated:** `2025-10-13`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `461` | 🍴 **Forks:** `367` | 👀 **Watchers:** `461` | ⚪ **CI/CD Status**
+⭐ **Stars:** `462` | 🍴 **Forks:** `367` | 👀 **Watchers:** `462` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: k8s-learning: Revamp Learning Pages with Enhanced Visuals and ...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/74fa933932f420575960d738e9402c2a15437ce6) on `2025-09-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `144` | 🍴 **Forks:** `104` | 👀 **Watchers:** `144` | ❌ **CI/CD Status**
+⭐ **Stars:** `144` | 🍴 **Forks:** `105` | 👀 **Watchers:** `144` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -280,6 +280,27 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 
 ---
 
+## 📂 [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer)
+
+Automate the installation/uninstallation of essential DevOps tools on Linux and Windows with a si...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+🗓 **Last Updated:** `2025-10-13`
+🔄 **Latest Commit:** [DevOps-Tool-Installer: feat: Upgrade Linux scripts with enhanced fe...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/79610cbee416d001d9cbb467bab7e3fbedb778fa) on `2025-07-31`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `55` | 🍴 **Forks:** `60` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
+📄 **License:** `BSD 3-Clause "New" or "Revised" License`
+
+`#ansible` `#devops` `#devops-tools` `#docker` `#github`
+
+---
+
 ## 📂 [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard)
 
 𝘈 𝘬𝘶𝘣𝘦𝘳𝘯𝘦𝘵𝘦𝘴 𝘥𝘢𝘴𝘩𝘣𝘰𝘢𝘳𝘥 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘦𝘥 𝘸𝘪𝘵𝘩 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴, 𝘵𝘳𝘪𝘷𝘺 𝘴𝘤𝘢𝘯𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴 𝘧𝘰𝘳 𝘱𝘰𝘥𝘴
@@ -298,27 +319,6 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 📄 **License:** `No license`
 
 `#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
-
----
-
-## 📂 [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer)
-
-Automate the installation/uninstallation of essential DevOps tools on Linux and Windows with a si...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-🗓 **Last Updated:** `2025-10-05`
-🔄 **Latest Commit:** [DevOps-Tool-Installer: feat: Upgrade Linux scripts with enhanced fe...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/79610cbee416d001d9cbb467bab7e3fbedb778fa) on `2025-07-31`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `54` | 🍴 **Forks:** `60` | 👀 **Watchers:** `54` | ⚪ **CI/CD Status**
-📄 **License:** `BSD 3-Clause "New" or "Revised" License`
-
-`#ansible` `#devops` `#devops-tools` `#docker` `#github`
 
 ---
 

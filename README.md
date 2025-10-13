@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--13%2012%3A42 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--13%2018%3A28 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `14`
-⭐ **Stars:** `2614` | 🍴 **Forks:** `2793` | 👀 **Watchers:** `2614` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2616` | 🍴 **Forks:** `2795` | 👀 **Watchers:** `2616` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `719` | 🍴 **Forks:** `450` | 👀 **Watchers:** `719` | ⚪ **CI/CD Status**
+⭐ **Stars:** `719` | 🍴 **Forks:** `451` | 👀 **Watchers:** `719` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `462` | 🍴 **Forks:** `367` | 👀 **Watchers:** `462` | ⚪ **CI/CD Status**
+⭐ **Stars:** `462` | 🍴 **Forks:** `369` | 👀 **Watchers:** `462` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-11`
+🗓 **Last Updated:** `2025-10-13`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `368` | 🍴 **Forks:** `179` | 👀 **Watchers:** `368` | ⚪ **CI/CD Status**
+⭐ **Stars:** `369` | 🍴 **Forks:** `180` | 👀 **Watchers:** `369` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `225` | 🍴 **Forks:** `166` | 👀 **Watchers:** `225` | ⚪ **CI/CD Status**
+⭐ **Stars:** `225` | 🍴 **Forks:** `167` | 👀 **Watchers:** `225` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -147,7 +147,7 @@ A comprehensive collection of essential DevOps tools for development, deployment
 🔄 **Latest Commit:** [DevOps-Tools: Enhance categories section with expandable functional...](https://github.com/NotHarshhaa/devops-tools/commit/b7499cd11cee856e952cf314ae4f8299ae324704) on `2025-10-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `188` | 🍴 **Forks:** `154` | 👀 **Watchers:** `188` | ⚪ **CI/CD Status**
+⭐ **Stars:** `188` | 🍴 **Forks:** `155` | 👀 **Watchers:** `188` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -168,7 +168,7 @@ A comprehensive collection of essential DevOps tools for development, deployment
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `167` | 🍴 **Forks:** `196` | 👀 **Watchers:** `167` | ❌ **CI/CD Status**
+⭐ **Stars:** `167` | 🍴 **Forks:** `197` | 👀 **Watchers:** `167` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `167` | 🍴 **Forks:** `185` | 👀 **Watchers:** `167` | ⚪ **CI/CD Status**
+⭐ **Stars:** `167` | 🍴 **Forks:** `186` | 👀 **Watchers:** `167` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -498,10 +498,10 @@ Terraform scripts to automate the provisioning of AWS infrastructure, including 
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
-🗓 **Last Updated:** `2025-08-05`
-🔄 **Latest Commit:** [AWS-Workshop: Add initial Terraform configuration and README for AW...](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/6fde1dc60646f5e9023c89ed9d87dc4cb27cddfe) on `2025-03-28`
+🗓 **Last Updated:** `2025-10-13`
+🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `9` | 🍴 **Forks:** `15` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
