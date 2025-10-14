@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--14%2001%3A27 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--14%2006%3A30 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `14`
-⭐ **Stars:** `2617` | 🍴 **Forks:** `2795` | 👀 **Watchers:** `2617` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2617` | 🍴 **Forks:** `2796` | 👀 **Watchers:** `2617` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-13`
+🗓 **Last Updated:** `2025-10-14`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `462` | 🍴 **Forks:** `369` | 👀 **Watchers:** `462` | ⚪ **CI/CD Status**
+⭐ **Stars:** `463` | 🍴 **Forks:** `369` | 👀 **Watchers:** `463` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -668,11 +668,11 @@ This repo provides a ready-to-use local setup with all the essential tools you n
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-12`
+🗓 **Last Updated:** `2025-10-14`
 🔄 **Latest Commit:** [devops-toolkit: overhaul UI components and Tailwind configuration f...](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners/commit/4b874f3d7e41ec00dbc9c7e10e820577fc371bd1) on `2025-10-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `1` | 🍴 **Forks:** `2` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2` | 🍴 **Forks:** `2` | 👀 **Watchers:** `2` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#devops` `#devops-environment` `#devops-tools` `#devops-tools-support` `#installation-scripts`
