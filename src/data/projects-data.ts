@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 371,
+    "stars": 372,
     "forks": 180,
     "issues": 2,
-    "lastUpdated": "2025-10-16T11:06:58Z",
+    "lastUpdated": "2025-10-16T23:10:18Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
