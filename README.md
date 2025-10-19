@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--19%2006%3A29 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--19%2012%3A37 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2630` | 🍴 **Forks:** `2813` | 👀 **Watchers:** `2630` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2631` | 🍴 **Forks:** `2813` | 👀 **Watchers:** `2631` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-15`
+🗓 **Last Updated:** `2025-10-19`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `720` | 🍴 **Forks:** `451` | 👀 **Watchers:** `720` | ⚪ **CI/CD Status**
+⭐ **Stars:** `721` | 🍴 **Forks:** `451` | 👀 **Watchers:** `721` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `467` | 🍴 **Forks:** `376` | 👀 **Watchers:** `467` | ⚪ **CI/CD Status**
+⭐ **Stars:** `468` | 🍴 **Forks:** `377` | 👀 **Watchers:** `468` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -154,6 +154,27 @@ A comprehensive collection of essential DevOps tools for development, deployment
 
 ---
 
+## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
+
+Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+
+
+🗓 **Last Updated:** `2025-10-19`
+🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `168` | 🍴 **Forks:** `186` | 👀 **Watchers:** `168` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
+
+---
+
 ## 📂 [Kubernetes](https://github.com/NotHarshhaa/Kubernetes)
 
 📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this...
@@ -172,27 +193,6 @@ A comprehensive collection of essential DevOps tools for development, deployment
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
-
----
-
-## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
-
-Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-
-
-🗓 **Last Updated:** `2025-10-08`
-🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `167` | 🍴 **Forks:** `186` | 👀 **Watchers:** `167` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
 
 ---
 
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-08`
+🗓 **Last Updated:** `2025-10-19`
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `108` | 🍴 **Forks:** `93` | 👀 **Watchers:** `108` | ⚪ **CI/CD Status**
+⭐ **Stars:** `109` | 🍴 **Forks:** `93` | 👀 **Watchers:** `109` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
