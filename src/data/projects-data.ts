@@ -114,10 +114,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 146,
+    "stars": 147,
     "forks": 106,
     "issues": 0,
-    "lastUpdated": "2025-10-16T07:32:00Z",
+    "lastUpdated": "2025-10-20T23:47:51Z",
     "lastCommit": "d415e9d071ba94617fdb559c8f52e754f9539fa5"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2635,
+    "stars": 2636,
     "forks": 2816,
     "issues": 15,
-    "lastUpdated": "2025-10-20T16:15:14Z",
+    "lastUpdated": "2025-10-21T01:14:13Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -300,10 +300,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 168,
+    "stars": 169,
     "forks": 186,
     "issues": 0,
-    "lastUpdated": "2025-10-19T09:38:36Z",
+    "lastUpdated": "2025-10-21T01:14:01Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 471,
+    "stars": 472,
     "forks": 378,
     "issues": 1,
-    "lastUpdated": "2025-10-20T04:34:14Z",
+    "lastUpdated": "2025-10-20T21:47:29Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 722,
+    "stars": 723,
     "forks": 451,
     "issues": 0,
-    "lastUpdated": "2025-10-20T15:22:55Z",
+    "lastUpdated": "2025-10-21T01:14:42Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
