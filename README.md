@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--21%2006%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--21%2012%3A44 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2636` | 🍴 **Forks:** `2816` | 👀 **Watchers:** `2636` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2636` | 🍴 **Forks:** `2818` | 👀 **Watchers:** `2636` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-20`
+🗓 **Last Updated:** `2025-10-21`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `472` | 🍴 **Forks:** `378` | 👀 **Watchers:** `472` | ⚪ **CI/CD Status**
+⭐ **Stars:** `473` | 🍴 **Forks:** `378` | 👀 **Watchers:** `473` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -101,11 +101,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-projects-learning?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-09`
+🗓 **Last Updated:** `2025-10-21`
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `303` | 🍴 **Forks:** `214` | 👀 **Watchers:** `303` | ⚪ **CI/CD Status**
+⭐ **Stars:** `302` | 🍴 **Forks:** `214` | 👀 **Watchers:** `302` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
