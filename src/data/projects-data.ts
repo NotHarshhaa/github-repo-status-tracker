@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 109,
-    "forks": 93,
+    "forks": 94,
     "issues": 1,
     "lastUpdated": "2025-10-19T09:38:55Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2639,
-    "forks": 2819,
+    "stars": 2640,
+    "forks": 2820,
     "issues": 15,
-    "lastUpdated": "2025-10-22T15:26:04Z",
+    "lastUpdated": "2025-10-23T01:56:29Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
