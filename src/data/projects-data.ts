@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 188,
+    "stars": 189,
     "forks": 156,
     "issues": 2,
-    "lastUpdated": "2025-10-24T03:48:55Z",
+    "lastUpdated": "2025-10-25T00:12:16Z",
     "lastCommit": "b7499cd11cee856e952cf314ae4f8299ae324704"
   },
   {
