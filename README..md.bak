@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--25%2012%3A37 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--25%2018%3A27 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2645` | 🍴 **Forks:** `2827` | 👀 **Watchers:** `2645` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2646` | 🍴 **Forks:** `2829` | 👀 **Watchers:** `2646` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -458,11 +458,11 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-15`
+🗓 **Last Updated:** `2025-10-25`
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `10` | 🍴 **Forks:** `15` | 👀 **Watchers:** `10` | ⚪ **CI/CD Status**
+⭐ **Stars:** `11` | 🍴 **Forks:** `16` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
