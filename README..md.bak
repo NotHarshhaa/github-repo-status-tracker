@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--27%2012%3A44 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--27%2018%3A31 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2652` | 🍴 **Forks:** `2830` | 👀 **Watchers:** `2652` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2653` | 🍴 **Forks:** `2831` | 👀 **Watchers:** `2653` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-26`
+🗓 **Last Updated:** `2025-10-27`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `480` | 🍴 **Forks:** `382` | 👀 **Watchers:** `480` | ⚪ **CI/CD Status**
+⭐ **Stars:** `481` | 🍴 **Forks:** `382` | 👀 **Watchers:** `481` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-26`
+🗓 **Last Updated:** `2025-10-27`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `227` | 🍴 **Forks:** `171` | 👀 **Watchers:** `227` | ⚪ **CI/CD Status**
+⭐ **Stars:** `228` | 🍴 **Forks:** `171` | 👀 **Watchers:** `228` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -469,6 +469,27 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 
 ---
 
+## 📂 [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop)
+
+//  A beginner-friendly guide to setting up AWS infrastructure using Terraform! Learn how to auto...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
+
+🗓 **Last Updated:** `2025-10-27`
+🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `10` | 🍴 **Forks:** `16` | 👀 **Watchers:** `10` | ⚪ **CI/CD Status**
+📄 **License:** `GNU General Public License v2.0`
+
+`#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
+
+---
+
 ## 📂 [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform)
 
 Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Am...
@@ -508,27 +529,6 @@ Terraform scripts to automate the provisioning of AWS infrastructure, including 
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#jenkins` `#terraform` `#terraform-aws`
-
----
-
-## 📂 [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop)
-
-//  A beginner-friendly guide to setting up AWS infrastructure using Terraform! Learn how to auto...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
-
-🗓 **Last Updated:** `2025-10-15`
-🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `16` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
-📄 **License:** `GNU General Public License v2.0`
-
-`#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
 
 ---
 
