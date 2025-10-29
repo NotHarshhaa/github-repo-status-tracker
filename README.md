@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--29%2001%3A44 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--29%2006%3A33 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-28`
+🗓 **Last Updated:** `2025-10-29`
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2657` | 🍴 **Forks:** `2835` | 👀 **Watchers:** `2657` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2658` | 🍴 **Forks:** `2838` | 👀 **Watchers:** `2658` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-10-28`
+🗓 **Last Updated:** `2025-10-29`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `491` | 🍴 **Forks:** `383` | 👀 **Watchers:** `491` | ⚪ **CI/CD Status**
+⭐ **Stars:** `492` | 🍴 **Forks:** `383` | 👀 **Watchers:** `492` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -105,7 +105,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `306` | 🍴 **Forks:** `216` | 👀 **Watchers:** `306` | ⚪ **CI/CD Status**
+⭐ **Stars:** `306` | 🍴 **Forks:** `217` | 👀 **Watchers:** `306` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `228` | 🍴 **Forks:** `171` | 👀 **Watchers:** `228` | ⚪ **CI/CD Status**
+⭐ **Stars:** `228` | 🍴 **Forks:** `172` | 👀 **Watchers:** `228` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `166` | 🍴 **Forks:** `197` | 👀 **Watchers:** `166` | ❌ **CI/CD Status**
+⭐ **Stars:** `166` | 🍴 **Forks:** `198` | 👀 **Watchers:** `166` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: k8s-learning: Expand Helm README with Best Practices and Workf...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/d415e9d071ba94617fdb559c8f52e754f9539fa5) on `2025-10-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `146` | 🍴 **Forks:** `107` | 👀 **Watchers:** `146` | ❌ **CI/CD Status**
+⭐ **Stars:** `146` | 🍴 **Forks:** `108` | 👀 **Watchers:** `146` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -420,7 +420,7 @@ A hands-on learning repository to help you master containerization and orchestra
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.2.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/edddb948694b131e4a2a999c7210bd7be47aa87b) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `18` | 🍴 **Forks:** `19` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
+⭐ **Stars:** `18` | 🍴 **Forks:** `20` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
@@ -462,7 +462,7 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `11` | 🍴 **Forks:** `17` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
+⭐ **Stars:** `11` | 🍴 **Forks:** `18` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
@@ -483,7 +483,7 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `10` | 🍴 **Forks:** `16` | 👀 **Watchers:** `10` | ⚪ **CI/CD Status**
+⭐ **Stars:** `10` | 🍴 **Forks:** `17` | 👀 **Watchers:** `10` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
@@ -546,7 +546,7 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 🔄 **Latest Commit:** [devops-monitoring: docker: introduce buildx support and optimize Do...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/c4f660865df886577c592ee75a8f0b28ffe9fa90) on `2025-09-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `7` | 👀 **Watchers:** `9` | ✅ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `8` | 👀 **Watchers:** `9` | ✅ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
