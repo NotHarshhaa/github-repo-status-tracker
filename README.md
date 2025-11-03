@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--03%2012%3A43 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--03%2018%3A29 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `516` | 🍴 **Forks:** `391` | 👀 **Watchers:** `516` | ⚪ **CI/CD Status**
+⭐ **Stars:** `516` | 🍴 **Forks:** `392` | 👀 **Watchers:** `516` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-11-02`
+🗓 **Last Updated:** `2025-11-03`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `385` | 🍴 **Forks:** `182` | 👀 **Watchers:** `385` | ⚪ **CI/CD Status**
+⭐ **Stars:** `387` | 🍴 **Forks:** `183` | 👀 **Watchers:** `387` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -647,11 +647,11 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/awesome-devops-cloud?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-08-03`
+🗓 **Last Updated:** `2025-11-03`
 🔄 **Latest Commit:** [awesome-devops-cloud: README: Expand tool listings and enhance cont...](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) on `2025-07-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `3` | 🍴 **Forks:** `3` | 👀 **Watchers:** `3` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4` | 🍴 **Forks:** `4` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
