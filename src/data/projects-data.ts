@@ -132,7 +132,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
     "stars": 53,
-    "forks": 51,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2025-10-24T03:48:55Z",
     "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
@@ -149,9 +149,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 2691,
-    "forks": 2870,
+    "forks": 2872,
     "issues": 15,
-    "lastUpdated": "2025-11-08T08:06:39Z",
+    "lastUpdated": "2025-11-08T14:02:19Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-EKS_Terraform"
     },
     "stars": 19,
-    "forks": 54,
+    "forks": 55,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
