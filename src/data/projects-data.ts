@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 305,
-    "forks": 218,
+    "forks": 219,
     "issues": 1,
     "lastUpdated": "2025-11-07T13:09:02Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
