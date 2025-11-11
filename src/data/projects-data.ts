@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 108,
-    "forks": 94,
+    "forks": 95,
     "issues": 1,
     "lastUpdated": "2025-10-24T03:48:55Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 2695,
-    "forks": 2882,
+    "forks": 2884,
     "issues": 15,
     "lastUpdated": "2025-11-11T00:09:51Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
@@ -501,10 +501,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
-    "stars": 11,
+    "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2025-10-25T13:07:04Z",
+    "lastUpdated": "2025-11-11T12:20:51Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
