@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2706,
-    "forks": 2893,
+    "stars": 2707,
+    "forks": 2895,
     "issues": 15,
-    "lastUpdated": "2025-11-12T23:59:20Z",
+    "lastUpdated": "2025-11-13T06:03:24Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -300,10 +300,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 171,
-    "forks": 186,
+    "stars": 172,
+    "forks": 187,
     "issues": 0,
-    "lastUpdated": "2025-11-11T16:11:45Z",
+    "lastUpdated": "2025-11-13T06:04:45Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 85,
-    "forks": 58,
+    "forks": 59,
     "issues": 0,
     "lastUpdated": "2025-10-24T03:48:55Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 726,
-    "forks": 452,
+    "stars": 727,
+    "forks": 453,
     "issues": 0,
-    "lastUpdated": "2025-10-31T16:53:58Z",
+    "lastUpdated": "2025-11-13T06:04:18Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
