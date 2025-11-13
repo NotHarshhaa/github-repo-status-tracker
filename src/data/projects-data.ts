@@ -82,10 +82,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 108,
+    "stars": 109,
     "forks": 95,
     "issues": 1,
-    "lastUpdated": "2025-10-24T03:48:55Z",
+    "lastUpdated": "2025-11-13T17:38:57Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2708,
-    "forks": 2897,
-    "issues": 15,
-    "lastUpdated": "2025-11-13T12:06:58Z",
+    "stars": 2709,
+    "forks": 2898,
+    "issues": 17,
+    "lastUpdated": "2025-11-13T16:45:17Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 389,
+    "stars": 390,
     "forks": 183,
     "issues": 2,
-    "lastUpdated": "2025-11-13T09:52:33Z",
+    "lastUpdated": "2025-11-13T14:31:54Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 234,
-    "forks": 176,
+    "forks": 177,
     "issues": 0,
     "lastUpdated": "2025-11-10T20:27:09Z",
     "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 541,
-    "forks": 406,
+    "stars": 542,
+    "forks": 407,
     "issues": 1,
-    "lastUpdated": "2025-11-13T11:52:33Z",
+    "lastUpdated": "2025-11-13T15:15:57Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
