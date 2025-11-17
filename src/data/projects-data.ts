@@ -82,10 +82,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 109,
+    "stars": 110,
     "forks": 95,
     "issues": 1,
-    "lastUpdated": "2025-11-13T17:38:57Z",
+    "lastUpdated": "2025-11-16T22:36:06Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
   },
   {
@@ -251,10 +251,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Zomato-Clone",
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
-    "stars": 12,
+    "stars": 13,
     "forks": 61,
     "issues": 0,
-    "lastUpdated": "2025-11-07T06:26:58Z",
+    "lastUpdated": "2025-11-16T20:33:33Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
   },
   {
