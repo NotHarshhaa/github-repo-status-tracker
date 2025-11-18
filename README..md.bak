@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--18%2001%3A41 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--18%2006%3A32 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2716` | 🍴 **Forks:** `2914` | 👀 **Watchers:** `2716` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2716` | 🍴 **Forks:** `2916` | 👀 **Watchers:** `2716` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -542,8 +542,8 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-06`
-🔄 **Latest Commit:** [devops-monitoring: docker: introduce buildx support and optimize Do...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/c4f660865df886577c592ee75a8f0b28ffe9fa90) on `2025-09-27`
+🗓 **Last Updated:** `2025-11-18`
+🔄 **Latest Commit:** [devops-monitoring: fix: resolve npm security vulnerabilities](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/3b3a0fee310d2b80dfa410122ed1d09c1d2b7f60) on `2025-11-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `9` | 🍴 **Forks:** `8` | 👀 **Watchers:** `9` | ✅ **CI/CD Status**
