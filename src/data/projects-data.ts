@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2717,
+    "stars": 2719,
     "forks": 2920,
     "issues": 17,
-    "lastUpdated": "2025-11-19T05:11:23Z",
+    "lastUpdated": "2025-11-19T12:15:53Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 25,
-    "forks": 55,
+    "forks": 56,
     "issues": 0,
     "lastUpdated": "2025-10-07T16:30:24Z",
     "lastCommit": "3d8824f124e7750499ef07dd1057304e15c90ed0"
