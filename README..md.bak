@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--20%2001%3A40 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--20%2006%3A32 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `553` | 🍴 **Forks:** `414` | 👀 **Watchers:** `553` | ⚪ **CI/CD Status**
+⭐ **Stars:** `553` | 🍴 **Forks:** `415` | 👀 **Watchers:** `553` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -416,10 +416,10 @@ A hands-on learning repository to help you master containerization and orchestra
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-05`
-🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.3.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/c0ce73a4db4ae9f8f60fc851a33e491354200788) on `2025-07-24`
+🗓 **Last Updated:** `2025-11-20`
+🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `1`
+🏷 **Open Issues:** `0`
 ⭐ **Stars:** `18` | 🍴 **Forks:** `21` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
