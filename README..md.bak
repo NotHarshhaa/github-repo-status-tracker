@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--23%2012%3A37 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--23%2018%3A28 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2740` | 🍴 **Forks:** `2966` | 👀 **Watchers:** `2740` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2742` | 🍴 **Forks:** `2971` | 👀 **Watchers:** `2742` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-11-22`
+🗓 **Last Updated:** `2025-11-23`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `555` | 🍴 **Forks:** `417` | 👀 **Watchers:** `555` | ⚪ **CI/CD Status**
+⭐ **Stars:** `556` | 🍴 **Forks:** `417` | 👀 **Watchers:** `556` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-11-20`
+🗓 **Last Updated:** `2025-11-23`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `392` | 🍴 **Forks:** `184` | 👀 **Watchers:** `392` | ⚪ **CI/CD Status**
+⭐ **Stars:** `393` | 🍴 **Forks:** `184` | 👀 **Watchers:** `393` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -385,6 +385,27 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 
 ---
 
+## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
+
+A hands-on learning repository to help you master containerization and orchestration — starting w...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+🗓 **Last Updated:** `2025-11-23`
+🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `1`
+⭐ **Stars:** `19` | 🍴 **Forks:** `22` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
+
+---
+
 ## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
 
 𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
@@ -403,27 +424,6 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 📄 **License:** `No license`
 
 `#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
-
----
-
-## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
-
-A hands-on learning repository to help you master containerization and orchestration — starting w...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
-🗓 **Last Updated:** `2025-11-20`
-🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `18` | 🍴 **Forks:** `21` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
 
 ---
 
