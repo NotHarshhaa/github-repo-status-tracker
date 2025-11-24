@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2746,
-    "forks": 2982,
+    "stars": 2748,
+    "forks": 2983,
     "issues": 17,
-    "lastUpdated": "2025-11-24T11:44:53Z",
+    "lastUpdated": "2025-11-24T15:59:44Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 14,
-    "forks": 61,
+    "forks": 62,
     "issues": 0,
     "lastUpdated": "2025-11-17T20:26:18Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
