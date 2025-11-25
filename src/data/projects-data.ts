@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 189,
+    "stars": 190,
     "forks": 157,
     "issues": 2,
-    "lastUpdated": "2025-10-25T00:12:16Z",
+    "lastUpdated": "2025-11-25T13:36:39Z",
     "lastCommit": "b7499cd11cee856e952cf314ae4f8299ae324704"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2753,
-    "forks": 2992,
+    "stars": 2760,
+    "forks": 3000,
     "issues": 17,
-    "lastUpdated": "2025-11-25T11:01:43Z",
+    "lastUpdated": "2025-11-25T18:22:42Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-EKS_Terraform"
     },
     "stars": 19,
-    "forks": 55,
+    "forks": 56,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 559,
-    "forks": 420,
+    "stars": 560,
+    "forks": 421,
     "issues": 1,
-    "lastUpdated": "2025-11-25T07:15:26Z",
+    "lastUpdated": "2025-11-25T17:04:03Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -466,10 +466,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/From-Docker-to-Kubernetes",
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
-    "stars": 19,
+    "stars": 20,
     "forks": 22,
     "issues": 1,
-    "lastUpdated": "2025-11-23T15:40:29Z",
+    "lastUpdated": "2025-11-25T18:04:18Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
   {

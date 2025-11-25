@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--25%2006%3A34 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--25%2012%3A45 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-24`
+🗓 **Last Updated:** `2025-11-25`
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2748` | 🍴 **Forks:** `2989` | 👀 **Watchers:** `2748` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2753` | 🍴 **Forks:** `2992` | 👀 **Watchers:** `2753` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-11-24`
+🗓 **Last Updated:** `2025-11-25`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `558` | 🍴 **Forks:** `420` | 👀 **Watchers:** `558` | ⚪ **CI/CD Status**
+⭐ **Stars:** `559` | 🍴 **Forks:** `420` | 👀 **Watchers:** `559` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -458,11 +458,11 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-11`
+🗓 **Last Updated:** `2025-11-25`
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `12` | 🍴 **Forks:** `19` | 👀 **Watchers:** `12` | ⚪ **CI/CD Status**
+⭐ **Stars:** `13` | 🍴 **Forks:** `19` | 👀 **Watchers:** `13` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
