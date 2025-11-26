@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Terraform-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
-    "stars": 10,
+    "stars": 11,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2025-10-27T18:03:58Z",
+    "lastUpdated": "2025-11-25T22:38:19Z",
     "lastCommit": "99274f21bf61a614d8f362d09e9c3f46e3dad2cd"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2760,
+    "stars": 2764,
     "forks": 3000,
     "issues": 17,
-    "lastUpdated": "2025-11-25T18:22:42Z",
+    "lastUpdated": "2025-11-26T00:20:41Z",
     "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
   },
   {
@@ -268,10 +268,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Learning-Prometheus",
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
-    "stars": 18,
+    "stars": 19,
     "forks": 37,
     "issues": 0,
-    "lastUpdated": "2025-10-09T08:31:58Z",
+    "lastUpdated": "2025-11-26T01:38:47Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 560,
+    "stars": 561,
     "forks": 421,
     "issues": 1,
-    "lastUpdated": "2025-11-25T17:04:03Z",
+    "lastUpdated": "2025-11-25T19:56:35Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -501,10 +501,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
-    "stars": 13,
+    "stars": 14,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2025-11-25T09:24:10Z",
+    "lastUpdated": "2025-11-26T01:13:53Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {

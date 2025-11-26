@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--25%2012%3A45 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--25%2018%3A33 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2753` | 🍴 **Forks:** `2992` | 👀 **Watchers:** `2753` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2760` | 🍴 **Forks:** `3000` | 👀 **Watchers:** `2760` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `559` | 🍴 **Forks:** `420` | 👀 **Watchers:** `559` | ⚪ **CI/CD Status**
+⭐ **Stars:** `560` | 🍴 **Forks:** `421` | 👀 **Watchers:** `560` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-25`
+🗓 **Last Updated:** `2025-11-25`
 🔄 **Latest Commit:** [DevOps-Tools: Enhance categories section with expandable functional...](https://github.com/NotHarshhaa/devops-tools/commit/b7499cd11cee856e952cf314ae4f8299ae324704) on `2025-10-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `189` | 🍴 **Forks:** `157` | 👀 **Watchers:** `189` | ⚪ **CI/CD Status**
+⭐ **Stars:** `190` | 🍴 **Forks:** `157` | 👀 **Watchers:** `190` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -364,6 +364,27 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 
 ---
 
+## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
+
+A hands-on learning repository to help you master containerization and orchestration — starting w...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+🗓 **Last Updated:** `2025-11-25`
+🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `1`
+⭐ **Stars:** `20` | 🍴 **Forks:** `22` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
+
+---
+
 ## 📂 [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform)
 
 PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
@@ -378,31 +399,10 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 🔄 **Latest Commit:** [aws-eks: README: Improved conclusion section, refined explanations,...](https://github.com/NotHarshhaa/AWS-EKS_Terraform/commit/bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563) on `2025-03-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `19` | 🍴 **Forks:** `55` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
+⭐ **Stars:** `19` | 🍴 **Forks:** `56` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
-
----
-
-## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
-
-A hands-on learning repository to help you master containerization and orchestration — starting w...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
-🗓 **Last Updated:** `2025-11-23`
-🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `1`
-⭐ **Stars:** `19` | 🍴 **Forks:** `22` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
 
 ---
 
