@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--26%2001%3A43 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--26%2006%3A33 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2764` | 🍴 **Forks:** `3000` | 👀 **Watchers:** `2764` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2768` | 🍴 **Forks:** `3002` | 👀 **Watchers:** `2768` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `561` | 🍴 **Forks:** `421` | 👀 **Watchers:** `561` | ⚪ **CI/CD Status**
+⭐ **Stars:** `561` | 🍴 **Forks:** `422` | 👀 **Watchers:** `561` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -479,11 +479,11 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-25`
+🗓 **Last Updated:** `2025-11-26`
 🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `11` | 🍴 **Forks:** `18` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
+⭐ **Stars:** `12` | 🍴 **Forks:** `18` | 👀 **Watchers:** `12` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
