@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--29%2006%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--29%2012%3A40 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2789` | 🍴 **Forks:** `3030` | 👀 **Watchers:** `2789` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2790` | 🍴 **Forks:** `3031` | 👀 **Watchers:** `2790` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-11-28`
+🗓 **Last Updated:** `2025-11-29`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `565` | 🍴 **Forks:** `426` | 👀 **Watchers:** `565` | ⚪ **CI/CD Status**
+⭐ **Stars:** `566` | 🍴 **Forks:** `427` | 👀 **Watchers:** `566` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-27`
+🗓 **Last Updated:** `2025-11-29`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `238` | 🍴 **Forks:** `178` | 👀 **Watchers:** `238` | ⚪ **CI/CD Status**
+⭐ **Stars:** `239` | 🍴 **Forks:** `178` | 👀 **Watchers:** `239` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-16`
+🗓 **Last Updated:** `2025-11-29`
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `110` | 🍴 **Forks:** `95` | 👀 **Watchers:** `110` | ⚪ **CI/CD Status**
+⭐ **Stars:** `111` | 🍴 **Forks:** `95` | 👀 **Watchers:** `111` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -353,11 +353,11 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 
-🗓 **Last Updated:** `2025-10-07`
+🗓 **Last Updated:** `2025-11-29`
 🔄 **Latest Commit:** [AWS-DevOps: Comprehensive updates to deployment configuration and s...](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/3d8824f124e7750499ef07dd1057304e15c90ed0) on `2025-09-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `25` | 🍴 **Forks:** `56` | 👀 **Watchers:** `25` | ⚪ **CI/CD Status**
+⭐ **Stars:** `26` | 🍴 **Forks:** `56` | 👀 **Watchers:** `26` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
@@ -479,11 +479,11 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-26`
+🗓 **Last Updated:** `2025-11-29`
 🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `12` | 🍴 **Forks:** `18` | 👀 **Watchers:** `12` | ⚪ **CI/CD Status**
+⭐ **Stars:** `13` | 🍴 **Forks:** `18` | 👀 **Watchers:** `13` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
