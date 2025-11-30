@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--30%2012%3A40 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--30%2018%3A29 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-29`
+🗓 **Last Updated:** `2025-11-30`
 🔄 **Latest Commit:** [DevOps: README: Add Related AWS Projects section for enhanced learn...](https://github.com/NotHarshhaa/DevOps-Projects/commit/16b7850fce07a4c7903bbac1fa911680e3c211ea) on `2025-09-29`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2794` | 🍴 **Forks:** `3034` | 👀 **Watchers:** `2794` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2798` | 🍴 **Forks:** `3033` | 👀 **Watchers:** `2798` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `566` | 🍴 **Forks:** `430` | 👀 **Watchers:** `566` | ⚪ **CI/CD Status**
+⭐ **Stars:** `566` | 🍴 **Forks:** `431` | 👀 **Watchers:** `566` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `393` | 🍴 **Forks:** `185` | 👀 **Watchers:** `393` | ⚪ **CI/CD Status**
+⭐ **Stars:** `393` | 🍴 **Forks:** `186` | 👀 **Watchers:** `393` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-28`
+🗓 **Last Updated:** `2025-11-30`
 🔄 **Latest Commit:** [DevOps-Tools: Enhance categories section with expandable functional...](https://github.com/NotHarshhaa/devops-tools/commit/b7499cd11cee856e952cf314ae4f8299ae324704) on `2025-10-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `191` | 🍴 **Forks:** `159` | 👀 **Watchers:** `191` | ⚪ **CI/CD Status**
+⭐ **Stars:** `192` | 🍴 **Forks:** `159` | 👀 **Watchers:** `192` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -441,7 +441,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [Zomato-Clone: README: Update blog post link for accurate reference](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685) on `2025-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `14` | 🍴 **Forks:** `63` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `64` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devsecops` `#devsecops-best-practices` `#devsecops-pipeline` `#reactjs` `#zomato-app`
