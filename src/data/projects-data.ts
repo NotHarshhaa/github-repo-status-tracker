@@ -148,11 +148,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2805,
-    "forks": 3040,
+    "stars": 2806,
+    "forks": 3041,
     "issues": 17,
-    "lastUpdated": "2025-12-02T23:27:25Z",
-    "lastCommit": "16b7850fce07a4c7903bbac1fa911680e3c211ea"
+    "lastUpdated": "2025-12-03T09:53:01Z",
+    "lastCommit": "3f32b19da011d65719ce9b9ca3c4e366d0304410"
   },
   {
     "title": "Uber Clone with DevSecOps",
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 568,
+    "stars": 570,
     "forks": 435,
     "issues": 1,
-    "lastUpdated": "2025-12-03T06:11:06Z",
+    "lastUpdated": "2025-12-03T12:48:09Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
