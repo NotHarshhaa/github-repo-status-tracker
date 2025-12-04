@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--03%2018%3A35 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--04%2001%3A45 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add project trending badge](https://github.com/NotHarshhaa/DevOps-Projects/commit/3f32b19da011d65719ce9b9ca3c4e366d0304410) on `2025-12-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `2807` | 🍴 **Forks:** `3042` | 👀 **Watchers:** `2807` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2808` | 🍴 **Forks:** `3043` | 👀 **Watchers:** `2808` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-01`
+🗓 **Last Updated:** `2025-12-03`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `394` | 🍴 **Forks:** `186` | 👀 **Watchers:** `394` | ⚪ **CI/CD Status**
+⭐ **Stars:** `395` | 🍴 **Forks:** `186` | 👀 **Watchers:** `395` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -105,7 +105,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `310` | 🍴 **Forks:** `225` | 👀 **Watchers:** `310` | ⚪ **CI/CD Status**
+⭐ **Stars:** `311` | 🍴 **Forks:** `226` | 👀 **Watchers:** `311` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
