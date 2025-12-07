@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--07%2006%3A30 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--07%2012%3A39 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-06`
-🔄 **Latest Commit:** [DevOps: README: Add project trending badge](https://github.com/NotHarshhaa/DevOps-Projects/commit/3f32b19da011d65719ce9b9ca3c4e366d0304410) on `2025-12-03`
+🗓 **Last Updated:** `2025-12-07`
+🔄 **Latest Commit:** [DevOps: README: Update blog link across all DevOps projects](https://github.com/NotHarshhaa/DevOps-Projects/commit/7f1e64c4865237864d74adec216f4004b802eb49) on `2025-12-07`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `17`
-⭐ **Stars:** `2818` | 🍴 **Forks:** `3049` | 👀 **Watchers:** `2818` | ⚪ **CI/CD Status**
+🏷 **Open Issues:** `14`
+⭐ **Stars:** `2817` | 🍴 **Forks:** `3049` | 👀 **Watchers:** `2817` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-04`
+🗓 **Last Updated:** `2025-12-07`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `730` | 🍴 **Forks:** `456` | 👀 **Watchers:** `730` | ⚪ **CI/CD Status**
+⭐ **Stars:** `729` | 🍴 **Forks:** `456` | 👀 **Watchers:** `729` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-05`
+🗓 **Last Updated:** `2025-12-07`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `574` | 🍴 **Forks:** `439` | 👀 **Watchers:** `574` | ⚪ **CI/CD Status**
+⭐ **Stars:** `575` | 🍴 **Forks:** `439` | 👀 **Watchers:** `575` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-03`
+🗓 **Last Updated:** `2025-12-07`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `395` | 🍴 **Forks:** `187` | 👀 **Watchers:** `395` | ⚪ **CI/CD Status**
+⭐ **Stars:** `394` | 🍴 **Forks:** `187` | 👀 **Watchers:** `394` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -353,11 +353,11 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-29`
+🗓 **Last Updated:** `2025-12-07`
 🔄 **Latest Commit:** [AWS-DevOps: Comprehensive updates to deployment configuration and s...](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/3d8824f124e7750499ef07dd1057304e15c90ed0) on `2025-09-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `26` | 🍴 **Forks:** `57` | 👀 **Watchers:** `26` | ⚪ **CI/CD Status**
+⭐ **Stars:** `25` | 🍴 **Forks:** `57` | 👀 **Watchers:** `25` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
@@ -416,11 +416,11 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Learning-Prometheus?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-11-26`
+🗓 **Last Updated:** `2025-12-07`
 🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `19` | 🍴 **Forks:** `38` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
+⭐ **Stars:** `18` | 🍴 **Forks:** `38` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
