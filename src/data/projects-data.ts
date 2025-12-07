@@ -148,11 +148,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2818,
+    "stars": 2817,
     "forks": 3049,
-    "issues": 17,
-    "lastUpdated": "2025-12-06T19:03:16Z",
-    "lastCommit": "3f32b19da011d65719ce9b9ca3c4e366d0304410"
+    "issues": 14,
+    "lastUpdated": "2025-12-07T12:22:33Z",
+    "lastCommit": "7f1e64c4865237864d74adec216f4004b802eb49"
   },
   {
     "title": "Uber Clone with DevSecOps",
@@ -268,10 +268,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Learning-Prometheus",
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
-    "stars": 19,
+    "stars": 18,
     "forks": 38,
     "issues": 0,
-    "lastUpdated": "2025-11-26T01:38:47Z",
+    "lastUpdated": "2025-12-07T07:11:28Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 395,
+    "stars": 394,
     "forks": 187,
     "issues": 2,
-    "lastUpdated": "2025-12-03T21:12:36Z",
+    "lastUpdated": "2025-12-07T07:11:24Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -400,10 +400,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment",
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
-    "stars": 26,
+    "stars": 25,
     "forks": 57,
     "issues": 0,
-    "lastUpdated": "2025-11-29T07:27:35Z",
+    "lastUpdated": "2025-12-07T07:11:26Z",
     "lastCommit": "3d8824f124e7750499ef07dd1057304e15c90ed0"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 574,
+    "stars": 575,
     "forks": 439,
     "issues": 1,
-    "lastUpdated": "2025-12-05T08:38:32Z",
+    "lastUpdated": "2025-12-07T07:23:13Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 730,
+    "stars": 729,
     "forks": 456,
     "issues": 0,
-    "lastUpdated": "2025-12-04T04:59:30Z",
+    "lastUpdated": "2025-12-07T07:11:30Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
