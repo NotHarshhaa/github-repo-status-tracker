@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 2818,
-    "forks": 3052,
+    "forks": 3053,
     "issues": 14,
     "lastUpdated": "2025-12-07T16:55:33Z",
     "lastCommit": "7f1e64c4865237864d74adec216f4004b802eb49"
@@ -269,7 +269,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 18,
-    "forks": 38,
+    "forks": 39,
     "issues": 0,
     "lastUpdated": "2025-12-07T07:11:28Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
