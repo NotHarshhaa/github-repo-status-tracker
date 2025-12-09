@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--08%2018%3A34 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--09%2001%3A45 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Update blog link across all DevOps projects](https://github.com/NotHarshhaa/DevOps-Projects/commit/7f1e64c4865237864d74adec216f4004b802eb49) on `2025-12-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `14`
-⭐ **Stars:** `2821` | 🍴 **Forks:** `3053` | 👀 **Watchers:** `2821` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2822` | 🍴 **Forks:** `3053` | 👀 **Watchers:** `2822` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `578` | 🍴 **Forks:** `441` | 👀 **Watchers:** `578` | ⚪ **CI/CD Status**
+⭐ **Stars:** `578` | 🍴 **Forks:** `442` | 👀 **Watchers:** `578` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-07`
+🗓 **Last Updated:** `2025-12-08`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `394` | 🍴 **Forks:** `187` | 👀 **Watchers:** `394` | ⚪ **CI/CD Status**
+⭐ **Stars:** `396` | 🍴 **Forks:** `188` | 👀 **Watchers:** `396` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -105,7 +105,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `319` | 🍴 **Forks:** `229` | 👀 **Watchers:** `319` | ⚪ **CI/CD Status**
+⭐ **Stars:** `319` | 🍴 **Forks:** `230` | 👀 **Watchers:** `319` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `171` | 🍴 **Forks:** `200` | 👀 **Watchers:** `171` | ❌ **CI/CD Status**
+⭐ **Stars:** `171` | 🍴 **Forks:** `201` | 👀 **Watchers:** `171` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: k8s-learning: Expand Helm README with Best Practices and Workf...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/d415e9d071ba94617fdb559c8f52e754f9539fa5) on `2025-10-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `148` | 🍴 **Forks:** `110` | 👀 **Watchers:** `148` | ❌ **CI/CD Status**
+⭐ **Stars:** `148` | 🍴 **Forks:** `111` | 👀 **Watchers:** `148` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -378,7 +378,7 @@ A hands-on learning repository to help you master containerization and orchestra
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `20` | 🍴 **Forks:** `23` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+⭐ **Stars:** `20` | 🍴 **Forks:** `24` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
