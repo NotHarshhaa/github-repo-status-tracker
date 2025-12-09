@@ -2,7 +2,7 @@
   {
     "repo": "devops-tools",
     "stars": 193,
-    "forks": 159,
+    "forks": 160,
     "issues": 2,
     "lastUpdated": "2025-12-05T12:54:45Z",
     "lastCommit": "b7499cd11cee856e952cf314ae4f8299ae324704"
@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2823,
+    "stars": 2826,
     "forks": 3057,
     "issues": 14,
-    "lastUpdated": "2025-12-09T12:07:10Z",
+    "lastUpdated": "2025-12-09T17:50:21Z",
     "lastCommit": "7f1e64c4865237864d74adec216f4004b802eb49"
   },
   {
@@ -97,18 +97,18 @@
   },
   {
     "repo": "DevOps-Tool-Installer",
-    "stars": 57,
+    "stars": 58,
     "forks": 62,
     "issues": 0,
-    "lastUpdated": "2025-12-05T12:54:53Z",
+    "lastUpdated": "2025-12-09T14:30:06Z",
     "lastCommit": "79610cbee416d001d9cbb467bab7e3fbedb778fa"
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 396,
+    "stars": 397,
     "forks": 188,
     "issues": 2,
-    "lastUpdated": "2025-12-08T22:27:07Z",
+    "lastUpdated": "2025-12-09T13:33:11Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -146,25 +146,25 @@
   {
     "repo": "devops-cheatsheet",
     "stars": 245,
-    "forks": 182,
+    "forks": 183,
     "issues": 0,
     "lastUpdated": "2025-12-07T16:14:49Z",
     "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 579,
+    "stars": 580,
     "forks": 442,
     "issues": 1,
-    "lastUpdated": "2025-12-09T04:52:49Z",
+    "lastUpdated": "2025-12-09T14:34:34Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
     "repo": "into-the-devops",
-    "stars": 729,
+    "stars": 730,
     "forks": 457,
     "issues": 0,
-    "lastUpdated": "2025-12-07T07:11:30Z",
+    "lastUpdated": "2025-12-09T15:57:44Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
