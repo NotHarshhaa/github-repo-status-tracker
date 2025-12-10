@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 148,
-    "forks": 111,
+    "forks": 110,
     "issues": 0,
     "lastUpdated": "2025-12-05T12:54:45Z",
     "lastCommit": "d415e9d071ba94617fdb559c8f52e754f9539fa5"
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 320,
-    "forks": 231,
+    "forks": 230,
     "issues": 1,
     "lastUpdated": "2025-12-09T05:01:25Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 171,
-    "forks": 201,
+    "forks": 200,
     "issues": 0,
     "lastUpdated": "2025-12-05T12:54:44Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -333,7 +333,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 397,
-    "forks": 188,
+    "forks": 187,
     "issues": 2,
     "lastUpdated": "2025-12-09T13:33:11Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -467,7 +467,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
     "stars": 20,
-    "forks": 24,
+    "forks": 23,
     "issues": 1,
     "lastUpdated": "2025-11-25T18:04:18Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
