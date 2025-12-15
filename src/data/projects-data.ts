@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2847,
-    "forks": 3070,
+    "stars": 2853,
+    "forks": 3071,
     "issues": 14,
-    "lastUpdated": "2025-12-15T10:55:24Z",
+    "lastUpdated": "2025-12-15T18:18:06Z",
     "lastCommit": "7f1e64c4865237864d74adec216f4004b802eb49"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 320,
-    "forks": 233,
+    "forks": 232,
     "issues": 1,
     "lastUpdated": "2025-12-09T05:01:25Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -269,7 +269,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 18,
-    "forks": 39,
+    "forks": 38,
     "issues": 0,
     "lastUpdated": "2025-12-07T07:11:28Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 399,
+    "stars": 400,
     "forks": 188,
     "issues": 2,
-    "lastUpdated": "2025-12-13T10:24:10Z",
+    "lastUpdated": "2025-12-15T17:51:18Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 584,
-    "forks": 451,
+    "stars": 586,
+    "forks": 450,
     "issues": 1,
-    "lastUpdated": "2025-12-15T11:20:06Z",
+    "lastUpdated": "2025-12-15T15:35:42Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
