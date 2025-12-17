@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 2864,
+    "stars": 2865,
     "forks": 3074,
-    "issues": 14,
-    "lastUpdated": "2025-12-17T04:11:07Z",
+    "issues": 15,
+    "lastUpdated": "2025-12-17T08:51:14Z",
     "lastCommit": "7f1e64c4865237864d74adec216f4004b802eb49"
   },
   {
@@ -106,7 +106,7 @@
   {
     "repo": "kubernetes-learning-path",
     "stars": 399,
-    "forks": 187,
+    "forks": 188,
     "issues": 2,
     "lastUpdated": "2025-12-16T15:30:23Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
