@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--18%2006%3A36 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--18%2012%3A47 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Update blog link across all DevOps projects](https://github.com/NotHarshhaa/DevOps-Projects/commit/7f1e64c4865237864d74adec216f4004b802eb49) on `2025-12-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2871` | 🍴 **Forks:** `3076` | 👀 **Watchers:** `2871` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2874` | 🍴 **Forks:** `3082` | 👀 **Watchers:** `2874` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `734` | 🍴 **Forks:** `458` | 👀 **Watchers:** `734` | ⚪ **CI/CD Status**
+⭐ **Stars:** `734` | 🍴 **Forks:** `460` | 👀 **Watchers:** `734` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-17`
+🗓 **Last Updated:** `2025-12-18`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `591` | 🍴 **Forks:** `453` | 👀 **Watchers:** `591` | ⚪ **CI/CD Status**
+⭐ **Stars:** `592` | 🍴 **Forks:** `457` | 👀 **Watchers:** `592` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `399` | 🍴 **Forks:** `188` | 👀 **Watchers:** `399` | ⚪ **CI/CD Status**
+⭐ **Stars:** `399` | 🍴 **Forks:** `189` | 👀 **Watchers:** `399` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -122,8 +122,8 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-16`
-🔄 **Latest Commit:** [DevOps-Cheatsheet: fix: Update cheatsheets metadata timestamps and ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4) on `2025-08-17`
+🗓 **Last Updated:** `2025-12-18`
+🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
 ⭐ **Stars:** `248` | 🍴 **Forks:** `185` | 👀 **Watchers:** `248` | ⚪ **CI/CD Status**
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-05`
-🔄 **Latest Commit:** [DevOps-Tools: Enhance categories section with expandable functional...](https://github.com/NotHarshhaa/devops-tools/commit/b7499cd11cee856e952cf314ae4f8299ae324704) on `2025-10-09`
-👤 **Author:** `NotHarshhaa`
+🗓 **Last Updated:** `2025-12-18`
+🔄 **Latest Commit:** [Merge pull request #3 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e) on `2025-12-18`
+👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `193` | 🍴 **Forks:** `159` | 👀 **Watchers:** `193` | ⚪ **CI/CD Status**
+⭐ **Stars:** `193` | 🍴 **Forks:** `160` | 👀 **Watchers:** `193` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -168,7 +168,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `174` | 🍴 **Forks:** `188` | 👀 **Watchers:** `174` | ⚪ **CI/CD Status**
+⭐ **Stars:** `174` | 🍴 **Forks:** `189` | 👀 **Watchers:** `174` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `171` | 🍴 **Forks:** `199` | 👀 **Watchers:** `171` | ❌ **CI/CD Status**
+⭐ **Stars:** `171` | 🍴 **Forks:** `200` | 👀 **Watchers:** `171` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -206,9 +206,9 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-05`
-🔄 **Latest Commit:** [CKA: k8s-learning: Expand Helm README with Best Practices and Workf...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/d415e9d071ba94617fdb559c8f52e754f9539fa5) on `2025-10-15`
-👤 **Author:** `NotHarshhaa`
+🗓 **Last Updated:** `2025-12-18`
+🔄 **Latest Commit:** [Merge pull request #1 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7b65f14016d51f1def6d137827203b820e8fabbb) on `2025-12-18`
+👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `148` | 🍴 **Forks:** `109` | 👀 **Watchers:** `148` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
@@ -290,9 +290,9 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-09`
-🔄 **Latest Commit:** [DevOps-Tool-Installer: feat: Upgrade Linux scripts with enhanced fe...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/79610cbee416d001d9cbb467bab7e3fbedb778fa) on `2025-07-31`
-👤 **Author:** `NotHarshhaa`
+🗓 **Last Updated:** `2025-12-18`
+🔄 **Latest Commit:** [Merge pull request #2 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/239dbcec6c203e50ce9af015cac863867f2fc696) on `2025-12-18`
+👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `58` | 🍴 **Forks:** `62` | 👀 **Watchers:** `58` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
@@ -647,9 +647,9 @@ Personal space to explore, experiment, and grow in the DevOps field. It's not me
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Engineering?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MDX](https://img.shields.io/badge/-MDX-gray?style=flat-square&logo=mdx&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-08-11`
-🔄 **Latest Commit:** [DE: Refactor ESLint configuration, add custom type definitions, and...](https://github.com/NotHarshhaa/DevOps-Engineering/commit/bac41cba20250ff09532f87727ebd8de2b1b3df5) on `2025-07-28`
-👤 **Author:** `NotHarshhaa`
+🗓 **Last Updated:** `2025-12-18`
+🔄 **Latest Commit:** [Merge pull request #1 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/DevOps-Engineering/commit/b3c5d433b8298ecf28baae97aa5ec030bb95f038) on `2025-12-18`
+👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `4` | 🍴 **Forks:** `7` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
