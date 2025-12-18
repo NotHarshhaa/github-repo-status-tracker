@@ -99,10 +99,10 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 193,
-    "forks": 159,
+    "forks": 160,
     "issues": 2,
-    "lastUpdated": "2025-12-05T12:54:45Z",
-    "lastCommit": "b7499cd11cee856e952cf314ae4f8299ae324704"
+    "lastUpdated": "2025-12-18T11:03:31Z",
+    "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
     "title": "Certified Kubernetes Administrator (CKA) Prep",
@@ -117,8 +117,8 @@ export const PROJECTS: Project[] = [
     "stars": 148,
     "forks": 109,
     "issues": 0,
-    "lastUpdated": "2025-12-05T12:54:45Z",
-    "lastCommit": "d415e9d071ba94617fdb559c8f52e754f9539fa5"
+    "lastUpdated": "2025-12-18T10:56:06Z",
+    "lastCommit": "7b65f14016d51f1def6d137827203b820e8fabbb"
   },
   {
     "title": "Secure Kubernetes Dashboard",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2871,
-    "forks": 3076,
+    "stars": 2874,
+    "forks": 3082,
     "issues": 15,
-    "lastUpdated": "2025-12-18T05:20:21Z",
+    "lastUpdated": "2025-12-18T12:35:36Z",
     "lastCommit": "7f1e64c4865237864d74adec216f4004b802eb49"
   },
   {
@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 171,
-    "forks": 199,
+    "forks": 200,
     "issues": 0,
     "lastUpdated": "2025-12-05T12:54:44Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -301,7 +301,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 174,
-    "forks": 188,
+    "forks": 189,
     "issues": 0,
     "lastUpdated": "2025-12-17T00:56:38Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
@@ -319,8 +319,8 @@ export const PROJECTS: Project[] = [
     "stars": 58,
     "forks": 62,
     "issues": 0,
-    "lastUpdated": "2025-12-09T14:30:06Z",
-    "lastCommit": "79610cbee416d001d9cbb467bab7e3fbedb778fa"
+    "lastUpdated": "2025-12-18T11:09:33Z",
+    "lastCommit": "239dbcec6c203e50ce9af015cac863867f2fc696"
   },
   {
     "title": "Kubernetes Learning Path",
@@ -333,7 +333,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 399,
-    "forks": 188,
+    "forks": 189,
     "issues": 2,
     "lastUpdated": "2025-12-16T15:30:23Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -419,8 +419,8 @@ export const PROJECTS: Project[] = [
     "stars": 248,
     "forks": 185,
     "issues": 1,
-    "lastUpdated": "2025-12-16T03:03:28Z",
-    "lastCommit": "b4c1a7361f9f167685ca6968ebdbae3b3ef5bfd4"
+    "lastUpdated": "2025-12-18T11:45:44Z",
+    "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
     "title": "DevOps Interview Questions",
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 591,
-    "forks": 453,
+    "stars": 592,
+    "forks": 457,
     "issues": 1,
-    "lastUpdated": "2025-12-17T20:38:22Z",
+    "lastUpdated": "2025-12-18T08:07:33Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -450,7 +450,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 734,
-    "forks": 458,
+    "forks": 460,
     "issues": 0,
     "lastUpdated": "2025-12-18T04:04:26Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -486,8 +486,8 @@ export const PROJECTS: Project[] = [
     "stars": 4,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2025-08-11T17:34:51Z",
-    "lastCommit": "bac41cba20250ff09532f87727ebd8de2b1b3df5"
+    "lastUpdated": "2025-12-18T10:58:39Z",
+    "lastCommit": "b3c5d433b8298ecf28baae97aa5ec030bb95f038"
   },
   {
     "title": "Cloud Native DevOps Project",
