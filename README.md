@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--19%2006%3A34 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--19%2012%3A44 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Update blog link across all DevOps projects](https://github.com/NotHarshhaa/DevOps-Projects/commit/7f1e64c4865237864d74adec216f4004b802eb49) on `2025-12-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2876` | 🍴 **Forks:** `3083` | 👀 **Watchers:** `2876` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2876` | 🍴 **Forks:** `3084` | 👀 **Watchers:** `2876` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -511,6 +511,27 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 
 ---
 
+## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
+
+This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+
+🗓 **Last Updated:** `2025-12-19`
+🔄 **Latest Commit:** [devops-monitoring: fix: resolve npm security vulnerabilities](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/3b3a0fee310d2b80dfa410122ed1d09c1d2b7f60) on `2025-11-18`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `10` | 🍴 **Forks:** `10` | 👀 **Watchers:** `10` | ✅ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
+
+---
+
 ## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
 
 Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Sec...
@@ -529,27 +550,6 @@ Terraform scripts to automate the provisioning of AWS infrastructure, including 
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#jenkins` `#terraform` `#terraform-aws`
-
----
-
-## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
-
-This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
-
-🗓 **Last Updated:** `2025-11-18`
-🔄 **Latest Commit:** [devops-monitoring: fix: resolve npm security vulnerabilities](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/3b3a0fee310d2b80dfa410122ed1d09c1d2b7f60) on `2025-11-18`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `10` | 👀 **Watchers:** `9` | ✅ **CI/CD Status**
-📄 **License:** `MIT License`
-
-`#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
 
 ---
 
