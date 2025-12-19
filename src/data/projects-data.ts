@@ -216,10 +216,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform",
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
-    "stars": 9,
-    "forks": 23,
+    "stars": 10,
+    "forks": 24,
     "issues": 0,
-    "lastUpdated": "2025-03-17T05:38:10Z",
+    "lastUpdated": "2025-12-18T19:14:34Z",
     "lastCommit": "e174ff110b003113e4e2dbc8153afdd49df38fab"
   },
   {
