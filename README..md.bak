@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--18%2018%3A34 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--19%2001%3A47 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -500,11 +500,11 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-03-17`
+🗓 **Last Updated:** `2025-12-18`
 🔄 **Latest Commit:** [AWS/Kubernetes/Terraform: README: Updated README.md with structured...](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/e174ff110b003113e4e2dbc8153afdd49df38fab) on `2025-03-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `23` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
+⭐ **Stars:** `10` | 🍴 **Forks:** `24` | 👀 **Watchers:** `10` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#eks` `#supermario` `#terraform`
