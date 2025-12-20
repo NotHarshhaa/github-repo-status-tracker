@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--20%2001%3A42 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--20%2006%3A36 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Update blog link across all DevOps projects](https://github.com/NotHarshhaa/DevOps-Projects/commit/7f1e64c4865237864d74adec216f4004b802eb49) on `2025-12-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2876` | 🍴 **Forks:** `3084` | 👀 **Watchers:** `2876` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2876` | 🍴 **Forks:** `3086` | 👀 **Watchers:** `2876` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-18`
+🗓 **Last Updated:** `2025-12-20`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `248` | 🍴 **Forks:** `185` | 👀 **Watchers:** `248` | ⚪ **CI/CD Status**
+⭐ **Stars:** `248` | 🍴 **Forks:** `186` | 👀 **Watchers:** `248` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [Merge pull request #1 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/7b65f14016d51f1def6d137827203b820e8fabbb) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `148` | 🍴 **Forks:** `109` | 👀 **Watchers:** `148` | ❌ **CI/CD Status**
+⭐ **Stars:** `148` | 🍴 **Forks:** `110` | 👀 **Watchers:** `148` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -294,7 +294,7 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 🔄 **Latest Commit:** [Merge pull request #2 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/239dbcec6c203e50ce9af015cac863867f2fc696) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `58` | 🍴 **Forks:** `62` | 👀 **Watchers:** `58` | ⚪ **CI/CD Status**
+⭐ **Stars:** `58` | 🍴 **Forks:** `63` | 👀 **Watchers:** `58` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
 
 `#ansible` `#devops` `#devops-tools` `#docker` `#github`
