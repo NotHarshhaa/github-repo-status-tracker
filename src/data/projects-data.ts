@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 148,
-    "forks": 109,
+    "forks": 110,
     "issues": 0,
     "lastUpdated": "2025-12-18T10:56:06Z",
     "lastCommit": "7b65f14016d51f1def6d137827203b820e8fabbb"
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 2876,
-    "forks": 3084,
+    "forks": 3086,
     "issues": 15,
     "lastUpdated": "2025-12-18T14:51:06Z",
     "lastCommit": "7f1e64c4865237864d74adec216f4004b802eb49"
@@ -317,7 +317,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
     "stars": 58,
-    "forks": 62,
+    "forks": 63,
     "issues": 0,
     "lastUpdated": "2025-12-18T11:09:33Z",
     "lastCommit": "239dbcec6c203e50ce9af015cac863867f2fc696"
@@ -417,9 +417,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 248,
-    "forks": 185,
+    "forks": 186,
     "issues": 1,
-    "lastUpdated": "2025-12-18T11:45:44Z",
+    "lastUpdated": "2025-12-20T03:29:15Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
