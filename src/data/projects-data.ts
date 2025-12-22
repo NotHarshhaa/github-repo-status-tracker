@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Terraform-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
-    "stars": 13,
+    "stars": 14,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2025-11-29T07:26:35Z",
+    "lastUpdated": "2025-12-21T23:40:39Z",
     "lastCommit": "99274f21bf61a614d8f362d09e9c3f46e3dad2cd"
   },
   {
@@ -436,7 +436,7 @@ export const PROJECTS: Project[] = [
     "stars": 597,
     "forks": 466,
     "issues": 2,
-    "lastUpdated": "2025-12-21T17:19:27Z",
+    "lastUpdated": "2025-12-22T01:33:46Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {

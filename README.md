@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--21%2018%3A30 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--22%2001%3A53 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -59,7 +59,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-21`
+🗓 **Last Updated:** `2025-12-22`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
@@ -479,11 +479,11 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
-🗓 **Last Updated:** `2025-11-29`
+🗓 **Last Updated:** `2025-12-21`
 🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `13` | 🍴 **Forks:** `20` | 👀 **Watchers:** `13` | ⚪ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `20` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
