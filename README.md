@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--23%2012%3A48 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--23%2018%3A33 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `599` | 🍴 **Forks:** `468` | 👀 **Watchers:** `599` | ⚪ **CI/CD Status**
+⭐ **Stars:** `600` | 🍴 **Forks:** `468` | 👀 **Watchers:** `600` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -105,7 +105,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `320` | 🍴 **Forks:** `233` | 👀 **Watchers:** `320` | ⚪ **CI/CD Status**
+⭐ **Stars:** `320` | 🍴 **Forks:** `234` | 👀 **Watchers:** `320` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
@@ -168,7 +168,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `174` | 🍴 **Forks:** `190` | 👀 **Watchers:** `174` | ⚪ **CI/CD Status**
+⭐ **Stars:** `174` | 🍴 **Forks:** `191` | 👀 **Watchers:** `174` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
