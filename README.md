@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--25%2012%3A45 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--25%2018%3A32 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2889` | 🍴 **Forks:** `3101` | 👀 **Watchers:** `2889` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2890` | 🍴 **Forks:** `3102` | 👀 **Watchers:** `2890` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `734` | 🍴 **Forks:** `461` | 👀 **Watchers:** `734` | ⚪ **CI/CD Status**
+⭐ **Stars:** `734` | 🍴 **Forks:** `462` | 👀 **Watchers:** `734` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -364,6 +364,27 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 
 ---
 
+## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
+
+𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Learning-Prometheus?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Learning-Prometheus?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Learning-Prometheus?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Learning-Prometheus?style=flat-square)
+
+
+🗓 **Last Updated:** `2025-12-25`
+🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `20` | 🍴 **Forks:** `38` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
+
+---
+
 ## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
 
 A hands-on learning repository to help you master containerization and orchestration — starting w...
@@ -403,27 +424,6 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 📄 **License:** `No license`
 
 `#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
-
----
-
-## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
-
-𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Learning-Prometheus?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Learning-Prometheus?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Learning-Prometheus?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Learning-Prometheus?style=flat-square)
-
-
-🗓 **Last Updated:** `2025-12-22`
-🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `19` | 🍴 **Forks:** `38` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
 
 ---
 
