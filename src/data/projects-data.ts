@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 196,
+    "stars": 197,
     "forks": 160,
     "issues": 2,
-    "lastUpdated": "2025-12-27T12:20:29Z",
+    "lastUpdated": "2025-12-27T14:32:09Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -114,11 +114,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 148,
+    "stars": 149,
     "forks": 110,
     "issues": 0,
-    "lastUpdated": "2025-12-27T09:06:05Z",
-    "lastCommit": "7b65f14016d51f1def6d137827203b820e8fabbb"
+    "lastUpdated": "2025-12-27T17:16:14Z",
+    "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
   },
   {
     "title": "Secure Kubernetes Dashboard",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2899,
-    "forks": 3106,
+    "stars": 2900,
+    "forks": 3109,
     "issues": 15,
-    "lastUpdated": "2025-12-27T10:42:13Z",
+    "lastUpdated": "2025-12-27T13:41:59Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 321,
+    "stars": 322,
     "forks": 234,
     "issues": 1,
-    "lastUpdated": "2025-12-26T08:20:23Z",
+    "lastUpdated": "2025-12-27T17:47:47Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 606,
-    "forks": 468,
+    "stars": 607,
+    "forks": 469,
     "issues": 2,
-    "lastUpdated": "2025-12-26T22:07:14Z",
+    "lastUpdated": "2025-12-27T14:21:38Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
