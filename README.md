@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--28%2006%3A33 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--28%2012%3A43 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `736` | 🍴 **Forks:** `462` | 👀 **Watchers:** `736` | ⚪ **CI/CD Status**
+⭐ **Stars:** `736` | 🍴 **Forks:** `461` | 👀 **Watchers:** `736` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-26`
+🗓 **Last Updated:** `2025-12-28`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `248` | 🍴 **Forks:** `189` | 👀 **Watchers:** `248` | ⚪ **CI/CD Status**
+⭐ **Stars:** `249` | 🍴 **Forks:** `189` | 👀 **Watchers:** `249` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
