@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--28%2018%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--29%2001%3A57 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-28`
+🗓 **Last Updated:** `2025-12-29`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2903` | 🍴 **Forks:** `3111` | 👀 **Watchers:** `2903` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2904` | 🍴 **Forks:** `3111` | 👀 **Watchers:** `2904` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -206,11 +206,11 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-27`
+🗓 **Last Updated:** `2025-12-29`
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `149` | 🍴 **Forks:** `110` | 👀 **Watchers:** `149` | ❌ **CI/CD Status**
+⭐ **Stars:** `150` | 🍴 **Forks:** `110` | 👀 **Watchers:** `150` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -490,6 +490,27 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 
 ---
 
+## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
+
+This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+
+🗓 **Last Updated:** `2025-12-29`
+🔄 **Latest Commit:** [devops-monitoring: fix: resolve npm security vulnerabilities](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/3b3a0fee310d2b80dfa410122ed1d09c1d2b7f60) on `2025-11-18`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `11` | 🍴 **Forks:** `10` | 👀 **Watchers:** `11` | ✅ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
+
+---
+
 ## 📂 [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform)
 
 Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Am...
@@ -508,27 +529,6 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#eks` `#supermario` `#terraform`
-
----
-
-## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
-
-This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
-
-🗓 **Last Updated:** `2025-12-19`
-🔄 **Latest Commit:** [devops-monitoring: fix: resolve npm security vulnerabilities](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/3b3a0fee310d2b80dfa410122ed1d09c1d2b7f60) on `2025-11-18`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `10` | 🍴 **Forks:** `10` | 👀 **Watchers:** `10` | ✅ **CI/CD Status**
-📄 **License:** `MIT License`
-
-`#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
 
 ---
 
