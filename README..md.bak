@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--30%2001%3A49 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--12--30%2006%3A36 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-29`
+🗓 **Last Updated:** `2025-12-30`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2908` | 🍴 **Forks:** `3119` | 👀 **Watchers:** `2908` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2910` | 🍴 **Forks:** `3121` | 👀 **Watchers:** `2910` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-29`
+🗓 **Last Updated:** `2025-12-30`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `611` | 🍴 **Forks:** `472` | 👀 **Watchers:** `611` | ⚪ **CI/CD Status**
+⭐ **Stars:** `612` | 🍴 **Forks:** `472` | 👀 **Watchers:** `612` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-28`
+🗓 **Last Updated:** `2025-12-30`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `403` | 🍴 **Forks:** `190` | 👀 **Watchers:** `403` | ⚪ **CI/CD Status**
+⭐ **Stars:** `402` | 🍴 **Forks:** `190` | 👀 **Watchers:** `402` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -498,10 +498,10 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-29`
-🔄 **Latest Commit:** [devops-monitoring: fix: resolve npm security vulnerabilities](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/3b3a0fee310d2b80dfa410122ed1d09c1d2b7f60) on `2025-11-18`
+🗓 **Last Updated:** `2025-12-30`
+🔄 **Latest Commit:** [devops-monitoring: feat: introduce demo application for monitoring ...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/127879c0f161a79b02a145e107c052677074e4f5) on `2025-12-30`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `11` | 🍴 **Forks:** `10` | 👀 **Watchers:** `11` | ✅ **CI/CD Status**
