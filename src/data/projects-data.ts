@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2908,
-    "forks": 3119,
+    "stars": 2910,
+    "forks": 3121,
     "issues": 15,
-    "lastUpdated": "2025-12-29T21:53:22Z",
+    "lastUpdated": "2025-12-30T06:31:26Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 403,
+    "stars": 402,
     "forks": 190,
     "issues": 2,
-    "lastUpdated": "2025-12-28T16:16:08Z",
+    "lastUpdated": "2025-12-30T05:53:46Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 611,
+    "stars": 612,
     "forks": 472,
     "issues": 2,
-    "lastUpdated": "2025-12-29T12:27:17Z",
+    "lastUpdated": "2025-12-30T01:52:25Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -538,8 +538,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 10,
     "issues": 0,
-    "lastUpdated": "2025-12-29T01:13:26Z",
-    "lastCommit": "3b3a0fee310d2b80dfa410122ed1d09c1d2b7f60"
+    "lastUpdated": "2025-12-30T04:47:55Z",
+    "lastCommit": "127879c0f161a79b02a145e107c052677074e4f5"
   },
   {
     "title": "DevOps Environment Toolkit for Beginners",
