@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2925,
-    "forks": 3132,
+    "stars": 2926,
+    "forks": 3133,
     "issues": 15,
-    "lastUpdated": "2026-01-02T05:42:45Z",
+    "lastUpdated": "2026-01-02T17:21:42Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -366,10 +366,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/azure-all_in_one",
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
-    "stars": 86,
+    "stars": 87,
     "forks": 59,
     "issues": 0,
-    "lastUpdated": "2025-12-05T12:54:44Z",
+    "lastUpdated": "2026-01-02T18:21:28Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 614,
+    "stars": 616,
     "forks": 474,
     "issues": 2,
-    "lastUpdated": "2025-12-30T21:15:08Z",
+    "lastUpdated": "2026-01-02T18:17:26Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
