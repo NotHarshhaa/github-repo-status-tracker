@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2934,
-    "forks": 3139,
+    "stars": 2938,
+    "forks": 3145,
     "issues": 15,
-    "lastUpdated": "2026-01-03T21:21:48Z",
+    "lastUpdated": "2026-01-04T12:11:53Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -166,7 +166,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/uber-clone"
     },
     "stars": 5,
-    "forks": 9,
+    "forks": 10,
     "issues": 0,
     "lastUpdated": "2025-08-13T23:59:30Z",
     "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 14,
-    "forks": 64,
+    "forks": 65,
     "issues": 0,
     "lastUpdated": "2025-11-17T20:26:18Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 251,
-    "forks": 190,
+    "forks": 191,
     "issues": 2,
     "lastUpdated": "2025-12-30T22:07:29Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 616,
-    "forks": 480,
+    "forks": 481,
     "issues": 2,
     "lastUpdated": "2026-01-02T18:17:26Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -466,10 +466,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/From-Docker-to-Kubernetes",
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
-    "stars": 20,
+    "stars": 21,
     "forks": 24,
     "issues": 1,
-    "lastUpdated": "2025-11-25T18:04:18Z",
+    "lastUpdated": "2026-01-04T09:23:32Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
   {
@@ -536,7 +536,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
     "stars": 11,
-    "forks": 10,
+    "forks": 11,
     "issues": 0,
     "lastUpdated": "2025-12-30T04:47:55Z",
     "lastCommit": "127879c0f161a79b02a145e107c052677074e4f5"
