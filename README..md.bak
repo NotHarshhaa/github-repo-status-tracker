@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--04%2006%3A34 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--04%2012%3A43 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-03`
+🗓 **Last Updated:** `2026-01-04`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2934` | 🍴 **Forks:** `3139` | 👀 **Watchers:** `2934` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2938` | 🍴 **Forks:** `3145` | 👀 **Watchers:** `2938` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `616` | 🍴 **Forks:** `480` | 👀 **Watchers:** `616` | ⚪ **CI/CD Status**
+⭐ **Stars:** `616` | 🍴 **Forks:** `481` | 👀 **Watchers:** `616` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `251` | 🍴 **Forks:** `190` | 👀 **Watchers:** `251` | ⚪ **CI/CD Status**
+⭐ **Stars:** `251` | 🍴 **Forks:** `191` | 👀 **Watchers:** `251` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -364,6 +364,27 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 
 ---
 
+## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
+
+A hands-on learning repository to help you master containerization and orchestration — starting w...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+🗓 **Last Updated:** `2026-01-04`
+🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `1`
+⭐ **Stars:** `21` | 🍴 **Forks:** `24` | 👀 **Watchers:** `21` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
+
+---
+
 ## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
 
 𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
@@ -382,27 +403,6 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 📄 **License:** `No license`
 
 `#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
-
----
-
-## 📂 [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes)
-
-A hands-on learning repository to help you master containerization and orchestration — starting w...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
-🗓 **Last Updated:** `2025-11-25`
-🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `1`
-⭐ **Stars:** `20` | 🍴 **Forks:** `24` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
 
 ---
 
@@ -462,7 +462,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [Zomato-Clone: README: Update blog post link for accurate reference](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685) on `2025-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `14` | 🍴 **Forks:** `64` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `65` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devsecops` `#devsecops-best-practices` `#devsecops-pipeline` `#reactjs` `#zomato-app`
@@ -504,7 +504,7 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 🔄 **Latest Commit:** [devops-monitoring: feat: introduce demo application for monitoring ...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/127879c0f161a79b02a145e107c052677074e4f5) on `2025-12-30`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `11` | 🍴 **Forks:** `10` | 👀 **Watchers:** `11` | ✅ **CI/CD Status**
+⭐ **Stars:** `11` | 🍴 **Forks:** `11` | 👀 **Watchers:** `11` | ✅ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
@@ -609,7 +609,7 @@ This repository is a full-stack transportation application inspired by Uber. It 
 🔄 **Latest Commit:** [Uber-clone: Push Source code files and Setup Uber Clone project wit...](https://github.com/NotHarshhaa/uber-clone/commit/d54f10fc513fc2fdd33f92041ae0f9dfaac36c43) on `2025-03-20`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `5` | 🍴 **Forks:** `9` | 👀 **Watchers:** `5` | ⚪ **CI/CD Status**
+⭐ **Stars:** `5` | 🍴 **Forks:** `10` | 👀 **Watchers:** `5` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
