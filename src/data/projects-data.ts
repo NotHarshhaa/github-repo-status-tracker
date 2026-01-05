@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 2939,
+    "stars": 2941,
     "forks": 3147,
     "issues": 15,
-    "lastUpdated": "2026-01-04T15:28:08Z",
+    "lastUpdated": "2026-01-04T21:40:18Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 739,
+    "stars": 738,
     "forks": 461,
     "issues": 0,
-    "lastUpdated": "2025-12-31T08:31:33Z",
+    "lastUpdated": "2026-01-04T22:41:16Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -553,10 +553,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-environment-toolkit-beginners",
       "href": "https://github.com/NotHarshhaa/devops-environment-toolkit-beginners"
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2025-12-16T23:46:02Z",
+    "lastUpdated": "2026-01-04T21:30:02Z",
     "lastCommit": "171c0b1a247e38d31261168dbb2eb53676888f1a"
   }
 ];

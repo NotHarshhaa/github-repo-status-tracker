@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--04%2018%3A32 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--05%2002%3A01 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2939` | 🍴 **Forks:** `3147` | 👀 **Watchers:** `2939` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2941` | 🍴 **Forks:** `3147` | 👀 **Watchers:** `2941` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-31`
+🗓 **Last Updated:** `2026-01-04`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `739` | 🍴 **Forks:** `461` | 👀 **Watchers:** `739` | ⚪ **CI/CD Status**
+⭐ **Stars:** `738` | 🍴 **Forks:** `461` | 👀 **Watchers:** `738` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -595,6 +595,27 @@ This is a monitoring app built with Python, and it would be containerized with D
 
 ---
 
+## 📂 [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners)
+
+This repo provides a ready-to-use local setup with all the essential tools you need before starti...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+🗓 **Last Updated:** `2026-01-04`
+🔄 **Latest Commit:** [devops-toolkit: refactor: improve error handling and version detect...](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners/commit/171c0b1a247e38d31261168dbb2eb53676888f1a) on `2025-11-09`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `6` | 🍴 **Forks:** `4` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#devops` `#devops-environment` `#devops-tools` `#devops-tools-support` `#installation-scripts`
+
+---
+
 ## 📂 [uber-clone](https://github.com/NotHarshhaa/uber-clone)
 
 This repository is a full-stack transportation application inspired by Uber. It includes a React....
@@ -613,27 +634,6 @@ This repository is a full-stack transportation application inspired by Uber. It 
 📄 **License:** `No license`
 
 
-
----
-
-## 📂 [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners)
-
-This repo provides a ready-to-use local setup with all the essential tools you need before starti...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
-🗓 **Last Updated:** `2025-12-16`
-🔄 **Latest Commit:** [devops-toolkit: refactor: improve error handling and version detect...](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners/commit/171c0b1a247e38d31261168dbb2eb53676888f1a) on `2025-11-09`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `5` | 🍴 **Forks:** `4` | 👀 **Watchers:** `5` | ⚪ **CI/CD Status**
-📄 **License:** `MIT License`
-
-`#devops` `#devops-environment` `#devops-tools` `#devops-tools-support` `#installation-scripts`
 
 ---
 
