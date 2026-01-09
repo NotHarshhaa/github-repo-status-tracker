@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--08%2018%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--09%2001%3A52 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `2975` | 🍴 **Forks:** `3176` | 👀 **Watchers:** `2975` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2980` | 🍴 **Forks:** `3180` | 👀 **Watchers:** `2980` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `626` | 🍴 **Forks:** `486` | 👀 **Watchers:** `626` | ⚪ **CI/CD Status**
+⭐ **Stars:** `625` | 🍴 **Forks:** `486` | 👀 **Watchers:** `625` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -206,11 +206,11 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 
 
-🗓 **Last Updated:** `2025-12-29`
+🗓 **Last Updated:** `2026-01-08`
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `150` | 🍴 **Forks:** `110` | 👀 **Watchers:** `150` | ❌ **CI/CD Status**
+⭐ **Stars:** `151` | 🍴 **Forks:** `111` | 👀 **Watchers:** `151` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -290,11 +290,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-18`
+🗓 **Last Updated:** `2026-01-08`
 🔄 **Latest Commit:** [Merge pull request #2 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/239dbcec6c203e50ce9af015cac863867f2fc696) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `58` | 🍴 **Forks:** `63` | 👀 **Watchers:** `58` | ⚪ **CI/CD Status**
+⭐ **Stars:** `59` | 🍴 **Forks:** `63` | 👀 **Watchers:** `59` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
 
 `#ansible` `#devops` `#devops-tools` `#docker` `#github`
