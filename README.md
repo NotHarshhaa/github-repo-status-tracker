@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--14%2006%3A37 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--14%2012%3A51 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3135` | 🍴 **Forks:** `3311` | 👀 **Watchers:** `3135` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3168` | 🍴 **Forks:** `3331` | 👀 **Watchers:** `3168` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-13`
+🗓 **Last Updated:** `2026-01-14`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `640` | 🍴 **Forks:** `501` | 👀 **Watchers:** `640` | ⚪ **CI/CD Status**
+⭐ **Stars:** `641` | 🍴 **Forks:** `501` | 👀 **Watchers:** `641` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-13`
+🗓 **Last Updated:** `2026-01-14`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `406` | 🍴 **Forks:** `192` | 👀 **Watchers:** `406` | ⚪ **CI/CD Status**
+⭐ **Stars:** `408` | 🍴 **Forks:** `192` | 👀 **Watchers:** `408` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -437,11 +437,11 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-11`
+🗓 **Last Updated:** `2026-01-14`
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `17` | 🍴 **Forks:** `24` | 👀 **Watchers:** `17` | ⚪ **CI/CD Status**
+⭐ **Stars:** `18` | 🍴 **Forks:** `24` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
