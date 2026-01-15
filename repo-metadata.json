@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3225,
-    "forks": 3360,
+    "stars": 3232,
+    "forks": 3369,
     "issues": 15,
-    "lastUpdated": "2026-01-15T12:43:02Z",
+    "lastUpdated": "2026-01-15T18:30:50Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -92,7 +92,7 @@
     "stars": 175,
     "forks": 193,
     "issues": 0,
-    "lastUpdated": "2026-01-10T18:08:42Z",
+    "lastUpdated": "2026-01-15T13:30:42Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -154,7 +154,7 @@
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 644,
-    "forks": 501,
+    "forks": 503,
     "issues": 2,
     "lastUpdated": "2026-01-15T10:34:59Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -209,10 +209,10 @@
   },
   {
     "repo": "From-Docker-to-Kubernetes",
-    "stars": 21,
+    "stars": 22,
     "forks": 25,
     "issues": 1,
-    "lastUpdated": "2026-01-04T09:23:32Z",
+    "lastUpdated": "2026-01-15T15:41:08Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
   {
