@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3245,
-    "forks": 3381,
+    "stars": 3249,
+    "forks": 3385,
     "issues": 15,
-    "lastUpdated": "2026-01-16T09:38:50Z",
+    "lastUpdated": "2026-01-16T18:31:39Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -153,10 +153,10 @@
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 646,
+    "stars": 647,
     "forks": 504,
     "issues": 2,
-    "lastUpdated": "2026-01-16T10:17:51Z",
+    "lastUpdated": "2026-01-16T15:49:44Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -242,7 +242,7 @@
   {
     "repo": "devops-monitoring-in-a-box",
     "stars": 12,
-    "forks": 11,
+    "forks": 12,
     "issues": 0,
     "lastUpdated": "2026-01-04T13:47:20Z",
     "lastCommit": "127879c0f161a79b02a145e107c052677074e4f5"
