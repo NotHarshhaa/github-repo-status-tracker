@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 199,
-    "forks": 159,
+    "forks": 160,
     "issues": 2,
     "lastUpdated": "2026-01-06T11:29:31Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3289,
-    "forks": 3404,
+    "stars": 3293,
+    "forks": 3406,
     "issues": 15,
-    "lastUpdated": "2026-01-18T11:37:33Z",
+    "lastUpdated": "2026-01-18T16:48:16Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -319,8 +319,8 @@ export const PROJECTS: Project[] = [
     "stars": 59,
     "forks": 63,
     "issues": 0,
-    "lastUpdated": "2026-01-08T22:08:07Z",
-    "lastCommit": "239dbcec6c203e50ce9af015cac863867f2fc696"
+    "lastUpdated": "2026-01-18T17:11:49Z",
+    "lastCommit": "18d7d06cc018f82eede8f098ec01b86fa6fb489e"
   },
   {
     "title": "Kubernetes Learning Path",
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 260,
-    "forks": 197,
+    "forks": 199,
     "issues": 2,
     "lastUpdated": "2026-01-16T19:30:59Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 648,
-    "forks": 507,
+    "forks": 509,
     "issues": 2,
     "lastUpdated": "2026-01-17T19:31:41Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -450,7 +450,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 741,
-    "forks": 463,
+    "forks": 464,
     "issues": 0,
     "lastUpdated": "2026-01-14T12:57:56Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"

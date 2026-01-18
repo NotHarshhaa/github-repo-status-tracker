@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--18%2012%3A43 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--18%2018%3A30 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3289` | 🍴 **Forks:** `3404` | 👀 **Watchers:** `3289` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3293` | 🍴 **Forks:** `3406` | 👀 **Watchers:** `3293` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `741` | 🍴 **Forks:** `463` | 👀 **Watchers:** `741` | ⚪ **CI/CD Status**
+⭐ **Stars:** `741` | 🍴 **Forks:** `464` | 👀 **Watchers:** `741` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `648` | 🍴 **Forks:** `507` | 👀 **Watchers:** `648` | ⚪ **CI/CD Status**
+⭐ **Stars:** `648` | 🍴 **Forks:** `509` | 👀 **Watchers:** `648` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `260` | 🍴 **Forks:** `197` | 👀 **Watchers:** `260` | ⚪ **CI/CD Status**
+⭐ **Stars:** `260` | 🍴 **Forks:** `199` | 👀 **Watchers:** `260` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -147,7 +147,7 @@ A comprehensive collection of essential DevOps tools for development, deployment
 🔄 **Latest Commit:** [Merge pull request #3 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `199` | 🍴 **Forks:** `159` | 👀 **Watchers:** `199` | ⚪ **CI/CD Status**
+⭐ **Stars:** `199` | 🍴 **Forks:** `160` | 👀 **Watchers:** `199` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -288,11 +288,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-08`
-🔄 **Latest Commit:** [Merge pull request #2 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/239dbcec6c203e50ce9af015cac863867f2fc696) on `2025-12-18`
-👤 **Author:** `H A R S H H A A`
+🗓 **Last Updated:** `2026-01-18`
+🔄 **Latest Commit:** [DevOps-Tool-Installer: Enhance uninstall scripts with improved erro...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/18d7d06cc018f82eede8f098ec01b86fa6fb489e) on `2026-01-18`
+👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `59` | 🍴 **Forks:** `63` | 👀 **Watchers:** `59` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
