@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--17%2018%3A31 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--18%2001%3A59 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3284` | 🍴 **Forks:** `3399` | 👀 **Watchers:** `3284` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3286` | 🍴 **Forks:** `3401` | 👀 **Watchers:** `3286` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-16`
+🗓 **Last Updated:** `2026-01-17`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `647` | 🍴 **Forks:** `505` | 👀 **Watchers:** `647` | ⚪ **CI/CD Status**
+⭐ **Stars:** `648` | 🍴 **Forks:** `507` | 👀 **Watchers:** `648` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-14`
+🗓 **Last Updated:** `2026-01-17`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `408` | 🍴 **Forks:** `192` | 👀 **Watchers:** `408` | ⚪ **CI/CD Status**
+⭐ **Stars:** `409` | 🍴 **Forks:** `192` | 👀 **Watchers:** `409` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `260` | 🍴 **Forks:** `196` | 👀 **Watchers:** `260` | ⚪ **CI/CD Status**
+⭐ **Stars:** `260` | 🍴 **Forks:** `197` | 👀 **Watchers:** `260` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `112` | 🍴 **Forks:** `96` | 👀 **Watchers:** `112` | ⚪ **CI/CD Status**
+⭐ **Stars:** `112` | 🍴 **Forks:** `97` | 👀 **Watchers:** `112` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
