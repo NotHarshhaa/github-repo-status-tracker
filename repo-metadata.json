@@ -1,10 +1,10 @@
 [
   {
     "repo": "devops-tools",
-    "stars": 199,
-    "forks": 160,
+    "stars": 200,
+    "forks": 161,
     "issues": 2,
-    "lastUpdated": "2026-01-06T11:29:31Z",
+    "lastUpdated": "2026-01-19T03:51:01Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3302,
-    "forks": 3410,
+    "stars": 3303,
+    "forks": 3412,
     "issues": 15,
-    "lastUpdated": "2026-01-19T01:27:37Z",
+    "lastUpdated": "2026-01-19T04:38:50Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -81,16 +81,16 @@
   },
   {
     "repo": "Kubernetes",
-    "stars": 173,
-    "forks": 201,
+    "stars": 174,
+    "forks": 202,
     "issues": 0,
-    "lastUpdated": "2026-01-07T08:33:43Z",
+    "lastUpdated": "2026-01-19T03:50:58Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
     "repo": "DevOps_Setup-Installations",
     "stars": 175,
-    "forks": 193,
+    "forks": 194,
     "issues": 0,
     "lastUpdated": "2026-01-15T13:30:42Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
@@ -145,16 +145,16 @@
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 260,
+    "stars": 261,
     "forks": 199,
     "issues": 2,
-    "lastUpdated": "2026-01-16T19:30:59Z",
+    "lastUpdated": "2026-01-19T04:34:49Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 649,
-    "forks": 509,
+    "forks": 510,
     "issues": 2,
     "lastUpdated": "2026-01-18T20:25:13Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
