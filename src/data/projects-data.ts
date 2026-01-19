@@ -149,9 +149,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 3304,
-    "forks": 3415,
+    "forks": 3419,
     "issues": 15,
-    "lastUpdated": "2026-01-19T07:02:44Z",
+    "lastUpdated": "2026-01-19T15:03:46Z",
     "lastCommit": "42cb29d862c46eb2be5ef38b0e25fbe48007eb86"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 323,
-    "forks": 235,
+    "forks": 236,
     "issues": 1,
     "lastUpdated": "2026-01-09T14:43:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 25,
-    "forks": 57,
+    "forks": 58,
     "issues": 0,
     "lastUpdated": "2025-12-07T07:11:26Z",
     "lastCommit": "3d8824f124e7750499ef07dd1057304e15c90ed0"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 650,
+    "stars": 651,
     "forks": 511,
     "issues": 2,
-    "lastUpdated": "2026-01-19T11:17:25Z",
+    "lastUpdated": "2026-01-19T14:16:17Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -467,7 +467,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
     "stars": 22,
-    "forks": 25,
+    "forks": 26,
     "issues": 1,
     "lastUpdated": "2026-01-15T15:41:08Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
@@ -519,7 +519,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/awesome-devops-cloud"
     },
     "stars": 4,
-    "forks": 5,
+    "forks": 6,
     "issues": 0,
     "lastUpdated": "2025-11-03T15:18:39Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
