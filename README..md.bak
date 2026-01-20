@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--20%2006%3A39 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--20%2012%3A54 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-39](https://github.com/NotHarshhaa/DevOps-Projects/commit/42cb29d862c46eb2be5ef38b0e25fbe48007eb86) on `2025-12-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3309` | 🍴 **Forks:** `3421` | 👀 **Watchers:** `3309` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3312` | 🍴 **Forks:** `3426` | 👀 **Watchers:** `3312` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `652` | 🍴 **Forks:** `511` | 👀 **Watchers:** `652` | ⚪ **CI/CD Status**
+⭐ **Stars:** `653` | 🍴 **Forks:** `511` | 👀 **Watchers:** `653` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-17`
+🗓 **Last Updated:** `2026-01-20`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `409` | 🍴 **Forks:** `192` | 👀 **Watchers:** `409` | ⚪ **CI/CD Status**
+⭐ **Stars:** `410` | 🍴 **Forks:** `192` | 👀 **Watchers:** `410` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -154,6 +154,27 @@ A comprehensive collection of essential DevOps tools for development, deployment
 
 ---
 
+## 📂 [Kubernetes](https://github.com/NotHarshhaa/Kubernetes)
+
+📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Kubernetes?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Kubernetes?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Kubernetes?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
+![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
+
+🗓 **Last Updated:** `2026-01-20`
+🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `175` | 🍴 **Forks:** `202` | 👀 **Watchers:** `175` | ❌ **CI/CD Status**
+📄 **License:** `No license`
+
+`#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
+
+---
+
 ## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
 
 Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools
@@ -172,27 +193,6 @@ Comprehensive repository covering the installation and setup of essential DevOps
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
-
----
-
-## 📂 [Kubernetes](https://github.com/NotHarshhaa/Kubernetes)
-
-📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Kubernetes?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Kubernetes?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Kubernetes?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
-![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
-
-🗓 **Last Updated:** `2026-01-19`
-🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `174` | 🍴 **Forks:** `202` | 👀 **Watchers:** `174` | ❌ **CI/CD Status**
-📄 **License:** `No license`
-
-`#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
 
 ---
 
