@@ -30,8 +30,8 @@ export const PROJECTS: Project[] = [
     "stars": 14,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2025-12-21T23:40:39Z",
-    "lastCommit": "99274f21bf61a614d8f362d09e9c3f46e3dad2cd"
+    "lastUpdated": "2026-01-25T13:51:41Z",
+    "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
   },
   {
     "title": "ECR to ECS Deployment with GitHub Actions",
@@ -148,11 +148,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3348,
-    "forks": 3454,
+    "stars": 3354,
+    "forks": 3456,
     "issues": 15,
-    "lastUpdated": "2026-01-25T11:53:25Z",
-    "lastCommit": "effb3e820b78e3b8944eadd1fa6660fdfe9a9e8c"
+    "lastUpdated": "2026-01-25T17:59:41Z",
+    "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
     "title": "Uber Clone with DevSecOps",
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 664,
+    "stars": 665,
     "forks": 519,
     "issues": 2,
-    "lastUpdated": "2026-01-24T19:06:16Z",
+    "lastUpdated": "2026-01-25T18:00:01Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
