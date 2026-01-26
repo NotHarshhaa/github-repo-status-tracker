@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--25%2012%3A46 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--25%2018%3A33 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -18,10 +18,10 @@ This page clearly shows the latest commit details and updates automatically.
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
 🗓 **Last Updated:** `2026-01-25`
-🔄 **Latest Commit:** [DevOps-Project-02: Update README and JSON policies for improved cla...](https://github.com/NotHarshhaa/DevOps-Projects/commit/effb3e820b78e3b8944eadd1fa6660fdfe9a9e8c) on `2026-01-25`
+🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3348` | 🍴 **Forks:** `3454` | 👀 **Watchers:** `3348` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3354` | 🍴 **Forks:** `3456` | 👀 **Watchers:** `3354` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-24`
+🗓 **Last Updated:** `2026-01-25`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `664` | 🍴 **Forks:** `519` | 👀 **Watchers:** `664` | ⚪ **CI/CD Status**
+⭐ **Stars:** `665` | 🍴 **Forks:** `519` | 👀 **Watchers:** `665` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -477,10 +477,10 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-21`
-🔄 **Latest Commit:** [AWS-Workshop: Enhance AWS Terraform Workshop Source](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/99274f21bf61a614d8f362d09e9c3f46e3dad2cd) on `2025-10-13`
+🗓 **Last Updated:** `2026-01-25`
+🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `14` | 🍴 **Forks:** `20` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
