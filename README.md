@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--26%2012%3A53 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--26%2018%3A39 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3373` | 🍴 **Forks:** `3463` | 👀 **Watchers:** `3373` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3381` | 🍴 **Forks:** `3471` | 👀 **Watchers:** `3381` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `743` | 🍴 **Forks:** `464` | 👀 **Watchers:** `743` | ⚪ **CI/CD Status**
+⭐ **Stars:** `743` | 🍴 **Forks:** `463` | 👀 **Watchers:** `743` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `667` | 🍴 **Forks:** `519` | 👀 **Watchers:** `667` | ⚪ **CI/CD Status**
+⭐ **Stars:** `669` | 🍴 **Forks:** `520` | 👀 **Watchers:** `669` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-23`
+🗓 **Last Updated:** `2026-01-26`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `413` | 🍴 **Forks:** `194` | 👀 **Watchers:** `413` | ⚪ **CI/CD Status**
+⭐ **Stars:** `415` | 🍴 **Forks:** `194` | 👀 **Watchers:** `415` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -374,11 +374,11 @@ A hands-on learning repository to help you master containerization and orchestra
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-15`
+🗓 **Last Updated:** `2026-01-26`
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `22` | 🍴 **Forks:** `26` | 👀 **Watchers:** `22` | ⚪ **CI/CD Status**
+⭐ **Stars:** `23` | 🍴 **Forks:** `27` | 👀 **Watchers:** `23` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
@@ -671,8 +671,8 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 🗓 **Last Updated:** `2025-11-03`
 🔄 **Latest Commit:** [awesome-devops-cloud: README: Expand tool listings and enhance cont...](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) on `2025-07-22`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `4` | 🍴 **Forks:** `6` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
+🏷 **Open Issues:** `1`
+⭐ **Stars:** `4` | 🍴 **Forks:** `7` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
