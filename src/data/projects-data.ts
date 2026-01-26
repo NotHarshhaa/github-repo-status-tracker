@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3363,
-    "forks": 3461,
+    "stars": 3373,
+    "forks": 3463,
     "issues": 15,
-    "lastUpdated": "2026-01-26T02:21:20Z",
+    "lastUpdated": "2026-01-26T12:51:15Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
@@ -284,10 +284,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 175,
+    "stars": 176,
     "forks": 203,
     "issues": 0,
-    "lastUpdated": "2026-01-20T08:50:28Z",
+    "lastUpdated": "2026-01-26T11:08:54Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -300,10 +300,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 175,
+    "stars": 176,
     "forks": 194,
     "issues": 0,
-    "lastUpdated": "2026-01-15T13:30:42Z",
+    "lastUpdated": "2026-01-26T12:01:19Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 666,
+    "stars": 667,
     "forks": 519,
     "issues": 2,
-    "lastUpdated": "2026-01-26T04:22:24Z",
+    "lastUpdated": "2026-01-26T12:04:57Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -556,7 +556,7 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-01-04T21:30:02Z",
-    "lastCommit": "171c0b1a247e38d31261168dbb2eb53676888f1a"
+    "lastUpdated": "2026-01-26T12:45:29Z",
+    "lastCommit": "fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0"
   }
 ];

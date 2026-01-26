@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--26%2006%3A40 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--26%2012%3A53 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3363` | 🍴 **Forks:** `3461` | 👀 **Watchers:** `3363` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3373` | 🍴 **Forks:** `3463` | 👀 **Watchers:** `3373` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `666` | 🍴 **Forks:** `519` | 👀 **Watchers:** `666` | ⚪ **CI/CD Status**
+⭐ **Stars:** `667` | 🍴 **Forks:** `519` | 👀 **Watchers:** `667` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -164,11 +164,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
 ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-20`
+🗓 **Last Updated:** `2026-01-26`
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `175` | 🍴 **Forks:** `203` | 👀 **Watchers:** `175` | ❌ **CI/CD Status**
+⭐ **Stars:** `176` | 🍴 **Forks:** `203` | 👀 **Watchers:** `176` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -185,11 +185,11 @@ Comprehensive repository covering the installation and setup of essential DevOps
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-15`
+🗓 **Last Updated:** `2026-01-26`
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `175` | 🍴 **Forks:** `194` | 👀 **Watchers:** `175` | ⚪ **CI/CD Status**
+⭐ **Stars:** `176` | 🍴 **Forks:** `194` | 👀 **Watchers:** `176` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -603,10 +603,10 @@ This repo provides a ready-to-use local setup with all the essential tools you n
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-environment-toolkit-beginners?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-04`
-🔄 **Latest Commit:** [devops-toolkit: refactor: improve error handling and version detect...](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners/commit/171c0b1a247e38d31261168dbb2eb53676888f1a) on `2025-11-09`
+🗓 **Last Updated:** `2026-01-26`
+🔄 **Latest Commit:** [devops-toolkit: update dependencies and enhance UI components for v...](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners/commit/fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0) on `2026-01-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `6` | 🍴 **Forks:** `4` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
