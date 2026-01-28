@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 200,
+    "stars": 201,
     "forks": 161,
     "issues": 2,
-    "lastUpdated": "2026-01-19T03:51:01Z",
+    "lastUpdated": "2026-01-28T14:49:31Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3396,
-    "forks": 3484,
+    "stars": 3399,
+    "forks": 3487,
     "issues": 15,
-    "lastUpdated": "2026-01-28T11:57:24Z",
+    "lastUpdated": "2026-01-28T17:06:02Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
@@ -367,7 +367,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 87,
-    "forks": 59,
+    "forks": 60,
     "issues": 0,
     "lastUpdated": "2026-01-02T18:21:28Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
