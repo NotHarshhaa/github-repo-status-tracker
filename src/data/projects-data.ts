@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3393,
+    "stars": 3396,
     "forks": 3484,
     "issues": 15,
-    "lastUpdated": "2026-01-28T05:52:05Z",
+    "lastUpdated": "2026-01-28T11:57:24Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 14,
-    "forks": 66,
+    "forks": 67,
     "issues": 0,
     "lastUpdated": "2025-11-17T20:26:18Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 264,
-    "forks": 200,
+    "forks": 201,
     "issues": 2,
     "lastUpdated": "2026-01-25T10:18:27Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 671,
-    "forks": 521,
+    "forks": 522,
     "issues": 2,
     "lastUpdated": "2026-01-27T13:36:25Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
