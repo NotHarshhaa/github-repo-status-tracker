@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 112,
-    "forks": 97,
+    "forks": 98,
     "issues": 1,
     "lastUpdated": "2025-12-05T12:54:45Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3404,
-    "forks": 3490,
+    "stars": 3405,
+    "forks": 3491,
     "issues": 15,
-    "lastUpdated": "2026-01-29T06:20:57Z",
+    "lastUpdated": "2026-01-29T08:52:08Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 325,
+    "stars": 326,
     "forks": 236,
     "issues": 1,
-    "lastUpdated": "2026-01-27T22:38:47Z",
+    "lastUpdated": "2026-01-29T11:39:32Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 14,
-    "forks": 67,
+    "forks": 68,
     "issues": 0,
     "lastUpdated": "2025-11-17T20:26:18Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -400,10 +400,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment",
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
-    "stars": 25,
-    "forks": 58,
+    "stars": 26,
+    "forks": 59,
     "issues": 0,
-    "lastUpdated": "2025-12-07T07:11:26Z",
+    "lastUpdated": "2026-01-29T12:45:49Z",
     "lastCommit": "3d8824f124e7750499ef07dd1057304e15c90ed0"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 672,
-    "forks": 522,
+    "stars": 674,
+    "forks": 523,
     "issues": 2,
-    "lastUpdated": "2026-01-28T18:51:03Z",
+    "lastUpdated": "2026-01-29T12:32:48Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
