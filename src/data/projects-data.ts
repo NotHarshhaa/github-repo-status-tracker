@@ -82,10 +82,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 112,
+    "stars": 113,
     "forks": 98,
     "issues": 1,
-    "lastUpdated": "2025-12-05T12:54:45Z",
+    "lastUpdated": "2026-01-30T18:43:52Z",
     "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3409,
+    "stars": 3411,
     "forks": 3497,
     "issues": 15,
-    "lastUpdated": "2026-01-30T12:29:21Z",
+    "lastUpdated": "2026-01-30T18:18:37Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
@@ -366,10 +366,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/azure-all_in_one",
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
-    "stars": 87,
+    "stars": 88,
     "forks": 60,
     "issues": 0,
-    "lastUpdated": "2026-01-02T18:21:28Z",
+    "lastUpdated": "2026-01-30T18:15:12Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 743,
+    "stars": 744,
     "forks": 464,
     "issues": 0,
-    "lastUpdated": "2026-01-25T20:19:07Z",
+    "lastUpdated": "2026-01-30T16:38:46Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
