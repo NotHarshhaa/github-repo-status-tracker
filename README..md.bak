@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--29%2013%3A01 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--29%2018%3A52 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3405` | 🍴 **Forks:** `3491` | 👀 **Watchers:** `3405` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3406` | 🍴 **Forks:** `3493` | 👀 **Watchers:** `3406` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-26`
+🗓 **Last Updated:** `2026-01-29`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `415` | 🍴 **Forks:** `194` | 👀 **Watchers:** `415` | ⚪ **CI/CD Status**
+⭐ **Stars:** `416` | 🍴 **Forks:** `194` | 👀 **Watchers:** `416` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -154,6 +154,27 @@ A comprehensive collection of essential DevOps tools for development, deployment
 
 ---
 
+## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
+
+Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+
+
+🗓 **Last Updated:** `2026-01-29`
+🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `177` | 🍴 **Forks:** `194` | 👀 **Watchers:** `177` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
+
+---
+
 ## 📂 [Kubernetes](https://github.com/NotHarshhaa/Kubernetes)
 
 📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this...
@@ -172,27 +193,6 @@ A comprehensive collection of essential DevOps tools for development, deployment
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
-
----
-
-## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
-
-Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-
-
-🗓 **Last Updated:** `2026-01-26`
-🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `176` | 🍴 **Forks:** `194` | 👀 **Watchers:** `176` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
 
 ---
 
