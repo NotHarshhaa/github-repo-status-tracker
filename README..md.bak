@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--30%2012%3A59 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--01--30%2018%3A45 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3409` | 🍴 **Forks:** `3497` | 👀 **Watchers:** `3409` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3411` | 🍴 **Forks:** `3497` | 👀 **Watchers:** `3411` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-25`
+🗓 **Last Updated:** `2026-01-30`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `743` | 🍴 **Forks:** `464` | 👀 **Watchers:** `743` | ⚪ **CI/CD Status**
+⭐ **Stars:** `744` | 🍴 **Forks:** `464` | 👀 **Watchers:** `744` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-05`
+🗓 **Last Updated:** `2026-01-30`
 🔄 **Latest Commit:** [CI-CD EKS: Initial setup for application with Docker, Nginx, and ES...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/b20814fcbd69fc0d7e4f0ecd024a012292baf390) on `2025-09-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `112` | 🍴 **Forks:** `98` | 👀 **Watchers:** `112` | ⚪ **CI/CD Status**
+⭐ **Stars:** `113` | 🍴 **Forks:** `98` | 👀 **Watchers:** `113` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -248,11 +248,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/azure-all_in_one?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-01-02`
+🗓 **Last Updated:** `2026-01-30`
 🔄 **Latest Commit:** [Azure Guide: README: Update header banner](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3) on `2025-03-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `87` | 🍴 **Forks:** `60` | 👀 **Watchers:** `87` | ⚪ **CI/CD Status**
+⭐ **Stars:** `88` | 🍴 **Forks:** `60` | 👀 **Watchers:** `88` | ⚪ **CI/CD Status**
 📄 **License:** `GNU Affero General Public License v3.0`
 
 `#azure` `#azure-app-service` `#azure-automation` `#azure-cli` `#azure-cloud`
