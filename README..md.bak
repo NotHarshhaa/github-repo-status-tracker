@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--01%2006%3A52 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--01%2012%3A54 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3417` | 🍴 **Forks:** `3497` | 👀 **Watchers:** `3417` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3417` | 🍴 **Forks:** `3498` | 👀 **Watchers:** `3417` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -374,11 +374,11 @@ A hands-on learning repository to help you master containerization and orchestra
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-26`
+🗓 **Last Updated:** `2026-02-01`
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `23` | 🍴 **Forks:** `27` | 👀 **Watchers:** `23` | ⚪ **CI/CD Status**
+⭐ **Stars:** `24` | 🍴 **Forks:** `27` | 👀 **Watchers:** `24` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
@@ -676,6 +676,132 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 📄 **License:** `No license`
 
 
+
+---
+
+## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
+
+A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+
+🗓 **Last Updated:** `2026-01-27`
+🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `4` | 🍴 **Forks:** `0` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
+## 📂 [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources)
+
+A curated collection of the "Home of Best DevOps resources" — with live UI demos and GitHub sourc...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/home-of-best-devops-resources?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/home-of-best-devops-resources?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/home-of-best-devops-resources?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/home-of-best-devops-resources?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+🗓 **Last Updated:** `2025-12-18`
+🔄 **Latest Commit:** [Merge pull request #1 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/home-of-best-devops-resources/commit/4d1f9a8bb77876cca4b5d05654dc198667cb18ed) on `2025-12-18`
+👤 **Author:** `H A R S H H A A`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `3` | 🍴 **Forks:** `2` | 👀 **Watchers:** `3` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
+## 📂 [kubeguardian](https://github.com/NotHarshhaa/kubeguardian)
+
+KubeGuardian is an open-source Kubernetes automation tool that continuously monitors cluster heal...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubeguardian?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubeguardian?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubeguardian?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubeguardian?style=flat-square)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Go Template](https://img.shields.io/badge/-Go Template-gray?style=flat-square&logo=go template&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Makefile](https://img.shields.io/badge/-Makefile-gray?style=flat-square&logo=makefile&logoColor=white)
+
+🗓 **Last Updated:** `2026-01-24`
+🔄 **Latest Commit:** [kube: Enhance configuration validation with new Slack channel and n...](https://github.com/NotHarshhaa/kubeguardian/commit/5bb2625462fd876d55464775e962284327730386) on `2026-01-24`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `1` | 🍴 **Forks:** `2` | 👀 **Watchers:** `1` | ✅ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#kubeguard` `#kubeguardian` `#kubernetes` `#kubernetes-cluster` `#kubernetes-monitoring`
+
+---
+
+## 📂 [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation)
+
+A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+🗓 **Last Updated:** `2026-02-01`
+🔄 **Latest Commit:** [cloud-billing-cli: Refactor imports and enhance project structure](https://github.com/NotHarshhaa/cloud-billing-automation/commit/5d6db0a1b374f088d1797b5ba27b2ef7c4c36e7f) on `2026-02-01`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `1` | 🍴 **Forks:** `3` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
+## 📂 [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator)
+
+A CLI Tool that generates production-ready DevOps repositories based on user-selected options lik...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
+
+🗓 **Last Updated:** `2026-01-30`
+🔄 **Latest Commit:** [devops-gen: Bump version to 1.5.0 and introduce major new features](https://github.com/NotHarshhaa/devops-project-generator/commit/6a4be9c19baa0695c828eaf3fd750270ada5e9d6) on `2026-01-30`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `0` | 🍴 **Forks:** `1` | 👀 **Watchers:** `0` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
+## 📂 [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator)
+
+A CLI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/mlops-project-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/mlops-project-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/mlops-project-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/mlops-project-generator?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+🗓 **Last Updated:** `2026-01-26`
+🔄 **Latest Commit:** [MLOps-Gen: Refactor MLOpsForm for improved state management and UI ...](https://github.com/NotHarshhaa/mlops-project-generator/commit/f35f4d0a1365d478d6280bfc5813f03cab32461c) on `2026-01-26`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `0` | 🍴 **Forks:** `0` | 👀 **Watchers:** `0` | ✅ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#mlops` `#mlops-project` `#mlops-template` `#pytorch` `#scikit-learn`
 
 ---
 <!-- END_REPO_STATUS -->
