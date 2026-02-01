@@ -558,5 +558,119 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-01-26T12:45:29Z",
     "lastCommit": "fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0"
+  },
+  {
+    "title": "DevOps Project Generator",
+    "techStack": [
+      "Python",
+      "CLI",
+      "DevOps",
+      "Automation"
+    ],
+    "description": "A CLI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "link": {
+      "label": "github.com/NotHarshhaa/devops-project-generator",
+      "href": "https://github.com/NotHarshhaa/devops-project-generator"
+    },
+    "stars": 0,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-01-30T08:17:05Z",
+    "lastCommit": "6a4be9c19baa0695c828eaf3fd750270ada5e9d6"
+  },
+  {
+    "title": "MLOps Project Generator",
+    "techStack": [
+      "Python",
+      "MLOps",
+      "Machine Learning",
+      "CLI"
+    ],
+    "description": "A CLI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
+    "link": {
+      "label": "github.com/NotHarshhaa/mlops-project-generator",
+      "href": "https://github.com/NotHarshhaa/mlops-project-generator"
+    },
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-01-26T12:02:01Z",
+    "lastCommit": "f35f4d0a1365d478d6280bfc5813f03cab32461c"
+  },
+  {
+    "title": "KubeGuardian",
+    "techStack": [
+      "Go",
+      "Kubernetes",
+      "Monitoring",
+      "Automation"
+    ],
+    "description": "KubeGuardian is an open-source Kubernetes automation tool that continuously monitors cluster health, detects common failures, and automatically remediates issues — reducing downtime, pager alerts, and manual firefighting for DevOps & SRE teams.",
+    "link": {
+      "label": "github.com/NotHarshhaa/kubeguardian",
+      "href": "https://github.com/NotHarshhaa/kubeguardian"
+    },
+    "stars": 1,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-01-24T10:23:28Z",
+    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
+  },
+  {
+    "title": "DevOps Project Templates",
+    "techStack": [
+      "HCL",
+      "Terraform",
+      "DevOps",
+      "Templates"
+    ],
+    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
+    "link": {
+      "label": "github.com/NotHarshhaa/devops-project-templates",
+      "href": "https://github.com/NotHarshhaa/devops-project-templates"
+    },
+    "stars": 4,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-01-27T16:49:53Z",
+    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
+  },
+  {
+    "title": "Cloud Billing Automation",
+    "techStack": [
+      "Python",
+      "Cloud",
+      "Automation",
+      "Cost Management"
+    ],
+    "description": "A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using automated scripts, alerts, and infrastructure cost controls.",
+    "link": {
+      "label": "github.com/NotHarshhaa/cloud-billing-automation",
+      "href": "https://github.com/NotHarshhaa/cloud-billing-automation"
+    },
+    "stars": 1,
+    "forks": 3,
+    "issues": 0,
+    "lastUpdated": "2026-01-16T09:33:31Z",
+    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
+  },
+  {
+    "title": "Home of Best DevOps Resources",
+    "techStack": [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "TailwindCSS"
+    ],
+    "description": "A curated collection of the \"Home of Best DevOps resources\" — with live UI demos and GitHub source links.",
+    "link": {
+      "label": "github.com/NotHarshhaa/home-of-best-devops-resources",
+      "href": "https://github.com/NotHarshhaa/home-of-best-devops-resources"
+    },
+    "stars": 3,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2025-12-18T11:01:30Z",
+    "lastCommit": "4d1f9a8bb77876cca4b5d05654dc198667cb18ed"
   }
 ];

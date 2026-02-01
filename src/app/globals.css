@@ -129,3 +129,16 @@
 	  color: black !important;
 	}
   }
+
+/* Performance optimizations */
+.contain-layout {
+	contain: layout style paint;
+}
+
+.style-contained {
+	contain: style;
+}
+
+.will-change-transform {
+	will-change: transform;
+}
