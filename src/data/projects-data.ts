@@ -317,7 +317,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
     "stars": 60,
-    "forks": 63,
+    "forks": 64,
     "issues": 0,
     "lastUpdated": "2026-01-20T13:04:53Z",
     "lastCommit": "18d7d06cc018f82eede8f098ec01b86fa6fb489e"
