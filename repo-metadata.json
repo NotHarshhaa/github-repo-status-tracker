@@ -26,7 +26,7 @@
   {
     "repo": "DevOps-Projects",
     "stars": 3417,
-    "forks": 3497,
+    "forks": 3498,
     "issues": 15,
     "lastUpdated": "2026-01-31T19:45:16Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
@@ -209,10 +209,10 @@
   },
   {
     "repo": "From-Docker-to-Kubernetes",
-    "stars": 23,
+    "stars": 24,
     "forks": 27,
     "issues": 1,
-    "lastUpdated": "2026-01-26T18:36:29Z",
+    "lastUpdated": "2026-02-01T11:28:46Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
   {
@@ -254,53 +254,5 @@
     "issues": 0,
     "lastUpdated": "2026-01-26T12:45:29Z",
     "lastCommit": "fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0"
-  },
-  {
-    "repo": "devops-project-generator",
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-01-30T08:17:05Z",
-    "lastCommit": "6a4be9c19baa0695c828eaf3fd750270ada5e9d6"
-  },
-  {
-    "repo": "mlops-project-generator",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-01-26T12:02:01Z",
-    "lastCommit": "f35f4d0a1365d478d6280bfc5813f03cab32461c"
-  },
-  {
-    "repo": "kubeguardian",
-    "stars": 1,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2026-01-24T10:23:28Z",
-    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
-  },
-  {
-    "repo": "devops-project-templates",
-    "stars": 4,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-01-27T16:49:53Z",
-    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
-  },
-  {
-    "repo": "cloud-billing-automation",
-    "stars": 1,
-    "forks": 3,
-    "issues": 0,
-    "lastUpdated": "2026-01-16T09:33:31Z",
-    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
-  },
-  {
-    "repo": "home-of-best-devops-resources",
-    "stars": 3,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2025-12-18T11:01:30Z",
-    "lastCommit": "4d1f9a8bb77876cca4b5d05654dc198667cb18ed"
   }
 ]
