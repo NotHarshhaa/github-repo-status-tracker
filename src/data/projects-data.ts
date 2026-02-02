@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3419,
+    "stars": 3421,
     "forks": 3500,
     "issues": 15,
-    "lastUpdated": "2026-02-01T18:30:36Z",
+    "lastUpdated": "2026-02-02T01:49:57Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 416,
-    "forks": 194,
+    "stars": 418,
+    "forks": 195,
     "issues": 3,
-    "lastUpdated": "2026-01-29T17:15:34Z",
+    "lastUpdated": "2026-02-01T20:16:47Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 746,
+    "stars": 747,
     "forks": 464,
     "issues": 0,
-    "lastUpdated": "2026-01-31T18:18:30Z",
+    "lastUpdated": "2026-02-01T23:14:09Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
