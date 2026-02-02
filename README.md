@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--02%2002%3A25 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--02%2007%3A04 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3421` | 🍴 **Forks:** `3500` | 👀 **Watchers:** `3421` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3421` | 🍴 **Forks:** `3501` | 👀 **Watchers:** `3421` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -441,7 +441,7 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `18` | 🍴 **Forks:** `24` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
+⭐ **Stars:** `18` | 🍴 **Forks:** `23` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
@@ -729,10 +729,10 @@ KubeGuardian is an open-source Kubernetes automation tool that continuously moni
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubeguardian?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubeguardian?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubeguardian?style=flat-square)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Go Template](https://img.shields.io/badge/-Go Template-gray?style=flat-square&logo=go template&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Makefile](https://img.shields.io/badge/-Makefile-gray?style=flat-square&logo=makefile&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Go Template](https://img.shields.io/badge/-Go Template-gray?style=flat-square&logo=go template&logoColor=white) ![Makefile](https://img.shields.io/badge/-Makefile-gray?style=flat-square&logo=makefile&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-24`
-🔄 **Latest Commit:** [kube: Enhance configuration validation with new Slack channel and n...](https://github.com/NotHarshhaa/kubeguardian/commit/5bb2625462fd876d55464775e962284327730386) on `2026-01-24`
+🗓 **Last Updated:** `2026-02-02`
+🔄 **Latest Commit:** [kube: Refactor configuration and health check code](https://github.com/NotHarshhaa/kubeguardian/commit/079dae7a3f8037873cb7ce4c5da76f2f63c7c6f3) on `2026-02-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `1` | 🍴 **Forks:** `2` | 👀 **Watchers:** `1` | ✅ **CI/CD Status**
@@ -750,10 +750,10 @@ A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Eng
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Batchfile](https://img.shields.io/badge/-Batchfile-gray?style=flat-square&logo=batchfile&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-01`
-🔄 **Latest Commit:** [cloud-billing-cli: Refactor imports and enhance project structure](https://github.com/NotHarshhaa/cloud-billing-automation/commit/5d6db0a1b374f088d1797b5ba27b2ef7c4c36e7f) on `2026-02-01`
+🗓 **Last Updated:** `2026-02-02`
+🔄 **Latest Commit:** [cloud-billing-cli: Refactor project structure and enhance functiona...](https://github.com/NotHarshhaa/cloud-billing-automation/commit/ef1b83d74614678512f8f4588a4a5c727c044c6c) on `2026-02-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `1` | 🍴 **Forks:** `3` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
