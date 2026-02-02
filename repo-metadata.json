@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3423,
+    "stars": 3424,
     "forks": 3501,
     "issues": 15,
-    "lastUpdated": "2026-02-02T10:04:47Z",
+    "lastUpdated": "2026-02-02T16:43:38Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 418,
+    "stars": 419,
     "forks": 195,
     "issues": 3,
-    "lastUpdated": "2026-02-01T20:16:47Z",
+    "lastUpdated": "2026-02-02T14:00:51Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -153,10 +153,10 @@
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 680,
+    "stars": 681,
     "forks": 529,
     "issues": 2,
-    "lastUpdated": "2026-02-02T08:01:42Z",
+    "lastUpdated": "2026-02-02T13:05:15Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -244,8 +244,8 @@
     "stars": 12,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-01-04T13:47:20Z",
-    "lastCommit": "127879c0f161a79b02a145e107c052677074e4f5"
+    "lastUpdated": "2026-02-02T14:00:32Z",
+    "lastCommit": "3195102f1ed5344f85d5f258daaf4d0212c86fd7"
   },
   {
     "repo": "devops-environment-toolkit-beginners",
