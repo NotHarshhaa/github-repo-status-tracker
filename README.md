@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--02%2007%3A04 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--02%2013%3A04 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3421` | 🍴 **Forks:** `3501` | 👀 **Watchers:** `3421` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3423` | 🍴 **Forks:** `3501` | 👀 **Watchers:** `3423` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-02-01`
+🗓 **Last Updated:** `2026-02-02`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `679` | 🍴 **Forks:** `528` | 👀 **Watchers:** `679` | ⚪ **CI/CD Status**
+⭐ **Stars:** `680` | 🍴 **Forks:** `529` | 👀 **Watchers:** `680` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -637,6 +637,27 @@ This repository is a full-stack transportation application inspired by Uber. It 
 
 ---
 
+## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
+
+A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+
+🗓 **Last Updated:** `2026-02-02`
+🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `5` | 🍴 **Forks:** `0` | 👀 **Watchers:** `5` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
 ## 📂 [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering)
 
 Personal space to explore, experiment, and grow in the DevOps field. It's not meant to be a compl...
@@ -674,27 +695,6 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 🏷 **Open Issues:** `1`
 ⭐ **Stars:** `4` | 🍴 **Forks:** `7` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
-
-
-
----
-
-## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
-
-A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-
-🗓 **Last Updated:** `2026-01-27`
-🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `4` | 🍴 **Forks:** `0` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
-📄 **License:** `MIT License`
 
 
 
@@ -773,8 +773,8 @@ A CLI Tool that generates production-ready DevOps repositories based on user-sel
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-30`
-🔄 **Latest Commit:** [devops-gen: Bump version to 1.5.0 and introduce major new features](https://github.com/NotHarshhaa/devops-project-generator/commit/6a4be9c19baa0695c828eaf3fd750270ada5e9d6) on `2026-01-30`
+🗓 **Last Updated:** `2026-02-02`
+🔄 **Latest Commit:** [devops-gen: Add comprehensive documentation for commands, contribut...](https://github.com/NotHarshhaa/devops-project-generator/commit/ac410bce0e891b58d459c6512de4e103549a150f) on `2026-02-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `0` | 🍴 **Forks:** `1` | 👀 **Watchers:** `0` | ⚪ **CI/CD Status**
