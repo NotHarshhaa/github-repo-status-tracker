@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 3425,
-    "forks": 3501,
+    "forks": 3504,
     "issues": 15,
     "lastUpdated": "2026-02-02T21:29:09Z",
     "lastCommit": "065e12b49660a672ccf7865c2165332c1cf060b9"
@@ -216,10 +216,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform",
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
-    "stars": 10,
+    "stars": 11,
     "forks": 25,
     "issues": 0,
-    "lastUpdated": "2025-12-18T19:14:34Z",
+    "lastUpdated": "2026-02-03T04:00:58Z",
     "lastCommit": "e174ff110b003113e4e2dbc8153afdd49df38fab"
   },
   {
@@ -538,8 +538,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-02-02T14:00:32Z",
-    "lastCommit": "3195102f1ed5344f85d5f258daaf4d0212c86fd7"
+    "lastUpdated": "2026-02-03T06:43:45Z",
+    "lastCommit": "ef41c2c28229583a9392b760901cb1eb0289a609"
   },
   {
     "title": "DevOps Environment Toolkit for Beginners",
