@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--03%2002%3A24 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--03%2006%3A55 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-04: Refactor Dockerfile and enhance README for produ...](https://github.com/NotHarshhaa/DevOps-Projects/commit/065e12b49660a672ccf7865c2165332c1cf060b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3425` | 🍴 **Forks:** `3501` | 👀 **Watchers:** `3425` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3425` | 🍴 **Forks:** `3504` | 👀 **Watchers:** `3425` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -498,10 +498,10 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-02`
-🔄 **Latest Commit:** [devops-monitoring: refactor: update service configurations and stre...](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/3195102f1ed5344f85d5f258daaf4d0212c86fd7) on `2026-02-02`
+🗓 **Last Updated:** `2026-02-03`
+🔄 **Latest Commit:** [devops-monitoring: refactor: enhance UI components and v2.0.0 release](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/ef41c2c28229583a9392b760901cb1eb0289a609) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `12` | 🍴 **Forks:** `12` | 👀 **Watchers:** `12` | ✅ **CI/CD Status**
@@ -521,11 +521,11 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2025-12-18`
+🗓 **Last Updated:** `2026-02-03`
 🔄 **Latest Commit:** [AWS/Kubernetes/Terraform: README: Updated README.md with structured...](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/e174ff110b003113e4e2dbc8153afdd49df38fab) on `2025-03-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `10` | 🍴 **Forks:** `25` | 👀 **Watchers:** `10` | ⚪ **CI/CD Status**
+⭐ **Stars:** `11` | 🍴 **Forks:** `25` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#eks` `#supermario` `#terraform`
