@@ -46,10 +46,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy",
       "href": "https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2025-06-04T10:27:42Z",
+    "lastUpdated": "2026-02-04T15:03:51Z",
     "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3434,
-    "forks": 3507,
+    "stars": 3436,
+    "forks": 3508,
     "issues": 15,
-    "lastUpdated": "2026-02-04T11:10:15Z",
+    "lastUpdated": "2026-02-04T18:37:00Z",
     "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 684,
-    "forks": 530,
+    "stars": 685,
+    "forks": 531,
     "issues": 2,
-    "lastUpdated": "2026-02-03T15:15:42Z",
+    "lastUpdated": "2026-02-04T17:27:11Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -450,7 +450,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 748,
-    "forks": 465,
+    "forks": 464,
     "issues": 0,
     "lastUpdated": "2026-02-03T08:14:46Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -466,10 +466,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/From-Docker-to-Kubernetes",
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
-    "stars": 24,
+    "stars": 25,
     "forks": 27,
     "issues": 1,
-    "lastUpdated": "2026-02-01T11:28:46Z",
+    "lastUpdated": "2026-02-04T17:38:07Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
   {

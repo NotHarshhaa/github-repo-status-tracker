@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--04%2013%3A04 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--04%2018%3A55 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-11: Update Terraform configurations and README for i...](https://github.com/NotHarshhaa/DevOps-Projects/commit/b2fe774847108cfd2dfb82b320f41f9d1f560165) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3434` | 🍴 **Forks:** `3507` | 👀 **Watchers:** `3434` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3436` | 🍴 **Forks:** `3508` | 👀 **Watchers:** `3436` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `748` | 🍴 **Forks:** `465` | 👀 **Watchers:** `748` | ⚪ **CI/CD Status**
+⭐ **Stars:** `748` | 🍴 **Forks:** `464` | 👀 **Watchers:** `748` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-02-03`
+🗓 **Last Updated:** `2026-02-04`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `684` | 🍴 **Forks:** `530` | 👀 **Watchers:** `684` | ⚪ **CI/CD Status**
+⭐ **Stars:** `685` | 🍴 **Forks:** `531` | 👀 **Watchers:** `685` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -374,11 +374,11 @@ A hands-on learning repository to help you master containerization and orchestra
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/From-Docker-to-Kubernetes?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-01`
+🗓 **Last Updated:** `2026-02-04`
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `24` | 🍴 **Forks:** `27` | 👀 **Watchers:** `24` | ⚪ **CI/CD Status**
+⭐ **Stars:** `25` | 🍴 **Forks:** `27` | 👀 **Watchers:** `25` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
@@ -563,11 +563,11 @@ This project automates the deployment of a Python application to AWS Elastic Con
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2025-06-04`
+🗓 **Last Updated:** `2026-02-04`
 🔄 **Latest Commit:** [CI/CD with GitHub Actions: Update Docker configuration for improved...](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy/commit/76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1) on `2025-03-28`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `8` | 🍴 **Forks:** `19` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `19` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ecs` `#github-actions` `#python` `#python-aws`
