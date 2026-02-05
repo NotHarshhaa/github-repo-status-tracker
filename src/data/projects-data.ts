@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3437,
-    "forks": 3514,
+    "stars": 3438,
+    "forks": 3518,
     "issues": 15,
-    "lastUpdated": "2026-02-05T12:37:50Z",
+    "lastUpdated": "2026-02-05T14:37:21Z",
     "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
   },
   {
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-EKS_Terraform"
     },
     "stars": 19,
-    "forks": 56,
+    "forks": 57,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:03:22Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
