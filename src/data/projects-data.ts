@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 202,
+    "stars": 203,
     "forks": 161,
     "issues": 2,
-    "lastUpdated": "2026-02-03T08:15:12Z",
+    "lastUpdated": "2026-02-06T05:19:07Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -134,8 +134,8 @@ export const PROJECTS: Project[] = [
     "stars": 56,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-02-05T11:30:47Z",
-    "lastCommit": "f92b9af327d682294720e7fc4fcf89baee02544a"
+    "lastUpdated": "2026-02-06T05:41:31Z",
+    "lastCommit": "b38713e9d27702f635d309bfdf8489ff1a9a34e7"
   },
   {
     "title": "Real-World DevOps Projects",
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 3438,
-    "forks": 3517,
+    "forks": 3518,
     "issues": 15,
     "lastUpdated": "2026-02-05T14:37:21Z",
     "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
