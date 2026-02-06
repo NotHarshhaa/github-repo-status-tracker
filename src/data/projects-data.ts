@@ -134,8 +134,8 @@ export const PROJECTS: Project[] = [
     "stars": 56,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-02-06T05:41:31Z",
-    "lastCommit": "b38713e9d27702f635d309bfdf8489ff1a9a34e7"
+    "lastUpdated": "2026-02-06T10:39:38Z",
+    "lastCommit": "2cc9451140b7964878a506dad7c6ef54bd90aa8d"
   },
   {
     "title": "Real-World DevOps Projects",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3438,
-    "forks": 3518,
+    "stars": 3437,
+    "forks": 3520,
     "issues": 15,
-    "lastUpdated": "2026-02-05T14:37:21Z",
+    "lastUpdated": "2026-02-06T07:13:39Z",
     "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 686,
+    "stars": 688,
     "forks": 531,
     "issues": 2,
-    "lastUpdated": "2026-02-04T20:17:17Z",
+    "lastUpdated": "2026-02-06T11:09:06Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
