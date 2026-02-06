@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--06%2013%3A03 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--06%2018%3A54 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-11: Update Terraform configurations and README for i...](https://github.com/NotHarshhaa/DevOps-Projects/commit/b2fe774847108cfd2dfb82b320f41f9d1f560165) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `15`
-⭐ **Stars:** `3437` | 🍴 **Forks:** `3520` | 👀 **Watchers:** `3437` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3438` | 🍴 **Forks:** `3520` | 👀 **Watchers:** `3438` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-03`
+🗓 **Last Updated:** `2026-02-06`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `748` | 🍴 **Forks:** `464` | 👀 **Watchers:** `748` | ⚪ **CI/CD Status**
+⭐ **Stars:** `749` | 🍴 **Forks:** `464` | 👀 **Watchers:** `749` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `688` | 🍴 **Forks:** `531` | 👀 **Watchers:** `688` | ⚪ **CI/CD Status**
+⭐ **Stars:** `689` | 🍴 **Forks:** `531` | 👀 **Watchers:** `689` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -420,7 +420,7 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 🔄 **Latest Commit:** [aws-eks: README: Improved conclusion section, refined explanations,...](https://github.com/NotHarshhaa/AWS-EKS_Terraform/commit/bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563) on `2025-03-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `19` | 🍴 **Forks:** `57` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
+⭐ **Stars:** `19` | 🍴 **Forks:** `58` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
