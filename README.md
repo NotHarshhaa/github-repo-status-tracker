@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--09%2007%3A07 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--09%2013%3A13 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `695` | 🍴 **Forks:** `536` | 👀 **Watchers:** `695` | ⚪ **CI/CD Status**
+⭐ **Stars:** `696` | 🍴 **Forks:** `537` | 👀 **Watchers:** `696` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -525,7 +525,7 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 🔄 **Latest Commit:** [AWS/Kubernetes/Terraform: Updated EKS-TF configuration and README f...](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/882896355b69b1f3a94deed097829db93756f1ae) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `11` | 🍴 **Forks:** `25` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
+⭐ **Stars:** `11` | 🍴 **Forks:** `26` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#eks` `#supermario` `#terraform`
@@ -595,6 +595,27 @@ This is a monitoring app built with Python, and it would be containerized with D
 
 ---
 
+## 📂 [uber-clone](https://github.com/NotHarshhaa/uber-clone)
+
+This repository is a full-stack transportation application inspired by Uber. It includes a React....
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/uber-clone?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/uber-clone?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/uber-clone?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/uber-clone?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+
+🗓 **Last Updated:** `2026-02-09`
+🔄 **Latest Commit:** [Uber-clone: Push Source code files and Setup Uber Clone project wit...](https://github.com/NotHarshhaa/uber-clone/commit/d54f10fc513fc2fdd33f92041ae0f9dfaac36c43) on `2025-03-20`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `6` | 🍴 **Forks:** `11` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+
+
+---
+
 ## 📂 [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners)
 
 This repo provides a ready-to-use local setup with all the essential tools you need before starti...
@@ -632,27 +653,6 @@ A collection of production-ready DevOps & Cloud project templates designed for D
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `6` | 🍴 **Forks:** `0` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
-
-
-
----
-
-## 📂 [uber-clone](https://github.com/NotHarshhaa/uber-clone)
-
-This repository is a full-stack transportation application inspired by Uber. It includes a React....
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/uber-clone?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/uber-clone?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/uber-clone?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/uber-clone?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
-
-🗓 **Last Updated:** `2025-08-13`
-🔄 **Latest Commit:** [Uber-clone: Push Source code files and Setup Uber Clone project wit...](https://github.com/NotHarshhaa/uber-clone/commit/d54f10fc513fc2fdd33f92041ae0f9dfaac36c43) on `2025-03-20`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `5` | 🍴 **Forks:** `11` | 👀 **Watchers:** `5` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
 
 
 
