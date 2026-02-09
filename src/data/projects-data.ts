@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 204,
-    "forks": 161,
+    "forks": 160,
     "issues": 2,
     "lastUpdated": "2026-02-08T18:37:56Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3440,
+    "stars": 3439,
     "forks": 3529,
     "issues": 16,
-    "lastUpdated": "2026-02-08T22:14:05Z",
+    "lastUpdated": "2026-02-09T06:46:46Z",
     "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
   },
   {
@@ -300,10 +300,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 179,
+    "stars": 178,
     "forks": 194,
     "issues": 0,
-    "lastUpdated": "2026-02-03T09:44:11Z",
+    "lastUpdated": "2026-02-09T06:46:44Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 696,
-    "forks": 535,
+    "stars": 695,
+    "forks": 536,
     "issues": 2,
-    "lastUpdated": "2026-02-09T01:50:38Z",
+    "lastUpdated": "2026-02-09T06:46:40Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 749,
+    "stars": 748,
     "forks": 465,
     "issues": 0,
-    "lastUpdated": "2026-02-06T15:42:35Z",
+    "lastUpdated": "2026-02-09T06:46:42Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
