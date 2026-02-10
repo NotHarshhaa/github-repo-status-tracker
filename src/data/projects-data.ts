@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 155,
-    "forks": 112,
+    "forks": 111,
     "issues": 0,
     "lastUpdated": "2026-02-04T03:32:49Z",
     "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 3445,
-    "forks": 3533,
+    "forks": 3534,
     "issues": 16,
     "lastUpdated": "2026-02-10T04:54:34Z",
     "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 328,
-    "forks": 236,
+    "forks": 235,
     "issues": 1,
     "lastUpdated": "2026-02-03T16:00:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 177,
-    "forks": 203,
+    "forks": 202,
     "issues": 0,
     "lastUpdated": "2026-02-03T08:15:44Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 423,
-    "forks": 195,
+    "stars": 424,
+    "forks": 194,
     "issues": 3,
-    "lastUpdated": "2026-02-08T20:21:08Z",
+    "lastUpdated": "2026-02-10T07:13:15Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -384,7 +384,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
     "stars": 55,
-    "forks": 53,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2026-02-03T08:15:56Z",
     "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"

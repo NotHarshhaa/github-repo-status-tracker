@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--10%2007%3A07 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--10%2013%3A18 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps-Project-11: Update Terraform configurations and README for i...](https://github.com/NotHarshhaa/DevOps-Projects/commit/b2fe774847108cfd2dfb82b320f41f9d1f560165) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `16`
-⭐ **Stars:** `3445` | 🍴 **Forks:** `3533` | 👀 **Watchers:** `3445` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3445` | 🍴 **Forks:** `3534` | 👀 **Watchers:** `3445` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-02-08`
+🗓 **Last Updated:** `2026-02-10`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `423` | 🍴 **Forks:** `195` | 👀 **Watchers:** `423` | ⚪ **CI/CD Status**
+⭐ **Stars:** `424` | 🍴 **Forks:** `194` | 👀 **Watchers:** `424` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -105,7 +105,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `328` | 🍴 **Forks:** `236` | 👀 **Watchers:** `328` | ⚪ **CI/CD Status**
+⭐ **Stars:** `328` | 🍴 **Forks:** `235` | 👀 **Watchers:** `328` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `177` | 🍴 **Forks:** `203` | 👀 **Watchers:** `177` | ❌ **CI/CD Status**
+⭐ **Stars:** `177` | 🍴 **Forks:** `202` | 👀 **Watchers:** `177` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `155` | 🍴 **Forks:** `112` | 👀 **Watchers:** `155` | ❌ **CI/CD Status**
+⭐ **Stars:** `155` | 🍴 **Forks:** `111` | 👀 **Watchers:** `155` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -336,7 +336,7 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 🔄 **Latest Commit:** [AWS-Billing-Alerts: README: Updated `README` with new features & im...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/360677ff36bf88d19ac92002c0285807e4c604bb) on `2025-03-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `55` | 🍴 **Forks:** `53` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
+⭐ **Stars:** `55` | 🍴 **Forks:** `52` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
