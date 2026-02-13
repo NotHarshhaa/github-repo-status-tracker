@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--13%2002%3A28 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--13%2007%3A02 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-02-10`
+🗓 **Last Updated:** `2026-02-13`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `424` | 🍴 **Forks:** `194` | 👀 **Watchers:** `424` | ⚪ **CI/CD Status**
+⭐ **Stars:** `425` | 🍴 **Forks:** `194` | 👀 **Watchers:** `425` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
