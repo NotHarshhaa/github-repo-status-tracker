@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--13%2018%3A53 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--14%2002%3A09 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-02-13`
+🗓 **Last Updated:** `2026-02-14`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `425` | 🍴 **Forks:** `194` | 👀 **Watchers:** `425` | ⚪ **CI/CD Status**
+⭐ **Stars:** `426` | 🍴 **Forks:** `194` | 👀 **Watchers:** `426` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -595,6 +595,27 @@ This is a monitoring app built with Python, and it would be containerized with D
 
 ---
 
+## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
+
+A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+
+🗓 **Last Updated:** `2026-02-13`
+🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `7` | 🍴 **Forks:** `0` | 👀 **Watchers:** `7` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
 ## 📂 [uber-clone](https://github.com/NotHarshhaa/uber-clone)
 
 This repository is a full-stack transportation application inspired by Uber. It includes a React....
@@ -634,27 +655,6 @@ This repo provides a ready-to-use local setup with all the essential tools you n
 📄 **License:** `MIT License`
 
 `#devops` `#devops-environment` `#devops-tools` `#devops-tools-support` `#installation-scripts`
-
----
-
-## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
-
-A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-
-🗓 **Last Updated:** `2026-02-04`
-🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `6` | 🍴 **Forks:** `0` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
-📄 **License:** `MIT License`
-
-
 
 ---
 
