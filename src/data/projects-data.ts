@@ -85,8 +85,8 @@ export const PROJECTS: Project[] = [
     "stars": 115,
     "forks": 98,
     "issues": 1,
-    "lastUpdated": "2026-02-03T09:44:26Z",
-    "lastCommit": "b20814fcbd69fc0d7e4f0ecd024a012292baf390"
+    "lastUpdated": "2026-02-14T15:13:56Z",
+    "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
     "title": "DevOps Tools Collection",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3469,
+    "stars": 3471,
     "forks": 3549,
     "issues": 17,
-    "lastUpdated": "2026-02-14T07:44:04Z",
+    "lastUpdated": "2026-02-14T15:22:36Z",
     "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
   },
   {
@@ -403,8 +403,8 @@ export const PROJECTS: Project[] = [
     "stars": 26,
     "forks": 58,
     "issues": 0,
-    "lastUpdated": "2026-01-29T12:45:49Z",
-    "lastCommit": "3d8824f124e7750499ef07dd1057304e15c90ed0"
+    "lastUpdated": "2026-02-14T14:55:13Z",
+    "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
   },
   {
     "title": "DevOps Cheatsheet",
