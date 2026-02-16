@@ -82,10 +82,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 115,
+    "stars": 116,
     "forks": 98,
     "issues": 1,
-    "lastUpdated": "2026-02-14T15:13:56Z",
+    "lastUpdated": "2026-02-16T16:41:07Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
@@ -151,8 +151,8 @@ export const PROJECTS: Project[] = [
     "stars": 3472,
     "forks": 3553,
     "issues": 17,
-    "lastUpdated": "2026-02-16T09:55:53Z",
-    "lastCommit": "b2fe774847108cfd2dfb82b320f41f9d1f560165"
+    "lastUpdated": "2026-02-16T17:57:52Z",
+    "lastCommit": "04839610a6e68d5bf474bef705c9c2951be4aa99"
   },
   {
     "title": "Uber Clone with DevSecOps",
@@ -400,10 +400,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment",
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
-    "stars": 26,
+    "stars": 27,
     "forks": 58,
     "issues": 0,
-    "lastUpdated": "2026-02-14T14:55:13Z",
+    "lastUpdated": "2026-02-16T16:41:08Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 268,
+    "stars": 269,
     "forks": 207,
     "issues": 2,
-    "lastUpdated": "2026-02-11T16:11:49Z",
+    "lastUpdated": "2026-02-16T16:10:48Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
