@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--17%2013%3A07 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--17%2018%3A59 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-40](https://github.com/NotHarshhaa/DevOps-Projects/commit/04839610a6e68d5bf474bef705c9c2951be4aa99) on `2026-02-16`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3479` | 🍴 **Forks:** `3560` | 👀 **Watchers:** `3479` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3483` | 🍴 **Forks:** `3564` | 👀 **Watchers:** `3483` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `116` | 🍴 **Forks:** `98` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
+⭐ **Stars:** `116` | 🍴 **Forks:** `99` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -357,7 +357,7 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 🔄 **Latest Commit:** [AWS-DevOps: Major enhancements for version 2.0 with security and pe...](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/05fdaf765530612930ae6d605bfec0e54e2a2ea0) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `27` | 🍴 **Forks:** `58` | 👀 **Watchers:** `27` | ⚪ **CI/CD Status**
+⭐ **Stars:** `27` | 🍴 **Forks:** `59` | 👀 **Watchers:** `27` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
@@ -574,6 +574,27 @@ This project automates the deployment of a Python application to AWS Elastic Con
 
 ---
 
+## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
+
+A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+
+🗓 **Last Updated:** `2026-02-17`
+🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `8` | 🍴 **Forks:** `0` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
 ## 📂 [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app)
 
 This is a monitoring app built with Python, and it would be containerized with Docker and deploye...
@@ -592,27 +613,6 @@ This is a monitoring app built with Python, and it would be containerized with D
 📄 **License:** `No license`
 
 `#aws` `#aws-ecr-terraform` `#docker` `#ecr` `#flash`
-
----
-
-## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
-
-A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-
-🗓 **Last Updated:** `2026-02-13`
-🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `7` | 🍴 **Forks:** `0` | 👀 **Watchers:** `7` | ⚪ **CI/CD Status**
-📄 **License:** `MIT License`
-
-
 
 ---
 
