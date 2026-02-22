@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--21%2012%3A52 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--21%2018%3A38 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-40](https://github.com/NotHarshhaa/DevOps-Projects/commit/04839610a6e68d5bf474bef705c9c2951be4aa99) on `2026-02-16`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3503` | 🍴 **Forks:** `3582` | 👀 **Watchers:** `3503` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3504` | 🍴 **Forks:** `3585` | 👀 **Watchers:** `3504` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -385,6 +385,27 @@ A hands-on learning repository to help you master containerization and orchestra
 
 ---
 
+## 📂 [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform)
+
+PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
+
+🗓 **Last Updated:** `2026-02-21`
+🔄 **Latest Commit:** [aws-eks: README: Improved conclusion section, refined explanations,...](https://github.com/NotHarshhaa/AWS-EKS_Terraform/commit/bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563) on `2025-03-18`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `20` | 🍴 **Forks:** `58` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
+
+---
+
 ## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
 
 𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
@@ -424,27 +445,6 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
-
----
-
-## 📂 [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform)
-
-PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-EKS_Terraform?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
-
-🗓 **Last Updated:** `2025-04-15`
-🔄 **Latest Commit:** [aws-eks: README: Improved conclusion section, refined explanations,...](https://github.com/NotHarshhaa/AWS-EKS_Terraform/commit/bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563) on `2025-03-18`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `19` | 🍴 **Forks:** `58` | 👀 **Watchers:** `19` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
 
 ---
 
