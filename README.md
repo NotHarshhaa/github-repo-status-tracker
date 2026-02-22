@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--22%2012%3A54 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--22%2018%3A39 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-40](https://github.com/NotHarshhaa/DevOps-Projects/commit/04839610a6e68d5bf474bef705c9c2951be4aa99) on `2026-02-16`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3506` | 🍴 **Forks:** `3590` | 👀 **Watchers:** `3506` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3507` | 🍴 **Forks:** `3591` | 👀 **Watchers:** `3507` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `721` | 🍴 **Forks:** `550` | 👀 **Watchers:** `721` | ⚪ **CI/CD Status**
+⭐ **Stars:** `722` | 🍴 **Forks:** `550` | 👀 **Watchers:** `722` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -332,8 +332,8 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-03`
-🔄 **Latest Commit:** [AWS-Billing-Alerts: README: Updated `README` with new features & im...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/360677ff36bf88d19ac92002c0285807e4c604bb) on `2025-03-07`
+🗓 **Last Updated:** `2026-02-22`
+🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add SNS and SQS policies, enhance outputs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/3a64ed1e5528101a2e17aed54194b5754371be2f) on `2026-02-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `55` | 🍴 **Forks:** `52` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
@@ -692,8 +692,8 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 🗓 **Last Updated:** `2025-11-03`
 🔄 **Latest Commit:** [awesome-devops-cloud: README: Expand tool listings and enhance cont...](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) on `2025-07-22`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `1`
-⭐ **Stars:** `4` | 🍴 **Forks:** `7` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `4` | 🍴 **Forks:** `6` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 

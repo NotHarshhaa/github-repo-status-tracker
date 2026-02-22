@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3506,
-    "forks": 3590,
+    "stars": 3507,
+    "forks": 3591,
     "issues": 17,
-    "lastUpdated": "2026-02-22T12:08:36Z",
+    "lastUpdated": "2026-02-22T15:00:28Z",
     "lastCommit": "04839610a6e68d5bf474bef705c9c2951be4aa99"
   },
   {
@@ -386,8 +386,8 @@ export const PROJECTS: Project[] = [
     "stars": 55,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-02-03T08:15:56Z",
-    "lastCommit": "360677ff36bf88d19ac92002c0285807e4c604bb"
+    "lastUpdated": "2026-02-22T17:06:40Z",
+    "lastCommit": "3a64ed1e5528101a2e17aed54194b5754371be2f"
   },
   {
     "title": "Real-Time AWS DevOps Deployment",
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 721,
+    "stars": 722,
     "forks": 550,
     "issues": 2,
-    "lastUpdated": "2026-02-22T09:31:34Z",
+    "lastUpdated": "2026-02-22T16:49:01Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -519,8 +519,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/awesome-devops-cloud"
     },
     "stars": 4,
-    "forks": 7,
-    "issues": 1,
+    "forks": 6,
+    "issues": 0,
     "lastUpdated": "2025-11-03T15:18:39Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
