@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
     "stars": 14,
-    "forks": 20,
+    "forks": 21,
     "issues": 0,
     "lastUpdated": "2026-01-25T13:51:41Z",
     "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 116,
-    "forks": 99,
+    "forks": 100,
     "issues": 1,
     "lastUpdated": "2026-02-16T16:41:07Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 156,
-    "forks": 111,
+    "forks": 112,
     "issues": 0,
     "lastUpdated": "2026-02-21T12:47:01Z",
     "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
@@ -132,7 +132,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
     "stars": 56,
-    "forks": 52,
+    "forks": 53,
     "issues": 0,
     "lastUpdated": "2026-02-07T06:18:26Z",
     "lastCommit": "c4f02b6e1faed85bd743bae193cb2d3af04d3ef3"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3504,
-    "forks": 3588,
+    "stars": 3506,
+    "forks": 3590,
     "issues": 17,
-    "lastUpdated": "2026-02-21T15:27:43Z",
+    "lastUpdated": "2026-02-22T12:08:36Z",
     "lastCommit": "04839610a6e68d5bf474bef705c9c2951be4aa99"
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 332,
-    "forks": 236,
+    "forks": 237,
     "issues": 1,
     "lastUpdated": "2026-02-21T12:15:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -217,7 +217,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 11,
-    "forks": 27,
+    "forks": 28,
     "issues": 0,
     "lastUpdated": "2026-02-03T07:07:11Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
@@ -269,7 +269,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 20,
-    "forks": 39,
+    "forks": 40,
     "issues": 0,
     "lastUpdated": "2025-12-25T13:08:35Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -317,7 +317,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
     "stars": 61,
-    "forks": 64,
+    "forks": 65,
     "issues": 0,
     "lastUpdated": "2026-02-03T08:16:11Z",
     "lastCommit": "18d7d06cc018f82eede8f098ec01b86fa6fb489e"
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 27,
-    "forks": 59,
+    "forks": 60,
     "issues": 0,
     "lastUpdated": "2026-02-16T16:41:08Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 719,
-    "forks": 549,
+    "stars": 721,
+    "forks": 550,
     "issues": 2,
-    "lastUpdated": "2026-02-22T06:21:18Z",
+    "lastUpdated": "2026-02-22T09:31:34Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -467,7 +467,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
     "stars": 25,
-    "forks": 28,
+    "forks": 29,
     "issues": 1,
     "lastUpdated": "2026-02-13T09:51:03Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"

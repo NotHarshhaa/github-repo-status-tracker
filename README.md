@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--22%2006%3A52 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--22%2012%3A54 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-21`
+🗓 **Last Updated:** `2026-02-22`
 🔄 **Latest Commit:** [DevOps: Push DevOps-Project-40](https://github.com/NotHarshhaa/DevOps-Projects/commit/04839610a6e68d5bf474bef705c9c2951be4aa99) on `2026-02-16`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3504` | 🍴 **Forks:** `3588` | 👀 **Watchers:** `3504` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3506` | 🍴 **Forks:** `3590` | 👀 **Watchers:** `3506` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `719` | 🍴 **Forks:** `549` | 👀 **Watchers:** `719` | ⚪ **CI/CD Status**
+⭐ **Stars:** `721` | 🍴 **Forks:** `550` | 👀 **Watchers:** `721` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -105,7 +105,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `332` | 🍴 **Forks:** `236` | 👀 **Watchers:** `332` | ⚪ **CI/CD Status**
+⭐ **Stars:** `332` | 🍴 **Forks:** `237` | 👀 **Watchers:** `332` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `156` | 🍴 **Forks:** `111` | 👀 **Watchers:** `156` | ❌ **CI/CD Status**
+⭐ **Stars:** `156` | 🍴 **Forks:** `112` | 👀 **Watchers:** `156` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `116` | 🍴 **Forks:** `99` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
+⭐ **Stars:** `116` | 🍴 **Forks:** `100` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -294,7 +294,7 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 🔄 **Latest Commit:** [DevOps-Tool-Installer: Enhance uninstall scripts with improved erro...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/18d7d06cc018f82eede8f098ec01b86fa6fb489e) on `2026-01-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `61` | 🍴 **Forks:** `64` | 👀 **Watchers:** `61` | ⚪ **CI/CD Status**
+⭐ **Stars:** `61` | 🍴 **Forks:** `65` | 👀 **Watchers:** `61` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
 
 `#ansible` `#devops` `#devops-tools` `#docker` `#github`
@@ -315,7 +315,7 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 🔄 **Latest Commit:** [Kubernetes-dashboard: enhance UI components with demo mode indicato...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) on `2026-02-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `56` | 🍴 **Forks:** `52` | 👀 **Watchers:** `56` | ✅ **CI/CD Status**
+⭐ **Stars:** `56` | 🍴 **Forks:** `53` | 👀 **Watchers:** `56` | ✅ **CI/CD Status**
 📄 **License:** `No license`
 
 `#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
@@ -357,7 +357,7 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 🔄 **Latest Commit:** [AWS-DevOps: Major enhancements for version 2.0 with security and pe...](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/05fdaf765530612930ae6d605bfec0e54e2a2ea0) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `27` | 🍴 **Forks:** `59` | 👀 **Watchers:** `27` | ⚪ **CI/CD Status**
+⭐ **Stars:** `27` | 🍴 **Forks:** `60` | 👀 **Watchers:** `27` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
@@ -378,7 +378,7 @@ A hands-on learning repository to help you master containerization and orchestra
 🔄 **Latest Commit:** [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) on `2025-07-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `25` | 🍴 **Forks:** `28` | 👀 **Watchers:** `25` | ⚪ **CI/CD Status**
+⭐ **Stars:** `25` | 🍴 **Forks:** `29` | 👀 **Watchers:** `25` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#docker` `#docker-compose` `#docker-container` `#docker-kubernetes` `#docker-tutorial`
@@ -420,7 +420,7 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `20` | 🍴 **Forks:** `39` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+⭐ **Stars:** `20` | 🍴 **Forks:** `40` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
@@ -483,7 +483,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `14` | 🍴 **Forks:** `20` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `21` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
@@ -525,7 +525,7 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 🔄 **Latest Commit:** [AWS/Kubernetes/Terraform: Updated EKS-TF configuration and README f...](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/882896355b69b1f3a94deed097829db93756f1ae) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `11` | 🍴 **Forks:** `27` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
+⭐ **Stars:** `11` | 🍴 **Forks:** `28` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#eks` `#supermario` `#terraform`
@@ -588,7 +588,7 @@ A collection of production-ready DevOps & Cloud project templates designed for D
 🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `8` | 🍴 **Forks:** `0` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
+⭐ **Stars:** `8` | 🍴 **Forks:** `1` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 
@@ -714,7 +714,7 @@ A curated collection of the "Home of Best DevOps resources" — with live UI dem
 🔄 **Latest Commit:** [Merge pull request #1 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/home-of-best-devops-resources/commit/4d1f9a8bb77876cca4b5d05654dc198667cb18ed) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `3` | 🍴 **Forks:** `2` | 👀 **Watchers:** `3` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3` | 🍴 **Forks:** `3` | 👀 **Watchers:** `3` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 
