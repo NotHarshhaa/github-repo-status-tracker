@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 205,
+    "stars": 206,
     "forks": 160,
     "issues": 2,
-    "lastUpdated": "2026-02-20T12:35:41Z",
+    "lastUpdated": "2026-02-24T18:40:02Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -148,11 +148,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3518,
+    "stars": 3519,
     "forks": 3605,
     "issues": 17,
-    "lastUpdated": "2026-02-24T11:22:14Z",
-    "lastCommit": "04839610a6e68d5bf474bef705c9c2951be4aa99"
+    "lastUpdated": "2026-02-24T19:02:48Z",
+    "lastCommit": "b8c79855934159dee0eaaa9eed0984aa03c17cad"
   },
   {
     "title": "Uber Clone with DevSecOps",
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 429,
+    "stars": 430,
     "forks": 198,
     "issues": 3,
-    "lastUpdated": "2026-02-23T03:08:43Z",
+    "lastUpdated": "2026-02-24T18:18:47Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 725,
-    "forks": 554,
+    "stars": 726,
+    "forks": 555,
     "issues": 2,
-    "lastUpdated": "2026-02-23T19:42:04Z",
+    "lastUpdated": "2026-02-24T18:31:02Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
