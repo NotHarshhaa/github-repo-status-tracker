@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
     "stars": 14,
-    "forks": 21,
+    "forks": 22,
     "issues": 0,
     "lastUpdated": "2026-01-25T13:51:41Z",
     "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
@@ -47,7 +47,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy"
     },
     "stars": 9,
-    "forks": 19,
+    "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-02-04T15:03:51Z",
     "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
     "stars": 70,
-    "forks": 68,
+    "forks": 69,
     "issues": 0,
     "lastUpdated": "2026-02-03T08:15:38Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3513,
-    "forks": 3601,
+    "stars": 3514,
+    "forks": 3604,
     "issues": 17,
-    "lastUpdated": "2026-02-24T02:06:32Z",
+    "lastUpdated": "2026-02-24T03:04:20Z",
     "lastCommit": "04839610a6e68d5bf474bef705c9c2951be4aa99"
   },
   {
@@ -333,7 +333,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 429,
-    "forks": 197,
+    "forks": 198,
     "issues": 3,
     "lastUpdated": "2026-02-23T03:08:43Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 271,
-    "forks": 208,
+    "forks": 209,
     "issues": 2,
     "lastUpdated": "2026-02-23T15:43:57Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
