@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3539,
-    "forks": 3622,
+    "stars": 3543,
+    "forks": 3623,
     "issues": 17,
-    "lastUpdated": "2026-03-02T12:54:11Z",
+    "lastUpdated": "2026-03-02T18:16:18Z",
     "lastCommit": "b8c79855934159dee0eaaa9eed0984aa03c17cad"
   },
   {
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 27,
-    "forks": 61,
+    "forks": 62,
     "issues": 0,
     "lastUpdated": "2026-02-16T16:41:08Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 737,
+    "stars": 738,
     "forks": 562,
     "issues": 2,
-    "lastUpdated": "2026-03-02T00:20:55Z",
+    "lastUpdated": "2026-03-02T13:49:42Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
