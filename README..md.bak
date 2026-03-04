@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--03%2013%3A02 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--03%2018%3A54 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Copyright & License section for copyright and r...](https://github.com/NotHarshhaa/DevOps-Projects/commit/b8c79855934159dee0eaaa9eed0984aa03c17cad) on `2026-02-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3547` | 🍴 **Forks:** `3624` | 👀 **Watchers:** `3547` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3547` | 🍴 **Forks:** `3625` | 👀 **Watchers:** `3547` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `156` | 🍴 **Forks:** `112` | 👀 **Watchers:** `156` | ❌ **CI/CD Status**
+⭐ **Stars:** `156` | 🍴 **Forks:** `112` | 👀 **Watchers:** `156` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -315,7 +315,7 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 🔄 **Latest Commit:** [Kubernetes-dashboard: enhance UI components with demo mode indicato...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) on `2026-02-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `56` | 🍴 **Forks:** `53` | 👀 **Watchers:** `56` | ✅ **CI/CD Status**
+⭐ **Stars:** `56` | 🍴 **Forks:** `53` | 👀 **Watchers:** `56` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
@@ -735,7 +735,7 @@ KubeGuardian is an open-source Kubernetes automation tool that continuously moni
 🔄 **Latest Commit:** [kube: Update dependencies and configuration for improved functionality](https://github.com/NotHarshhaa/kubeguardian/commit/60a6f9cad9969651eb54b1598c68cb96a601d450) on `2026-02-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `1` | 🍴 **Forks:** `2` | 👀 **Watchers:** `1` | ✅ **CI/CD Status**
+⭐ **Stars:** `1` | 🍴 **Forks:** `2` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#kubeguard` `#kubeguardian` `#kubernetes` `#kubernetes-cluster` `#kubernetes-monitoring`
@@ -753,8 +753,8 @@ A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Eng
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Batchfile](https://img.shields.io/badge/-Batchfile-gray?style=flat-square&logo=batchfile&logoColor=white)
 
 🗓 **Last Updated:** `2026-02-02`
-🔄 **Latest Commit:** [cloud-billing-cli: Refactor project structure and enhance functiona...](https://github.com/NotHarshhaa/cloud-billing-automation/commit/ef1b83d74614678512f8f4588a4a5c727c044c6c) on `2026-02-02`
-👤 **Author:** `NotHarshhaa`
+🔄 **Latest Commit:** [Could not fetch commit info](https://github.com/NotHarshhaa/cloud-billing-automation/commits) on `N/A`
+👤 **Author:** `Unknown`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `1` | 🍴 **Forks:** `3` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
