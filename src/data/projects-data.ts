@@ -63,10 +63,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/eks-cluster-terraform",
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
-    "stars": 70,
+    "stars": 71,
     "forks": 69,
     "issues": 0,
-    "lastUpdated": "2026-02-03T08:15:38Z",
+    "lastUpdated": "2026-03-05T09:14:54Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3569,
-    "forks": 3638,
+    "stars": 3573,
+    "forks": 3639,
     "issues": 17,
-    "lastUpdated": "2026-03-05T06:44:21Z",
+    "lastUpdated": "2026-03-05T11:58:04Z",
     "lastCommit": "b8c79855934159dee0eaaa9eed0984aa03c17cad"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 432,
+    "stars": 433,
     "forks": 198,
     "issues": 3,
-    "lastUpdated": "2026-02-27T08:27:10Z",
+    "lastUpdated": "2026-03-05T12:28:44Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 273,
-    "forks": 212,
+    "stars": 274,
+    "forks": 213,
     "issues": 2,
-    "lastUpdated": "2026-03-01T17:05:56Z",
+    "lastUpdated": "2026-03-05T10:48:15Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 742,
+    "stars": 743,
     "forks": 566,
     "issues": 2,
-    "lastUpdated": "2026-03-04T00:51:04Z",
+    "lastUpdated": "2026-03-05T09:10:55Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
