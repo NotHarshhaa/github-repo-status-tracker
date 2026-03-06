@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3579,
+    "stars": 3581,
     "forks": 3644,
     "issues": 17,
-    "lastUpdated": "2026-03-06T01:38:35Z",
+    "lastUpdated": "2026-03-06T05:50:49Z",
     "lastCommit": "b8c79855934159dee0eaaa9eed0984aa03c17cad"
   },
   {
@@ -146,7 +146,7 @@
   {
     "repo": "devops-cheatsheet",
     "stars": 276,
-    "forks": 214,
+    "forks": 215,
     "issues": 2,
     "lastUpdated": "2026-03-05T19:29:06Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -162,7 +162,7 @@
   {
     "repo": "into-the-devops",
     "stars": 753,
-    "forks": 466,
+    "forks": 467,
     "issues": 0,
     "lastUpdated": "2026-03-04T21:43:59Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
