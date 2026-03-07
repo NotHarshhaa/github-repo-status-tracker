@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 116,
-    "forks": 100,
+    "forks": 101,
     "issues": 1,
     "lastUpdated": "2026-02-16T16:41:07Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3585,
-    "forks": 3650,
+    "stars": 3591,
+    "forks": 3652,
     "issues": 17,
-    "lastUpdated": "2026-03-07T10:19:12Z",
+    "lastUpdated": "2026-03-07T18:13:44Z",
     "lastCommit": "b8c79855934159dee0eaaa9eed0984aa03c17cad"
   },
   {
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 27,
-    "forks": 62,
+    "forks": 63,
     "issues": 0,
     "lastUpdated": "2026-02-16T16:41:08Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 753,
-    "forks": 467,
+    "stars": 756,
+    "forks": 468,
     "issues": 0,
-    "lastUpdated": "2026-03-04T21:43:59Z",
+    "lastUpdated": "2026-03-07T17:37:06Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
