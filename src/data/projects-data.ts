@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3602,
+    "stars": 3604,
     "forks": 3658,
     "issues": 17,
-    "lastUpdated": "2026-03-09T01:43:06Z",
+    "lastUpdated": "2026-03-09T05:38:31Z",
     "lastCommit": "b8c79855934159dee0eaaa9eed0984aa03c17cad"
   },
   {
@@ -269,7 +269,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 20,
-    "forks": 41,
+    "forks": 42,
     "issues": 0,
     "lastUpdated": "2025-12-25T13:08:35Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 747,
+    "stars": 748,
     "forks": 570,
     "issues": 2,
-    "lastUpdated": "2026-03-07T07:03:40Z",
+    "lastUpdated": "2026-03-09T07:04:08Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
