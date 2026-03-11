@@ -2,7 +2,7 @@
   {
     "repo": "devops-tools",
     "stars": 208,
-    "forks": 161,
+    "forks": 160,
     "issues": 2,
     "lastUpdated": "2026-03-08T04:26:01Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
@@ -10,7 +10,7 @@
   {
     "repo": "Certified_Kubernetes_Administrator",
     "stars": 156,
-    "forks": 112,
+    "forks": 111,
     "issues": 0,
     "lastUpdated": "2026-02-21T12:47:01Z",
     "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
@@ -18,23 +18,23 @@
   {
     "repo": "kubernetes-dashboard",
     "stars": 56,
-    "forks": 53,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2026-02-07T06:18:26Z",
     "lastCommit": "c4f02b6e1faed85bd743bae193cb2d3af04d3ef3"
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3615,
+    "stars": 3621,
     "forks": 3666,
     "issues": 17,
-    "lastUpdated": "2026-03-10T16:59:33Z",
+    "lastUpdated": "2026-03-11T01:04:46Z",
     "lastCommit": "b8c79855934159dee0eaaa9eed0984aa03c17cad"
   },
   {
     "repo": "kubernetes-projects-learning",
     "stars": 334,
-    "forks": 238,
+    "forks": 237,
     "issues": 1,
     "lastUpdated": "2026-03-10T09:04:05Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -42,7 +42,7 @@
   {
     "repo": "AWS-EKS_Terraform",
     "stars": 20,
-    "forks": 58,
+    "forks": 57,
     "issues": 0,
     "lastUpdated": "2026-02-21T13:00:58Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
@@ -58,7 +58,7 @@
   {
     "repo": "cloud-native-monitoring-app",
     "stars": 7,
-    "forks": 19,
+    "forks": 18,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:04:31Z",
     "lastCommit": "15102a44dc31d8f340e4ae1ca83db337b488c483"
@@ -74,7 +74,7 @@
   {
     "repo": "Learning-Prometheus",
     "stars": 20,
-    "forks": 42,
+    "forks": 41,
     "issues": 0,
     "lastUpdated": "2025-12-25T13:08:35Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -82,7 +82,7 @@
   {
     "repo": "Kubernetes",
     "stars": 178,
-    "forks": 201,
+    "forks": 200,
     "issues": 0,
     "lastUpdated": "2026-02-13T18:47:08Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -90,7 +90,7 @@
   {
     "repo": "DevOps_Setup-Installations",
     "stars": 178,
-    "forks": 195,
+    "forks": 194,
     "issues": 0,
     "lastUpdated": "2026-02-09T06:46:44Z",
     "lastCommit": "e45b81866db44b6a9662aa68b49a0ae4e1b93409"
@@ -98,7 +98,7 @@
   {
     "repo": "DevOps-Tool-Installer",
     "stars": 61,
-    "forks": 66,
+    "forks": 65,
     "issues": 0,
     "lastUpdated": "2026-02-03T08:16:11Z",
     "lastCommit": "18d7d06cc018f82eede8f098ec01b86fa6fb489e"
@@ -106,7 +106,7 @@
   {
     "repo": "kubernetes-learning-path",
     "stars": 436,
-    "forks": 198,
+    "forks": 197,
     "issues": 3,
     "lastUpdated": "2026-03-09T12:40:40Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -114,7 +114,7 @@
   {
     "repo": "Jenkins-Terraform-AWS-Infra",
     "stars": 9,
-    "forks": 24,
+    "forks": 23,
     "issues": 0,
     "lastUpdated": "2025-04-15T18:10:14Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
@@ -122,7 +122,7 @@
   {
     "repo": "azure-all_in_one",
     "stars": 89,
-    "forks": 60,
+    "forks": 59,
     "issues": 0,
     "lastUpdated": "2026-02-03T08:15:31Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -138,7 +138,7 @@
   {
     "repo": "AWS-DevOps_Real-Time_Deployment",
     "stars": 27,
-    "forks": 64,
+    "forks": 63,
     "issues": 0,
     "lastUpdated": "2026-02-16T16:41:08Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
@@ -146,7 +146,7 @@
   {
     "repo": "devops-cheatsheet",
     "stars": 278,
-    "forks": 217,
+    "forks": 216,
     "issues": 2,
     "lastUpdated": "2026-03-10T10:50:41Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -162,7 +162,7 @@
   {
     "repo": "into-the-devops",
     "stars": 760,
-    "forks": 469,
+    "forks": 468,
     "issues": 0,
     "lastUpdated": "2026-03-10T13:47:20Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
