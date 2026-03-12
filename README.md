@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--12%2006%3A59 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--12%2013%3A04 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,10 +21,31 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Copyright & License section for copyright and r...](https://github.com/NotHarshhaa/DevOps-Projects/commit/b8c79855934159dee0eaaa9eed0984aa03c17cad) on `2026-02-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3629` | 🍴 **Forks:** `3670` | 👀 **Watchers:** `3629` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3632` | 🍴 **Forks:** `3671` | 👀 **Watchers:** `3632` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
+
+---
+
+## 📂 [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)
+
+Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+
+
+🗓 **Last Updated:** `2026-03-12`
+🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `2`
+⭐ **Stars:** `762` | 🍴 **Forks:** `572` | 👀 **Watchers:** `762` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
 
 ---
 
@@ -46,27 +67,6 @@ This page clearly shows the latest commit details and updates automatically.
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
-
----
-
-## 📂 [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)
-
-Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-
-
-🗓 **Last Updated:** `2026-03-11`
-🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `2`
-⭐ **Stars:** `761` | 🍴 **Forks:** `571` | 👀 **Watchers:** `761` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
 
 ---
 
