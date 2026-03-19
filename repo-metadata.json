@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3682,
-    "forks": 3699,
+    "stars": 3687,
+    "forks": 3701,
     "issues": 17,
-    "lastUpdated": "2026-03-18T17:57:53Z",
+    "lastUpdated": "2026-03-19T01:19:18Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -138,17 +138,17 @@
   {
     "repo": "AWS-DevOps_Real-Time_Deployment",
     "stars": 27,
-    "forks": 64,
+    "forks": 65,
     "issues": 0,
     "lastUpdated": "2026-02-16T16:41:08Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 285,
+    "stars": 286,
     "forks": 216,
     "issues": 2,
-    "lastUpdated": "2026-03-17T09:21:56Z",
+    "lastUpdated": "2026-03-19T00:25:08Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -158,14 +158,6 @@
     "issues": 2,
     "lastUpdated": "2026-03-18T18:16:31Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
-  },
-  {
-    "repo": "into-the-devops",
-    "stars": 775,
-    "forks": 468,
-    "issues": 0,
-    "lastUpdated": "2026-03-18T17:57:46Z",
-    "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
     "repo": "AWS-Terraform-Workshop",
