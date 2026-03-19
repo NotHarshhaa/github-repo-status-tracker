@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 3691,
+    "stars": 3696,
     "forks": 3703,
     "issues": 17,
-    "lastUpdated": "2026-03-19T06:23:03Z",
+    "lastUpdated": "2026-03-19T12:24:00Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -161,10 +161,10 @@
   },
   {
     "repo": "into-the-devops",
-    "stars": 782,
-    "forks": 470,
+    "stars": 784,
+    "forks": 472,
     "issues": 0,
-    "lastUpdated": "2026-03-19T06:21:10Z",
+    "lastUpdated": "2026-03-19T12:19:59Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -226,7 +226,7 @@
   {
     "repo": "Cloud-Native-DevOps-Project",
     "stars": 20,
-    "forks": 25,
+    "forks": 26,
     "issues": 0,
     "lastUpdated": "2026-02-12T12:29:47Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
