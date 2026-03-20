@@ -98,10 +98,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 210,
+    "stars": 211,
     "forks": 160,
     "issues": 2,
-    "lastUpdated": "2026-03-14T20:10:02Z",
+    "lastUpdated": "2026-03-20T08:39:27Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 156,
-    "forks": 111,
+    "forks": 112,
     "issues": 0,
     "lastUpdated": "2026-02-21T12:47:01Z",
     "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3707,
+    "stars": 3709,
     "forks": 3710,
     "issues": 17,
-    "lastUpdated": "2026-03-20T03:07:34Z",
+    "lastUpdated": "2026-03-20T08:18:01Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 442,
+    "stars": 443,
     "forks": 195,
     "issues": 3,
-    "lastUpdated": "2026-03-18T03:32:12Z",
+    "lastUpdated": "2026-03-20T07:57:45Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 286,
-    "forks": 216,
+    "forks": 217,
     "issues": 2,
     "lastUpdated": "2026-03-19T00:25:08Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 775,
-    "forks": 576,
+    "forks": 577,
     "issues": 2,
     "lastUpdated": "2026-03-18T18:16:31Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 792,
+    "stars": 793,
     "forks": 474,
     "issues": 0,
-    "lastUpdated": "2026-03-20T04:51:21Z",
+    "lastUpdated": "2026-03-20T08:11:28Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
