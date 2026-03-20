@@ -63,10 +63,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/eks-cluster-terraform",
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
-    "stars": 71,
+    "stars": 72,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-03-05T09:14:54Z",
+    "lastUpdated": "2026-03-20T06:35:56Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3706,
-    "forks": 3707,
+    "stars": 3707,
+    "forks": 3710,
     "issues": 17,
-    "lastUpdated": "2026-03-20T00:13:23Z",
+    "lastUpdated": "2026-03-20T03:07:34Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 334,
+    "stars": 335,
     "forks": 237,
     "issues": 1,
-    "lastUpdated": "2026-03-10T09:04:05Z",
+    "lastUpdated": "2026-03-20T05:04:07Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 791,
+    "stars": 792,
     "forks": 474,
     "issues": 0,
-    "lastUpdated": "2026-03-19T21:06:00Z",
+    "lastUpdated": "2026-03-20T04:51:21Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
