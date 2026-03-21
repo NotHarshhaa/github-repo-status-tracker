@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--21%2006%3A48 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--21%2012%3A54 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3713` | 🍴 **Forks:** `3716` | 👀 **Watchers:** `3713` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3716` | 🍴 **Forks:** `3717` | 👀 **Watchers:** `3716` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `797` | 🍴 **Forks:** `476` | 👀 **Watchers:** `797` | ⚪ **CI/CD Status**
+⭐ **Stars:** `799` | 🍴 **Forks:** `476` | 👀 **Watchers:** `799` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `178` | 🍴 **Forks:** `193` | 👀 **Watchers:** `178` | ⚪ **CI/CD Status**
+⭐ **Stars:** `178` | 🍴 **Forks:** `194` | 👀 **Watchers:** `178` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -332,8 +332,8 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-22`
-🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add SNS and SQS policies, enhance outputs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/3a64ed1e5528101a2e17aed54194b5754371be2f) on `2026-02-22`
+🗓 **Last Updated:** `2026-03-21`
+🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add CloudWatch log group for billing logs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/0c80125fb75a3fba44c02bc92e039aefb6627877) on `2026-03-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `55` | 🍴 **Forks:** `52` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
