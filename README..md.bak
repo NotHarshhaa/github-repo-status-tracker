@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--21%2012%3A54 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--21%2018%3A39 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `17`
-⭐ **Stars:** `3716` | 🍴 **Forks:** `3717` | 👀 **Watchers:** `3716` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3717` | 🍴 **Forks:** `3720` | 👀 **Watchers:** `3717` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `116` | 🍴 **Forks:** `101` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
+⭐ **Stars:** `116` | 🍴 **Forks:** `100` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -483,7 +483,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `14` | 🍴 **Forks:** `21` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `22` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
@@ -794,8 +794,8 @@ A CLI tool that generates production-ready MLOps project templates for Scikit-le
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/mlops-project-generator?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-26`
-🔄 **Latest Commit:** [MLOps-Gen: Refactor MLOpsForm for improved state management and UI ...](https://github.com/NotHarshhaa/mlops-project-generator/commit/f35f4d0a1365d478d6280bfc5813f03cab32461c) on `2026-01-26`
+🗓 **Last Updated:** `2026-03-21`
+🔄 **Latest Commit:** [MLOps-Gen: Update dependencies and enhance UI styles](https://github.com/NotHarshhaa/mlops-project-generator/commit/0d09252c14e0ee59657ab6a61ca0fa2ecd984aba) on `2026-03-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `0` | 🍴 **Forks:** `0` | 👀 **Watchers:** `0` | ✅ **CI/CD Status**
