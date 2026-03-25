@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--25%2007%3A04 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--25%2013%3A15 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `18`
-⭐ **Stars:** `3763` | 🍴 **Forks:** `3742` | 👀 **Watchers:** `3763` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3764` | 🍴 **Forks:** `3749` | 👀 **Watchers:** `3764` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -774,7 +774,7 @@ A CLI & UI Tool that generates production-ready DevOps repositories based on use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
 🗓 **Last Updated:** `2026-03-25`
-🔄 **Latest Commit:** [devops-gen: Add new features section to homepage highlighting v2.0....](https://github.com/NotHarshhaa/devops-project-generator/commit/b76f78ec3b03ca9f04734b4ced6792cb88e2c5c6) on `2026-03-25`
+🔄 **Latest Commit:** [devops-gen: Refactor file tree and project generation logic for imp...](https://github.com/NotHarshhaa/devops-project-generator/commit/f61c79acbe05bf7b1ecf20b293357594a3db5cec) on `2026-03-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `0` | 🍴 **Forks:** `1` | 👀 **Watchers:** `0` | ⚪ **CI/CD Status**
