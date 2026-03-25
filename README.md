@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--25%2002%3A26 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--25%2007%3A04 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `18`
-⭐ **Stars:** `3761` | 🍴 **Forks:** `3740` | 👀 **Watchers:** `3761` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3763` | 🍴 **Forks:** `3742` | 👀 **Watchers:** `3763` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `818` | 🍴 **Forks:** `483` | 👀 **Watchers:** `818` | ⚪ **CI/CD Status**
+⭐ **Stars:** `818` | 🍴 **Forks:** `485` | 👀 **Watchers:** `818` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-03-24`
+🗓 **Last Updated:** `2026-03-25`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `780` | 🍴 **Forks:** `584` | 👀 **Watchers:** `780` | ⚪ **CI/CD Status**
+⭐ **Stars:** `781` | 🍴 **Forks:** `584` | 👀 **Watchers:** `781` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-03-23`
+🗓 **Last Updated:** `2026-03-25`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `445` | 🍴 **Forks:** `197` | 👀 **Watchers:** `445` | ⚪ **CI/CD Status**
+⭐ **Stars:** `446` | 🍴 **Forks:** `197` | 👀 **Watchers:** `446` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -765,16 +765,16 @@ A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Eng
 
 ## 📂 [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator)
 
-A CLI Tool that generates production-ready DevOps repositories based on user-selected options lik...
+A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected option...
 
 ![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-03-09`
-🔄 **Latest Commit:** [devops-gen: Enhance theme management in ThemeProvider component](https://github.com/NotHarshhaa/devops-project-generator/commit/ab5d146e1a7598066ad98de13e524f34cda664cd) on `2026-03-09`
+🗓 **Last Updated:** `2026-03-25`
+🔄 **Latest Commit:** [devops-gen: Add new features section to homepage highlighting v2.0....](https://github.com/NotHarshhaa/devops-project-generator/commit/b76f78ec3b03ca9f04734b4ced6792cb88e2c5c6) on `2026-03-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `0` | 🍴 **Forks:** `1` | 👀 **Watchers:** `0` | ⚪ **CI/CD Status**
@@ -794,8 +794,8 @@ A CLI & UI tool that generates production-ready MLOps project templates for Scik
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/mlops-project-generator?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Makefile](https://img.shields.io/badge/-Makefile-gray?style=flat-square&logo=makefile&logoColor=white)
 
-🗓 **Last Updated:** `2026-03-24`
-🔄 **Latest Commit:** [MLOps-Gen: Update README to enhance project description and features](https://github.com/NotHarshhaa/mlops-project-generator/commit/c656d066cec7095bf7931dd425cb4c008fe1c4b2) on `2026-03-24`
+🗓 **Last Updated:** `2026-03-25`
+🔄 **Latest Commit:** [MLOps-Gen: Release version 1.0.8 with major new features and enhanc...](https://github.com/NotHarshhaa/mlops-project-generator/commit/bcd5aa8c4c35d5abe741e70dea0b6970bd2e6dff) on `2026-03-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `0` | 🍴 **Forks:** `0` | 👀 **Watchers:** `0` | ✅ **CI/CD Status**
