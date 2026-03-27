@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3779,
-    "forks": 3769,
+    "stars": 3781,
+    "forks": 3775,
     "issues": 18,
-    "lastUpdated": "2026-03-27T13:01:01Z",
+    "lastUpdated": "2026-03-27T18:04:33Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 447,
+    "stars": 448,
     "forks": 197,
     "issues": 3,
-    "lastUpdated": "2026-03-25T17:27:36Z",
+    "lastUpdated": "2026-03-27T14:56:00Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 288,
+    "stars": 289,
     "forks": 217,
     "issues": 2,
-    "lastUpdated": "2026-03-26T19:26:13Z",
+    "lastUpdated": "2026-03-27T14:26:06Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 782,
-    "forks": 585,
+    "stars": 784,
+    "forks": 586,
     "issues": 2,
-    "lastUpdated": "2026-03-27T08:19:12Z",
+    "lastUpdated": "2026-03-27T17:12:51Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 823,
-    "forks": 489,
+    "stars": 825,
+    "forks": 491,
     "issues": 0,
-    "lastUpdated": "2026-03-27T11:27:28Z",
+    "lastUpdated": "2026-03-27T14:56:25Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
