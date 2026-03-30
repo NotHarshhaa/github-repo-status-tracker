@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--30%2007%3A45 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--30%2013%3A24 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `18`
-⭐ **Stars:** `3802` | 🍴 **Forks:** `3795` | 👀 **Watchers:** `3802` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3806` | 🍴 **Forks:** `3797` | 👀 **Watchers:** `3806` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-03-29`
+🗓 **Last Updated:** `2026-03-30`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `830` | 🍴 **Forks:** `495` | 👀 **Watchers:** `830` | ⚪ **CI/CD Status**
+⭐ **Stars:** `831` | 🍴 **Forks:** `497` | 👀 **Watchers:** `831` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `789` | 🍴 **Forks:** `588` | 👀 **Watchers:** `789` | ⚪ **CI/CD Status**
+⭐ **Stars:** `790` | 🍴 **Forks:** `588` | 👀 **Watchers:** `790` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-03-29`
+🗓 **Last Updated:** `2026-03-30`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `450` | 🍴 **Forks:** `197` | 👀 **Watchers:** `450` | ⚪ **CI/CD Status**
+⭐ **Stars:** `449` | 🍴 **Forks:** `197` | 👀 **Watchers:** `449` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
