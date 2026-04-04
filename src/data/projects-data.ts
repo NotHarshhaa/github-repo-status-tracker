@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3830,
-    "forks": 3832,
+    "stars": 3833,
+    "forks": 3833,
     "issues": 19,
-    "lastUpdated": "2026-04-03T14:48:49Z",
+    "lastUpdated": "2026-04-03T21:40:39Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -284,10 +284,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 178,
+    "stars": 179,
     "forks": 199,
     "issues": 0,
-    "lastUpdated": "2026-03-17T18:12:23Z",
+    "lastUpdated": "2026-04-03T19:10:06Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
