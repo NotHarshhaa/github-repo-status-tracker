@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--04%2002%3A24 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--04%2007%3A03 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -462,7 +462,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [Zomato-Clone: README: Update blog post link for accurate reference](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685) on `2025-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `15` | 🍴 **Forks:** `71` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
+⭐ **Stars:** `15` | 🍴 **Forks:** `72` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devsecops` `#devsecops-best-practices` `#devsecops-pipeline` `#reactjs` `#zomato-app`
@@ -773,8 +773,8 @@ A CLI & UI Tool that generates production-ready DevOps repositories based on use
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-03-25`
-🔄 **Latest Commit:** [devops-gen: Refactor file tree and project generation logic for imp...](https://github.com/NotHarshhaa/devops-project-generator/commit/f61c79acbe05bf7b1ecf20b293357594a3db5cec) on `2026-03-25`
+🗓 **Last Updated:** `2026-04-04`
+🔄 **Latest Commit:** [devops-gen: Enhance File Tree Component with Improved File Handling...](https://github.com/NotHarshhaa/devops-project-generator/commit/d9b8a3f5353225f29654266bbe788c54994e9492) on `2026-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `0` | 🍴 **Forks:** `2` | 👀 **Watchers:** `0` | ⚪ **CI/CD Status**
