@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 15,
-    "forks": 71,
+    "forks": 72,
     "issues": 0,
     "lastUpdated": "2026-03-13T05:44:05Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
