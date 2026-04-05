@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--04%2018%3A45 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--05%2002%3A39 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `800` | 🍴 **Forks:** `592` | 👀 **Watchers:** `800` | ⚪ **CI/CD Status**
+⭐ **Stars:** `800` | 🍴 **Forks:** `593` | 👀 **Watchers:** `800` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -721,6 +721,27 @@ A curated collection of the "Home of Best DevOps resources" — with live UI dem
 
 ---
 
+## 📂 [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator)
+
+A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected option...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+
+🗓 **Last Updated:** `2026-04-05`
+🔄 **Latest Commit:** [devops-gen: Enhance File Tree Component with Improved File Handling...](https://github.com/NotHarshhaa/devops-project-generator/commit/d9b8a3f5353225f29654266bbe788c54994e9492) on `2026-04-04`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `1` | 🍴 **Forks:** `2` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+`#devops` `#devops-gen` `#devops-project` `#devops-project-generator` `#project-gen`
+
+---
+
 ## 📂 [kubeguardian](https://github.com/NotHarshhaa/kubeguardian)
 
 KubeGuardian is an open-source Kubernetes automation tool that continuously monitors cluster heal...
@@ -760,27 +781,6 @@ A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Eng
 📄 **License:** `MIT License`
 
 
-
----
-
-## 📂 [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator)
-
-A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected option...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
-🗓 **Last Updated:** `2026-04-04`
-🔄 **Latest Commit:** [devops-gen: Enhance File Tree Component with Improved File Handling...](https://github.com/NotHarshhaa/devops-project-generator/commit/d9b8a3f5353225f29654266bbe788c54994e9492) on `2026-04-04`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `0` | 🍴 **Forks:** `2` | 👀 **Watchers:** `0` | ⚪ **CI/CD Status**
-📄 **License:** `MIT License`
-
-`#devops` `#devops-gen` `#devops-project` `#devops-project-generator` `#project-gen`
 
 ---
 

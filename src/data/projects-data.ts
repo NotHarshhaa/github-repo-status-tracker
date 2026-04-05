@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 800,
-    "forks": 592,
+    "forks": 593,
     "issues": 2,
     "lastUpdated": "2026-04-03T01:24:48Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
