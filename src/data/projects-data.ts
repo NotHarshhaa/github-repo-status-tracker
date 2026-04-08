@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 3850,
-    "forks": 3856,
+    "forks": 3858,
     "issues": 20,
     "lastUpdated": "2026-04-07T21:35:06Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
@@ -333,7 +333,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 453,
-    "forks": 199,
+    "forks": 200,
     "issues": 4,
     "lastUpdated": "2026-04-07T06:03:00Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 807,
-    "forks": 599,
+    "forks": 600,
     "issues": 2,
     "lastUpdated": "2026-04-07T10:11:21Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -502,7 +502,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
     "stars": 20,
-    "forks": 28,
+    "forks": 29,
     "issues": 0,
     "lastUpdated": "2026-02-12T12:29:47Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
