@@ -132,7 +132,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
     "stars": 56,
-    "forks": 52,
+    "forks": 53,
     "issues": 0,
     "lastUpdated": "2026-02-07T06:18:26Z",
     "lastCommit": "c4f02b6e1faed85bd743bae193cb2d3af04d3ef3"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3855,
-    "forks": 3862,
+    "stars": 3858,
+    "forks": 3867,
     "issues": 20,
-    "lastUpdated": "2026-04-09T05:09:59Z",
+    "lastUpdated": "2026-04-09T18:35:46Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -384,7 +384,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
     "stars": 55,
-    "forks": 53,
+    "forks": 54,
     "issues": 0,
     "lastUpdated": "2026-03-21T08:15:31Z",
     "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
@@ -401,7 +401,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 27,
-    "forks": 64,
+    "forks": 65,
     "issues": 0,
     "lastUpdated": "2026-02-16T16:41:08Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 292,
-    "forks": 221,
+    "forks": 223,
     "issues": 2,
     "lastUpdated": "2026-04-07T07:16:51Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 840,
-    "forks": 505,
+    "stars": 841,
+    "forks": 506,
     "issues": 0,
-    "lastUpdated": "2026-04-09T09:01:28Z",
+    "lastUpdated": "2026-04-09T14:27:28Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -536,7 +536,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
     "stars": 12,
-    "forks": 12,
+    "forks": 13,
     "issues": 0,
     "lastUpdated": "2026-02-03T06:43:45Z",
     "lastCommit": "ef41c2c28229583a9392b760901cb1eb0289a609"
