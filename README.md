@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--10%2007%3A44 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--10%2013%3A15 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3859` | 🍴 **Forks:** `3869` | 👀 **Watchers:** `3859` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3866` | 🍴 **Forks:** `3872` | 👀 **Watchers:** `3866` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-09`
+🗓 **Last Updated:** `2026-04-10`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `841` | 🍴 **Forks:** `507` | 👀 **Watchers:** `841` | ⚪ **CI/CD Status**
+⭐ **Stars:** `842` | 🍴 **Forks:** `508` | 👀 **Watchers:** `842` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-07`
+🗓 **Last Updated:** `2026-04-10`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `4`
-⭐ **Stars:** `453` | 🍴 **Forks:** `200` | 👀 **Watchers:** `453` | ⚪ **CI/CD Status**
+⭐ **Stars:** `454` | 🍴 **Forks:** `200` | 👀 **Watchers:** `454` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `156` | 🍴 **Forks:** `113` | 👀 **Watchers:** `156` | ❌ **CI/CD Status**
+⭐ **Stars:** `156` | 🍴 **Forks:** `114` | 👀 **Watchers:** `156` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-16`
+🗓 **Last Updated:** `2026-04-10`
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `116` | 🍴 **Forks:** `104` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
+⭐ **Stars:** `119` | 🍴 **Forks:** `105` | 👀 **Watchers:** `119` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -584,11 +584,11 @@ A collection of production-ready DevOps & Cloud project templates designed for D
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-17`
-🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
+🗓 **Last Updated:** `2026-04-10`
+🔄 **Latest Commit:** [devops-templates: Refactor Dockerfiles and nginx configurations for...](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) on `2026-04-10`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `8` | 🍴 **Forks:** `2` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
+⭐ **Stars:** `8` | 🍴 **Forks:** `2` | 👀 **Watchers:** `8` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 

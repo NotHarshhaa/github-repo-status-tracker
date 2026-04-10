@@ -82,10 +82,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 116,
-    "forks": 104,
+    "stars": 119,
+    "forks": 105,
     "issues": 1,
-    "lastUpdated": "2026-02-16T16:41:07Z",
+    "lastUpdated": "2026-04-10T09:49:53Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 156,
-    "forks": 113,
+    "forks": 114,
     "issues": 0,
     "lastUpdated": "2026-02-21T12:47:01Z",
     "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3859,
-    "forks": 3869,
+    "stars": 3866,
+    "forks": 3872,
     "issues": 20,
-    "lastUpdated": "2026-04-10T07:23:42Z",
+    "lastUpdated": "2026-04-10T09:48:55Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 453,
+    "stars": 454,
     "forks": 200,
     "issues": 4,
-    "lastUpdated": "2026-04-07T06:03:00Z",
+    "lastUpdated": "2026-04-10T12:55:36Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 841,
-    "forks": 507,
+    "stars": 842,
+    "forks": 508,
     "issues": 0,
-    "lastUpdated": "2026-04-09T14:27:28Z",
+    "lastUpdated": "2026-04-10T12:25:18Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
