@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--09%2019%3A10 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--10%2002%3A42 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3858` | 🍴 **Forks:** `3867` | 👀 **Watchers:** `3858` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3858` | 🍴 **Forks:** `3869` | 👀 **Watchers:** `3858` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `841` | 🍴 **Forks:** `506` | 👀 **Watchers:** `841` | ⚪ **CI/CD Status**
+⭐ **Stars:** `841` | 🍴 **Forks:** `507` | 👀 **Watchers:** `841` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-08`
+🗓 **Last Updated:** `2026-04-10`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `808` | 🍴 **Forks:** `601` | 👀 **Watchers:** `808` | ⚪ **CI/CD Status**
+⭐ **Stars:** `809` | 🍴 **Forks:** `601` | 👀 **Watchers:** `809` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `179` | 🍴 **Forks:** `195` | 👀 **Watchers:** `179` | ⚪ **CI/CD Status**
+⭐ **Stars:** `179` | 🍴 **Forks:** `196` | 👀 **Watchers:** `179` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `116` | 🍴 **Forks:** `103` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
+⭐ **Stars:** `116` | 🍴 **Forks:** `104` | 👀 **Watchers:** `116` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -252,7 +252,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [Azure Guide: README: Update header banner](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3) on `2025-03-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `89` | 🍴 **Forks:** `59` | 👀 **Watchers:** `89` | ⚪ **CI/CD Status**
+⭐ **Stars:** `89` | 🍴 **Forks:** `60` | 👀 **Watchers:** `89` | ⚪ **CI/CD Status**
 📄 **License:** `GNU Affero General Public License v3.0`
 
 `#azure` `#azure-app-service` `#azure-automation` `#azure-cli` `#azure-cloud`
@@ -294,7 +294,7 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 🔄 **Latest Commit:** [DevOps-Tool-Installer: Enhance uninstall scripts with improved erro...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/18d7d06cc018f82eede8f098ec01b86fa6fb489e) on `2026-01-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `61` | 🍴 **Forks:** `66` | 👀 **Watchers:** `61` | ⚪ **CI/CD Status**
+⭐ **Stars:** `61` | 🍴 **Forks:** `67` | 👀 **Watchers:** `61` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
 
 `#ansible` `#devops` `#devops-tools` `#docker` `#github`
@@ -336,7 +336,7 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add CloudWatch log group for billing logs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/0c80125fb75a3fba44c02bc92e039aefb6627877) on `2026-03-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `55` | 🍴 **Forks:** `54` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
+⭐ **Stars:** `55` | 🍴 **Forks:** `55` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
@@ -357,7 +357,7 @@ AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production
 🔄 **Latest Commit:** [AWS-DevOps: Major enhancements for version 2.0 with security and pe...](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/05fdaf765530612930ae6d605bfec0e54e2a2ea0) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `27` | 🍴 **Forks:** `65` | 👀 **Watchers:** `27` | ⚪ **CI/CD Status**
+⭐ **Stars:** `27` | 🍴 **Forks:** `66` | 👀 **Watchers:** `27` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 
@@ -420,7 +420,7 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `20` | 🍴 **Forks:** `41` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+⭐ **Stars:** `20` | 🍴 **Forks:** `42` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
@@ -441,7 +441,7 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `20` | 🍴 **Forks:** `29` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+⭐ **Stars:** `20` | 🍴 **Forks:** `30` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
@@ -483,7 +483,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `14` | 🍴 **Forks:** `21` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `22` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
@@ -504,7 +504,7 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 🔄 **Latest Commit:** [devops-monitoring: refactor: enhance UI components and v2.0.0 release](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/ef41c2c28229583a9392b760901cb1eb0289a609) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `12` | 🍴 **Forks:** `13` | 👀 **Watchers:** `12` | ✅ **CI/CD Status**
+⭐ **Stars:** `12` | 🍴 **Forks:** `14` | 👀 **Watchers:** `12` | ✅ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
@@ -546,7 +546,7 @@ Terraform scripts to automate the provisioning of AWS infrastructure, including 
 🔄 **Latest Commit:** [AWS-Terraform-Jenkins: README: Added project structure, detailed Te...](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra/commit/2fec48f59b8ea0a59f03314763fe18fc4fe05fbd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `23` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `24` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#jenkins` `#terraform` `#terraform-aws`
@@ -588,7 +588,7 @@ A collection of production-ready DevOps & Cloud project templates designed for D
 🔄 **Latest Commit:** [devops-templates: Add initial project structure](https://github.com/NotHarshhaa/devops-project-templates/commit/1cd607f87a6a04027ce44b6d104bfcfa3500128c) on `2026-01-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `8` | 🍴 **Forks:** `1` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
+⭐ **Stars:** `8` | 🍴 **Forks:** `2` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 
@@ -651,7 +651,7 @@ This repo provides a ready-to-use local setup with all the essential tools you n
 🔄 **Latest Commit:** [devops-toolkit: update dependencies and enhance UI components for v...](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners/commit/fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0) on `2026-01-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `6` | 🍴 **Forks:** `4` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
+⭐ **Stars:** `6` | 🍴 **Forks:** `5` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#devops` `#devops-environment` `#devops-tools` `#devops-tools-support` `#installation-scripts`
@@ -735,7 +735,7 @@ A CLI & UI Tool that generates production-ready DevOps repositories based on use
 🔄 **Latest Commit:** [devops-gen: Enhance File Tree Component with Improved File Handling...](https://github.com/NotHarshhaa/devops-project-generator/commit/d9b8a3f5353225f29654266bbe788c54994e9492) on `2026-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `1` | 🍴 **Forks:** `5` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
+⭐ **Stars:** `1` | 🍴 **Forks:** `6` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#devops` `#devops-gen` `#devops-project` `#devops-project-generator` `#project-gen`
@@ -777,7 +777,7 @@ A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Eng
 🔄 **Latest Commit:** [cloud-billing-cli: Enhance Azure and GCP collectors for improved bi...](https://github.com/NotHarshhaa/cloud-billing-automation/commit/f02077903c04233eed12fa94dba6ee75ccb8f86c) on `2026-04-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `1` | 🍴 **Forks:** `5` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
+⭐ **Stars:** `1` | 🍴 **Forks:** `6` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 
