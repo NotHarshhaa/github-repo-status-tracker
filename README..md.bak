@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--12%2013%3A05 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--12%2018%3A53 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3886` | 🍴 **Forks:** `3885` | 👀 **Watchers:** `3886` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3888` | 🍴 **Forks:** `3893` | 👀 **Watchers:** `3888` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -38,11 +38,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-10`
+🗓 **Last Updated:** `2026-04-12`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `842` | 🍴 **Forks:** `510` | 👀 **Watchers:** `842` | ⚪ **CI/CD Status**
+⭐ **Stars:** `843` | 🍴 **Forks:** `511` | 👀 **Watchers:** `843` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `814` | 🍴 **Forks:** `605` | 👀 **Watchers:** `814` | ⚪ **CI/CD Status**
+⭐ **Stars:** `815` | 🍴 **Forks:** `605` | 👀 **Watchers:** `815` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-10`
+🗓 **Last Updated:** `2026-04-12`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `4`
-⭐ **Stars:** `454` | 🍴 **Forks:** `200` | 👀 **Watchers:** `454` | ⚪ **CI/CD Status**
+⭐ **Stars:** `455` | 🍴 **Forks:** `199` | 👀 **Watchers:** `455` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-06`
+🗓 **Last Updated:** `2026-04-12`
 🔄 **Latest Commit:** [Merge pull request #3 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `214` | 🍴 **Forks:** `159` | 👀 **Watchers:** `214` | ⚪ **CI/CD Status**
+⭐ **Stars:** `215` | 🍴 **Forks:** `158` | 👀 **Watchers:** `215` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -164,11 +164,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
 ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-08`
+🗓 **Last Updated:** `2026-04-12`
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `181` | 🍴 **Forks:** `199` | 👀 **Watchers:** `181` | ❌ **CI/CD Status**
+⭐ **Stars:** `182` | 🍴 **Forks:** `199` | 👀 **Watchers:** `182` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -185,11 +185,11 @@ Comprehensive repository covering the installation and setup of essential DevOps
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-03-23`
+🗓 **Last Updated:** `2026-04-12`
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `179` | 🍴 **Forks:** `196` | 👀 **Watchers:** `179` | ⚪ **CI/CD Status**
+⭐ **Stars:** `180` | 🍴 **Forks:** `196` | 👀 **Watchers:** `180` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `157` | 🍴 **Forks:** `114` | 👀 **Watchers:** `157` | ❌ **CI/CD Status**
+⭐ **Stars:** `157` | 🍴 **Forks:** `113` | 👀 **Watchers:** `157` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -584,11 +584,11 @@ A collection of production-ready DevOps & Cloud project templates designed for D
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-10`
+🗓 **Last Updated:** `2026-04-12`
 🔄 **Latest Commit:** [devops-templates: Refactor Dockerfiles and nginx configurations for...](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) on `2026-04-10`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `8` | 🍴 **Forks:** `2` | 👀 **Watchers:** `8` | ❌ **CI/CD Status**
+⭐ **Stars:** `9` | 🍴 **Forks:** `2` | 👀 **Watchers:** `9` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 
