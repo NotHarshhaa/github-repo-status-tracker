@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--13%2019%3A16 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--14%2002%3A43 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-13`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3895` | 🍴 **Forks:** `3898` | 👀 **Watchers:** `3895` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3897` | 🍴 **Forks:** `3897` | 👀 **Watchers:** `3897` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `818` | 🍴 **Forks:** `606` | 👀 **Watchers:** `818` | ⚪ **CI/CD Status**
+⭐ **Stars:** `819` | 🍴 **Forks:** `606` | 👀 **Watchers:** `819` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -290,11 +290,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-03`
+🗓 **Last Updated:** `2026-04-13`
 🔄 **Latest Commit:** [DevOps-Tool-Installer: Enhance uninstall scripts with improved erro...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/18d7d06cc018f82eede8f098ec01b86fa6fb489e) on `2026-01-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `61` | 🍴 **Forks:** `67` | 👀 **Watchers:** `61` | ⚪ **CI/CD Status**
+⭐ **Stars:** `62` | 🍴 **Forks:** `68` | 👀 **Watchers:** `62` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
 
 `#ansible` `#devops` `#devops-tools` `#docker` `#github`
@@ -441,7 +441,7 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `20` | 🍴 **Forks:** `30` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+⭐ **Stars:** `20` | 🍴 **Forks:** `31` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
@@ -532,6 +532,27 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 
 ---
 
+## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
+
+A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+
+🗓 **Last Updated:** `2026-04-13`
+🔄 **Latest Commit:** [devops-templates: Refactor Dockerfiles and nginx configurations for...](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) on `2026-04-10`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `10` | 🍴 **Forks:** `3` | 👀 **Watchers:** `10` | ❌ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
 ## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
 
 Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Sec...
@@ -571,27 +592,6 @@ This project automates the deployment of a Python application to AWS Elastic Con
 📄 **License:** `No license`
 
 `#aws` `#aws-ecs` `#github-actions` `#python` `#python-aws`
-
----
-
-## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
-
-A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-
-🗓 **Last Updated:** `2026-04-12`
-🔄 **Latest Commit:** [devops-templates: Refactor Dockerfiles and nginx configurations for...](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) on `2026-04-10`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `2` | 👀 **Watchers:** `9` | ❌ **CI/CD Status**
-📄 **License:** `MIT License`
-
-
 
 ---
 
@@ -731,14 +731,35 @@ A CLI & UI Tool that generates production-ready DevOps repositories based on use
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-05`
+🗓 **Last Updated:** `2026-04-13`
 🔄 **Latest Commit:** [devops-gen: Enhance File Tree Component with Improved File Handling...](https://github.com/NotHarshhaa/devops-project-generator/commit/d9b8a3f5353225f29654266bbe788c54994e9492) on `2026-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `1` | 🍴 **Forks:** `6` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
+⭐ **Stars:** `2` | 🍴 **Forks:** `7` | 👀 **Watchers:** `2` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#devops` `#devops-gen` `#devops-project` `#devops-project-generator` `#project-gen`
+
+---
+
+## 📂 [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation)
+
+A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Batchfile](https://img.shields.io/badge/-Batchfile-gray?style=flat-square&logo=batchfile&logoColor=white)
+
+🗓 **Last Updated:** `2026-04-13`
+🔄 **Latest Commit:** [cloud-billing-cli: Enhance Azure and GCP collectors for improved bi...](https://github.com/NotHarshhaa/cloud-billing-automation/commit/f02077903c04233eed12fa94dba6ee75ccb8f86c) on `2026-04-07`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `2` | 🍴 **Forks:** `7` | 👀 **Watchers:** `2` | ⚪ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
 
 ---
 
@@ -760,27 +781,6 @@ KubeGuardian is an open-source Kubernetes automation tool that continuously moni
 📄 **License:** `MIT License`
 
 `#kubeguard` `#kubeguardian` `#kubernetes` `#kubernetes-cluster` `#kubernetes-monitoring`
-
----
-
-## 📂 [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation)
-
-A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Batchfile](https://img.shields.io/badge/-Batchfile-gray?style=flat-square&logo=batchfile&logoColor=white)
-
-🗓 **Last Updated:** `2026-04-07`
-🔄 **Latest Commit:** [cloud-billing-cli: Enhance Azure and GCP collectors for improved bi...](https://github.com/NotHarshhaa/cloud-billing-automation/commit/f02077903c04233eed12fa94dba6ee75ccb8f86c) on `2026-04-07`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `1` | 🍴 **Forks:** `6` | 👀 **Watchers:** `1` | ⚪ **CI/CD Status**
-📄 **License:** `MIT License`
-
-
 
 ---
 
