@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--14%2007%3A50 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--14%2013%3A44 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3898` | 🍴 **Forks:** `3899` | 👀 **Watchers:** `3898` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3899` | 🍴 **Forks:** `3900` | 👀 **Watchers:** `3899` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -42,7 +42,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `846` | 🍴 **Forks:** `511` | 👀 **Watchers:** `846` | ⚪ **CI/CD Status**
+⭐ **Stars:** `847` | 🍴 **Forks:** `511` | 👀 **Watchers:** `847` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-13`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `4`
-⭐ **Stars:** `456` | 🍴 **Forks:** `199` | 👀 **Watchers:** `456` | ⚪ **CI/CD Status**
+⭐ **Stars:** `457` | 🍴 **Forks:** `199` | 👀 **Watchers:** `457` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-10`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `293` | 🍴 **Forks:** `225` | 👀 **Watchers:** `293` | ⚪ **CI/CD Status**
+⭐ **Stars:** `294` | 🍴 **Forks:** `225` | 👀 **Watchers:** `294` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-13`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [Merge pull request #3 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `216` | 🍴 **Forks:** `158` | 👀 **Watchers:** `216` | ⚪ **CI/CD Status**
+⭐ **Stars:** `217` | 🍴 **Forks:** `158` | 👀 **Watchers:** `217` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -164,11 +164,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
 ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-12`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `182` | 🍴 **Forks:** `199` | 👀 **Watchers:** `182` | ❌ **CI/CD Status**
+⭐ **Stars:** `183` | 🍴 **Forks:** `199` | 👀 **Watchers:** `183` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -185,11 +185,11 @@ Comprehensive repository covering the installation and setup of essential DevOps
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-12`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [DevOps-Guides: terraform: Comprehensive Best Practices and Advanced...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e45b81866db44b6a9662aa68b49a0ae4e1b93409) on `2025-07-06`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `180` | 🍴 **Forks:** `196` | 👀 **Watchers:** `180` | ⚪ **CI/CD Status**
+⭐ **Stars:** `181` | 🍴 **Forks:** `196` | 👀 **Watchers:** `181` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -206,11 +206,11 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-12`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `157` | 🍴 **Forks:** `113` | 👀 **Watchers:** `157` | ❌ **CI/CD Status**
+⭐ **Stars:** `158` | 🍴 **Forks:** `113` | 👀 **Watchers:** `158` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-12`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `124` | 🍴 **Forks:** `109` | 👀 **Watchers:** `124` | ❌ **CI/CD Status**
+⭐ **Stars:** `125` | 🍴 **Forks:** `109` | 👀 **Watchers:** `125` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -248,11 +248,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/azure-all_in_one?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-02-03`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [Azure Guide: README: Update header banner](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3) on `2025-03-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `89` | 🍴 **Forks:** `60` | 👀 **Watchers:** `89` | ⚪ **CI/CD Status**
+⭐ **Stars:** `90` | 🍴 **Forks:** `60` | 👀 **Watchers:** `90` | ⚪ **CI/CD Status**
 📄 **License:** `GNU Affero General Public License v3.0`
 
 `#azure` `#azure-app-service` `#azure-automation` `#azure-cli` `#azure-cloud`
@@ -269,11 +269,11 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/eks-cluster-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-03-20`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [Terraform: Update Kubernetes deployment configuration and enhance ....](https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1) on `2025-03-28`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `72` | 🍴 **Forks:** `68` | 👀 **Watchers:** `72` | ⚪ **CI/CD Status**
+⭐ **Stars:** `73` | 🍴 **Forks:** `68` | 👀 **Watchers:** `73` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#deployment` `#eks` `#terraform`
@@ -290,11 +290,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Tool-Installer?style=flat-square)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-gray?style=flat-square&logo=powershell&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-13`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [DevOps-Tool-Installer: Enhance uninstall scripts with improved erro...](https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/18d7d06cc018f82eede8f098ec01b86fa6fb489e) on `2026-01-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `62` | 🍴 **Forks:** `68` | 👀 **Watchers:** `62` | ⚪ **CI/CD Status**
+⭐ **Stars:** `63` | 🍴 **Forks:** `68` | 👀 **Watchers:** `63` | ⚪ **CI/CD Status**
 📄 **License:** `BSD 3-Clause "New" or "Revised" License`
 
 `#ansible` `#devops` `#devops-tools` `#docker` `#github`
@@ -311,11 +311,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2026-02-07`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [Kubernetes-dashboard: enhance UI components with demo mode indicato...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) on `2026-02-07`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `56` | 🍴 **Forks:** `53` | 👀 **Watchers:** `56` | ✅ **CI/CD Status**
+⭐ **Stars:** `57` | 🍴 **Forks:** `53` | 👀 **Watchers:** `57` | ✅ **CI/CD Status**
 📄 **License:** `No license`
 
 `#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
@@ -332,11 +332,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-03-21`
+🗓 **Last Updated:** `2026-04-14`
 🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add CloudWatch log group for billing logs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/0c80125fb75a3fba44c02bc92e039aefb6627877) on `2026-03-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `55` | 🍴 **Forks:** `55` | 👀 **Watchers:** `55` | ⚪ **CI/CD Status**
+⭐ **Stars:** `56` | 🍴 **Forks:** `55` | 👀 **Watchers:** `56` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
@@ -525,7 +525,7 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 🔄 **Latest Commit:** [AWS/Kubernetes/Terraform: Updated EKS-TF configuration and README f...](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/882896355b69b1f3a94deed097829db93756f1ae) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `11` | 🍴 **Forks:** `30` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
+⭐ **Stars:** `11` | 🍴 **Forks:** `31` | 👀 **Watchers:** `11` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#eks` `#supermario` `#terraform`
