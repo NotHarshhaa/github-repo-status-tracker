@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 218,
-    "forks": 158,
+    "forks": 157,
     "issues": 2,
     "lastUpdated": "2026-04-14T17:40:11Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3908,
-    "forks": 3908,
+    "stars": 3909,
+    "forks": 3909,
     "issues": 20,
-    "lastUpdated": "2026-04-16T06:17:03Z",
+    "lastUpdated": "2026-04-16T09:31:50Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -384,7 +384,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
     "stars": 56,
-    "forks": 55,
+    "forks": 56,
     "issues": 0,
     "lastUpdated": "2026-04-14T12:10:08Z",
     "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 823,
-    "forks": 611,
+    "stars": 825,
+    "forks": 612,
     "issues": 2,
-    "lastUpdated": "2026-04-15T20:15:49Z",
+    "lastUpdated": "2026-04-16T11:47:57Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 847,
+    "stars": 848,
     "forks": 511,
     "issues": 0,
-    "lastUpdated": "2026-04-14T12:09:26Z",
+    "lastUpdated": "2026-04-16T09:32:09Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
