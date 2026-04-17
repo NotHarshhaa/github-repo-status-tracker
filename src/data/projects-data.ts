@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3909,
-    "forks": 3911,
+    "stars": 3910,
+    "forks": 3912,
     "issues": 20,
-    "lastUpdated": "2026-04-16T23:44:57Z",
+    "lastUpdated": "2026-04-17T09:40:22Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -217,7 +217,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 11,
-    "forks": 31,
+    "forks": 32,
     "issues": 0,
     "lastUpdated": "2026-02-03T07:07:11Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 826,
+    "stars": 828,
     "forks": 613,
     "issues": 2,
-    "lastUpdated": "2026-04-16T19:43:12Z",
+    "lastUpdated": "2026-04-17T10:58:32Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -518,10 +518,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/awesome-devops-cloud",
       "href": "https://github.com/NotHarshhaa/awesome-devops-cloud"
     },
-    "stars": 4,
+    "stars": 5,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2025-11-03T15:18:39Z",
+    "lastUpdated": "2026-04-17T12:53:47Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
   {
