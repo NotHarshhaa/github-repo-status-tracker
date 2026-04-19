@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 158,
-    "forks": 113,
+    "forks": 114,
     "issues": 0,
     "lastUpdated": "2026-04-14T12:10:38Z",
     "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3918,
+    "stars": 3919,
     "forks": 3922,
     "issues": 20,
-    "lastUpdated": "2026-04-18T18:01:03Z",
+    "lastUpdated": "2026-04-18T19:25:58Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
