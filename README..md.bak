@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--24%2018%3A56 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--25%2002%3A35 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `840` | 🍴 **Forks:** `618` | 👀 **Watchers:** `840` | ⚪ **CI/CD Status**
+⭐ **Stars:** `840` | 🍴 **Forks:** `619` | 👀 **Watchers:** `840` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -101,11 +101,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-projects-learning?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-23`
+🗓 **Last Updated:** `2026-04-24`
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `336` | 🍴 **Forks:** `238` | 👀 **Watchers:** `336` | ⚪ **CI/CD Status**
+⭐ **Stars:** `337` | 🍴 **Forks:** `238` | 👀 **Watchers:** `337` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `300` | 🍴 **Forks:** `226` | 👀 **Watchers:** `300` | ⚪ **CI/CD Status**
+⭐ **Stars:** `300` | 🍴 **Forks:** `227` | 👀 **Watchers:** `300` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -671,7 +671,7 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 🗓 **Last Updated:** `2026-04-17`
 🔄 **Latest Commit:** [awesome-devops-cloud: README: Expand tool listings and enhance cont...](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) on `2025-07-22`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
+🏷 **Open Issues:** `1`
 ⭐ **Stars:** `5` | 🍴 **Forks:** `8` | 👀 **Watchers:** `5` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
