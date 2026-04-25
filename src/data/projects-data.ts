@@ -117,8 +117,8 @@ export const PROJECTS: Project[] = [
     "stars": 158,
     "forks": 114,
     "issues": 0,
-    "lastUpdated": "2026-04-14T12:10:38Z",
-    "lastCommit": "b52cb1533e5dbe47b963e951d7043e9cbe022aff"
+    "lastUpdated": "2026-04-25T08:02:46Z",
+    "lastCommit": "ebe7df43620d7fd9f07f48288a4f95d8e7a83d91"
   },
   {
     "title": "Secure Kubernetes Dashboard",
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 3952,
+    "stars": 3953,
     "forks": 3945,
     "issues": 20,
-    "lastUpdated": "2026-04-25T07:13:07Z",
+    "lastUpdated": "2026-04-25T11:48:56Z",
     "lastCommit": "2c7404166f5c37229dcca56b35818086bc0b4d40"
   },
   {
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 15,
-    "forks": 72,
+    "forks": 73,
     "issues": 0,
     "lastUpdated": "2026-03-13T05:44:05Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
