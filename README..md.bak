@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--25%2007%3A20 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--25%2013%3A08 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3952` | 🍴 **Forks:** `3945` | 👀 **Watchers:** `3952` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3953` | 🍴 **Forks:** `3945` | 👀 **Watchers:** `3953` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -206,8 +206,8 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-14`
-🔄 **Latest Commit:** [CKA: Moved k8s learning to https://github.com/NotHarshhaa/k8s-learn...](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/b52cb1533e5dbe47b963e951d7043e9cbe022aff) on `2025-12-27`
+🗓 **Last Updated:** `2026-04-25`
+🔄 **Latest Commit:** [CKA: Add AWS EKS Documentation and Assets](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/ebe7df43620d7fd9f07f48288a4f95d8e7a83d91) on `2026-04-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `158` | 🍴 **Forks:** `114` | 👀 **Watchers:** `158` | ❌ **CI/CD Status**
@@ -462,7 +462,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [Zomato-Clone: README: Update blog post link for accurate reference](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685) on `2025-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `15` | 🍴 **Forks:** `72` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
+⭐ **Stars:** `15` | 🍴 **Forks:** `73` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devsecops` `#devsecops-best-practices` `#devsecops-pipeline` `#reactjs` `#zomato-app`
