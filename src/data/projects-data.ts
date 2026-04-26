@@ -350,10 +350,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra",
       "href": "https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra"
     },
-    "stars": 9,
-    "forks": 24,
+    "stars": 10,
+    "forks": 25,
     "issues": 0,
-    "lastUpdated": "2025-04-15T18:10:14Z",
+    "lastUpdated": "2026-04-26T11:51:26Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
   },
   {

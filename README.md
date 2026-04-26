@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--26%2007%3A42 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--26%2013%3A10 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -532,6 +532,27 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 
 ---
 
+## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
+
+Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Sec...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
+
+🗓 **Last Updated:** `2026-04-26`
+🔄 **Latest Commit:** [AWS-Terraform-Jenkins: README: Added project structure, detailed Te...](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra/commit/2fec48f59b8ea0a59f03314763fe18fc4fe05fbd) on `2025-03-08`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `10` | 🍴 **Forks:** `25` | 👀 **Watchers:** `10` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#aws` `#aws-ec2` `#jenkins` `#terraform` `#terraform-aws`
+
+---
+
 ## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
 
 A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
@@ -550,27 +571,6 @@ A collection of production-ready DevOps & Cloud project templates designed for D
 📄 **License:** `MIT License`
 
 
-
----
-
-## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
-
-Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Sec...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Jenkins-Terraform-AWS-Infra?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
-
-🗓 **Last Updated:** `2025-04-15`
-🔄 **Latest Commit:** [AWS-Terraform-Jenkins: README: Added project structure, detailed Te...](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra/commit/2fec48f59b8ea0a59f03314763fe18fc4fe05fbd) on `2025-03-08`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `9` | 🍴 **Forks:** `24` | 👀 **Watchers:** `9` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#aws` `#aws-ec2` `#jenkins` `#terraform` `#terraform-aws`
 
 ---
 
