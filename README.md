@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--27%2008%3A28 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--27%2013%3A58 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3960` | 🍴 **Forks:** `3950` | 👀 **Watchers:** `3960` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3962` | 🍴 **Forks:** `3951` | 👀 **Watchers:** `3962` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -637,6 +637,27 @@ This repository is a full-stack transportation application inspired by Uber. It 
 
 ---
 
+## 📂 [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud)
+
+A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilit...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+🗓 **Last Updated:** `2026-04-27`
+🔄 **Latest Commit:** [awesome-devops-cloud: README: Expand tool listings and enhance cont...](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) on `2025-07-22`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `1`
+⭐ **Stars:** `6` | 🍴 **Forks:** `8` | 👀 **Watchers:** `6` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+
+
+---
+
 ## 📂 [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners)
 
 This repo provides a ready-to-use local setup with all the essential tools you need before starti...
@@ -655,27 +676,6 @@ This repo provides a ready-to-use local setup with all the essential tools you n
 📄 **License:** `MIT License`
 
 `#devops` `#devops-environment` `#devops-tools` `#devops-tools-support` `#installation-scripts`
-
----
-
-## 📂 [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud)
-
-A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilit...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-🗓 **Last Updated:** `2026-04-17`
-🔄 **Latest Commit:** [awesome-devops-cloud: README: Expand tool listings and enhance cont...](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) on `2025-07-22`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `1`
-⭐ **Stars:** `5` | 🍴 **Forks:** `8` | 👀 **Watchers:** `5` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-
 
 ---
 
