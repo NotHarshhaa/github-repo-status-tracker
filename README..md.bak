@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--26%2013%3A10 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--26%2018%3A58 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3956` | 🍴 **Forks:** `3947` | 👀 **Watchers:** `3956` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3958` | 🍴 **Forks:** `3948` | 👀 **Watchers:** `3958` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -63,7 +63,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `840` | 🍴 **Forks:** `620` | 👀 **Watchers:** `840` | ⚪ **CI/CD Status**
+⭐ **Stars:** `840` | 🍴 **Forks:** `623` | 👀 **Watchers:** `840` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -206,8 +206,8 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-04-25`
-🔄 **Latest Commit:** [CKA: Add AWS EKS Documentation and Assets](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/ebe7df43620d7fd9f07f48288a4f95d8e7a83d91) on `2026-04-25`
+🗓 **Last Updated:** `2026-04-26`
+🔄 **Latest Commit:** [CKA: Update README for clarity and consistency](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a) on `2026-04-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `158` | 🍴 **Forks:** `114` | 👀 **Watchers:** `158` | ❌ **CI/CD Status**
