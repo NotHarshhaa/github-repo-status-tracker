@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 129,
-    "forks": 112,
+    "forks": 113,
     "issues": 1,
     "lastUpdated": "2026-04-28T13:43:56Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 462,
+    "stars": 463,
     "forks": 203,
     "issues": 4,
-    "lastUpdated": "2026-04-28T14:39:50Z",
+    "lastUpdated": "2026-04-29T03:27:08Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
