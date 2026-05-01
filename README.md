@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--01%2003%3A34 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--01%2008%3A14 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-30`
+🗓 **Last Updated:** `2026-05-01`
 🔄 **Latest Commit:** [DevOps: README: Add Complete Projects Overview Table for enhanced p...](https://github.com/NotHarshhaa/DevOps-Projects/commit/2c7404166f5c37229dcca56b35818086bc0b4d40) on `2026-03-15`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `3978` | 🍴 **Forks:** `3956` | 👀 **Watchers:** `3978` | ⚪ **CI/CD Status**
+⭐ **Stars:** `3981` | 🍴 **Forks:** `3958` | 👀 **Watchers:** `3981` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-learning` `#devops-poc` `#devops-project` `#devops-realtime`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `302` | 🍴 **Forks:** `228` | 👀 **Watchers:** `302` | ⚪ **CI/CD Status**
+⭐ **Stars:** `302` | 🍴 **Forks:** `229` | 👀 **Watchers:** `302` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -164,11 +164,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Kubernetes?style=flat-square)
 ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Roff](https://img.shields.io/badge/-Roff-gray?style=flat-square&logo=roff&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-30`
+🗓 **Last Updated:** `2026-05-01`
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `184` | 🍴 **Forks:** `200` | 👀 **Watchers:** `184` | ❌ **CI/CD Status**
+⭐ **Stars:** `185` | 🍴 **Forks:** `200` | 👀 **Watchers:** `185` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -479,11 +479,11 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-01-25`
+🗓 **Last Updated:** `2026-05-01`
 🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `14` | 🍴 **Forks:** `22` | 👀 **Watchers:** `14` | ⚪ **CI/CD Status**
+⭐ **Stars:** `15` | 🍴 **Forks:** `22` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
@@ -693,7 +693,7 @@ Personal space to explore, experiment, and grow in the DevOps field. It's not me
 🔄 **Latest Commit:** [Merge pull request #1 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/DevOps-Engineering/commit/b3c5d433b8298ecf28baae97aa5ec030bb95f038) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `4` | 🍴 **Forks:** `8` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4` | 🍴 **Forks:** `9` | 👀 **Watchers:** `4` | ⚪ **CI/CD Status**
 📄 **License:** `MIT License`
 
 
