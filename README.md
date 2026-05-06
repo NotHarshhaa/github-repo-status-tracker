@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--05%2019%3A22 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--06%2002%3A58 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -28,6 +28,27 @@ This page clearly shows the latest commit details and updates automatically.
 
 ---
 
+## 📂 [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)
+
+Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
+
+
+🗓 **Last Updated:** `2026-05-06`
+🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `2`
+⭐ **Stars:** `856` | 🍴 **Forks:** `634` | 👀 **Watchers:** `856` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
+
+---
+
 ## 📂 [into-the-devops](https://github.com/NotHarshhaa/into-the-devops)
 
 𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍...
@@ -46,27 +67,6 @@ This page clearly shows the latest commit details and updates automatically.
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
-
----
-
-## 📂 [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)
-
-Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
-
-
-🗓 **Last Updated:** `2026-05-05`
-🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `2`
-⭐ **Stars:** `853` | 🍴 **Forks:** `634` | 👀 **Watchers:** `853` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
 
 ---
 
