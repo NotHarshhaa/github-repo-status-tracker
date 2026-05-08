@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--08%2003%3A19 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--08%2007%3A45 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-07`
+🗓 **Last Updated:** `2026-05-08`
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `4045` | 🍴 **Forks:** `3980` | 👀 **Watchers:** `4045` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4045` | 🍴 **Forks:** `3982` | 👀 **Watchers:** `4045` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -332,11 +332,11 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
 ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-14`
+🗓 **Last Updated:** `2026-05-08`
 🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add CloudWatch log group for billing logs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/0c80125fb75a3fba44c02bc92e039aefb6627877) on `2026-03-21`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `56` | 🍴 **Forks:** `56` | 👀 **Watchers:** `56` | ⚪ **CI/CD Status**
+⭐ **Stars:** `57` | 🍴 **Forks:** `56` | 👀 **Watchers:** `57` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
@@ -462,7 +462,7 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 🔄 **Latest Commit:** [Zomato-Clone: README: Update blog post link for accurate reference](https://github.com/NotHarshhaa/Zomato-Clone/commit/823466a188d4853ca15308d6194a49d04582b685) on `2025-04-04`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `15` | 🍴 **Forks:** `73` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
+⭐ **Stars:** `15` | 🍴 **Forks:** `74` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devsecops` `#devsecops-best-practices` `#devsecops-pipeline` `#reactjs` `#zomato-app`
@@ -729,10 +729,10 @@ A CLI & UI Tool that generates production-ready DevOps repositories based on use
 ![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-gray?style=flat-square&logo=jinja&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-13`
-🔄 **Latest Commit:** [devops-gen: Enhance File Tree Component with Improved File Handling...](https://github.com/NotHarshhaa/devops-project-generator/commit/d9b8a3f5353225f29654266bbe788c54994e9492) on `2026-04-04`
+🗓 **Last Updated:** `2026-05-08`
+🔄 **Latest Commit:** [devops-gen: Refactor project structure to use 'deploy' directory fo...](https://github.com/NotHarshhaa/devops-project-generator/commit/94e6740a46b7ece331f93114404287dd8bc4e6c1) on `2026-05-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
 ⭐ **Stars:** `2` | 🍴 **Forks:** `7` | 👀 **Watchers:** `2` | ⚪ **CI/CD Status**
