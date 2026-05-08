@@ -149,9 +149,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 4045,
-    "forks": 3980,
+    "forks": 3983,
     "issues": 20,
-    "lastUpdated": "2026-05-07T21:39:36Z",
+    "lastUpdated": "2026-05-08T06:47:19Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -252,7 +252,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 15,
-    "forks": 73,
+    "forks": 74,
     "issues": 0,
     "lastUpdated": "2026-03-13T05:44:05Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -383,10 +383,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/aws-billing-alert-terraform",
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
-    "stars": 56,
+    "stars": 57,
     "forks": 56,
     "issues": 0,
-    "lastUpdated": "2026-04-14T12:10:08Z",
+    "lastUpdated": "2026-05-08T07:26:56Z",
     "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
   },
   {
