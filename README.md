@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--08%2019%3A21 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--09%2002%3A56 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `4047` | 🍴 **Forks:** `3986` | 👀 **Watchers:** `4047` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4045` | 🍴 **Forks:** `3987` | 👀 **Watchers:** `4045` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -42,7 +42,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `864` | 🍴 **Forks:** `642` | 👀 **Watchers:** `864` | ⚪ **CI/CD Status**
+⭐ **Stars:** `864` | 🍴 **Forks:** `643` | 👀 **Watchers:** `864` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -126,7 +126,7 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `305` | 🍴 **Forks:** `231` | 👀 **Watchers:** `305` | ⚪ **CI/CD Status**
+⭐ **Stars:** `305` | 🍴 **Forks:** `232` | 👀 **Watchers:** `305` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -231,7 +231,7 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `131` | 🍴 **Forks:** `113` | 👀 **Watchers:** `131` | ❌ **CI/CD Status**
+⭐ **Stars:** `131` | 🍴 **Forks:** `114` | 👀 **Watchers:** `131` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -608,7 +608,7 @@ A curated list for DevOps and Cloud Engineering. Explore the most useful tools, 
 🗓 **Last Updated:** `2026-05-07`
 🔄 **Latest Commit:** [awesome-devops-cloud: README: Expand tool listings and enhance cont...](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) on `2025-07-22`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `3`
+🏷 **Open Issues:** `4`
 ⭐ **Stars:** `8` | 🍴 **Forks:** `10` | 👀 **Watchers:** `8` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
