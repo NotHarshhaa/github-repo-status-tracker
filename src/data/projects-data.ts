@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4051,
-    "forks": 3991,
+    "stars": 4050,
+    "forks": 3990,
     "issues": 20,
-    "lastUpdated": "2026-05-10T05:37:26Z",
+    "lastUpdated": "2026-05-10T08:26:49Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 339,
+    "stars": 340,
     "forks": 239,
     "issues": 1,
-    "lastUpdated": "2026-05-09T16:10:03Z",
+    "lastUpdated": "2026-05-10T11:24:23Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 488,
+    "stars": 490,
     "forks": 206,
     "issues": 4,
-    "lastUpdated": "2026-05-10T06:40:39Z",
+    "lastUpdated": "2026-05-10T08:46:01Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -416,10 +416,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 305,
+    "stars": 306,
     "forks": 232,
     "issues": 2,
-    "lastUpdated": "2026-05-04T23:14:07Z",
+    "lastUpdated": "2026-05-10T13:05:16Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 865,
-    "forks": 643,
+    "stars": 866,
+    "forks": 645,
     "issues": 2,
-    "lastUpdated": "2026-05-09T14:15:15Z",
+    "lastUpdated": "2026-05-10T13:05:17Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
