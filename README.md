@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--11%2003%3A39 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--11%2009%3A42 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-10`
+🗓 **Last Updated:** `2026-05-11`
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `4051` | 🍴 **Forks:** `3992` | 👀 **Watchers:** `4051` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4052` | 🍴 **Forks:** `3992` | 👀 **Watchers:** `4052` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `4`
-⭐ **Stars:** `508` | 🍴 **Forks:** `208` | 👀 **Watchers:** `508` | ⚪ **CI/CD Status**
+⭐ **Stars:** `513` | 🍴 **Forks:** `209` | 👀 **Watchers:** `513` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -301,6 +301,27 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 
 ---
 
+## 📂 [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform)
+
+𝐓𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐚 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐦𝐨𝐝𝐮𝐥𝐞 𝐭𝐡𝐚𝐭 𝐡𝐞𝐥𝐩𝐬 𝐬𝐞𝐭 𝐮𝐩 𝐀𝐖𝐒 𝐛𝐢𝐥𝐥𝐢𝐧𝐠 𝐚𝐥𝐞𝐫𝐭𝐬
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
+
+🗓 **Last Updated:** `2026-05-11`
+🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add CloudWatch log group for billing logs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/0c80125fb75a3fba44c02bc92e039aefb6627877) on `2026-03-21`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `58` | 🍴 **Forks:** `56` | 👀 **Watchers:** `58` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
+
+---
+
 ## 📂 [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard)
 
 𝘈 𝘬𝘶𝘣𝘦𝘳𝘯𝘦𝘵𝘦𝘴 𝘥𝘢𝘴𝘩𝘣𝘰𝘢𝘳𝘥 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘦𝘥 𝘸𝘪𝘵𝘩 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴, 𝘵𝘳𝘪𝘷𝘺 𝘴𝘤𝘢𝘯𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴 𝘧𝘰𝘳 𝘱𝘰𝘥𝘴
@@ -319,27 +340,6 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 📄 **License:** `No license`
 
 `#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
-
----
-
-## 📂 [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform)
-
-𝐓𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐚 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐦𝐨𝐝𝐮𝐥𝐞 𝐭𝐡𝐚𝐭 𝐡𝐞𝐥𝐩𝐬 𝐬𝐞𝐭 𝐮𝐩 𝐀𝐖𝐒 𝐛𝐢𝐥𝐥𝐢𝐧𝐠 𝐚𝐥𝐞𝐫𝐭𝐬
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-billing-alert-terraform?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
-
-🗓 **Last Updated:** `2026-05-08`
-🔄 **Latest Commit:** [AWS-Billing-Alerts: feat: Add CloudWatch log group for billing logs...](https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/0c80125fb75a3fba44c02bc92e039aefb6627877) on `2026-03-21`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `57` | 🍴 **Forks:** `56` | 👀 **Watchers:** `57` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
 
 ---
 
