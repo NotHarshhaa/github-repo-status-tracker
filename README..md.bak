@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--11%2019%3A50 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--12%2003%3A28 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `4053` | 🍴 **Forks:** `3996` | 👀 **Watchers:** `4053` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4053` | 🍴 **Forks:** `3997` | 👀 **Watchers:** `4053` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -38,11 +38,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-05-11`
+🗓 **Last Updated:** `2026-05-12`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `868` | 🍴 **Forks:** `647` | 👀 **Watchers:** `868` | ⚪ **CI/CD Status**
+⭐ **Stars:** `869` | 🍴 **Forks:** `647` | 👀 **Watchers:** `869` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `4`
-⭐ **Stars:** `516` | 🍴 **Forks:** `209` | 👀 **Watchers:** `516` | ⚪ **CI/CD Status**
+⭐ **Stars:** `517` | 🍴 **Forks:** `209` | 👀 **Watchers:** `517` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -185,11 +185,11 @@ Comprehensive repository covering the installation and setup of essential DevOps
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-05-10`
+🗓 **Last Updated:** `2026-05-11`
 🔄 **Latest Commit:** [DevOps-Guides: README: Update structure and content for improved na...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3) on `2026-04-24`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `183` | 🍴 **Forks:** `198` | 👀 **Watchers:** `183` | ⚪ **CI/CD Status**
+⭐ **Stars:** `184` | 🍴 **Forks:** `198` | 👀 **Watchers:** `184` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
@@ -227,11 +227,11 @@ A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js appli
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/CI-CD_EKS-GitHub_Actions?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-05`
+🗓 **Last Updated:** `2026-05-11`
 🔄 **Latest Commit:** [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and E...](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) on `2026-02-14`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `131` | 🍴 **Forks:** `114` | 👀 **Watchers:** `131` | ❌ **CI/CD Status**
+⭐ **Stars:** `132` | 🍴 **Forks:** `114` | 👀 **Watchers:** `132` | ❌ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#cicd` `#devops` `#eks`
@@ -301,6 +301,27 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 
 ---
 
+## 📂 [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard)
+
+𝘈 𝘬𝘶𝘣𝘦𝘳𝘯𝘦𝘵𝘦𝘴 𝘥𝘢𝘴𝘩𝘣𝘰𝘢𝘳𝘥 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘦𝘥 𝘸𝘪𝘵𝘩 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴, 𝘵𝘳𝘪𝘷𝘺 𝘴𝘤𝘢𝘯𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴 𝘧𝘰𝘳 𝘱𝘰𝘥𝘴
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+🗓 **Last Updated:** `2026-05-11`
+🔄 **Latest Commit:** [Kubernetes-dashboard: enhance UI components with demo mode indicato...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) on `2026-02-07`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `58` | 🍴 **Forks:** `53` | 👀 **Watchers:** `58` | ✅ **CI/CD Status**
+📄 **License:** `No license`
+
+`#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
+
+---
+
 ## 📂 [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform)
 
 𝐓𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐚 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐦𝐨𝐝𝐮𝐥𝐞 𝐭𝐡𝐚𝐭 𝐡𝐞𝐥𝐩𝐬 𝐬𝐞𝐭 𝐮𝐩 𝐀𝐖𝐒 𝐛𝐢𝐥𝐥𝐢𝐧𝐠 𝐚𝐥𝐞𝐫𝐭𝐬
@@ -319,27 +340,6 @@ Automate the installation/uninstallation of essential DevOps tools on Linux and 
 📄 **License:** `No license`
 
 `#aws` `#aws-billing` `#aws-terraform` `#terraform` `#terraform-modules`
-
----
-
-## 📂 [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard)
-
-𝘈 𝘬𝘶𝘣𝘦𝘳𝘯𝘦𝘵𝘦𝘴 𝘥𝘢𝘴𝘩𝘣𝘰𝘢𝘳𝘥 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘦𝘥 𝘸𝘪𝘵𝘩 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴, 𝘵𝘳𝘪𝘷𝘺 𝘴𝘤𝘢𝘯𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘩𝘦𝘢𝘭𝘵𝘩 𝘤𝘩𝘦𝘤𝘬𝘴 𝘧𝘰𝘳 𝘱𝘰𝘥𝘴
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-🗓 **Last Updated:** `2026-04-14`
-🔄 **Latest Commit:** [Kubernetes-dashboard: enhance UI components with demo mode indicato...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) on `2026-02-07`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `57` | 🍴 **Forks:** `53` | 👀 **Watchers:** `57` | ✅ **CI/CD Status**
-📄 **License:** `No license`
-
-`#health-check` `#kubernetes` `#kubernetes-dashboard` `#kubernetes-metrics` `#kubernetes-monitoring`
 
 ---
 
@@ -385,6 +385,27 @@ A hands-on learning repository to help you master containerization and orchestra
 
 ---
 
+## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
+
+𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Learning-Prometheus?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Learning-Prometheus?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Learning-Prometheus?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Learning-Prometheus?style=flat-square)
+
+
+🗓 **Last Updated:** `2026-05-11`
+🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `21` | 🍴 **Forks:** `42` | 👀 **Watchers:** `21` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
+
+---
+
 ## 📂 [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform)
 
 PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
@@ -403,27 +424,6 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 📄 **License:** `No license`
 
 `#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
-
----
-
-## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
-
-𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Learning-Prometheus?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Learning-Prometheus?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Learning-Prometheus?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Learning-Prometheus?style=flat-square)
-
-
-🗓 **Last Updated:** `2025-12-25`
-🔄 **Latest Commit:** [Learning-Prometheus: docs: Improved README with detailed explanatio...](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) on `2025-03-15`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `20` | 🍴 **Forks:** `42` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
 
 ---
 
@@ -448,6 +448,27 @@ Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, D
 
 ---
 
+## 📂 [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop)
+
+//  A beginner-friendly guide to setting up AWS infrastructure using Terraform! Learn how to auto...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
+
+🗓 **Last Updated:** `2026-05-11`
+🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `16` | 🍴 **Forks:** `22` | 👀 **Watchers:** `16` | ⚪ **CI/CD Status**
+📄 **License:** `GNU General Public License v2.0`
+
+`#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
+
+---
+
 ## 📂 [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone)
 
 This repository is a full-stack food delivery application inspired by Zomato. It includes a React...
@@ -469,27 +490,6 @@ This repository is a full-stack food delivery application inspired by Zomato. It
 
 ---
 
-## 📂 [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop)
-
-//  A beginner-friendly guide to setting up AWS infrastructure using Terraform! Learn how to auto...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
-
-🗓 **Last Updated:** `2026-05-01`
-🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `15` | 🍴 **Forks:** `22` | 👀 **Watchers:** `15` | ⚪ **CI/CD Status**
-📄 **License:** `GNU General Public License v2.0`
-
-`#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
-
----
-
 ## 📂 [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box)
 
 This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginn...
@@ -500,11 +500,11 @@ This project provides a ready-to-use advanced monitoring platform for DevOps eng
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
 
-🗓 **Last Updated:** `2026-04-30`
+🗓 **Last Updated:** `2026-05-11`
 🔄 **Latest Commit:** [devops-monitoring: refactor: enhance UI components and v2.0.0 release](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/ef41c2c28229583a9392b760901cb1eb0289a609) on `2026-02-03`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `13` | 🍴 **Forks:** `14` | 👀 **Watchers:** `13` | ✅ **CI/CD Status**
+⭐ **Stars:** `14` | 🍴 **Forks:** `14` | 👀 **Watchers:** `14` | ✅ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#alertmanager` `#devops-monitoring` `#docker` `#docker-compose` `#grafana`
