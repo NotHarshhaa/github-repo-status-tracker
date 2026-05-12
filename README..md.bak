@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--12%2003%3A28 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--12%2008%3A42 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-11`
+🗓 **Last Updated:** `2026-05-12`
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `4053` | 🍴 **Forks:** `3997` | 👀 **Watchers:** `4053` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4055` | 🍴 **Forks:** `3998` | 👀 **Watchers:** `4055` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -80,11 +80,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-learning-path?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-05-11`
+🗓 **Last Updated:** `2026-05-12`
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `4`
-⭐ **Stars:** `517` | 🍴 **Forks:** `209` | 👀 **Watchers:** `517` | ⚪ **CI/CD Status**
+⭐ **Stars:** `518` | 🍴 **Forks:** `210` | 👀 **Watchers:** `518` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -406,6 +406,27 @@ A hands-on learning repository to help you master containerization and orchestra
 
 ---
 
+## 📂 [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project)
+
+Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernete...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+
+🗓 **Last Updated:** `2026-05-12`
+🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `21` | 🍴 **Forks:** `33` | 👀 **Watchers:** `21` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
+
+---
+
 ## 📂 [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform)
 
 PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
@@ -424,27 +445,6 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 📄 **License:** `No license`
 
 `#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
-
----
-
-## 📂 [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project)
-
-Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernete...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
-
-🗓 **Last Updated:** `2026-02-12`
-🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `20` | 🍴 **Forks:** `33` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
 
 ---
 
