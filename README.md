@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--17%2013%3A23 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--17%2019%3A13 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `20`
-⭐ **Stars:** `4087` | 🍴 **Forks:** `4028` | 👀 **Watchers:** `4087` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4089` | 🍴 **Forks:** `4029` | 👀 **Watchers:** `4089` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -42,7 +42,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `878` | 🍴 **Forks:** `652` | 👀 **Watchers:** `878` | ⚪ **CI/CD Status**
+⭐ **Stars:** `879` | 🍴 **Forks:** `652` | 👀 **Watchers:** `879` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: Update README for clarity and consistency](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a) on `2026-04-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `159` | 🍴 **Forks:** `114` | 👀 **Watchers:** `159` | ❌ **CI/CD Status**
+⭐ **Stars:** `159` | 🍴 **Forks:** `115` | 👀 **Watchers:** `159` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -532,6 +532,27 @@ Super Mario is a legendary game we all cherish! In this project, we will deploy 
 
 ---
 
+## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
+
+A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+
+🗓 **Last Updated:** `2026-05-17`
+🔄 **Latest Commit:** [devops-templates: Refactor Dockerfiles and nginx configurations for...](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) on `2026-04-10`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `11` | 🍴 **Forks:** `3` | 👀 **Watchers:** `11` | ❌ **CI/CD Status**
+📄 **License:** `MIT License`
+
+
+
+---
+
 ## 📂 [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra)
 
 Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Sec...
@@ -550,27 +571,6 @@ Terraform scripts to automate the provisioning of AWS infrastructure, including 
 📄 **License:** `No license`
 
 `#aws` `#aws-ec2` `#jenkins` `#terraform` `#terraform-aws`
-
----
-
-## 📂 [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates)
-
-A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, ...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-
-🗓 **Last Updated:** `2026-04-13`
-🔄 **Latest Commit:** [devops-templates: Refactor Dockerfiles and nginx configurations for...](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) on `2026-04-10`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `10` | 🍴 **Forks:** `3` | 👀 **Watchers:** `10` | ❌ **CI/CD Status**
-📄 **License:** `MIT License`
-
-
 
 ---
 
