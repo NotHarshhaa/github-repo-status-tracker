@@ -1,18 +1,18 @@
 [
   {
     "repo": "devops-tools",
-    "stars": 224,
+    "stars": 223,
     "forks": 159,
     "issues": 3,
-    "lastUpdated": "2026-05-17T09:30:52Z",
+    "lastUpdated": "2026-05-19T02:29:07Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
-    "stars": 159,
+    "stars": 158,
     "forks": 115,
     "issues": 0,
-    "lastUpdated": "2026-04-27T19:01:01Z",
+    "lastUpdated": "2026-05-18T21:05:05Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 4092,
-    "forks": 4034,
+    "stars": 4093,
+    "forks": 4035,
     "issues": 20,
-    "lastUpdated": "2026-05-18T09:53:18Z",
+    "lastUpdated": "2026-05-18T20:08:24Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 527,
+    "stars": 528,
     "forks": 212,
     "issues": 4,
-    "lastUpdated": "2026-05-18T14:58:06Z",
+    "lastUpdated": "2026-05-19T00:22:10Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -154,7 +154,7 @@
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 881,
-    "forks": 654,
+    "forks": 655,
     "issues": 2,
     "lastUpdated": "2026-05-18T07:34:32Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
