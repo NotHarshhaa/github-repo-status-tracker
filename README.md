@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--19%2015%3A27 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--19%2019%3A53 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -210,7 +210,7 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 🔄 **Latest Commit:** [CKA: Update README for clarity and consistency](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a) on `2026-04-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `158` | 🍴 **Forks:** `115` | 👀 **Watchers:** `158` | ❌ **CI/CD Status**
+⭐ **Stars:** `158` | 🍴 **Forks:** `116` | 👀 **Watchers:** `158` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
