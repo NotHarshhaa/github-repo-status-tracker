@@ -83,7 +83,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 132,
-    "forks": 114,
+    "forks": 115,
     "issues": 1,
     "lastUpdated": "2026-05-11T20:34:39Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4095,
-    "forks": 4036,
+    "stars": 4098,
+    "forks": 4039,
     "issues": 20,
-    "lastUpdated": "2026-05-19T09:12:59Z",
+    "lastUpdated": "2026-05-19T12:40:47Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -181,10 +181,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 341,
+    "stars": 342,
     "forks": 242,
     "issues": 1,
-    "lastUpdated": "2026-05-19T04:32:36Z",
+    "lastUpdated": "2026-05-19T10:39:50Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 529,
+    "stars": 530,
     "forks": 212,
     "issues": 4,
-    "lastUpdated": "2026-05-19T09:29:27Z",
+    "lastUpdated": "2026-05-19T10:40:34Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 882,
+    "stars": 883,
     "forks": 655,
     "issues": 2,
-    "lastUpdated": "2026-05-19T05:59:37Z",
+    "lastUpdated": "2026-05-19T15:04:25Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
