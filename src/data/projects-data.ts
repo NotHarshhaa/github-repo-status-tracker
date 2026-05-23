@@ -63,10 +63,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/eks-cluster-terraform",
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
-    "stars": 73,
+    "stars": 74,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-04-14T12:10:26Z",
+    "lastUpdated": "2026-05-23T06:27:06Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4115,
-    "forks": 4048,
+    "stars": 4119,
+    "forks": 4051,
     "issues": 21,
-    "lastUpdated": "2026-05-22T16:54:56Z",
+    "lastUpdated": "2026-05-23T07:49:13Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -332,10 +332,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 532,
+    "stars": 533,
     "forks": 212,
     "issues": 4,
-    "lastUpdated": "2026-05-21T06:40:22Z",
+    "lastUpdated": "2026-05-23T07:41:56Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 308,
-    "forks": 232,
+    "forks": 233,
     "issues": 2,
     "lastUpdated": "2026-05-15T07:12:37Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 888,
+    "stars": 889,
     "forks": 661,
     "issues": 2,
-    "lastUpdated": "2026-05-22T07:54:08Z",
+    "lastUpdated": "2026-05-23T07:08:49Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
