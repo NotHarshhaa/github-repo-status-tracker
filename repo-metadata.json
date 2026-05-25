@@ -25,10 +25,10 @@
   },
   {
     "repo": "DevOps-Projects",
-    "stars": 4127,
-    "forks": 4055,
+    "stars": 4128,
+    "forks": 4056,
     "issues": 21,
-    "lastUpdated": "2026-05-24T18:10:42Z",
+    "lastUpdated": "2026-05-24T19:42:10Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -242,7 +242,7 @@
   {
     "repo": "devops-monitoring-in-a-box",
     "stars": 14,
-    "forks": 14,
+    "forks": 15,
     "issues": 0,
     "lastUpdated": "2026-05-11T20:34:49Z",
     "lastCommit": "ef41c2c28229583a9392b760901cb1eb0289a609"
