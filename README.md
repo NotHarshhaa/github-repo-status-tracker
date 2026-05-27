@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--27%2009%3A53 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--27%2015%3A47 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `21`
-⭐ **Stars:** `4158` | 🍴 **Forks:** `4061` | 👀 **Watchers:** `4158` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4161` | 🍴 **Forks:** `4062` | 👀 **Watchers:** `4161` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -84,7 +84,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) on `2025-03-08`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `4`
-⭐ **Stars:** `537` | 🍴 **Forks:** `214` | 👀 **Watchers:** `537` | ⚪ **CI/CD Status**
+⭐ **Stars:** `538` | 🍴 **Forks:** `214` | 👀 **Watchers:** `538` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#beginner` `#kubernetes` `#kubernetes-best-practices` `#kubernetes-deployment` `#kubernetes-roadmap`
@@ -105,7 +105,7 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 🔄 **Latest Commit:** [Kubernetes: README: Update README.md to enhance structure and clari...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) on `2025-06-17`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `1`
-⭐ **Stars:** `343` | 🍴 **Forks:** `242` | 👀 **Watchers:** `343` | ⚪ **CI/CD Status**
+⭐ **Stars:** `343` | 🍴 **Forks:** `243` | 👀 **Watchers:** `343` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devopsproject` `#kubernetes` `#kubernetes-cluster` `#kubernetes-deployment`
@@ -154,6 +154,27 @@ A comprehensive collection of essential DevOps tools for development, deployment
 
 ---
 
+## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
+
+Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
+
+
+🗓 **Last Updated:** `2026-05-27`
+🔄 **Latest Commit:** [DevOps-Guides: README: Update structure and content for improved na...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3) on `2026-04-24`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `185` | 🍴 **Forks:** `196` | 👀 **Watchers:** `185` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
+
+---
+
 ## 📂 [Kubernetes](https://github.com/NotHarshhaa/Kubernetes)
 
 📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this...
@@ -172,27 +193,6 @@ A comprehensive collection of essential DevOps tools for development, deployment
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
-
----
-
-## 📂 [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations)
-
-Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps_Setup-Installations?style=flat-square)
-
-
-🗓 **Last Updated:** `2026-05-11`
-🔄 **Latest Commit:** [DevOps-Guides: README: Update structure and content for improved na...](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3) on `2026-04-24`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `184` | 🍴 **Forks:** `196` | 👀 **Watchers:** `184` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#cloud-services` `#cloud-setup` `#devops` `#devops-guide` `#devops-setup-tools`
 
 ---
 
