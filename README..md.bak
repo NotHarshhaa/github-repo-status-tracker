@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--28%2003%3A46 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--28%2010%3A05 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `21`
-⭐ **Stars:** `4172` | 🍴 **Forks:** `4064` | 👀 **Watchers:** `4172` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4178` | 🍴 **Forks:** `4066` | 👀 **Watchers:** `4178` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -38,11 +38,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Interview-Questions?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-05-26`
+🗓 **Last Updated:** `2026-05-28`
 🔄 **Latest Commit:** [DevOps-Interview: docs: Expand with new sections on Linux & System ...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) on `2025-08-09`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `2`
-⭐ **Stars:** `892` | 🍴 **Forks:** `662` | 👀 **Watchers:** `892` | ⚪ **CI/CD Status**
+⭐ **Stars:** `893` | 🍴 **Forks:** `662` | 👀 **Watchers:** `893` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-interview-questions` `#azure-interview-questions` `#cicd` `#cloud-computing` `#devops`
@@ -125,8 +125,8 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 🗓 **Last Updated:** `2026-05-27`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `2`
-⭐ **Stars:** `310` | 🍴 **Forks:** `235` | 👀 **Watchers:** `310` | ⚪ **CI/CD Status**
+🏷 **Open Issues:** `3`
+⭐ **Stars:** `310` | 🍴 **Forks:** `236` | 👀 **Watchers:** `310` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
