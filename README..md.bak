@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--30%2008%3A29 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--30%2013%3A42 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `21`
-⭐ **Stars:** `4199` | 🍴 **Forks:** `4075` | 👀 **Watchers:** `4199` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4204` | 🍴 **Forks:** `4076` | 👀 **Watchers:** `4204` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -147,7 +147,7 @@ A comprehensive collection of essential DevOps tools for development, deployment
 🔄 **Latest Commit:** [Merge pull request #3 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `224` | 🍴 **Forks:** `161` | 👀 **Watchers:** `224` | ⚪ **CI/CD Status**
+⭐ **Stars:** `224` | 🍴 **Forks:** `160` | 👀 **Watchers:** `224` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -189,7 +189,7 @@ Comprehensive repository covering the installation and setup of essential DevOps
 🔄 **Latest Commit:** [Kubernetes: Revise README to enhance clarity on repository purpose ...](https://github.com/NotHarshhaa/Kubernetes/commit/eb392ed77959fe8147848a94e1c83caab235b9b5) on `2025-04-12`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `184` | 🍴 **Forks:** `200` | 👀 **Watchers:** `184` | ⚪ **CI/CD Status**
+⭐ **Stars:** `184` | 🍴 **Forks:** `199` | 👀 **Watchers:** `184` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#kubernetes` `#kubernetes-deployment` `#kubernetes-learning` `#kubernetes-manifest-files` `#kubernetes-manifests`
@@ -273,7 +273,7 @@ This project uses Terraform to provision an Amazon EKS Cluster on AWS. By levera
 🔄 **Latest Commit:** [Terraform: Update Kubernetes deployment configuration and enhance ....](https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1) on `2025-03-28`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `73` | 🍴 **Forks:** `68` | 👀 **Watchers:** `73` | ⚪ **CI/CD Status**
+⭐ **Stars:** `73` | 🍴 **Forks:** `67` | 👀 **Watchers:** `73` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#aws-eks` `#deployment` `#eks` `#terraform`
@@ -441,7 +441,7 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 🔄 **Latest Commit:** [aws-eks: README: Improved conclusion section, refined explanations,...](https://github.com/NotHarshhaa/AWS-EKS_Terraform/commit/bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563) on `2025-03-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `20` | 🍴 **Forks:** `57` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
+⭐ **Stars:** `20` | 🍴 **Forks:** `56` | 👀 **Watchers:** `20` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws-ec2` `#aws-ecr` `#aws-s3` `#aws-terraform` `#eks`
