@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
     "stars": 73,
-    "forks": 68,
+    "forks": 67,
     "issues": 0,
     "lastUpdated": "2026-05-25T08:21:07Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 224,
-    "forks": 161,
+    "forks": 160,
     "issues": 3,
     "lastUpdated": "2026-05-28T15:40:30Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4199,
-    "forks": 4075,
+    "stars": 4204,
+    "forks": 4076,
     "issues": 21,
-    "lastUpdated": "2026-05-30T05:35:44Z",
+    "lastUpdated": "2026-05-30T13:40:14Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-EKS_Terraform"
     },
     "stars": 20,
-    "forks": 57,
+    "forks": 56,
     "issues": 0,
     "lastUpdated": "2026-02-21T13:00:58Z",
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 184,
-    "forks": 200,
+    "forks": 199,
     "issues": 0,
     "lastUpdated": "2026-05-25T08:21:14Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
