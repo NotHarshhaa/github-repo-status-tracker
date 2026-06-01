@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--31%2019%3A19 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--01%2004%3A14 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -17,11 +17,11 @@ This page clearly shows the latest commit details and updates automatically.
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-31`
+🗓 **Last Updated:** `2026-06-01`
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `21`
-⭐ **Stars:** `4218` | 🍴 **Forks:** `4083` | 👀 **Watchers:** `4218` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4221` | 🍴 **Forks:** `4084` | 👀 **Watchers:** `4221` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -59,11 +59,11 @@ Collection of 1100+ DevOps interview questions with detailed answers covering CI
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/into-the-devops?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-27`
+🗓 **Last Updated:** `2026-06-01`
 🔄 **Latest Commit:** [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) on `2025-06-22`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `860` | 🍴 **Forks:** `517` | 👀 **Watchers:** `860` | ⚪ **CI/CD Status**
+⭐ **Stars:** `861` | 🍴 **Forks:** `517` | 👀 **Watchers:** `861` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#ansible` `#aws` `#azure` `#coding` `#containers`
@@ -122,11 +122,11 @@ A comprehensive collection of quick-reference cheatsheets for DevOps tools, cove
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-cheatsheet?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-29`
+🗓 **Last Updated:** `2026-06-01`
 🔄 **Latest Commit:** [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance ...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) on `2025-12-18`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `312` | 🍴 **Forks:** `238` | 👀 **Watchers:** `312` | ⚪ **CI/CD Status**
+⭐ **Stars:** `313` | 🍴 **Forks:** `238` | 👀 **Watchers:** `313` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#azure` `#cheatsheet` `#cicd`
@@ -143,11 +143,11 @@ A comprehensive collection of essential DevOps tools for development, deployment
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-31`
+🗓 **Last Updated:** `2026-06-01`
 🔄 **Latest Commit:** [Merge pull request #3 from NotHarshhaa/vercel/react-server-componen...](https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e) on `2025-12-18`
 👤 **Author:** `H A R S H H A A`
 🏷 **Open Issues:** `3`
-⭐ **Stars:** `225` | 🍴 **Forks:** `161` | 👀 **Watchers:** `225` | ⚪ **CI/CD Status**
+⭐ **Stars:** `226` | 🍴 **Forks:** `161` | 👀 **Watchers:** `226` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#devops` `#devops-tools` `#devops-tools-support` `#devopstool` `#devopstoolkit`
@@ -206,11 +206,11 @@ Master Kubernetes from scratch and become a Certified Kubernetes Administrator (
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Certified_Kubernetes_Administrator?style=flat-square)
 
 
-🗓 **Last Updated:** `2026-05-25`
+🗓 **Last Updated:** `2026-06-01`
 🔄 **Latest Commit:** [CKA: Update README for clarity and consistency](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a) on `2026-04-26`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `157` | 🍴 **Forks:** `116` | 👀 **Watchers:** `157` | ❌ **CI/CD Status**
+⭐ **Stars:** `158` | 🍴 **Forks:** `116` | 👀 **Watchers:** `158` | ❌ **CI/CD Status**
 📄 **License:** `MIT License`
 
 `#cka` `#ckad` `#ckad-exercises` `#helm` `#k8s`
@@ -385,6 +385,27 @@ A hands-on learning repository to help you master containerization and orchestra
 
 ---
 
+## 📂 [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project)
+
+Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernete...
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
+![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
+
+🗓 **Last Updated:** `2026-06-01`
+🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
+👤 **Author:** `NotHarshhaa`
+🏷 **Open Issues:** `0`
+⭐ **Stars:** `22` | 🍴 **Forks:** `33` | 👀 **Watchers:** `22` | ⚪ **CI/CD Status**
+📄 **License:** `No license`
+
+`#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
+
+---
+
 ## 📂 [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus)
 
 𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 ...
@@ -403,27 +424,6 @@ A hands-on learning repository to help you master containerization and orchestra
 📄 **License:** `No license`
 
 `#prometheus` `#prometheus-client` `#prometheus-learning` `#prometheus-metrics` `#prometheus-operator`
-
----
-
-## 📂 [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project)
-
-Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernete...
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Cloud-Native-DevOps-Project?style=flat-square)
-![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-2496ED?style=flat-square&logo=dockerfile&logoColor=white)
-
-🗓 **Last Updated:** `2026-05-12`
-🔄 **Latest Commit:** [cloud-native-project: README: Update project banner](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b) on `2025-07-13`
-👤 **Author:** `NotHarshhaa`
-🏷 **Open Issues:** `0`
-⭐ **Stars:** `21` | 🍴 **Forks:** `33` | 👀 **Watchers:** `21` | ⚪ **CI/CD Status**
-📄 **License:** `No license`
-
-`#aws` `#aws-project` `#cloud-native` `#cloud-native-applications` `#db`
 
 ---
 
