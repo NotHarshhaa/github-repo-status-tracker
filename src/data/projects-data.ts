@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4244,
-    "forks": 4090,
+    "stars": 4245,
+    "forks": 4091,
     "issues": 21,
-    "lastUpdated": "2026-06-02T13:28:22Z",
+    "lastUpdated": "2026-06-02T16:33:33Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -284,10 +284,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 184,
+    "stars": 185,
     "forks": 199,
     "issues": 0,
-    "lastUpdated": "2026-05-25T08:21:14Z",
+    "lastUpdated": "2026-06-02T18:02:10Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 901,
+    "stars": 902,
     "forks": 667,
     "issues": 2,
-    "lastUpdated": "2026-06-02T13:22:50Z",
+    "lastUpdated": "2026-06-02T18:18:17Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -449,10 +449,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 862,
+    "stars": 863,
     "forks": 517,
     "issues": 0,
-    "lastUpdated": "2026-06-02T12:26:20Z",
+    "lastUpdated": "2026-06-02T16:32:37Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -553,10 +553,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-environment-toolkit-beginners",
       "href": "https://github.com/NotHarshhaa/devops-environment-toolkit-beginners"
     },
-    "stars": 6,
+    "stars": 7,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-01-26T12:45:29Z",
+    "lastUpdated": "2026-06-02T16:44:32Z",
     "lastCommit": "fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0"
   },
   {
