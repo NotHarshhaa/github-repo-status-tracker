@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--04%2004%3A11 UTC)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--04%2009%3A58 UTC)
 
 # 🚀 GitHub Repository Status Tracker
 
@@ -21,7 +21,7 @@ This page clearly shows the latest commit details and updates automatically.
 🔄 **Latest Commit:** [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) on `2026-05-02`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `22`
-⭐ **Stars:** `4256` | 🍴 **Forks:** `4098` | 👀 **Watchers:** `4256` | ⚪ **CI/CD Status**
+⭐ **Stars:** `4260` | 🍴 **Forks:** `4100` | 👀 **Watchers:** `4260` | ⚪ **CI/CD Status**
 📄 **License:** `No license`
 
 `#aws` `#beginner-friendly` `#devops` `#devops-learning` `#devops-poc`
@@ -458,11 +458,11 @@ PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM
 ![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Terraform-Workshop?style=flat-square)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-gray?style=flat-square&logo=hcl&logoColor=white)
 
-🗓 **Last Updated:** `2026-05-27`
+🗓 **Last Updated:** `2026-06-04`
 🔄 **Latest Commit:** [AWS-Workshop: Implement private subnet and NAT gateway support](https://github.com/NotHarshhaa/AWS-Terraform-Workshop/commit/dc06ce5ad9f1db755497112ed59a65cbfc1379b9) on `2026-01-25`
 👤 **Author:** `NotHarshhaa`
 🏷 **Open Issues:** `0`
-⭐ **Stars:** `17` | 🍴 **Forks:** `23` | 👀 **Watchers:** `17` | ⚪ **CI/CD Status**
+⭐ **Stars:** `18` | 🍴 **Forks:** `23` | 👀 **Watchers:** `18` | ⚪ **CI/CD Status**
 📄 **License:** `GNU General Public License v2.0`
 
 `#automation` `#aws` `#aws-workshops` `#terraform` `#terraform-workshop`
