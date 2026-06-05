@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 158,
-    "forks": 117,
+    "forks": 118,
     "issues": 0,
     "lastUpdated": "2026-06-01T01:01:42Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
@@ -148,10 +148,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4269,
+    "stars": 4270,
     "forks": 4102,
     "issues": 23,
-    "lastUpdated": "2026-06-05T03:50:38Z",
+    "lastUpdated": "2026-06-05T04:04:35Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -572,11 +572,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-project-generator",
       "href": "https://github.com/NotHarshhaa/devops-project-generator"
     },
-    "stars": 0,
-    "forks": 1,
+    "stars": 2,
+    "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-01-30T08:17:05Z",
-    "lastCommit": "6a4be9c19baa0695c828eaf3fd750270ada5e9d6"
+    "lastUpdated": "2026-05-25T16:34:32Z",
+    "lastCommit": "730d8af09315cd838f98d7daa920e05d291b562e"
   },
   {
     "title": "MLOps Project Generator",
@@ -594,8 +594,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-01-26T12:02:01Z",
-    "lastCommit": "f35f4d0a1365d478d6280bfc5813f03cab32461c"
+    "lastUpdated": "2026-05-26T06:08:24Z",
+    "lastCommit": "490981c4e53a04476d10c6d0ace1fcaaba15d07b"
   },
   {
     "title": "KubeGuardian",
@@ -613,8 +613,8 @@ export const PROJECTS: Project[] = [
     "stars": 1,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-01-24T10:23:28Z",
-    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
+    "lastUpdated": "2026-02-08T07:38:39Z",
+    "lastCommit": "60a6f9cad9969651eb54b1598c68cb96a601d450"
   },
   {
     "title": "DevOps Project Templates",
@@ -629,11 +629,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-project-templates",
       "href": "https://github.com/NotHarshhaa/devops-project-templates"
     },
-    "stars": 4,
-    "forks": 0,
+    "stars": 11,
+    "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-01-27T16:49:53Z",
-    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
+    "lastUpdated": "2026-05-17T18:31:41Z",
+    "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
   },
   {
     "title": "Cloud Billing Automation",
@@ -648,11 +648,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/cloud-billing-automation",
       "href": "https://github.com/NotHarshhaa/cloud-billing-automation"
     },
-    "stars": 1,
-    "forks": 3,
+    "stars": 2,
+    "forks": 6,
     "issues": 0,
-    "lastUpdated": "2026-01-16T09:33:31Z",
-    "lastCommit": "8a88e6df92d16474eb31a0cccaac0eb9b3b06595"
+    "lastUpdated": "2026-05-01T10:34:12Z",
+    "lastCommit": "a63df46cd7a3dda1db69cd0218bd86a2b3da9530"
   },
   {
     "title": "Home of Best DevOps Resources",
@@ -668,7 +668,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/home-of-best-devops-resources"
     },
     "stars": 3,
-    "forks": 2,
+    "forks": 3,
     "issues": 0,
     "lastUpdated": "2025-12-18T11:01:30Z",
     "lastCommit": "4d1f9a8bb77876cca4b5d05654dc198667cb18ed"
