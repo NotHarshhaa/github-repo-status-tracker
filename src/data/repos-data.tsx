@@ -36,8 +36,8 @@ export const REPOS_DATA: RepoData = {
 	name: 'DevOps & Cloud GitHub Repositories',
 	location: 'Hyderabad, India',
 	locationLink: 'https://www.google.com/maps/place/Hyderabad',
-	about: 'A curated collection of essential DevOps and Cloud repositories.',
-	summary: 'A comprehensive collection of DevOps and Cloud resources.',
+	about: 'A curated collection of essential DevOps, Cloud, MLOps, and Platform Engineering repositories from NotHarshhaa.',
+	summary: 'Browse live GitHub stats across learning repos, real-world projects, tools, and community websites.',
 	personalWebsiteUrl: {
 		name: 'Portfolio',
 		url: 'https://notharshhaa.site'

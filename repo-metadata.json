@@ -1,155 +1,11 @@
 [
   {
-    "repo": "devops-tools",
-    "stars": 226,
-    "forks": 161,
-    "issues": 3,
-    "lastUpdated": "2026-06-01T01:01:52Z",
-    "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
-  },
-  {
-    "repo": "Certified_Kubernetes_Administrator",
-    "stars": 158,
-    "forks": 118,
-    "issues": 0,
-    "lastUpdated": "2026-06-01T01:01:42Z",
-    "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
-  },
-  {
-    "repo": "kubernetes-dashboard",
-    "stars": 57,
-    "forks": 53,
-    "issues": 0,
-    "lastUpdated": "2026-05-25T08:21:15Z",
-    "lastCommit": "c4f02b6e1faed85bd743bae193cb2d3af04d3ef3"
-  },
-  {
     "repo": "DevOps-Projects",
     "stars": 4270,
     "forks": 4102,
     "issues": 23,
     "lastUpdated": "2026-06-05T04:04:35Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
-  },
-  {
-    "repo": "kubernetes-projects-learning",
-    "stars": 344,
-    "forks": 244,
-    "issues": 1,
-    "lastUpdated": "2026-06-01T22:53:02Z",
-    "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
-  },
-  {
-    "repo": "AWS-EKS_Terraform",
-    "stars": 20,
-    "forks": 56,
-    "issues": 0,
-    "lastUpdated": "2026-02-21T13:00:58Z",
-    "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
-  },
-  {
-    "repo": "Deployment-of-super-Mario-on-Kubernetes-using-terraform",
-    "stars": 11,
-    "forks": 32,
-    "issues": 0,
-    "lastUpdated": "2026-02-03T07:07:11Z",
-    "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
-  },
-  {
-    "repo": "cloud-native-monitoring-app",
-    "stars": 7,
-    "forks": 18,
-    "issues": 0,
-    "lastUpdated": "2025-04-15T18:04:31Z",
-    "lastCommit": "15102a44dc31d8f340e4ae1ca83db337b488c483"
-  },
-  {
-    "repo": "Zomato-Clone",
-    "stars": 15,
-    "forks": 77,
-    "issues": 0,
-    "lastUpdated": "2026-03-13T05:44:05Z",
-    "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
-  },
-  {
-    "repo": "Learning-Prometheus",
-    "stars": 21,
-    "forks": 43,
-    "issues": 0,
-    "lastUpdated": "2026-05-11T20:35:12Z",
-    "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
-  },
-  {
-    "repo": "Kubernetes",
-    "stars": 185,
-    "forks": 199,
-    "issues": 0,
-    "lastUpdated": "2026-06-02T18:02:10Z",
-    "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
-  },
-  {
-    "repo": "DevOps_Setup-Installations",
-    "stars": 185,
-    "forks": 199,
-    "issues": 0,
-    "lastUpdated": "2026-05-27T15:34:56Z",
-    "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
-  },
-  {
-    "repo": "DevOps-Tool-Installer",
-    "stars": 62,
-    "forks": 69,
-    "issues": 0,
-    "lastUpdated": "2026-05-25T08:21:27Z",
-    "lastCommit": "18d7d06cc018f82eede8f098ec01b86fa6fb489e"
-  },
-  {
-    "repo": "kubernetes-learning-path",
-    "stars": 546,
-    "forks": 217,
-    "issues": 4,
-    "lastUpdated": "2026-06-03T22:28:41Z",
-    "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
-  },
-  {
-    "repo": "Jenkins-Terraform-AWS-Infra",
-    "stars": 10,
-    "forks": 25,
-    "issues": 0,
-    "lastUpdated": "2026-04-26T11:51:26Z",
-    "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
-  },
-  {
-    "repo": "azure-all_in_one",
-    "stars": 89,
-    "forks": 60,
-    "issues": 0,
-    "lastUpdated": "2026-05-25T08:21:15Z",
-    "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
-  },
-  {
-    "repo": "aws-billing-alert-terraform",
-    "stars": 57,
-    "forks": 56,
-    "issues": 0,
-    "lastUpdated": "2026-05-25T08:21:15Z",
-    "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
-  },
-  {
-    "repo": "AWS-DevOps_Real-Time_Deployment",
-    "stars": 27,
-    "forks": 65,
-    "issues": 0,
-    "lastUpdated": "2026-02-16T16:41:08Z",
-    "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
-  },
-  {
-    "repo": "devops-cheatsheet",
-    "stars": 313,
-    "forks": 241,
-    "issues": 3,
-    "lastUpdated": "2026-06-01T01:01:35Z",
-    "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -168,28 +24,60 @@
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
-    "repo": "AWS-Terraform-Workshop",
-    "stars": 18,
-    "forks": 23,
-    "issues": 0,
-    "lastUpdated": "2026-06-04T09:26:19Z",
-    "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
+    "repo": "kubernetes-learning-path",
+    "stars": 546,
+    "forks": 217,
+    "issues": 4,
+    "lastUpdated": "2026-06-03T22:28:41Z",
+    "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
-    "repo": "tf-ecr-ecs-gh-deploy",
-    "stars": 10,
-    "forks": 21,
-    "issues": 0,
-    "lastUpdated": "2026-05-27T06:25:32Z",
-    "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
+    "repo": "kubernetes-projects-learning",
+    "stars": 344,
+    "forks": 244,
+    "issues": 1,
+    "lastUpdated": "2026-06-01T22:53:02Z",
+    "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
-    "repo": "eks-cluster-terraform",
-    "stars": 73,
-    "forks": 67,
+    "repo": "devops-cheatsheet",
+    "stars": 313,
+    "forks": 241,
+    "issues": 3,
+    "lastUpdated": "2026-06-01T01:01:35Z",
+    "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
+  },
+  {
+    "repo": "devops-tools",
+    "stars": 226,
+    "forks": 161,
+    "issues": 3,
+    "lastUpdated": "2026-06-01T01:01:52Z",
+    "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
+  },
+  {
+    "repo": "Kubernetes",
+    "stars": 185,
+    "forks": 199,
     "issues": 0,
-    "lastUpdated": "2026-05-25T08:21:07Z",
-    "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
+    "lastUpdated": "2026-06-02T18:02:10Z",
+    "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
+  },
+  {
+    "repo": "DevOps_Setup-Installations",
+    "stars": 185,
+    "forks": 199,
+    "issues": 0,
+    "lastUpdated": "2026-05-27T15:34:56Z",
+    "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
+  },
+  {
+    "repo": "Certified_Kubernetes_Administrator",
+    "stars": 158,
+    "forks": 118,
+    "issues": 0,
+    "lastUpdated": "2026-06-01T01:01:42Z",
+    "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -200,12 +88,60 @@
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
-    "repo": "uber-clone",
-    "stars": 6,
-    "forks": 12,
+    "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
+    "stars": 98,
+    "forks": 41,
     "issues": 0,
-    "lastUpdated": "2026-02-09T10:06:59Z",
-    "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
+    "lastUpdated": "2026-05-24T16:47:33Z",
+    "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
+  },
+  {
+    "repo": "AWS-Projects",
+    "stars": 94,
+    "forks": 41,
+    "issues": 0,
+    "lastUpdated": "2026-06-05T04:39:36Z",
+    "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
+  },
+  {
+    "repo": "azure-all_in_one",
+    "stars": 89,
+    "forks": 60,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T08:21:15Z",
+    "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
+  },
+  {
+    "repo": "eks-cluster-terraform",
+    "stars": 73,
+    "forks": 67,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T08:21:07Z",
+    "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
+  },
+  {
+    "repo": "DevOps-Tool-Installer",
+    "stars": 62,
+    "forks": 69,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T08:21:27Z",
+    "lastCommit": "18d7d06cc018f82eede8f098ec01b86fa6fb489e"
+  },
+  {
+    "repo": "aws-billing-alert-terraform",
+    "stars": 57,
+    "forks": 56,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T08:21:15Z",
+    "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
+  },
+  {
+    "repo": "kubernetes-dashboard",
+    "stars": 57,
+    "forks": 53,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T08:21:15Z",
+    "lastCommit": "c4f02b6e1faed85bd743bae193cb2d3af04d3ef3"
   },
   {
     "repo": "From-Docker-to-Kubernetes",
@@ -216,12 +152,12 @@
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
   {
-    "repo": "DevOps-Engineering",
-    "stars": 4,
-    "forks": 9,
+    "repo": "AWS-DevOps_Real-Time_Deployment",
+    "stars": 27,
+    "forks": 65,
     "issues": 0,
-    "lastUpdated": "2025-12-18T10:58:39Z",
-    "lastCommit": "b3c5d433b8298ecf28baae97aa5ec030bb95f038"
+    "lastUpdated": "2026-02-16T16:41:08Z",
+    "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -232,12 +168,36 @@
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
-    "repo": "awesome-devops-cloud",
-    "stars": 9,
-    "forks": 11,
-    "issues": 5,
-    "lastUpdated": "2026-05-29T12:46:05Z",
-    "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
+    "repo": "Learning-Prometheus",
+    "stars": 21,
+    "forks": 43,
+    "issues": 0,
+    "lastUpdated": "2026-05-11T20:35:12Z",
+    "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
+  },
+  {
+    "repo": "AWS-EKS_Terraform",
+    "stars": 20,
+    "forks": 56,
+    "issues": 0,
+    "lastUpdated": "2026-02-21T13:00:58Z",
+    "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
+  },
+  {
+    "repo": "AWS-Terraform-Workshop",
+    "stars": 18,
+    "forks": 23,
+    "issues": 0,
+    "lastUpdated": "2026-06-04T09:26:19Z",
+    "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
+  },
+  {
+    "repo": "Zomato-Clone",
+    "stars": 15,
+    "forks": 77,
+    "issues": 0,
+    "lastUpdated": "2026-03-13T05:44:05Z",
+    "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
   },
   {
     "repo": "devops-monitoring-in-a-box",
@@ -248,36 +208,12 @@
     "lastCommit": "ef41c2c28229583a9392b760901cb1eb0289a609"
   },
   {
-    "repo": "devops-environment-toolkit-beginners",
-    "stars": 7,
-    "forks": 5,
+    "repo": "Deployment-of-super-Mario-on-Kubernetes-using-terraform",
+    "stars": 11,
+    "forks": 32,
     "issues": 0,
-    "lastUpdated": "2026-06-02T16:44:32Z",
-    "lastCommit": "fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0"
-  },
-  {
-    "repo": "devops-project-generator",
-    "stars": 2,
-    "forks": 7,
-    "issues": 0,
-    "lastUpdated": "2026-05-25T16:34:32Z",
-    "lastCommit": "730d8af09315cd838f98d7daa920e05d291b562e"
-  },
-  {
-    "repo": "mlops-project-generator",
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-05-26T06:08:24Z",
-    "lastCommit": "490981c4e53a04476d10c6d0ace1fcaaba15d07b"
-  },
-  {
-    "repo": "kubeguardian",
-    "stars": 1,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2026-02-08T07:38:39Z",
-    "lastCommit": "60a6f9cad9969651eb54b1598c68cb96a601d450"
+    "lastUpdated": "2026-02-03T07:07:11Z",
+    "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
   },
   {
     "repo": "devops-project-templates",
@@ -288,12 +224,180 @@
     "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
   },
   {
-    "repo": "cloud-billing-automation",
-    "stars": 2,
+    "repo": "Jenkins-Terraform-AWS-Infra",
+    "stars": 10,
+    "forks": 25,
+    "issues": 0,
+    "lastUpdated": "2026-04-26T11:51:26Z",
+    "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
+  },
+  {
+    "repo": "tf-ecr-ecs-gh-deploy",
+    "stars": 10,
+    "forks": 21,
+    "issues": 0,
+    "lastUpdated": "2026-05-27T06:25:32Z",
+    "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
+  },
+  {
+    "repo": "cv-portfolio",
+    "stars": 10,
+    "forks": 11,
+    "issues": 0,
+    "lastUpdated": "2026-04-24T11:05:26Z",
+    "lastCommit": "85489143b779d9dd56e136caab60bead0e2e7370"
+  },
+  {
+    "repo": "awesome-devops-cloud",
+    "stars": 9,
+    "forks": 11,
+    "issues": 5,
+    "lastUpdated": "2026-05-29T12:46:05Z",
+    "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
+  },
+  {
+    "repo": "links-portfolio",
+    "stars": 7,
+    "forks": 8,
+    "issues": 0,
+    "lastUpdated": "2026-04-27T07:31:12Z",
+    "lastCommit": "83efa408a5b90ee1699718fb71a49f8163f856ae"
+  },
+  {
+    "repo": "github-repo-status-tracker",
+    "stars": 7,
+    "forks": 15,
+    "issues": 0,
+    "lastUpdated": "2026-06-05T06:10:55Z",
+    "lastCommit": "a758a5b3146aa5e3ca10e8103bc24562d385490c"
+  },
+  {
+    "repo": "prodevopsguytech.com",
+    "stars": 7,
+    "forks": 3,
+    "issues": 0,
+    "lastUpdated": "2025-09-20T15:11:52Z",
+    "lastCommit": "502ddc5f8000c7825e970b2bf866c47f89aa69c6"
+  },
+  {
+    "repo": "cloud-native-monitoring-app",
+    "stars": 7,
+    "forks": 18,
+    "issues": 0,
+    "lastUpdated": "2025-04-15T18:04:31Z",
+    "lastCommit": "15102a44dc31d8f340e4ae1ca83db337b488c483"
+  },
+  {
+    "repo": "devops-environment-toolkit-beginners",
+    "stars": 7,
+    "forks": 5,
+    "issues": 0,
+    "lastUpdated": "2026-06-02T16:44:32Z",
+    "lastCommit": "fa4bdc02a6e9fdf5c8f48faf9661c0bd411ab9b0"
+  },
+  {
+    "repo": "ai-platform-engineering-handbook",
+    "stars": 6,
+    "forks": 3,
+    "issues": 0,
+    "lastUpdated": "2026-05-26T20:12:25Z",
+    "lastCommit": "499884fd88a102efd9311ff30352d46e78a18dd7"
+  },
+  {
+    "repo": "projects.prodevopsguytech.com",
+    "stars": 6,
+    "forks": 8,
+    "issues": 0,
+    "lastUpdated": "2025-12-29T08:55:23Z",
+    "lastCommit": "4abff3ade0bf0abac6dbe3d5e8897befd5bfc325"
+  },
+  {
+    "repo": "devops-tools-setups-installations",
+    "stars": 6,
+    "forks": 10,
+    "issues": 0,
+    "lastUpdated": "2026-05-09T18:19:37Z",
+    "lastCommit": "b35a85123c3a5e8d219bee80742cb32cf0b4f446"
+  },
+  {
+    "repo": "uber-clone",
+    "stars": 6,
+    "forks": 12,
+    "issues": 0,
+    "lastUpdated": "2026-02-09T10:06:59Z",
+    "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
+  },
+  {
+    "repo": "interviews.prodevopsguytech.com",
+    "stars": 5,
+    "forks": 3,
+    "issues": 0,
+    "lastUpdated": "2026-03-04T00:51:34Z",
+    "lastCommit": "fd5d26969e6907f9b1aae0e57a738946870e88b8"
+  },
+  {
+    "repo": "prodevopsguy.xyz",
+    "stars": 5,
+    "forks": 2,
+    "issues": 1,
+    "lastUpdated": "2025-02-22T19:57:13Z",
+    "lastCommit": "97fb1167d78a6f050c4031432dc5f5f5a5b1de5a"
+  },
+  {
+    "repo": "jobs.prodevopsguytech.com",
+    "stars": 4,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-02-22T15:07:20Z",
+    "lastCommit": "1ec416a57a8e06739aecf4c504308bf6b369f880"
+  },
+  {
+    "repo": "DevOps-Engineering",
+    "stars": 4,
+    "forks": 9,
+    "issues": 0,
+    "lastUpdated": "2025-12-18T10:58:39Z",
+    "lastCommit": "b3c5d433b8298ecf28baae97aa5ec030bb95f038"
+  },
+  {
+    "repo": "personal-portfolio",
+    "stars": 4,
     "forks": 6,
     "issues": 0,
-    "lastUpdated": "2026-05-01T10:34:12Z",
-    "lastCommit": "a63df46cd7a3dda1db69cd0218bd86a2b3da9530"
+    "lastUpdated": "2026-04-24T11:15:28Z",
+    "lastCommit": "5c0e04466c0e788819a0cbf47b6a7a24b4997f13"
+  },
+  {
+    "repo": "status.prodevopsguytech.com",
+    "stars": 3,
+    "forks": 8,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T06:58:56Z",
+    "lastCommit": "c68e5af9002337e9060e87263e53da039214a07a"
+  },
+  {
+    "repo": "prodevopsguy.hashnode.dev",
+    "stars": 3,
+    "forks": 10,
+    "issues": 0,
+    "lastUpdated": "2025-11-23T06:50:31Z",
+    "lastCommit": "ef6cd275ae9734bd3b8d21feb83993374f383ef4"
+  },
+  {
+    "repo": "cheatsheet.prodevopsguytech.com",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2025-12-18T09:17:35Z",
+    "lastCommit": "bbbbbb4721e7e3dbe971bd03edad3aaf7455369f"
+  },
+  {
+    "repo": "k8s-learning-platform",
+    "stars": 3,
+    "forks": 4,
+    "issues": 0,
+    "lastUpdated": "2026-01-13T22:43:56Z",
+    "lastCommit": "b0dc30592f1c62cdd9b81088d84ab37d87fa9c48"
   },
   {
     "repo": "home-of-best-devops-resources",
@@ -302,5 +406,229 @@
     "issues": 0,
     "lastUpdated": "2025-12-18T11:01:30Z",
     "lastCommit": "4d1f9a8bb77876cca4b5d05654dc198667cb18ed"
+  },
+  {
+    "repo": "aws-infra-generator",
+    "stars": 3,
+    "forks": 4,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T13:10:45Z",
+    "lastCommit": "4dcc27555e984181431ec82952ffa818d0dca873"
+  },
+  {
+    "repo": "terraform-cost-predictor",
+    "stars": 2,
+    "forks": 3,
+    "issues": 0,
+    "lastUpdated": "2026-05-30T17:31:30Z",
+    "lastCommit": "14f7789df80c5702089de5c8c5f793f40cb1465d"
+  },
+  {
+    "repo": "cloud-billing-automation",
+    "stars": 2,
+    "forks": 6,
+    "issues": 0,
+    "lastUpdated": "2026-05-01T10:34:12Z",
+    "lastCommit": "a63df46cd7a3dda1db69cd0218bd86a2b3da9530"
+  },
+  {
+    "repo": "prodevopsguytech-v2",
+    "stars": 2,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-04-20T11:40:35Z",
+    "lastCommit": "67e44e0a5ea73e47005bfe03d0ce033e775f2e26"
+  },
+  {
+    "repo": "ai-question-paper-generator",
+    "stars": 2,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-05-05T09:49:32Z",
+    "lastCommit": "157b37d8a957a2460655c35419fe609f845dd668"
+  },
+  {
+    "repo": "mlflow-k8s-operator",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-15T13:10:52Z",
+    "lastCommit": "9653fc237f4e1b472f15309d09bb46126e52ea97"
+  },
+  {
+    "repo": "devops-project-generator",
+    "stars": 2,
+    "forks": 7,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T16:34:32Z",
+    "lastCommit": "730d8af09315cd838f98d7daa920e05d291b562e"
+  },
+  {
+    "repo": "personal-blog",
+    "stars": 2,
+    "forks": 4,
+    "issues": 0,
+    "lastUpdated": "2026-04-24T11:06:27Z",
+    "lastCommit": "21d26f2d4dfea25365707cfe4ce50797f548904d"
+  },
+  {
+    "repo": "pipeline-forge",
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-05-25T08:36:14Z",
+    "lastCommit": "e09c0c7ca3e4afbb926d136ed6cbfd1dce254399"
+  },
+  {
+    "repo": "internal-developer-platform-cli",
+    "stars": 1,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-04-17T11:33:15Z",
+    "lastCommit": "4776fc3ca75747f8bcd088b7297fe09f09a51998"
+  },
+  {
+    "repo": "kube-ctx-manager",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-08T03:41:12Z",
+    "lastCommit": "153acfa316d4737439299fa746025829a61216b9"
+  },
+  {
+    "repo": "jenkins-plus",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-11T20:34:29Z",
+    "lastCommit": "ef37afd0422dabdb0cce875c6e281340aacff0b4"
+  },
+  {
+    "repo": "shadcn-docs-nuxt-starter",
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2025-05-31T16:31:56Z",
+    "lastCommit": "f3e015feb8009cd96592bcb345c6097d08c2a7d5"
+  },
+  {
+    "repo": "drift-watchdog",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-01T10:48:47Z",
+    "lastCommit": "26e99afef1bf5dc402f4d4d58a769be807d3c079"
+  },
+  {
+    "repo": "kubeguardian",
+    "stars": 1,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-02-08T07:38:39Z",
+    "lastCommit": "60a6f9cad9969651eb54b1598c68cb96a601d450"
+  },
+  {
+    "repo": "awesome-devops-cloud-ui",
+    "stars": 1,
+    "forks": 4,
+    "issues": 0,
+    "lastUpdated": "2025-09-27T07:19:24Z",
+    "lastCommit": "6a653d711d6f4c690d9dce835e84f0c5e29739bb"
+  },
+  {
+    "repo": "scoop-bucket",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-04-20T11:21:20Z",
+    "lastCommit": "f04d7561fed0634eebffd76aa5fcd74bada42392"
+  },
+  {
+    "repo": "devops-mcp",
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-05-29T11:46:00Z",
+    "lastCommit": "c1b5044cc6e3bac1b87ee525bd87e71ed98f0ca9"
+  },
+  {
+    "repo": "mainframe-mcp-server",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-06-04T18:02:42Z",
+    "lastCommit": "52c381bbf1dae6bb31b174f47ae6abe0ccabc41b"
+  },
+  {
+    "repo": "devops-atlasx",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-04-18T16:05:48Z",
+    "lastCommit": "d538bd930eb7783d1472e770298e8f2cce2c6038"
+  },
+  {
+    "repo": "itsmeharshhaa.site",
+    "stars": 0,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2025-04-12T04:53:03Z",
+    "lastCommit": "30a4c8e06825071d41dfcae2ac6158522768a4c0"
+  },
+  {
+    "repo": "terraview",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-29T12:38:24Z",
+    "lastCommit": "a08afb05b96cc59e453826bdd687ee11987b4437"
+  },
+  {
+    "repo": "mlops-project-generator",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-26T06:08:24Z",
+    "lastCommit": "490981c4e53a04476d10c6d0ace1fcaaba15d07b"
+  },
+  {
+    "repo": "pod-why-dead",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-01T10:18:21Z",
+    "lastCommit": "d32f88fb95757fa1e26ed984069f60c58df7a5c3"
+  },
+  {
+    "repo": "homebrew-tap",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-04-20T05:56:24Z",
+    "lastCommit": "4ea338acf442a1a525cf65bea02a2599ebaed81d"
+  },
+  {
+    "repo": "terraview-action",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-06-05T04:38:03Z",
+    "lastCommit": "024d827fb364c66d2fdecf6f9400a57c7558398d"
+  },
+  {
+    "repo": "cost-digest-bot",
+    "stars": 0,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-04-03T07:23:25Z",
+    "lastCommit": "d7ebacdf434f5b48d83a4a33c1d03eb2e88cc484"
+  },
+  {
+    "repo": "aws-ghost",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-05-30T16:46:12Z",
+    "lastCommit": "90db1d3dd35502cb24016511f84471a709167367"
   }
 ]

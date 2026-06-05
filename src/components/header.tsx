@@ -1,14 +1,16 @@
 import { Github, Info, Layers, FolderGit2, Sun, Moon, ArrowDown, Menu, X } from 'lucide-react';
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import { useTheme } from 'next-themes';
 import { ButtonLink } from '@/components/button-link';
 import { data } from '@/constants';
 import { cn } from '@/lib/utils';
+import { getProjectStats } from '@/lib/project-utils';
 
 export function Header() {
   const { theme, setTheme } = useTheme();
   const isDark = theme === 'dark';
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const stats = useMemo(() => getProjectStats(data.projects), [data.projects]);
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
@@ -167,8 +169,13 @@ export function Header() {
           <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-6">
             Most Useful DevOps/Cloud GitHub Repositories for Learning and Become a Professional DevOps Engineer
           </h1>
-          <p className="text-lg text-muted-foreground mb-8">
+          <p className="text-lg text-muted-foreground mb-4">
             This page features a curated list of the most useful DevOps and Cloud GitHub repositories to help you learn essential skills and become a professional DevOps Engineer.
+          </p>
+          <p className="text-sm text-muted-foreground mb-8">
+            Tracking <strong className="text-foreground">{stats.total}</strong> repositories with{' '}
+            <strong className="text-foreground">{stats.stars.toLocaleString()}</strong> combined stars.
+            Search, filter, and sort below.
           </p>
           <div className="flex flex-col gap-6">
             <div className="flex flex-col sm:flex-row items-center gap-4">

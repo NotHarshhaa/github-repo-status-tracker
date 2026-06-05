@@ -98,7 +98,7 @@ export const ProjectCard = memo(function ProjectCard({
               </div>
             )}
 
-            <CardDescription className="font-mono text-sm text-muted-foreground/90 leading-relaxed">
+            <CardDescription className="font-mono text-sm text-muted-foreground/90 leading-relaxed line-clamp-3 min-h-[4.5rem]">
               {description}
             </CardDescription>
           </div>
