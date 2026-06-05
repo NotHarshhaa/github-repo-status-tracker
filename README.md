@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05%2006%3A24%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05%2009%3A53%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
@@ -10,13 +10,13 @@ Updates automatically every 6 hours via GitHub Actions.
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,012** stars · **7,793** forks · **44** open issues
+> **79** repositories · **9,012** stars · **7,794** forks · **44** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,270 | 4,102 | 23 | — | 2026-06-05 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,270 | 4,103 | 23 | — | 2026-06-05 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 908 | 672 | 2 | — | 2026-06-05 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 867 | 519 | 0 | — | 2026-06-04 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 546 | 217 | 4 | — | 2026-06-03 |
@@ -105,7 +105,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
   &nbsp;·&nbsp; ⭐ 4,270
-  &nbsp;·&nbsp; 🍴 4,102
+  &nbsp;·&nbsp; 🍴 4,103
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -1042,7 +1042,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: Enhance project repository overview with new features and updates](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/66a5786270f3f0c912228af8451414bd7a075e44) |
+| **Latest commit** | [git-tracker: Update footer and repository data with new personal website links](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f1f31122c110a89b48311de08e719ea0498db2fc) |
 | **Commit date** | `2026-06-05` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-06-05` |
