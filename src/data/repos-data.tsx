@@ -40,13 +40,13 @@ export const REPOS_DATA: RepoData = {
 	summary: 'Browse live GitHub stats across learning repos, real-world projects, tools, and community websites.',
 	personalWebsiteUrl: {
 		name: 'Portfolio',
-		url: 'https://notharshhaa.site'
+		url: 'https://harshhaareddy.site'
 	},
 	// Contact info
 	contact: {
 		link: {
 			name: 'Other Links',
-			url: 'https://link.notharshhaa.site'
+			url: 'https://link.harshhaareddy.site'
 		},
 		email: {
 			name: 'Email',

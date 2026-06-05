@@ -43,7 +43,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Globe className="h-4 w-4" />
-                <a href="https://notharshhaa.site" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">notharshhaa.site</a>
+                <a href="https://harshhaareddy.site" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">harshhaareddy.site</a>
               </li>
             </ul>
           </div>
