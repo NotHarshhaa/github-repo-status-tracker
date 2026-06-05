@@ -1,16 +1,16 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05%2006%3A10%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05%2006%3A24%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**38** repositories tracked · **8,719** combined stars
+**79** repositories tracked · **9,012** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **38** repositories · **8,719** stars · **7,593** forks · **43** open issues
+> **79** repositories · **9,012** stars · **7,793** forks · **44** open issues
 
 ### Quick overview
 
@@ -27,33 +27,74 @@ Updates automatically every 6 hours via GitHub Actions.
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 185 | 199 | 0 | — | 2026-05-27 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 158 | 118 | 0 | Fail | 2026-06-01 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 131 | 115 | 1 | Fail | 2026-05-25 |
-| 12 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 89 | 60 | 0 | — | 2026-05-25 |
-| 13 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 73 | 67 | 0 | — | 2026-05-25 |
-| 14 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 62 | 69 | 0 | — | 2026-05-25 |
-| 15 | [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard) | 57 | 53 | 0 | Pass | 2026-05-25 |
-| 16 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 57 | 56 | 0 | — | 2026-05-25 |
-| 17 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 27 | 65 | 0 | — | 2026-02-16 |
-| 18 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 27 | 33 | 1 | — | 2026-05-19 |
-| 19 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 23 | 34 | 0 | — | 2026-06-05 |
-| 20 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 21 | 43 | 0 | — | 2026-05-11 |
-| 21 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 20 | 56 | 0 | — | 2026-02-21 |
-| 22 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 23 | 0 | — | 2026-06-04 |
-| 23 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 77 | 0 | — | 2026-03-13 |
-| 24 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 14 | 16 | 0 | Pass | 2026-05-11 |
-| 25 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 11 | 32 | 0 | — | 2026-02-03 |
-| 26 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 3 | 0 | Fail | 2026-05-17 |
-| 27 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
-| 28 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 10 | 21 | 0 | — | 2026-05-27 |
-| 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 9 | 11 | 5 | — | 2026-05-29 |
-| 30 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
-| 31 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
-| 32 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 6 | 12 | 0 | — | 2026-02-09 |
-| 33 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
-| 34 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
-| 35 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 2 | 7 | 0 | — | 2026-05-25 |
-| 36 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 2 | 6 | 0 | Fail | 2026-05-01 |
-| 37 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 1 | 2 | 0 | Pass | 2026-02-08 |
-| 38 | [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator) | 0 | 0 | 0 | Fail | 2026-05-26 |
+| 12 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 98 | 41 | 0 | — | 2026-05-24 |
+| 13 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 94 | 41 | 0 | — | 2026-06-05 |
+| 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 89 | 60 | 0 | — | 2026-05-25 |
+| 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 73 | 67 | 0 | — | 2026-05-25 |
+| 16 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 62 | 69 | 0 | — | 2026-05-25 |
+| 17 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 57 | 56 | 0 | — | 2026-05-25 |
+| 18 | [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard) | 57 | 53 | 0 | Pass | 2026-05-25 |
+| 19 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 27 | 33 | 1 | — | 2026-05-19 |
+| 20 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 27 | 65 | 0 | — | 2026-02-16 |
+| 21 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 23 | 34 | 0 | — | 2026-06-05 |
+| 22 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 21 | 43 | 0 | — | 2026-05-11 |
+| 23 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 20 | 56 | 0 | — | 2026-02-21 |
+| 24 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 23 | 0 | — | 2026-06-04 |
+| 25 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 77 | 0 | — | 2026-03-13 |
+| 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 14 | 16 | 0 | Pass | 2026-05-11 |
+| 27 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 11 | 32 | 0 | — | 2026-02-03 |
+| 28 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 3 | 0 | Fail | 2026-05-17 |
+| 29 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
+| 30 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 10 | 21 | 0 | — | 2026-05-27 |
+| 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 10 | 11 | 0 | — | 2026-04-24 |
+| 32 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 9 | 11 | 5 | — | 2026-05-29 |
+| 33 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 7 | 8 | 0 | — | 2026-04-27 |
+| 34 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-06-05 |
+| 35 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
+| 36 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
+| 37 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
+| 38 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 6 | 3 | 0 | — | 2026-05-26 |
+| 39 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 6 | 8 | 0 | — | 2025-12-29 |
+| 40 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-05-09 |
+| 41 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 6 | 12 | 0 | — | 2026-02-09 |
+| 42 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 5 | 3 | 0 | — | 2026-03-04 |
+| 43 | [prodevopsguy.xyz](https://github.com/NotHarshhaa/prodevopsguy.xyz) | 5 | 2 | 1 | — | 2025-02-22 |
+| 44 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
+| 45 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
+| 46 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 4 | 6 | 0 | — | 2026-04-24 |
+| 47 | [status.prodevopsguytech.com](https://github.com/NotHarshhaa/status.prodevopsguytech.com) | 3 | 8 | 0 | Pass | 2026-05-25 |
+| 48 | [prodevopsguy.hashnode.dev](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev) | 3 | 10 | 0 | — | 2025-11-23 |
+| 49 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 3 | 0 | 0 | — | 2025-12-18 |
+| 50 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
+| 51 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
+| 52 | [aws-infra-generator](https://github.com/NotHarshhaa/aws-infra-generator) | 3 | 4 | 0 | — | 2026-05-25 |
+| 53 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 2 | 3 | 0 | — | 2026-05-30 |
+| 54 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 2 | 6 | 0 | Fail | 2026-05-01 |
+| 55 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 2 | 2 | 0 | — | 2026-04-20 |
+| 56 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 2 | 1 | 0 | — | 2026-05-05 |
+| 57 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
+| 58 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 2 | 7 | 0 | — | 2026-05-25 |
+| 59 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-04-24 |
+| 60 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-05-25 |
+| 61 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 1 | 2 | 0 | — | 2026-04-17 |
+| 62 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 1 | 0 | 0 | — | 2026-05-08 |
+| 63 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 1 | 0 | 0 | Pass | 2026-05-11 |
+| 64 | [shadcn-docs-nuxt-starter](https://github.com/NotHarshhaa/shadcn-docs-nuxt-starter) | 1 | 1 | 0 | — | 2025-05-31 |
+| 65 | [drift-watchdog](https://github.com/NotHarshhaa/drift-watchdog) | 1 | 0 | 0 | — | 2026-05-01 |
+| 66 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 1 | 2 | 0 | Pass | 2026-02-08 |
+| 67 | [awesome-devops-cloud-ui](https://github.com/NotHarshhaa/awesome-devops-cloud-ui) | 1 | 4 | 0 | — | 2025-09-27 |
+| 68 | [scoop-bucket](https://github.com/NotHarshhaa/scoop-bucket) | 1 | 0 | 0 | — | 2026-04-20 |
+| 69 | [devops-mcp](https://github.com/NotHarshhaa/devops-mcp) | 1 | 1 | 0 | — | 2026-05-29 |
+| 70 | [mainframe-mcp-server](https://github.com/NotHarshhaa/mainframe-mcp-server) | 0 | 0 | 0 | Pass | 2026-06-04 |
+| 71 | [devops-atlasx](https://github.com/NotHarshhaa/devops-atlasx) | 0 | 0 | 0 | — | 2026-04-18 |
+| 72 | [itsmeharshhaa.site](https://github.com/NotHarshhaa/itsmeharshhaa.site) | 0 | 1 | 0 | — | 2025-04-12 |
+| 73 | [terraview](https://github.com/NotHarshhaa/terraview) | 0 | 0 | 0 | Pass | 2026-05-29 |
+| 74 | [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator) | 0 | 0 | 0 | Fail | 2026-05-26 |
+| 75 | [pod-why-dead](https://github.com/NotHarshhaa/pod-why-dead) | 0 | 0 | 0 | Pass | 2026-05-01 |
+| 76 | [homebrew-tap](https://github.com/NotHarshhaa/homebrew-tap) | 0 | 0 | 0 | — | 2026-04-20 |
+| 77 | [terraview-action](https://github.com/NotHarshhaa/terraview-action) | 0 | 0 | 0 | Pass | 2026-06-05 |
+| 78 | [cost-digest-bot](https://github.com/NotHarshhaa/cost-digest-bot) | 0 | 1 | 0 | Fail | 2026-04-03 |
+| 79 | [aws-ghost](https://github.com/NotHarshhaa/aws-ghost) | 0 | 0 | 0 | Pass | 2026-05-30 |
 
 ### Repository details
 
@@ -367,6 +408,62 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:AWS-GCP-Azure-Cloud-Projects-Workshop -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop">AWS-GCP-Azure-Cloud-Projects-Workshop</a></strong>
+  &nbsp;·&nbsp; ⭐ 98
+  &nbsp;·&nbsp; 🍴 41
+  &nbsp;·&nbsp; CI —
+  <br><sub>A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience,...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [aws-gcp-azure: README: Add banner image to README](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3) |
+| **Commit date** | `2025-11-11` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-24` |
+| **License** | `MIT License` |
+| **Languages** | _None detected_ |
+| **Topics** | `amazon-web-services` · `aws` · `azure` · `cloud-projects` · `google-cloud-platform` · `microsoft-azure` |
+
+</details>
+
+<!-- repo:AWS-Projects -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
+  &nbsp;·&nbsp; ⭐ 94
+  &nbsp;·&nbsp; 🍴 41
+  &nbsp;·&nbsp; CI —
+  <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-Projects?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Projects?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Projects?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Projects?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [AWS: Add Code of Conduct, Contributing Guidelines, Security Policy, and Funding Informa...](https://github.com/NotHarshhaa/AWS-Projects/commit/c942afb83427ab02b475685461c7b3e0b0a1fd84) |
+| **Commit date** | `2026-05-11` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-05` |
+| **License** | `No license` |
+| **Languages** | _None detected_ |
+| **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
+
+</details>
+
 <!-- repo:azure-all_in_one -->
 <details>
 <summary>
@@ -451,34 +548,6 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
-<!-- repo:kubernetes-dashboard -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/kubernetes-dashboard">kubernetes-dashboard</a></strong>
-  &nbsp;·&nbsp; ⭐ 57
-  &nbsp;·&nbsp; 🍴 53
-  &nbsp;·&nbsp; CI Pass
-  <br><sub>A kubernetes dashboard integrated with health checks, trivy scanning and health checks for pods</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [Kubernetes-dashboard: enhance UI components with demo mode indicators and connection st...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) |
-| **Commit date** | `2026-02-07` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-25` |
-| **License** | `No license` |
-| **Languages** | `TypeScript` · `CSS` · `Dockerfile` · `JavaScript` |
-| **Topics** | `health-check` · `kubernetes` · `kubernetes-dashboard` · `kubernetes-metrics` · `kubernetes-monitoring` · `kubernetes-pods` |
-
-</details>
-
 <!-- repo:aws-billing-alert-terraform -->
 <details>
 <summary>
@@ -507,31 +576,31 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
-<!-- repo:AWS-DevOps_Real-Time_Deployment -->
+<!-- repo:kubernetes-dashboard -->
 <details>
 <summary>
-  <strong><a href="https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment">AWS-DevOps_Real-Time_Deployment</a></strong>
-  &nbsp;·&nbsp; ⭐ 27
-  &nbsp;·&nbsp; 🍴 65
-  &nbsp;·&nbsp; CI —
-  <br><sub>AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production</sub>
+  <strong><a href="https://github.com/NotHarshhaa/kubernetes-dashboard">kubernetes-dashboard</a></strong>
+  &nbsp;·&nbsp; ⭐ 57
+  &nbsp;·&nbsp; 🍴 53
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A kubernetes dashboard integrated with health checks, trivy scanning and health checks for pods</sub>
 </summary>
 <br>
 
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard?style=flat-square)
 
 | | |
 |---|---|
-| **Latest commit** | [AWS-DevOps: Major enhancements for version 2.0 with security and performance improvements](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/05fdaf765530612930ae6d605bfec0e54e2a2ea0) |
-| **Commit date** | `2026-02-14` |
+| **Latest commit** | [Kubernetes-dashboard: enhance UI components with demo mode indicators and connection st...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) |
+| **Commit date** | `2026-02-07` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-02-16` |
+| **Repo updated** | `2026-05-25` |
 | **License** | `No license` |
-| **Languages** | `Shell` · `HTML` |
-| **Topics** | _None_ |
+| **Languages** | `TypeScript` · `CSS` · `Dockerfile` · `JavaScript` |
+| **Topics** | `health-check` · `kubernetes` · `kubernetes-dashboard` · `kubernetes-metrics` · `kubernetes-monitoring` · `kubernetes-pods` |
 
 </details>
 
@@ -560,6 +629,34 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `TypeScript` · `JavaScript` · `CSS` |
 | **Topics** | `docker` · `docker-compose` · `docker-container` · `docker-kubernetes` · `docker-tutorial` · `kubernetes` |
+
+</details>
+
+<!-- repo:AWS-DevOps_Real-Time_Deployment -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment">AWS-DevOps_Real-Time_Deployment</a></strong>
+  &nbsp;·&nbsp; ⭐ 27
+  &nbsp;·&nbsp; 🍴 65
+  &nbsp;·&nbsp; CI —
+  <br><sub>AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-DevOps_Real-Time_Deployment?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [AWS-DevOps: Major enhancements for version 2.0 with security and performance improvements](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/05fdaf765530612930ae6d605bfec0e54e2a2ea0) |
+| **Commit date** | `2026-02-14` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-02-16` |
+| **License** | `No license` |
+| **Languages** | `Shell` · `HTML` |
+| **Topics** | _None_ |
 
 </details>
 
@@ -843,6 +940,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:cv-portfolio -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/cv-portfolio">cv-portfolio</a></strong>
+  &nbsp;·&nbsp; ⭐ 10
+  &nbsp;·&nbsp; 🍴 11
+  &nbsp;·&nbsp; CI —
+  <br><sub>🌐 A personal CV website built with Next.js, Tailwind CSS, and TypeScript — responsive, printable, and perfect for showcasing professional...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cv-portfolio?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cv-portfolio?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cv-portfolio?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cv-portfolio?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [cv: chore(assets): update avatar image](https://github.com/NotHarshhaa/cv-portfolio/commit/85489143b779d9dd56e136caab60bead0e2e7370) |
+| **Commit date** | `2026-04-24` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-24` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `JavaScript` · `CSS` |
+| **Topics** | `cv` · `javascript` · `nextjs` · `personal-cv` · `tailwindcss` · `typescript` |
+
+</details>
+
 <!-- repo:awesome-devops-cloud -->
 <details>
 <summary>
@@ -868,6 +993,90 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `JavaScript` |
 | **Topics** | _None_ |
+
+</details>
+
+<!-- repo:links-portfolio -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/links-portfolio">links-portfolio</a></strong>
+  &nbsp;·&nbsp; ⭐ 7
+  &nbsp;·&nbsp; 🍴 8
+  &nbsp;·&nbsp; CI —
+  <br><sub>✨ Links to my social media.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/links-portfolio?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/links-portfolio?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/links-portfolio?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/links-portfolio?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [link: refactor: enhance performance optimizations and mobile responsiveness](https://github.com/NotHarshhaa/links-portfolio/commit/83efa408a5b90ee1699718fb71a49f8163f856ae) |
+| **Commit date** | `2026-04-27` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-27` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | `css` · `javascript` · `links` · `nextjs` · `personal-site` · `personal-website` |
+
+</details>
+
+<!-- repo:github-repo-status-tracker -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/github-repo-status-tracker">github-repo-status-tracker</a></strong>
+  &nbsp;·&nbsp; ⭐ 7
+  &nbsp;·&nbsp; 🍴 15
+  &nbsp;·&nbsp; CI Running
+  <br><sub>This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The s...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/github-repo-status-tracker?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/github-repo-status-tracker?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/github-repo-status-tracker?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/github-repo-status-tracker?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [git-tracker: Enhance project repository overview with new features and updates](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/66a5786270f3f0c912228af8451414bd7a075e44) |
+| **Commit date** | `2026-06-05` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-05` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:prodevopsguytech.com -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/prodevopsguytech.com">prodevopsguytech.com</a></strong>
+  &nbsp;·&nbsp; ⭐ 7
+  &nbsp;·&nbsp; 🍴 3
+  &nbsp;·&nbsp; CI —
+  <br><sub>Web of ProDevOpsGuy Tech is a passionate community built for DevOps and Cloud enthusiasts, learners, and professionals. Our mission is to...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/prodevopsguytech.com?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/prodevopsguytech.com?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/prodevopsguytech.com?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/prodevopsguytech.com?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [fix: improve post path handling in getStaticPaths for better slug filtering](https://github.com/NotHarshhaa/prodevopsguytech.com/commit/502ddc5f8000c7825e970b2bf866c47f89aa69c6) |
+| **Commit date** | `2025-03-31` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2025-09-20` |
+| **License** | `No license` |
+| **Languages** | `TypeScript` · `JavaScript` · `CSS` |
+| **Topics** | `javascript` · `nextjs` · `tailwindcss` · `typescript` |
 
 </details>
 
@@ -927,6 +1136,90 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:ai-platform-engineering-handbook -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/ai-platform-engineering-handbook">ai-platform-engineering-handbook</a></strong>
+  &nbsp;·&nbsp; ⭐ 6
+  &nbsp;·&nbsp; 🍴 3
+  &nbsp;·&nbsp; CI —
+  <br><sub>Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, an...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [ai-platform-handbook: Revise Data Validation & Monitoring documentation](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/499884fd88a102efd9311ff30352d46e78a18dd7) |
+| **Commit date** | `2026-05-23` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-26` |
+| **License** | `MIT License` |
+| **Languages** | _None detected_ |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:projects.prodevopsguytech.com -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/projects.prodevopsguytech.com">projects.prodevopsguytech.com</a></strong>
+  &nbsp;·&nbsp; ⭐ 6
+  &nbsp;·&nbsp; 🍴 8
+  &nbsp;·&nbsp; CI —
+  <br><sub>A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using N...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/projects.prodevopsguytech.com?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/projects.prodevopsguytech.com?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/projects.prodevopsguytech.com?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/projects.prodevopsguytech.com?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Projects-Showcase: feat: Add DevOps Project-39 documentation to WEB](https://github.com/NotHarshhaa/projects.prodevopsguytech.com/commit/4abff3ade0bf0abac6dbe3d5e8897befd5bfc325) |
+| **Commit date** | `2025-12-21` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2025-12-29` |
+| **License** | `GNU Affero General Public License v3.0` |
+| **Languages** | `MDX` · `TypeScript` · `JavaScript` · `CSS` · `TeX` |
+| **Topics** | `css` · `devops` · `devops-learning` · `devops-practice-project-space` · `devops-projects` · `farmer-motion` |
+
+</details>
+
+<!-- repo:devops-tools-setups-installations -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-tools-setups-installations">devops-tools-setups-installations</a></strong>
+  &nbsp;·&nbsp; ⭐ 6
+  &nbsp;·&nbsp; 🍴 10
+  &nbsp;·&nbsp; CI —
+  <br><sub>Master DevOps Tools Installation & Configuration — Your comprehensive guide to setting up a professional DevOps environment with step-by-...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-tools-setups-installations?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-tools-setups-installations?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-tools-setups-installations?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-tools-setups-installations?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Merge pull request #1 from NotHarshhaa/vercel/react-server-components-cve-vu-2esdl3](https://github.com/NotHarshhaa/devops-tools-setups-installations/commit/b35a85123c3a5e8d219bee80742cb32cf0b4f446) |
+| **Commit date** | `2025-12-18` |
+| **Author** | `H A R S H H A A` |
+| **Repo updated** | `2026-05-09` |
+| **License** | `No license` |
+| **Languages** | `TypeScript` · `MDX` · `CSS` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:uber-clone -->
 <details>
 <summary>
@@ -955,6 +1248,90 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:interviews.prodevopsguytech.com -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/interviews.prodevopsguytech.com">interviews.prodevopsguytech.com</a></strong>
+  &nbsp;·&nbsp; ⭐ 5
+  &nbsp;·&nbsp; 🍴 3
+  &nbsp;·&nbsp; CI —
+  <br><sub>This project powers a modern web UI designed to help DevOps professionals prepare for interviews with curated, categorized, and regularly...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/interviews.prodevopsguytech.com?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/interviews.prodevopsguytech.com?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/interviews.prodevopsguytech.com?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/interviews.prodevopsguytech.com?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [interview-hub: feat: enhance animations and styles across components, including CTA, Fe...](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/fd5d26969e6907f9b1aae0e57a738946870e88b8) |
+| **Commit date** | `2025-08-11` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-03-04` |
+| **License** | `No license` |
+| **Languages** | `TypeScript` · `MDX` · `CSS` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:prodevopsguy.xyz -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/prodevopsguy.xyz">prodevopsguy.xyz</a></strong>
+  &nbsp;·&nbsp; ⭐ 5
+  &nbsp;·&nbsp; 🍴 2
+  &nbsp;·&nbsp; CI —
+  <br><sub>A minimal, accessible and SEO-friendly Astro blog theme</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/prodevopsguy.xyz?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/prodevopsguy.xyz?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/prodevopsguy.xyz?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/prodevopsguy.xyz?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [create post: How to Deploy a JavaScript Tetris-Game-App on Azure CICD Pipeline and App...](https://github.com/NotHarshhaa/prodevopsguy.xyz/commit/97fb1167d78a6f050c4031432dc5f5f5a5b1de5a) |
+| **Commit date** | `2024-06-20` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2025-02-22` |
+| **License** | `MIT License` |
+| **Languages** | `Astro` · `TypeScript` · `CSS` · `JavaScript` · `Shell` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:jobs.prodevopsguytech.com -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/jobs.prodevopsguytech.com">jobs.prodevopsguytech.com</a></strong>
+  &nbsp;·&nbsp; ⭐ 4
+  &nbsp;·&nbsp; 🍴 2
+  &nbsp;·&nbsp; CI —
+  <br><sub>Find your dream DevOps, SRE, Platform Engineering, and Cloud jobs — all in one place. No ads. No fees. Just high-quality job listings upd...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/jobs.prodevopsguytech.com?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/jobs.prodevopsguytech.com?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/jobs.prodevopsguytech.com?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/jobs.prodevopsguytech.com?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [jobs: fix: adjust navbar dimensions and icon sizes for mobile mode](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com/commit/1ec416a57a8e06739aecf4c504308bf6b369f880) |
+| **Commit date** | `2025-07-01` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-02-22` |
+| **License** | `No license` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | `devopsjobs` · `job-board` · `job-portal` · `jobs-search` · `jobsearch` · `nextjs14` |
+
+</details>
+
 <!-- repo:DevOps-Engineering -->
 <details>
 <summary>
@@ -979,6 +1356,146 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Repo updated** | `2025-12-18` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `MDX` · `JavaScript` · `CSS` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:personal-portfolio -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/personal-portfolio">personal-portfolio</a></strong>
+  &nbsp;·&nbsp; ⭐ 4
+  &nbsp;·&nbsp; 🍴 6
+  &nbsp;·&nbsp; CI —
+  <br><sub>✨ My personal portfolio showcasing my work and skills.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/personal-portfolio?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/personal-portfolio?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/personal-portfolio?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/personal-portfolio?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [portfolio: update: replace avatar image with new version](https://github.com/NotHarshhaa/personal-portfolio/commit/5c0e04466c0e788819a0cbf47b6a7a24b4997f13) |
+| **Commit date** | `2026-04-24` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-24` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `JavaScript` · `CSS` |
+| **Topics** | `css` · `javascript` · `nodejs` · `tailwindcss` · `typescript` |
+
+</details>
+
+<!-- repo:status.prodevopsguytech.com -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/status.prodevopsguytech.com">status.prodevopsguytech.com</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 8
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A modern, responsive status dashboard for monitoring the health and up-time of our web services and applications.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/status.prodevopsguytech.com?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/status.prodevopsguytech.com?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/status.prodevopsguytech.com?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/status.prodevopsguytech.com?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [status: Improve Notification component with useCallback and useMemo](https://github.com/NotHarshhaa/status.prodevopsguytech.com/commit/c68e5af9002337e9060e87263e53da039214a07a) |
+| **Commit date** | `2026-05-25` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-25` |
+| **License** | `No license` |
+| **Languages** | `JavaScript` · `CSS` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:prodevopsguy.hashnode.dev -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev">prodevopsguy.hashnode.dev</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 10
+  &nbsp;·&nbsp; CI —
+  <br><sub>Backups of my blogs</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/prodevopsguy.hashnode.dev?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/prodevopsguy.hashnode.dev?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/prodevopsguy.hashnode.dev?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/prodevopsguy.hashnode.dev?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [update post: The Ultimate DevOps Bootcamp 2025 Pack by ProDevOpsGuy Tech](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev/commit/ef6cd275ae9734bd3b8d21feb83993374f383ef4) |
+| **Commit date** | `2025-11-23` |
+| **Author** | `H A R S H H A A` |
+| **Repo updated** | `2025-11-23` |
+| **License** | `No license` |
+| **Languages** | _None detected_ |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:cheatsheet.prodevopsguytech.com -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com">cheatsheet.prodevopsguytech.com</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI —
+  <br><sub>Welcome to the DevOps Tools Cheatsheet Collection (UI-BASED) – your go-to resource for mastering DevOps tools and technologies!</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cheatsheet.prodevopsguytech.com?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cheatsheet.prodevopsguytech.com?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cheatsheet.prodevopsguytech.com?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cheatsheet.prodevopsguytech.com?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Initial commit](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/bbbbbb4721e7e3dbe971bd03edad3aaf7455369f) |
+| **Commit date** | `2025-12-08` |
+| **Author** | `H A R S H H A A` |
+| **Repo updated** | `2025-12-18` |
+| **License** | `MIT License` |
+| **Languages** | _None detected_ |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:k8s-learning-platform -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/k8s-learning-platform">k8s-learning-platform</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 4
+  &nbsp;·&nbsp; CI —
+  <br><sub>A comprehensive learning platform covering Kubernetes administration, Helm package management, operators, and monitoring. Master K8s with...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/k8s-learning-platform?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/k8s-learning-platform?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/k8s-learning-platform?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/k8s-learning-platform?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [k8s-learning: Initial setup of the Kubernetes Learning Platform](https://github.com/NotHarshhaa/k8s-learning-platform/commit/b0dc30592f1c62cdd9b81088d84ab37d87fa9c48) |
+| **Commit date** | `2025-12-27` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-01-13` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` · `Shell` |
 | **Topics** | _None_ |
 
 </details>
@@ -1011,6 +1528,174 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:aws-infra-generator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/aws-infra-generator">aws-infra-generator</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 4
+  &nbsp;·&nbsp; CI —
+  <br><sub>A platform engineering tool that generates production-ready AWS infrastructure templates using Terraform or CloudFormation based on user-...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/aws-infra-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/aws-infra-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/aws-infra-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-infra-generator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [aws-infra: Refactor imports and enhance cloudformation helpers](https://github.com/NotHarshhaa/aws-infra-generator/commit/4dcc27555e984181431ec82952ffa818d0dca873) |
+| **Commit date** | `2026-05-25` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-25` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | `aws` · `aws-infra` · `aws-infra-gen` · `aws-infrastructure-automation` · `cloudformation` · `infra-gen` |
+
+</details>
+
+<!-- repo:terraform-cost-predictor -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/terraform-cost-predictor">terraform-cost-predictor</a></strong>
+  &nbsp;·&nbsp; ⭐ 2
+  &nbsp;·&nbsp; 🍴 3
+  &nbsp;·&nbsp; CI —
+  <br><sub>Terraform Cost Predictor is an ML-powered tool that analyzes Terraform infrastructure configurations and predicts the estimated monthly c...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/terraform-cost-predictor?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/terraform-cost-predictor?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/terraform-cost-predictor?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/terraform-cost-predictor?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [tf-cost-ml: Upgrade frontend components with improved UI and functionality](https://github.com/NotHarshhaa/terraform-cost-predictor/commit/14f7789df80c5702089de5c8c5f793f40cb1465d) |
+| **Commit date** | `2026-05-30` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-30` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `Python` · `CSS` · `Dockerfile` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:cloud-billing-automation -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/cloud-billing-automation">cloud-billing-automation</a></strong>
+  &nbsp;·&nbsp; ⭐ 2
+  &nbsp;·&nbsp; 🍴 6
+  &nbsp;·&nbsp; CI Fail
+  <br><sub>A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [cloud-billing-cli: Release version 0.6.0 with security enhancements and improvements](https://github.com/NotHarshhaa/cloud-billing-automation/commit/a63df46cd7a3dda1db69cd0218bd86a2b3da9530) |
+| **Commit date** | `2026-05-01` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-01` |
+| **License** | `MIT License` |
+| **Languages** | `Python` · `Batchfile` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:prodevopsguytech-v2 -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/prodevopsguytech-v2">prodevopsguytech-v2</a></strong>
+  &nbsp;·&nbsp; ⭐ 2
+  &nbsp;·&nbsp; 🍴 2
+  &nbsp;·&nbsp; CI —
+  <br><sub>Home of ProDevOpsGuy Tech Community Website</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/prodevopsguytech-v2?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/prodevopsguytech-v2?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/prodevopsguytech-v2?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/prodevopsguytech-v2?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [ProDevOpsGuy-Tech: feat: implement consistent floating particle animations across multi...](https://github.com/NotHarshhaa/prodevopsguytech-v2/commit/67e44e0a5ea73e47005bfe03d0ce033e775f2e26) |
+| **Commit date** | `2026-02-14` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-20` |
+| **License** | `No license` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | `cloud` · `devops` · `devops-community` · `nextjs14` · `shadn-ui` · `tailwindcss` |
+
+</details>
+
+<!-- repo:ai-question-paper-generator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/ai-question-paper-generator">ai-question-paper-generator</a></strong>
+  &nbsp;·&nbsp; ⭐ 2
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI —
+  <br><sub>An intelligent system that automatically generates university-style question papers using NLP and Machine Learning techniques.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [refactor: update UI components for consistency and improved styling](https://github.com/NotHarshhaa/ai-question-paper-generator/commit/157b37d8a957a2460655c35419fe609f845dd668) |
+| **Commit date** | `2026-05-05` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-05` |
+| **License** | `GNU General Public License v3.0` |
+| **Languages** | `TypeScript` · `Python` · `Shell` · `HCL` · `CSS` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:mlflow-k8s-operator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/mlflow-k8s-operator">mlflow-k8s-operator</a></strong>
+  &nbsp;·&nbsp; ⭐ 2
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A Kubernetes operator that auto-provisions MLflow tracking servers, model registries, and artifact stores as CRDs so data scientists neve...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/mlflow-k8s-operator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/mlflow-k8s-operator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/mlflow-k8s-operator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/mlflow-k8s-operator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [mlflow-k8s: Drop docker sequential builds for multi-platform support](https://github.com/NotHarshhaa/mlflow-k8s-operator/commit/9653fc237f4e1b472f15309d09bb46126e52ea97) |
+| **Commit date** | `2026-05-01` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-15` |
+| **License** | `Apache License 2.0` |
+| **Languages** | `Go` · `Makefile` · `Go Template` · `Dockerfile` · `PowerShell` |
+| **Topics** | `ai` · `data-scientist` · `kubernetes` · `kubernetes-operator` · `machine-learning` · `mlflow-tracking` |
+
+</details>
+
 <!-- repo:devops-project-generator -->
 <details>
 <summary>
@@ -1039,30 +1724,198 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
-<!-- repo:cloud-billing-automation -->
+<!-- repo:personal-blog -->
 <details>
 <summary>
-  <strong><a href="https://github.com/NotHarshhaa/cloud-billing-automation">cloud-billing-automation</a></strong>
+  <strong><a href="https://github.com/NotHarshhaa/personal-blog">personal-blog</a></strong>
   &nbsp;·&nbsp; ⭐ 2
-  &nbsp;·&nbsp; 🍴 6
-  &nbsp;·&nbsp; CI Fail
-  <br><sub>A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using...</sub>
+  &nbsp;·&nbsp; 🍴 4
+  &nbsp;·&nbsp; CI —
+  <br><sub>A personal blog site for DevOps & Cloud Space based on Typescript, Next.js, TailwindCSS.</sub>
 </summary>
 <br>
 
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/personal-blog?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/personal-blog?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/personal-blog?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/personal-blog?style=flat-square)
 
 | | |
 |---|---|
-| **Latest commit** | [cloud-billing-cli: Release version 0.6.0 with security enhancements and improvements](https://github.com/NotHarshhaa/cloud-billing-automation/commit/a63df46cd7a3dda1db69cd0218bd86a2b3da9530) |
+| **Latest commit** | [blog: style(login): enhance layout and styling for login page](https://github.com/NotHarshhaa/personal-blog/commit/21d26f2d4dfea25365707cfe4ce50797f548904d) |
+| **Commit date** | `2025-12-29` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-24` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | `blog` · `devops-blogs` · `javascript` · `nextjs` · `personal-blog` · `tailwindcss` |
+
+</details>
+
+<!-- repo:pipeline-forge -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/pipeline-forge">pipeline-forge</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI —
+  <br><sub>Pipeline Forge is a developer-first tool that helps you create optimized, secure, and scalable CI/CD pipelines for modern applications wi...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/pipeline-forge?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/pipeline-forge?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/pipeline-forge?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/pipeline-forge?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [pipeline-forge: Update README and add banner image](https://github.com/NotHarshhaa/pipeline-forge/commit/e09c0c7ca3e4afbb926d136ed6cbfd1dce254399) |
+| **Commit date** | `2026-05-25` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-25` |
+| **License** | `Eclipse Public License 2.0` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:internal-developer-platform-cli -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/internal-developer-platform-cli">internal-developer-platform-cli</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 2
+  &nbsp;·&nbsp; CI —
+  <br><sub>A powerful CLI & Web tool that enables self-service infrastructure and service creation for developers, following modern Platform Enginee...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [idp-cli: Update Template Statistics and Add New Service Generators](https://github.com/NotHarshhaa/internal-developer-platform-cli/commit/4776fc3ca75747f8bcd088b7297fe09f09a51998) |
+| **Commit date** | `2026-04-17` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-17` |
+| **License** | `GNU General Public License v3.0` |
+| **Languages** | `Python` · `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:kube-ctx-manager -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/kube-ctx-manager">kube-ctx-manager</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI —
+  <br><sub>A smart shell plugin for kubectl power users fuzzy context switching, auto-suggested aliases, and prod safeguards built right into your t...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/kube-ctx-manager?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/kube-ctx-manager?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/kube-ctx-manager?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kube-ctx-manager?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [kube-ctx: Release version 2.1.0 with new context management features](https://github.com/NotHarshhaa/kube-ctx-manager/commit/153acfa316d4737439299fa746025829a61216b9) |
+| **Commit date** | `2026-05-08` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-08` |
+| **License** | `MIT License` |
+| **Languages** | `Shell` · `Makefile` |
+| **Topics** | `bash` · `context-switching` · `devops` · `fuzzy-search` · `fzf` · `kubeconfig` |
+
+</details>
+
+<!-- repo:jenkins-plus -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/jenkins-plus">jenkins-plus</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A batteries-included Jenkins distribution — 40+ pre-configured plugins, modern React dashboard, JCasC bootstrap, and one-command deployme...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/jenkins-plus?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/jenkins-plus?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/jenkins-plus?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/jenkins-plus?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [jenkins-plus: Update image name casing in workflows](https://github.com/NotHarshhaa/jenkins-plus/commit/ef37afd0422dabdb0cce875c6e281340aacff0b4) |
+| **Commit date** | `2026-04-13` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-11` |
+| **License** | `Apache License 2.0` |
+| **Languages** | `TypeScript` · `Groovy` · `Go` · `HCL` · `Shell` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:shadcn-docs-nuxt-starter -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/shadcn-docs-nuxt-starter">shadcn-docs-nuxt-starter</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI —
+  <br><sub>No description provided.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/shadcn-docs-nuxt-starter?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/shadcn-docs-nuxt-starter?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/shadcn-docs-nuxt-starter?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/shadcn-docs-nuxt-starter?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Initial commit](https://github.com/NotHarshhaa/shadcn-docs-nuxt-starter/commit/f3e015feb8009cd96592bcb345c6097d08c2a7d5) |
+| **Commit date** | `2025-05-30` |
+| **Author** | `H A R S H H A A` |
+| **Repo updated** | `2025-05-31` |
+| **License** | `No license` |
+| **Languages** | `JavaScript` · `CSS` · `TypeScript` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:drift-watchdog -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/drift-watchdog">drift-watchdog</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI —
+  <br><sub>A lightweight CLI + Prometheus exporter that continuously monitors ML model input/output distributions and fires alerts when drift is det...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/drift-watchdog?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/drift-watchdog?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/drift-watchdog?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/drift-watchdog?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [drift-watchdog: Release version 1.4.0 with security enhancements and new features](https://github.com/NotHarshhaa/drift-watchdog/commit/26e99afef1bf5dc402f4d4d58a769be807d3c079) |
 | **Commit date** | `2026-05-01` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-05-01` |
 | **License** | `MIT License` |
-| **Languages** | `Python` · `Batchfile` |
+| **Languages** | `Python` |
 | **Topics** | _None_ |
 
 </details>
@@ -1095,6 +1948,202 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:awesome-devops-cloud-ui -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/awesome-devops-cloud-ui">awesome-devops-cloud-ui</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 4
+  &nbsp;·&nbsp; CI —
+  <br><sub>A curated collection of beautiful, powerful, and helpful UI-based tools and resources for DevOps and Cloud professionals.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/awesome-devops-cloud-ui?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/awesome-devops-cloud-ui?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/awesome-devops-cloud-ui?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/awesome-devops-cloud-ui?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [awesome-devops: feat: update package-lock.json and enhance UI components with improved...](https://github.com/NotHarshhaa/awesome-devops-cloud-ui/commit/6a653d711d6f4c690d9dce835e84f0c5e29739bb) |
+| **Commit date** | `2025-09-27` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2025-09-27` |
+| **License** | `No license` |
+| **Languages** | `TypeScript` · `JavaScript` · `CSS` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:scoop-bucket -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/scoop-bucket">scoop-bucket</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI —
+  <br><sub>No description provided.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/scoop-bucket?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/scoop-bucket?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/scoop-bucket?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/scoop-bucket?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Update pod-why-dead to v0.2.0](https://github.com/NotHarshhaa/scoop-bucket/commit/f04d7561fed0634eebffd76aa5fcd74bada42392) |
+| **Commit date** | `2026-04-20` |
+| **Author** | `github-actions[bot]` |
+| **Repo updated** | `2026-04-20` |
+| **License** | `MIT License` |
+| **Languages** | _None detected_ |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:devops-mcp -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-mcp">devops-mcp</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI —
+  <br><sub>Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-mcp?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-mcp?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-mcp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-mcp?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [devops-mcp: Bump version to 2.1.0 and add new tools for Kubernetes and Prometheus](https://github.com/NotHarshhaa/devops-mcp/commit/c1b5044cc6e3bac1b87ee525bd87e71ed98f0ca9) |
+| **Commit date** | `2026-05-29` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-29` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `JavaScript` |
+| **Topics** | `argocd` · `devops` · `gitops` · `kubectl` · `kubernetes` · `mcp` |
+
+</details>
+
+<!-- repo:mainframe-mcp-server -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/mainframe-mcp-server">mainframe-mcp-server</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>An enterprise-grade Model Context Protocol (MCP) server for IBM z/OS environments. Bridges MCP-compatible AI agents with mainframe resour...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/mainframe-mcp-server?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/mainframe-mcp-server?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/mainframe-mcp-server?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/mainframe-mcp-server?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [mainframe-mcp: Bump server version to 2.2.0 and update configuration](https://github.com/NotHarshhaa/mainframe-mcp-server/commit/52c381bbf1dae6bb31b174f47ae6abe0ccabc41b) |
+| **Commit date** | `2026-06-04` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-04` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `JavaScript` · `Dockerfile` |
+| **Topics** | `ibm` · `ibm-mainframe` · `mainframe` · `mainframe-mcp` · `mcp` · `mcp-client` |
+
+</details>
+
+<!-- repo:devops-atlasx -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-atlasx">devops-atlasx</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI —
+  <br><sub>DevOps AtlasX is a real-world knowledge platform that helps engineers quickly identify, understand, and fix production issues across mode...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-atlasx?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-atlasx?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-atlasx?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-atlasx?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [devops-atlasx: Expand issue database with new entries for Docker, Kubernetes, and Netwo...](https://github.com/NotHarshhaa/devops-atlasx/commit/d538bd930eb7783d1472e770298e8f2cce2c6038) |
+| **Commit date** | `2026-04-18` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-18` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:itsmeharshhaa.site -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/itsmeharshhaa.site">itsmeharshhaa.site</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI —
+  <br><sub>Personal Web portfolio (WIP)</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/itsmeharshhaa.site?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/itsmeharshhaa.site?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/itsmeharshhaa.site?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/itsmeharshhaa.site?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Create CNAME](https://github.com/NotHarshhaa/itsmeharshhaa.site/commit/30a4c8e06825071d41dfcae2ac6158522768a4c0) |
+| **Commit date** | `2025-03-29` |
+| **Author** | `H A R S H H A A` |
+| **Repo updated** | `2025-04-12` |
+| **License** | `No license` |
+| **Languages** | `CSS` · `HTML` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:terraview -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/terraview">terraview</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / a...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/terraview?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/terraview?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/terraview?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/terraview?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [terraview: Add structured logging and enhance health check API](https://github.com/NotHarshhaa/terraview/commit/a08afb05b96cc59e453826bdd687ee11987b4437) |
+| **Commit date** | `2026-05-29` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-29` |
+| **License** | `Apache License 2.0` |
+| **Languages** | `TypeScript` · `Go` · `CSS` · `Dockerfile` · `Makefile` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:mlops-project-generator -->
 <details>
 <summary>
@@ -1122,5 +2171,144 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Topics** | `mlops` · `mlops-project` · `mlops-template` · `pytorch` · `scikit-learn` · `tensorflow` |
 
 </details>
-<!-- END_REPO_STATUS -->
+
+<!-- repo:pod-why-dead -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/pod-why-dead">pod-why-dead</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>One command that reconstructs the full death story of any Kubernetes pod exit reason, last logs, node pressure, events, and recommendations.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/pod-why-dead?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/pod-why-dead?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/pod-why-dead?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/pod-why-dead?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [pod-why-dead: Enhance Dockerfile, installation scripts, and command functionality](https://github.com/NotHarshhaa/pod-why-dead/commit/d32f88fb95757fa1e26ed984069f60c58df7a5c3) |
+| **Commit date** | `2026-05-01` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-01` |
+| **License** | `MIT License` |
+| **Languages** | `Go` · `PowerShell` · `Shell` · `Dockerfile` · `Makefile` |
+| **Topics** | `cli` · `debugging` · `devops` · `go` · `k8s` · `krew` |
+
+</details>
+
+<!-- repo:homebrew-tap -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/homebrew-tap">homebrew-tap</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI —
+  <br><sub>No description provided.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/homebrew-tap?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/homebrew-tap?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/homebrew-tap?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/homebrew-tap?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Brew formula update for pod-why-dead version v0.2.0](https://github.com/NotHarshhaa/homebrew-tap/commit/4ea338acf442a1a525cf65bea02a2599ebaed81d) |
+| **Commit date** | `2026-04-20` |
+| **Author** | `goreleaserbot` |
+| **Repo updated** | `2026-04-20` |
+| **License** | `MIT License` |
+| **Languages** | `Ruby` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:terraview-action -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/terraview-action">terraview-action</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>GitHub Action for Terraview — post Terraform resource status tables on pull requests, gate pipelines on drift, block pending destroys, or...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/terraview-action?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/terraview-action?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/terraview-action?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/terraview-action?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Refactor entrypoint.sh to support unified input handling and enhance CI workflow logging](https://github.com/NotHarshhaa/terraview-action/commit/024d827fb364c66d2fdecf6f9400a57c7558398d) |
+| **Commit date** | `2026-06-05` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-05` |
+| **License** | `Apache License 2.0` |
+| **Languages** | `Go` · `Shell` · `Dockerfile` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:cost-digest-bot -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/cost-digest-bot">cost-digest-bot</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI Fail
+  <br><sub>A daily Slack bot that pulls your AWS cloud spend, diffs it against last week, and posts a clean human-readable cost summary with anomaly...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cost-digest-bot?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cost-digest-bot?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cost-digest-bot?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cost-digest-bot?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [cost-digest-bot: feat: Initial implementation of cost-digest-bot](https://github.com/NotHarshhaa/cost-digest-bot/commit/d7ebacdf434f5b48d83a4a33c1d03eb2e88cc484) |
+| **Commit date** | `2026-04-03` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-04-03` |
+| **License** | `GNU General Public License v2.0` |
+| **Languages** | `Python` · `Dockerfile` |
+| **Topics** | _None_ |
+
+</details>
+
+<!-- repo:aws-ghost -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/aws-ghost">aws-ghost</a></strong>
+  &nbsp;·&nbsp; ⭐ 0
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>Scan your AWS account for forgotten, idle, and wasteful resources with per-resource cost estimates. Read-only. No SaaS. Just a CLI.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/aws-ghost?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/aws-ghost?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/aws-ghost?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-ghost?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [aws-ghost: Implement caching and context timeouts in cost calculations and scanners](https://github.com/NotHarshhaa/aws-ghost/commit/90db1d3dd35502cb24016511f84471a709167367) |
+| **Commit date** | `2026-05-30` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-05-30` |
+| **License** | `Apache License 2.0` |
+| **Languages** | `Go` · `Makefile` · `Dockerfile` |
+| **Topics** | `aws` · `aws-cli` · `cli` · `cloud-cost` · `cloud-engineering` · `cost-optimization` |
+
+</details>
 <!-- END_REPO_STATUS -->
