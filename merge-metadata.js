@@ -1,33 +1,52 @@
 const fs = require('fs');
 const path = require('path');
 
-// Load metadata
-const metadata = require('./repo-metadata.json');
+function loadMetadata() {
+  const raw = JSON.parse(fs.readFileSync('repo-metadata.json', 'utf8'));
 
-// Load projects-data.ts
+  if (Array.isArray(raw)) {
+    return raw;
+  }
+
+  if (raw.repositories && Array.isArray(raw.repositories)) {
+    return raw.repositories.map((repo) => ({
+      repo: repo.name || repo.repo,
+      stars: repo.stars,
+      forks: repo.forks,
+      issues: repo.issues,
+      lastUpdated: repo.raw_updated_at || repo.lastUpdated,
+      lastCommit: repo.commit_sha || repo.lastCommit,
+    }));
+  }
+
+  throw new Error('repo-metadata.json must be an array or contain a "repositories" key');
+}
+
+function parseProjects(fileContent) {
+  const match = fileContent.match(/export const PROJECTS: Project\[] = (\[[\s\S]*?\]);/);
+  if (!match) {
+    throw new Error('Could not find `export const PROJECTS: Project[] = [...]` in projects-data.ts');
+  }
+  return JSON.parse(match[1]);
+}
+
+const metadata = loadMetadata();
 const projectsDataPath = path.join(__dirname, 'src/data/projects-data.ts');
 let fileContent = fs.readFileSync(projectsDataPath, 'utf-8');
 
-// Extract the PROJECTS array (ignoring type declaration)
-const match = fileContent.match(/export const PROJECTS: Project\[] = (\[.*\]);\s*$/s);
-if (!match) {
-  console.error('❌ Could not find `export const PROJECTS: Project[] = [...]` in projects-data.ts');
+let projects;
+try {
+  projects = parseProjects(fileContent);
+} catch (err) {
+  console.error(`❌ ${err.message}`);
   process.exit(1);
 }
 
-let projectsArrayStr = match[1];
-let projects = eval(projectsArrayStr); // convert string to array
+const metadataMap = Object.fromEntries(metadata.map((m) => [m.repo, m]));
 
-// Map metadata by repo name for easy access
-const metadataMap = {};
-metadata.forEach(m => {
-  metadataMap[m.repo] = m;
-});
-
-// Merge metadata into projects
-projects.forEach(project => {
-  const repoUrl = project.link?.href;
-  const repoName = repoUrl?.split('/').pop();
+let merged = 0;
+projects.forEach((project) => {
+  const repoName = project.link?.href?.split('/').pop();
   const meta = metadataMap[repoName];
   if (meta) {
     project.stars = meta.stars;
@@ -35,15 +54,15 @@ projects.forEach(project => {
     project.issues = meta.issues;
     project.lastUpdated = meta.lastUpdated;
     project.lastCommit = meta.lastCommit;
+    merged += 1;
   }
 });
 
-// Generate updated TypeScript content
 const updatedContent = `export const PROJECTS: Project[] = ${JSON.stringify(projects, null, 2)};\n`;
+fileContent = fileContent.replace(
+  /export const PROJECTS: Project\[] = \[[\s\S]*?\];/,
+  updatedContent.trimEnd()
+);
 
-// Replace the original array in the file content
-fileContent = fileContent.replace(/export const PROJECTS: Project\[] = \[.*\];\s*$/s, updatedContent);
-
-// Write the merged result back
 fs.writeFileSync(projectsDataPath, fileContent, 'utf-8');
-console.log('✅ Successfully merged metadata into projects-data.ts');
+console.log(`✅ Merged metadata for ${merged}/${projects.length} projects into projects-data.ts`);

@@ -13,7 +13,7 @@ Features:
 - Provides configurable options through environment variables
 """
 
-from datetime import datetime
+from datetime import datetime, timezone
 import requests
 import os
 import json
@@ -21,6 +21,8 @@ import logging
 import time
 import argparse
 import sys
+import re
+import unicodedata
 from typing import Dict, List, Optional, Any, Union
 from pathlib import Path
 
@@ -210,6 +212,7 @@ def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> Optional[Dict[st
                 timeout=API_TIMEOUT
             )
 
+            commit_sha = None
             if commits_response.status_code == 200:
                 latest_commit_data = commits_response.json()
                 if latest_commit_data:
@@ -229,37 +232,25 @@ def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> Optional[Dict[st
                 commit_author = "Unknown"
                 commit_message = "Could not fetch commit info"
 
-            # Check for workflow status if workflows exist
-            workflows_url = f"https://api.github.com/repos/{GH_USERNAME}/{repo}/actions/workflows"
-            workflows_response = requests.get(
-                workflows_url,
+            # Latest workflow run across all workflows (single API call)
+            runs_url = f"https://api.github.com/repos/{GH_USERNAME}/{repo}/actions/runs?per_page=1"
+            runs_response = requests.get(
+                runs_url,
                 auth=(GH_USERNAME, GH_TOKEN),
                 timeout=API_TIMEOUT
             )
 
-            ci_cd_status = "⚪"  # Default: No workflows
-            if workflows_response.status_code == 200:
-                workflows_data = workflows_response.json()
-                if workflows_data.get("total_count", 0) > 0:
-                    # Get latest run for the first workflow
-                    first_workflow_id = workflows_data["workflows"][0]["id"]
-                    runs_url = f"https://api.github.com/repos/{GH_USERNAME}/{repo}/actions/workflows/{first_workflow_id}/runs?per_page=1"
-                    runs_response = requests.get(
-                        runs_url,
-                        auth=(GH_USERNAME, GH_TOKEN),
-                        timeout=API_TIMEOUT
-                    )
-
-                    if runs_response.status_code == 200:
-                        runs_data = runs_response.json()
-                        if runs_data.get("total_count", 0) > 0:
-                            status = runs_data["workflow_runs"][0]["conclusion"]
-                            if status == "success":
-                                ci_cd_status = "✅"
-                            elif status == "failure":
-                                ci_cd_status = "❌"
-                            else:
-                                ci_cd_status = "🔄"
+            ci_cd_status = "⚪"
+            if runs_response.status_code == 200:
+                runs_data = runs_response.json()
+                if runs_data.get("total_count", 0) > 0:
+                    status = runs_data["workflow_runs"][0]["conclusion"]
+                    if status == "success":
+                        ci_cd_status = "✅"
+                    elif status == "failure":
+                        ci_cd_status = "❌"
+                    else:
+                        ci_cd_status = "🔄"
 
             # Get repository languages
             languages_url = f"https://api.github.com/repos/{GH_USERNAME}/{repo}/languages"
@@ -288,6 +279,7 @@ def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> Optional[Dict[st
                 "description": data.get("description", "No description provided"),
                 "last_updated": formatted_date,
                 "latest_commit": commit_url,
+                "commit_sha": commit_sha,
                 "commit_date": commit_date,
                 "commit_message": commit_message,
                 "author": commit_author,
@@ -324,91 +316,147 @@ def fetch_repo_status(repo: str, retries: int = MAX_RETRIES) -> Optional[Dict[st
 
     return None
 
-def generate_language_badges(languages: List[str]) -> str:
-    """Generate markdown badges for repository languages"""
-    badges = []
-    color_map = {
-        "Python": "3776AB",
-        "JavaScript": "F7DF1E",
-        "TypeScript": "3178C6",
-        "HTML": "E34F26",
-        "CSS": "1572B6",
-        "Java": "007396",
-        "Go": "00ADD8",
-        "Ruby": "CC342D",
-        "PHP": "777BB4",
-        "C++": "00599C",
-        "C#": "239120",
-        "Shell": "4EAA25",
-        "Dockerfile": "2496ED",
-    }
+def normalize_description(text: Optional[str], max_len: int = 140) -> str:
+    """Flatten styled Unicode and trim descriptions for readable README text."""
+    if not text or not text.strip():
+        return "No description provided."
 
-    for lang in languages:
-        color = color_map.get(lang, "gray")
-        badge = f"![{lang}](https://img.shields.io/badge/-{lang}-{color}?style=flat-square&logo={lang.lower()}&logoColor=white)"
-        badges.append(badge)
+    cleaned = unicodedata.normalize("NFKC", text)
+    cleaned = re.sub(r"[\U0001D400-\U0001D7FF\U0001D600-\U0001D64F]", "", cleaned)
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
 
-    return " ".join(badges)
+    if len(cleaned) > max_len:
+        cleaned = cleaned[: max_len - 3].rstrip() + "..."
+
+    return cleaned or "No description provided."
+
+def format_number(value: Union[int, float]) -> str:
+    """Format integers with thousands separators for tables."""
+    return f"{int(value):,}"
+
+def format_ci_label(status: str) -> str:
+    """Map CI status emoji to a compact table label."""
+    return {
+        "✅": "Pass",
+        "❌": "Fail",
+        "🔄": "Running",
+        "⚪": "—",
+    }.get(status, "—")
+
+def truncate_text(text: str, max_len: int) -> str:
+    if len(text) <= max_len:
+        return text
+    return text[: max_len - 3].rstrip() + "..."
+
+def generate_summary_table(repos_data: List[Dict[str, Any]]) -> str:
+    """Generate a compact overview table for all repositories."""
+    rows = []
+    for index, repo in enumerate(repos_data, start=1):
+        rows.append(
+            "| {index} | [{name}]({url}) | {stars} | {forks} | {issues} | {ci} | {updated} |".format(
+                index=index,
+                name=repo["name"],
+                url=repo["url"],
+                stars=format_number(repo.get("stars", 0)),
+                forks=format_number(repo.get("forks", 0)),
+                issues=format_number(repo.get("issues", 0)),
+                ci=format_ci_label(repo.get("ci_cd_status", "⚪")),
+                updated=repo.get("last_updated", "—"),
+            )
+        )
+
+    return "\n".join([
+        "| # | Repository | Stars | Forks | Issues | CI | Updated |",
+        "|:--:|------------|------:|------:|-------:|:--:|---------|",
+        *rows,
+    ])
+
+def generate_repo_details(repo: Dict[str, Any]) -> str:
+    """Generate a collapsible detail block for one repository."""
+    name = repo["name"]
+    description = normalize_description(repo.get("description"))
+    commit_message = truncate_text(repo.get("commit_message", "No commits found"), 90)
+    languages = repo.get("languages", [])
+    topics = repo.get("topics", [])
+    license_name = repo.get("license", "No license")
+    lang_line = " · ".join(f"`{lang}`" for lang in languages[:5]) if languages else "_None detected_"
+    topic_line = " · ".join(f"`{topic}`" for topic in topics[:6]) if topics else "_None_"
+
+    return f"""<!-- repo:{name} -->
+<details>
+<summary>
+  <strong><a href="{repo['url']}">{name}</a></strong>
+  &nbsp;·&nbsp; ⭐ {format_number(repo.get('stars', 0))}
+  &nbsp;·&nbsp; 🍴 {format_number(repo.get('forks', 0))}
+  &nbsp;·&nbsp; CI {format_ci_label(repo.get('ci_cd_status', '⚪'))}
+  <br><sub>{description}</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/{GH_USERNAME}/{name}?style=flat-square)
+![Forks](https://img.shields.io/github/forks/{GH_USERNAME}/{name}?style=flat-square)
+![Issues](https://img.shields.io/github/issues/{GH_USERNAME}/{name}?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/{GH_USERNAME}/{name}?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [{commit_message}]({repo['latest_commit']}) |
+| **Commit date** | `{repo.get('commit_date', 'Unknown')}` |
+| **Author** | `{repo.get('author', 'Unknown')}` |
+| **Repo updated** | `{repo.get('last_updated', 'Unknown')}` |
+| **License** | `{license_name}` |
+| **Languages** | {lang_line} |
+| **Topics** | {topic_line} |
+
+</details>"""
 
 def generate_repo_section(repos_data: List[Dict[str, Any]]) -> str:
-    """
-    Generate markdown content for repository status section.
-
-    Args:
-        repos_data: List of repository status dictionaries
-
-    Returns:
-        Markdown formatted string for README
-    """
+    """Generate the full auto-updated README body."""
     if not repos_data:
         return "No repository data available."
 
-    md = ""
-    for repo in repos_data:
-        # Generate language badges
-        lang_badges = generate_language_badges(repo.get("languages", []))
+    total_stars = sum(repo.get("stars", 0) for repo in repos_data)
+    total_forks = sum(repo.get("forks", 0) for repo in repos_data)
+    total_issues = sum(repo.get("issues", 0) for repo in repos_data)
 
-        # Generate topic badges if available
-        topic_badges = ""
-        topics = repo.get("topics", [])
-        if topics:
-            topic_badges = " ".join([f"`#{topic}`" for topic in topics[:5]])
+    overview = (
+        f"> **{len(repos_data)}** repositories · "
+        f"**{format_number(total_stars)}** stars · "
+        f"**{format_number(total_forks)}** forks · "
+        f"**{format_number(total_issues)}** open issues"
+    )
+    table = generate_summary_table(repos_data)
+    details = "\n\n".join(generate_repo_details(repo) for repo in repos_data)
 
-        # Format description (truncate if too long)
-        description = repo.get("description", "No description provided")
-        if len(description) > 100:
-            description = description[:97] + "..."
+    return "\n\n".join([
+        overview,
+        "### Quick overview",
+        table,
+        "### Repository details",
+        "<sub>Click a repository to expand commit info, languages, and topics.</sub>",
+        details,
+    ])
 
-        # Format commit message (truncate if too long)
-        commit_message = repo.get("commit_message", "")
-        if len(commit_message) > 70:
-            commit_message = commit_message[:67] + "..."
+def build_readme_header(badge: str, repo_count: int, total_stars: int) -> str:
+    """Build the static README intro shown above the generated section."""
+    return f"""{badge}
 
-        md += f"""
-## 📂 [{repo['name']}]({repo['url']})
+# GitHub Repository Status Tracker
 
-{description}
+Live status dashboard for [@{GH_USERNAME}](https://github.com/{GH_USERNAME}) repositories.
+Updates automatically every 6 hours via GitHub Actions.
 
-![Stars](https://img.shields.io/github/stars/{GH_USERNAME}/{repo['name']}?style=flat-square)
-![Forks](https://img.shields.io/github/forks/{GH_USERNAME}/{repo['name']}?style=flat-square)
-![Issues](https://img.shields.io/github/issues/{GH_USERNAME}/{repo['name']}?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/{GH_USERNAME}/{repo['name']}?style=flat-square)
-{lang_badges}
+**{repo_count}** repositories tracked · **{format_number(total_stars)}** combined stars
 
-🗓 **Last Updated:** `{repo['last_updated']}`
-🔄 **Latest Commit:** [{commit_message}]({repo['latest_commit']}) on `{repo.get('commit_date', 'Unknown')}`
-👤 **Author:** `{repo['author']}`
-🏷 **Open Issues:** `{repo['issues']}`
-⭐ **Stars:** `{repo['stars']}` | 🍴 **Forks:** `{repo['forks']}` | 👀 **Watchers:** `{repo.get('watchers', 0)}` | {repo['ci_cd_status']} **CI/CD Status**
-📄 **License:** `{repo.get('license', 'Unknown')}`
+---"""
 
-{topic_badges}
-
----
-"""
-    return md.strip()
-
-def inject_into_readme(badge: str, new_content: str, readme_path: str) -> bool:
+def inject_into_readme(
+    badge: str,
+    new_content: str,
+    readme_path: str,
+    repo_count: int = 0,
+    total_stars: int = 0,
+) -> bool:
     """
     Update README.md with repository status information.
 
@@ -416,45 +464,35 @@ def inject_into_readme(badge: str, new_content: str, readme_path: str) -> bool:
         badge: Updated badge with timestamp
         new_content: Repository status content in markdown
         readme_path: Path to the README file
+        repo_count: Number of repositories in the generated section
+        total_stars: Combined star count for the header summary
 
     Returns:
         True if successful, False otherwise
     """
     try:
         readme_file = Path(readme_path)
+        start_marker = "<!-- START_REPO_STATUS -->"
+        end_marker = "<!-- END_REPO_STATUS -->"
+        header = build_readme_header(badge, repo_count, total_stars)
+
         if not readme_file.exists():
             logger.warning(f"README file not found: {readme_path}")
             logger.info("Creating new README file")
+            updated = f"{header}\n\n{start_marker}\n{new_content}\n{end_marker}\n"
             with open(readme_file, "w", encoding="utf-8") as file:
-                file.write(f"{badge}\n\n# GitHub Repository Status Tracker\n\n")
+                file.write(updated)
+            logger.info(f"✅ {readme_path} created with latest repo statuses!")
+            return True
 
         with open(readme_file, "r", encoding="utf-8") as file:
             readme = file.read()
 
-        # Insert or update badge at the top
-        if "![Last Updated]" in readme:
-            lines = readme.split("\n", 1)
-            lines[0] = badge
-            readme = "\n".join(lines)
-        else:
-            readme = badge + "\n\n" + readme
-
-        # Update repository status section
-        start_marker = "<!-- START_REPO_STATUS -->"
-        end_marker = "<!-- END_REPO_STATUS -->"
-
         if start_marker in readme and end_marker in readme:
-            # Get the content before the start marker
-            before_marker = readme.split(start_marker)[0]
-            # Get the content after the end marker
-            after_marker = readme.split(end_marker)[1] if end_marker in readme.split(start_marker)[1] else ""
-            # Create updated content with markers
-            updated = before_marker + start_marker + "\n" + new_content + "\n" + end_marker + after_marker
+            after_marker = readme.split(end_marker, 1)[1]
+            updated = f"{header}\n\n{start_marker}\n{new_content}\n{end_marker}{after_marker}"
         else:
-            # If markers don't exist, add them at the end
-            if "# GitHub Repository Status" not in readme:
-                readme += "\n\n# GitHub Repository Status\n"
-            updated = readme + f"\n\n{start_marker}\n{new_content}\n{end_marker}\n"
+            updated = f"{header}\n\n{start_marker}\n{new_content}\n{end_marker}\n"
 
         with open(readme_file, "w", encoding="utf-8") as file:
             file.write(updated)
@@ -501,16 +539,29 @@ def sort_repos(repos_data: List[Dict[str, Any]], sort_by: Optional[str] = None) 
     return deduplicated_data
 
 def export_json_data(repos_data: List[Dict[str, Any]]) -> None:
-    """Export repository data to JSON file for potential use in web interfaces"""
+    """Export repository metadata for the Next.js dashboard merge step."""
     try:
+        metadata = [
+            {
+                "repo": repo["name"],
+                "stars": repo["stars"],
+                "forks": repo["forks"],
+                "issues": repo["issues"],
+                "lastUpdated": repo["raw_updated_at"],
+                "lastCommit": repo.get("commit_sha"),
+            }
+            for repo in repos_data
+        ]
         with open("repo-metadata.json", "w", encoding="utf-8") as f:
-            json.dump({
-                "last_updated": datetime.utcnow().isoformat(),
-                "repositories": repos_data
-            }, f, indent=2)
+            json.dump(metadata, f, indent=2)
         logger.info("Repository metadata exported to repo-metadata.json")
     except Exception as e:
         logger.error(f"Error exporting JSON data: {e}")
+
+def format_badge_timestamp() -> str:
+    """Format timestamp for shields.io Last Updated badge."""
+    timestamp = datetime.now(timezone.utc).strftime("%Y--%m--%d %H:%M UTC")
+    return timestamp.replace(" ", "%20").replace(":", "%3A")
 
 def main() -> int:
     """Main function to update repository status"""
@@ -578,12 +629,17 @@ def main() -> int:
             # Generate markdown content
             markdown = generate_repo_section(sorted_statuses)
 
-            # Create badge with timestamp
-            timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-            badge = BADGE_TEMPLATE.format(timestamp.replace(" ", "%20"))
+            badge = BADGE_TEMPLATE.format(format_badge_timestamp())
+            total_stars = sum(repo.get("stars", 0) for repo in sorted_statuses)
 
             # Update README
-            if inject_into_readme(badge, markdown, args.readme):
+            if inject_into_readme(
+                badge,
+                markdown,
+                args.readme,
+                repo_count=len(sorted_statuses),
+                total_stars=total_stars,
+            ):
                 logger.info(f"Updated {len(sorted_statuses)} repositories in README")
             else:
                 logger.error("Failed to update README")

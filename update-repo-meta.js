@@ -1,64 +1,38 @@
-// update-repo-meta.js
+// update-repo-meta.js — fetches GitHub metadata for repos listed in repos.json
 const fs = require('fs');
 
-// Try to load .env file if it exists (for local development)
-try {
-  fs.readFileSync('.env', 'utf8')
-    .split('\n')
-    .filter(line => line.trim() && !line.startsWith('#'))
-    .forEach(line => {
-      const [key, value] = line.split('=');
-      if (!process.env[key.trim()]) {
-        process.env[key.trim()] = value.trim();
-      }
-    });
-} catch (err) {
-  // .env file doesn't exist, that's fine - we'll use existing env vars
+function loadEnv() {
+  try {
+    fs.readFileSync('.env', 'utf8')
+      .split('\n')
+      .filter((line) => line.trim() && !line.startsWith('#'))
+      .forEach((line) => {
+        const [key, ...valueParts] = line.split('=');
+        const value = valueParts.join('=').trim();
+        if (!process.env[key.trim()]) {
+          process.env[key.trim()] = value;
+        }
+      });
+  } catch {
+    // .env is optional
+  }
 }
 
-// Your GitHub username
-const githubUsername = 'NotHarshhaa';
+function loadRepos(configFile = 'repos.json') {
+  const config = JSON.parse(fs.readFileSync(configFile, 'utf8'));
+  if (!Array.isArray(config.repositories)) {
+    throw new Error(`Invalid config: expected "repositories" array in ${configFile}`);
+  }
+  return [...new Set(config.repositories)];
+}
 
-// List of repo names (just the last part of the URL)
-const repos = [
-  "devops-tools",
-  "Certified_Kubernetes_Administrator",
-  "kubernetes-dashboard",
-  "DevOps-Projects",
-  "kubernetes-projects-learning",
-  "AWS-EKS_Terraform",
-  "Deployment-of-super-Mario-on-Kubernetes-using-terraform",
-  "cloud-native-monitoring-app",
-  "Zomato-Clone",
-  "Learning-Prometheus",
-  "Kubernetes",
-  "DevOps_Setup-Installations",
-  "DevOps-Tool-Installer",
-  "kubernetes-learning-path",
-  "Jenkins-Terraform-AWS-Infra",
-  "azure-all_in_one",
-  "aws-billing-alert-terraform",
-  "AWS-DevOps_Real-Time_Deployment",
-  "devops-cheatsheet",
-  "DevOps-Interview-Questions",
-  "into-the-devops",
-  "AWS-Terraform-Workshop",
-  "tf-ecr-ecs-gh-deploy",
-  "eks-cluster-terraform",
-  "CI-CD_EKS-GitHub_Actions",
-  "uber-clone",
-  "From-Docker-to-Kubernetes",
-  "DevOps-Engineering",
-  "Cloud-Native-DevOps-Project",
-  "awesome-devops-cloud",
-  "devops-monitoring-in-a-box",
-  "devops-environment-toolkit-beginners"
-];
+loadEnv();
 
-// GitHub token (optional, use env var to avoid rate limits)
+const githubUsername = process.env.GH_USERNAME || 'NotHarshhaa';
+const configFile = process.env.CONFIG_FILE || 'repos.json';
 const token = process.env.GH_TOKEN;
-
-const headers = token ? { Authorization: `token ${token}` } : {};
+const headers = token ? { Authorization: `Bearer ${token}` } : {};
+const CONCURRENCY = 5;
 
 async function fetchLastCommitSHA(owner, repo, defaultBranch) {
   const commitsUrl = `https://api.github.com/repos/${owner}/${repo}/commits?sha=${defaultBranch}&per_page=1`;
@@ -91,20 +65,29 @@ async function fetchRepoMetadata(repo) {
     forks: data.forks_count,
     issues: data.open_issues_count,
     lastUpdated: data.updated_at,
-    lastCommit // <-- now a SHA
+    lastCommit,
   };
 }
 
-async function updateAllRepos() {
+async function fetchAllWithConcurrency(repos) {
   const results = [];
-
-  for (const repo of repos) {
-    const meta = await fetchRepoMetadata(repo);
-    if (meta) results.push(meta);
+  for (let i = 0; i < repos.length; i += CONCURRENCY) {
+    const batch = repos.slice(i, i + CONCURRENCY);
+    const batchResults = await Promise.all(batch.map(fetchRepoMetadata));
+    results.push(...batchResults.filter(Boolean));
   }
-
-  fs.writeFileSync('repo-metadata.json', JSON.stringify(results, null, 2));
-  console.log('Metadata written to repo-metadata.json');
+  return results;
 }
 
-updateAllRepos();
+async function updateAllRepos() {
+  const repos = loadRepos(configFile);
+  console.log(`Fetching metadata for ${repos.length} repositories from ${configFile}...`);
+  const results = await fetchAllWithConcurrency(repos);
+  fs.writeFileSync('repo-metadata.json', JSON.stringify(results, null, 2));
+  console.log(`Metadata written to repo-metadata.json (${results.length}/${repos.length} repos)`);
+}
+
+updateAllRepos().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

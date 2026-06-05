@@ -45,37 +45,36 @@ def parse_args() -> argparse.Namespace:
 
 def extract_repo_sections(content: str) -> Tuple[List[Dict[str, str]], List[str]]:
     """
-    Extract repository sections from README content
+    Extract repository sections from README content.
 
-    Returns:
-        Tuple containing:
-        - List of dictionaries with repo info
-        - List of raw section strings
+    Supports both the current <details> format and the legacy ## 📂 format.
     """
-    # Regular expression to match repository sections
-    section_pattern = r'## 📂 \[(.*?)\]\((.*?)\)[\s\S]*?(?=## 📂|\Z)'
-    sections = re.findall(section_pattern, content)
-
     repo_info = []
     raw_sections = []
 
+    details_pattern = r'<!-- repo:(.*?) -->\s*<details>[\s\S]*?</details>'
+    for match in re.finditer(details_pattern, content):
+        repo_name = match.group(1).strip()
+        section_text = match.group(0)
+        raw_sections.append(section_text)
+        repo_info.append({
+            "name": repo_name,
+            "url": "",
+            "text": section_text,
+        })
+
+    if repo_info:
+        return repo_info, raw_sections
+
+    section_pattern = r'## 📂 \[(.*?)\]\((.*?)\)[\s\S]*?(?=## 📂|<!-- repo:|\Z)'
     for match in re.finditer(section_pattern, content):
         section_text = match.group(0)
         raw_sections.append(section_text)
-
-        # Extract repository name and URL
-        name_match = re.search(r'## 📂 \[(.*?)\]', section_text)
-        url_match = re.search(r'\]\((.*?)\)', section_text)
-
-        if name_match and url_match:
-            repo_name = name_match.group(1)
-            repo_url = url_match.group(1)
-
-            repo_info.append({
-                "name": repo_name,
-                "url": repo_url,
-                "text": section_text
-            })
+        repo_info.append({
+            "name": match.group(1),
+            "url": match.group(2),
+            "text": section_text,
+        })
 
     return repo_info, raw_sections
 
@@ -170,6 +169,10 @@ def main() -> int:
 
     logger.info(f"Found {len(repo_sections)} repository sections")
     logger.debug(f"Repository names: {[section['name'] for section in repo_sections]}")
+
+    if not repo_sections:
+        logger.info("No repository sections found to clean up. Leaving README unchanged.")
+        return 0
 
     # Deduplicate sections
     unique_sections = deduplicate_sections(repo_sections)

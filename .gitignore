@@ -6,3 +6,10 @@ node_modules/
 
 # Environment variables
 .env
+
+# Tracker artifacts
+repo_status.log
+*.bak
+README..md.bak
+
+__pycache__/

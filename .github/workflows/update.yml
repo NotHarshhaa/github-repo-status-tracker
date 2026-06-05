@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *" # Run every 6 hours
   workflow_dispatch: # Allow manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -27,7 +30,7 @@ jobs:
       - name: 🔍 Check GitHub API Rate Limit
         run: |
           echo "Checking GitHub API rate limit status..."
-          curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/rate_limit | jq .
+          curl -s -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" https://api.github.com/rate_limit | jq .
 
       - name: 🧹 Clean README before update
         run: |
@@ -55,32 +58,22 @@ jobs:
             npm ci
           fi
 
-      - name: 📜 Run Node.js Scripts
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: 📜 Merge metadata into dashboard data
         run: |
-          if [ -f update-repo-meta.js ]; then
-            echo "Running update-repo-meta.js..."
-            node update-repo-meta.js
-          fi
-
-          if [ -f merge-metadata.js ]; then
-            echo "Running merge-metadata.js..."
+          if [ -f merge-metadata.js ] && [ -f repo-metadata.json ]; then
+            echo "Merging repo-metadata.json into projects-data.ts..."
             node merge-metadata.js
           fi
 
-      - name: 🕒 Update "Last Updated" Badge in README
-        run: |
-          echo "Updating 'Last Updated' badge in README.md..."
-          date_str=$(date -u '+%Y--%m--%d %H:%M UTC' | sed 's/ /%20/' | sed 's/:/%3A/')
-          sed -i "s|Last%20Updated-[^)]*|Last%20Updated-${date_str}|g" README.md
+      - name: 🏗️ Verify Next.js build
+        run: npm run build
 
       - name: 📊 Generate Status Summary
         run: |
           echo "### Repository Status Update Results" >> $GITHUB_STEP_SUMMARY
           echo "- Updated at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
-          echo "- Updated repositories: $(grep -o '## 📂' README.md | wc -l)" >> $GITHUB_STEP_SUMMARY
-          echo "- Duplicates removed: $(test -f README.md.bak && (grep -o '## 📂' README.md.bak | wc -l) || echo 0) - $(grep -o '## 📂' README.md | wc -l) = $(($(test -f README.md.bak && (grep -o '## 📂' README.md.bak | wc -l) || echo 0) - $(grep -o '## 📂' README.md | wc -l)))" >> $GITHUB_STEP_SUMMARY
+          echo "- Updated repositories: $(grep -c '<!-- repo:' README.md || echo 0)" >> $GITHUB_STEP_SUMMARY
+          echo "- Dashboard projects merged: $(node -e "const d=require('./repo-metadata.json'); console.log(Array.isArray(d)?d.length:d.repositories?.length||0)")" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "See the [README.md](https://github.com/${{ github.repository }}/blob/main/README.md) for details." >> $GITHUB_STEP_SUMMARY
 
