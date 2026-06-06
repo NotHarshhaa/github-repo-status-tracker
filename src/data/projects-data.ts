@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4281,
+    "stars": 4285,
     "forks": 4110,
     "issues": 23,
-    "lastUpdated": "2026-06-06T13:01:01Z",
+    "lastUpdated": "2026-06-06T18:25:13Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 910,
-    "forks": 674,
+    "stars": 911,
+    "forks": 675,
     "issues": 2,
-    "lastUpdated": "2026-06-06T08:41:29Z",
+    "lastUpdated": "2026-06-06T19:08:35Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 868,
-    "forks": 519,
+    "stars": 869,
+    "forks": 520,
     "issues": 0,
-    "lastUpdated": "2026-06-05T15:06:18Z",
+    "lastUpdated": "2026-06-06T18:10:25Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 344,
-    "forks": 244,
+    "stars": 353,
+    "forks": 251,
     "issues": 1,
-    "lastUpdated": "2026-06-01T22:53:02Z",
+    "lastUpdated": "2026-06-06T19:03:00Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-06T08:37:01Z",
-    "lastCommit": "1f889fbdc9ae628dbfe91ca30987c426d0975927"
+    "lastUpdated": "2026-06-06T13:47:36Z",
+    "lastCommit": "c185732d2fdbaded1f5abc2153f59dd15262ba1e"
   },
   {
     "title": "Links Portfolio",
