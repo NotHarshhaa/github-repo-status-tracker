@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--08%2015%3A56%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--08%2020%3A21%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,073** combined stars
+**79** repositories tracked · **9,079** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,073** stars · **7,844** forks · **44** open issues
+> **79** repositories · **9,079** stars · **7,847** forks · **44** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,296 | 4,118 | 23 | — | 2026-06-08 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,302 | 4,119 | 23 | — | 2026-06-08 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 914 | 679 | 2 | — | 2026-06-07 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 869 | 521 | 0 | — | 2026-06-06 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 547 | 218 | 4 | — | 2026-06-07 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 364 | 267 | 1 | — | 2026-06-08 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 364 | 269 | 1 | — | 2026-06-08 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 315 | 242 | 3 | Fail | 2026-06-08 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 226 | 161 | 3 | — | 2026-06-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 185 | 199 | 0 | — | 2026-06-02 |
@@ -46,7 +46,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 28 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 3 | 0 | Fail | 2026-05-17 |
 | 29 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
 | 30 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 10 | 21 | 0 | — | 2026-05-27 |
-| 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 10 | 11 | 0 | — | 2026-04-24 |
+| 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 10 | 11 | 0 | — | 2026-06-08 |
 | 32 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 9 | 11 | 5 | — | 2026-05-29 |
 | 33 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 7 | 8 | 0 | — | 2026-04-27 |
 | 34 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-06-08 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,296
-  &nbsp;·&nbsp; 🍴 4,118
+  &nbsp;·&nbsp; ⭐ 4,302
+  &nbsp;·&nbsp; 🍴 4,119
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -217,7 +217,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
   &nbsp;·&nbsp; ⭐ 364
-  &nbsp;·&nbsp; 🍴 267
+  &nbsp;·&nbsp; 🍴 269
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -961,7 +961,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [cv: chore(assets): update avatar image](https://github.com/NotHarshhaa/cv-portfolio/commit/85489143b779d9dd56e136caab60bead0e2e7370) |
 | **Commit date** | `2026-04-24` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-04-24` |
+| **Repo updated** | `2026-06-08` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `JavaScript` · `CSS` |
 | **Topics** | `cv` · `javascript` · `nextjs` · `personal-cv` · `tailwindcss` · `typescript` |
@@ -1042,7 +1042,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/e5041b1cf390e8a907bf0849037e85a58d646530) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1432ff150d27bfec17f20779dcd292fc4126e356) |
 | **Commit date** | `2026-06-08` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-06-08` |
