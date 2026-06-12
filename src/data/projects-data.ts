@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4347,
+    "stars": 4348,
     "forks": 4137,
     "issues": 23,
-    "lastUpdated": "2026-06-12T09:52:33Z",
+    "lastUpdated": "2026-06-12T12:57:27Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 921,
-    "forks": 681,
+    "forks": 682,
     "issues": 2,
     "lastUpdated": "2026-06-11T21:40:28Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 316,
-    "forks": 243,
+    "stars": 317,
+    "forks": 244,
     "issues": 3,
-    "lastUpdated": "2026-06-11T23:56:21Z",
+    "lastUpdated": "2026-06-12T13:31:10Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -191,10 +191,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 131,
+    "stars": 132,
     "forks": 116,
     "issues": 1,
-    "lastUpdated": "2026-05-25T08:21:16Z",
+    "lastUpdated": "2026-06-12T12:28:05Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-12T04:08:48Z",
-    "lastCommit": "33f92b0cd821088be5eeb8c9b24f0c130115469d"
+    "lastUpdated": "2026-06-12T10:16:56Z",
+    "lastCommit": "cf13f522e970bfc3f3603bb4418e821de8edc759"
   },
   {
     "title": "Links Portfolio",
@@ -1294,8 +1294,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-05-29T12:38:24Z",
-    "lastCommit": "a08afb05b96cc59e453826bdd687ee11987b4437"
+    "lastUpdated": "2026-06-12T11:21:38Z",
+    "lastCommit": "d8ad0961ff8f8a61a23aab3562879bb0d311074b"
   },
   {
     "title": "Pod Why Dead",
