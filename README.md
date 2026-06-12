@@ -1,27 +1,27 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--11%2020%3A25%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--12%2004%3A08%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,135** combined stars
+**79** repositories tracked · **9,137** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,135** stars · **7,873** forks · **44** open issues
+> **79** repositories · **9,137** stars · **7,875** forks · **44** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,342 | 4,132 | 23 | — | 2026-06-11 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 920 | 681 | 2 | — | 2026-06-11 |
-| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 871 | 524 | 0 | — | 2026-06-10 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,343 | 4,133 | 23 | — | 2026-06-12 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 921 | 681 | 2 | — | 2026-06-11 |
+| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 870 | 524 | 0 | — | 2026-06-12 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 548 | 218 | 4 | — | 2026-06-08 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 367 | 274 | 1 | — | 2026-06-11 |
-| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 316 | 243 | 3 | Fail | 2026-06-09 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 367 | 275 | 1 | — | 2026-06-11 |
+| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 316 | 243 | 3 | Fail | 2026-06-11 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 226 | 161 | 3 | — | 2026-06-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 186 | 199 | 0 | — | 2026-06-10 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 185 | 200 | 0 | — | 2026-05-27 |
@@ -44,8 +44,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 14 | 16 | 0 | Pass | 2026-05-11 |
 | 27 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 11 | 32 | 0 | — | 2026-02-03 |
 | 28 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 3 | 0 | Fail | 2026-05-17 |
-| 29 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
-| 30 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 10 | 21 | 0 | — | 2026-05-27 |
+| 29 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 21 | 0 | — | 2026-06-11 |
+| 30 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
 | 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 10 | 11 | 0 | — | 2026-06-08 |
 | 32 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 10 | 11 | 5 | — | 2026-06-10 |
 | 33 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 7 | 8 | 0 | — | 2026-04-27 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,342
-  &nbsp;·&nbsp; 🍴 4,132
+  &nbsp;·&nbsp; ⭐ 4,343
+  &nbsp;·&nbsp; 🍴 4,133
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -121,7 +121,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) |
 | **Commit date** | `2026-05-02` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-11` |
+| **Repo updated** | `2026-06-12` |
 | **License** | `No license` |
 | **Languages** | `Java` · `TypeScript` · `CSS` · `JavaScript` · `HCL` |
 | **Topics** | `aws` · `beginner-friendly` · `devops` · `devops-learning` · `devops-poc` · `devops-project` |
@@ -132,7 +132,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 920
+  &nbsp;·&nbsp; ⭐ 921
   &nbsp;·&nbsp; 🍴 681
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
@@ -160,7 +160,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/into-the-devops">into-the-devops</a></strong>
-  &nbsp;·&nbsp; ⭐ 871
+  &nbsp;·&nbsp; ⭐ 870
   &nbsp;·&nbsp; 🍴 524
   &nbsp;·&nbsp; CI —
   <br><sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elasti...</sub>
@@ -177,7 +177,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) |
 | **Commit date** | `2025-06-22` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-10` |
+| **Repo updated** | `2026-06-12` |
 | **License** | `No license` |
 | **Languages** | `Python` · `Shell` · `HCL` |
 | **Topics** | `ansible` · `aws` · `azure` · `coding` · `containers` · `devops` |
@@ -217,7 +217,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
   &nbsp;·&nbsp; ⭐ 367
-  &nbsp;·&nbsp; 🍴 274
+  &nbsp;·&nbsp; 🍴 275
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -261,7 +261,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Cheatsheet: refactor: Improve metadata handling and enhance parameter resolution](https://github.com/NotHarshhaa/devops-cheatsheet/commit/d433174187b1718521bbeb45689a25444fb515b2) |
 | **Commit date** | `2025-12-18` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-09` |
+| **Repo updated** | `2026-06-11` |
 | **License** | `GNU General Public License v2.0` |
 | **Languages** | `TypeScript` · `JavaScript` · `CSS` |
 | **Topics** | `automation` · `aws` · `azure` · `cheatsheet` · `cicd` · `cloud` |
@@ -884,6 +884,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:tf-ecr-ecs-gh-deploy -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy">tf-ecr-ecs-gh-deploy</a></strong>
+  &nbsp;·&nbsp; ⭐ 11
+  &nbsp;·&nbsp; 🍴 21
+  &nbsp;·&nbsp; CI —
+  <br><sub>This project automates the deployment of a Python application to AWS Elastic Container Service (ECS) using GitHub Actions, Docker, and Te...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [CI/CD with GitHub Actions: Update Docker configuration for improved performance and enh...](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy/commit/76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1) |
+| **Commit date** | `2025-03-28` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-11` |
+| **License** | `No license` |
+| **Languages** | `HCL` · `Python` · `Dockerfile` |
+| **Topics** | `aws` · `aws-ecs` · `github-actions` · `python` · `python-aws` · `terraform` |
+
+</details>
+
 <!-- repo:Jenkins-Terraform-AWS-Infra -->
 <details>
 <summary>
@@ -909,34 +937,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `HCL` |
 | **Topics** | `aws` · `aws-ec2` · `jenkins` · `terraform` · `terraform-aws` · `terraform-cloud` |
-
-</details>
-
-<!-- repo:tf-ecr-ecs-gh-deploy -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy">tf-ecr-ecs-gh-deploy</a></strong>
-  &nbsp;·&nbsp; ⭐ 10
-  &nbsp;·&nbsp; 🍴 21
-  &nbsp;·&nbsp; CI —
-  <br><sub>This project automates the deployment of a Python application to AWS Elastic Container Service (ECS) using GitHub Actions, Docker, and Te...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/tf-ecr-ecs-gh-deploy?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [CI/CD with GitHub Actions: Update Docker configuration for improved performance and enh...](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy/commit/76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1) |
-| **Commit date** | `2025-03-28` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-27` |
-| **License** | `No license` |
-| **Languages** | `HCL` · `Python` · `Dockerfile` |
-| **Topics** | `aws` · `aws-ecs` · `github-actions` · `python` · `python-aws` · `terraform` |
 
 </details>
 
@@ -1042,7 +1042,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f002bf13b80b2e3f838633165c5eb5f6c519da72) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/395e6f63afcbee38a85265be3173824a5674daa6) |
 | **Commit date** | `2026-06-11` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-06-11` |

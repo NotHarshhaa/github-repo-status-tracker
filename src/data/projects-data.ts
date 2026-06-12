@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4342,
-    "forks": 4132,
+    "stars": 4343,
+    "forks": 4133,
     "issues": 23,
-    "lastUpdated": "2026-06-11T19:25:56Z",
+    "lastUpdated": "2026-06-12T00:53:12Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 920,
+    "stars": 921,
     "forks": 681,
     "issues": 2,
-    "lastUpdated": "2026-06-11T03:25:35Z",
+    "lastUpdated": "2026-06-11T21:40:28Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 871,
+    "stars": 870,
     "forks": 524,
     "issues": 0,
-    "lastUpdated": "2026-06-10T13:01:20Z",
+    "lastUpdated": "2026-06-12T03:03:21Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 367,
-    "forks": 274,
+    "forks": 275,
     "issues": 1,
     "lastUpdated": "2026-06-11T18:59:04Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -111,7 +111,7 @@ export const PROJECTS: Project[] = [
     "stars": 316,
     "forks": 243,
     "issues": 3,
-    "lastUpdated": "2026-06-09T08:52:41Z",
+    "lastUpdated": "2026-06-11T23:56:21Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -505,10 +505,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy",
       "href": "https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy"
     },
-    "stars": 10,
+    "stars": 11,
     "forks": 21,
     "issues": 0,
-    "lastUpdated": "2026-05-27T06:25:32Z",
+    "lastUpdated": "2026-06-11T21:58:36Z",
     "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-11T16:05:53Z",
-    "lastCommit": "f002bf13b80b2e3f838633165c5eb5f6c519da72"
+    "lastUpdated": "2026-06-11T20:25:49Z",
+    "lastCommit": "395e6f63afcbee38a85265be3173824a5674daa6"
   },
   {
     "title": "Links Portfolio",
