@@ -1,22 +1,22 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--14%2004%3A14%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--14%2009%3A38%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,168** combined stars
+**79** repositories tracked · **9,171** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,168** stars · **7,894** forks · **44** open issues
+> **79** repositories · **9,171** stars · **7,896** forks · **44** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,363 | 4,144 | 23 | — | 2026-06-14 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,366 | 4,146 | 23 | — | 2026-06-14 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 926 | 684 | 2 | — | 2026-06-13 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 872 | 524 | 0 | — | 2026-06-14 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 546 | 218 | 4 | — | 2026-06-12 |
@@ -49,7 +49,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 10 | 11 | 0 | — | 2026-06-08 |
 | 32 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 10 | 12 | 5 | — | 2026-06-10 |
 | 33 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 7 | 8 | 0 | — | 2026-04-27 |
-| 34 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-06-13 |
+| 34 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-06-14 |
 | 35 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
 | 36 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
 | 37 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
@@ -75,7 +75,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 57 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
 | 58 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 2 | 7 | 0 | — | 2026-05-25 |
 | 59 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-04-24 |
-| 60 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-05-25 |
+| 60 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-06-14 |
 | 61 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 1 | 2 | 0 | — | 2026-04-17 |
 | 62 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 1 | 0 | 0 | — | 2026-05-08 |
 | 63 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 1 | 0 | 0 | Pass | 2026-05-11 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,363
-  &nbsp;·&nbsp; 🍴 4,144
+  &nbsp;·&nbsp; ⭐ 4,366
+  &nbsp;·&nbsp; 🍴 4,146
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -1042,10 +1042,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/e054ba1a193d7e1644f845423298a46bf4c1e7cd) |
-| **Commit date** | `2026-06-13` |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3cb3fca5c151b0e34d2734a49bf1d1957ae52954) |
+| **Commit date** | `2026-06-14` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-13` |
+| **Repo updated** | `2026-06-14` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
 | **Topics** | _None_ |
@@ -1770,10 +1770,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [pipeline-forge: Update README and add banner image](https://github.com/NotHarshhaa/pipeline-forge/commit/e09c0c7ca3e4afbb926d136ed6cbfd1dce254399) |
-| **Commit date** | `2026-05-25` |
+| **Latest commit** | [pipeline-forge: Add custom scrollbar styles for generator stepper](https://github.com/NotHarshhaa/pipeline-forge/commit/c959508ec3b73a4d31bca4e09d992ca31ef0d5d5) |
+| **Commit date** | `2026-06-14` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-25` |
+| **Repo updated** | `2026-06-14` |
 | **License** | `Eclipse Public License 2.0` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | _None_ |
