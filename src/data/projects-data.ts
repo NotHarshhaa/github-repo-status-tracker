@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4371,
-    "forks": 4149,
+    "stars": 4373,
+    "forks": 4151,
     "issues": 23,
-    "lastUpdated": "2026-06-15T02:16:33Z",
+    "lastUpdated": "2026-06-15T12:03:24Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 927,
-    "forks": 685,
+    "stars": 928,
+    "forks": 686,
     "issues": 2,
-    "lastUpdated": "2026-06-14T13:54:59Z",
+    "lastUpdated": "2026-06-15T04:35:49Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 873,
-    "forks": 524,
+    "forks": 523,
     "issues": 0,
     "lastUpdated": "2026-06-14T13:55:43Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 547,
+    "stars": 548,
     "forks": 218,
     "issues": 4,
-    "lastUpdated": "2026-06-15T04:02:34Z",
+    "lastUpdated": "2026-06-15T09:33:49Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -560,8 +560,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/awesome-devops-cloud"
     },
     "stars": 10,
-    "forks": 12,
-    "issues": 5,
+    "forks": 13,
+    "issues": 6,
     "lastUpdated": "2026-06-10T18:05:09Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-14T19:29:25Z",
-    "lastCommit": "f75b1b3b557abb4ccfc8e6df10afb6cf3ffd3783"
+    "lastUpdated": "2026-06-15T04:26:49Z",
+    "lastCommit": "13e9138271ba0fc3f0cb6b287587434d2c21b657"
   },
   {
     "title": "Links Portfolio",
