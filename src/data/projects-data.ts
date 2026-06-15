@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4373,
-    "forks": 4151,
+    "stars": 4377,
+    "forks": 4154,
     "issues": 23,
-    "lastUpdated": "2026-06-15T12:03:24Z",
+    "lastUpdated": "2026-06-15T17:16:53Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 928,
-    "forks": 686,
+    "stars": 930,
+    "forks": 687,
     "issues": 2,
-    "lastUpdated": "2026-06-15T04:35:49Z",
+    "lastUpdated": "2026-06-15T17:34:05Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 873,
-    "forks": 523,
+    "forks": 524,
     "issues": 0,
     "lastUpdated": "2026-06-14T13:55:43Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 318,
-    "forks": 244,
+    "forks": 245,
     "issues": 3,
     "lastUpdated": "2026-06-13T08:45:06Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -365,7 +365,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
     "stars": 24,
-    "forks": 34,
+    "forks": 35,
     "issues": 0,
     "lastUpdated": "2026-06-07T12:11:15Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-15T04:26:49Z",
-    "lastCommit": "13e9138271ba0fc3f0cb6b287587434d2c21b657"
+    "lastUpdated": "2026-06-15T12:18:36Z",
+    "lastCommit": "486fcf77c0846438a3493b39862000576310d974"
   },
   {
     "title": "Links Portfolio",
