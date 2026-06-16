@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4378,
-    "forks": 4156,
+    "stars": 4382,
+    "forks": 4155,
     "issues": 23,
-    "lastUpdated": "2026-06-16T10:18:03Z",
+    "lastUpdated": "2026-06-16T14:00:55Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 932,
+    "stars": 933,
     "forks": 688,
     "issues": 2,
-    "lastUpdated": "2026-06-16T05:26:14Z",
+    "lastUpdated": "2026-06-16T13:23:55Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -141,7 +141,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 186,
-    "forks": 199,
+    "forks": 200,
     "issues": 0,
     "lastUpdated": "2026-06-10T11:05:26Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-16T04:20:09Z",
-    "lastCommit": "d46db7f1abdcc4e518b47cbf9b9801a53801be6c"
+    "lastUpdated": "2026-06-16T11:13:34Z",
+    "lastCommit": "ad42cfe1978cdf8d26121c7aa4f7dfa3d5362349"
   },
   {
     "title": "Links Portfolio",
@@ -945,7 +945,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/cloud-billing-automation"
     },
     "stars": 2,
-    "forks": 6,
+    "forks": 7,
     "issues": 0,
     "lastUpdated": "2026-05-01T10:34:12Z",
     "lastCommit": "a63df46cd7a3dda1db69cd0218bd86a2b3da9530"
