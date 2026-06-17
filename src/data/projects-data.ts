@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4388,
-    "forks": 4160,
+    "stars": 4390,
+    "forks": 4162,
     "issues": 23,
-    "lastUpdated": "2026-06-17T09:57:20Z",
+    "lastUpdated": "2026-06-17T19:28:36Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 934,
+    "stars": 936,
     "forks": 690,
     "issues": 2,
-    "lastUpdated": "2026-06-17T07:55:06Z",
+    "lastUpdated": "2026-06-17T18:34:41Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -210,10 +210,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 98,
-    "forks": 41,
+    "stars": 99,
+    "forks": 42,
     "issues": 0,
-    "lastUpdated": "2026-05-24T16:47:33Z",
+    "lastUpdated": "2026-06-17T17:08:32Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -468,7 +468,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 11,
-    "forks": 32,
+    "forks": 33,
     "issues": 0,
     "lastUpdated": "2026-02-03T07:07:11Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-17T11:00:42Z",
-    "lastCommit": "a2a59aa1b320e071c4e0b3b71ec2e6b6d0d34f86"
+    "lastUpdated": "2026-06-17T15:37:16Z",
+    "lastCommit": "2258e34f002366497a5ce0f4a62c0a99ea4bfa71"
   },
   {
     "title": "Links Portfolio",
