@@ -1,30 +1,30 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19%2010%3A29%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19%2015%3A22%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,219** combined stars
+**79** repositories tracked · **9,224** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,219** stars · **7,945** forks · **45** open issues
+> **79** repositories · **9,224** stars · **7,950** forks · **45** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,397 | 4,167 | 23 | — | 2026-06-18 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 938 | 696 | 2 | — | 2026-06-18 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,399 | 4,170 | 23 | — | 2026-06-19 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 938 | 697 | 2 | — | 2026-06-18 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 872 | 524 | 0 | — | 2026-06-16 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 548 | 218 | 4 | — | 2026-06-15 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 369 | 281 | 1 | — | 2026-06-15 |
-| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 319 | 246 | 3 | Fail | 2026-06-19 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 370 | 281 | 1 | — | 2026-06-19 |
+| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 319 | 247 | 3 | Fail | 2026-06-19 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 226 | 161 | 3 | — | 2026-06-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 186 | 200 | 0 | — | 2026-06-10 |
-| 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 185 | 200 | 0 | — | 2026-05-27 |
+| 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 186 | 200 | 0 | — | 2026-06-19 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 159 | 118 | 0 | Fail | 2026-06-10 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 132 | 116 | 1 | Fail | 2026-06-12 |
 | 12 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 99 | 42 | 0 | — | 2026-06-17 |
@@ -75,13 +75,13 @@ Updates automatically every 6 hours via GitHub Actions.
 | 57 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
 | 58 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 2 | 8 | 0 | — | 2026-05-25 |
 | 59 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-04-24 |
-| 60 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-06-14 |
-| 61 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 1 | 2 | 0 | — | 2026-04-17 |
-| 62 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 1 | 0 | 0 | — | 2026-05-08 |
-| 63 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 1 | 0 | 0 | Pass | 2026-05-11 |
-| 64 | [shadcn-docs-nuxt-starter](https://github.com/NotHarshhaa/shadcn-docs-nuxt-starter) | 1 | 1 | 0 | — | 2025-05-31 |
-| 65 | [drift-watchdog](https://github.com/NotHarshhaa/drift-watchdog) | 1 | 0 | 0 | — | 2026-05-01 |
-| 66 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 1 | 2 | 0 | Pass | 2026-02-08 |
+| 60 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 2 | 2 | 0 | Pass | 2026-06-19 |
+| 61 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-06-14 |
+| 62 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 1 | 2 | 0 | — | 2026-04-17 |
+| 63 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 1 | 0 | 0 | — | 2026-05-08 |
+| 64 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 1 | 0 | 0 | Pass | 2026-05-11 |
+| 65 | [shadcn-docs-nuxt-starter](https://github.com/NotHarshhaa/shadcn-docs-nuxt-starter) | 1 | 1 | 0 | — | 2025-05-31 |
+| 66 | [drift-watchdog](https://github.com/NotHarshhaa/drift-watchdog) | 1 | 0 | 0 | — | 2026-05-01 |
 | 67 | [awesome-devops-cloud-ui](https://github.com/NotHarshhaa/awesome-devops-cloud-ui) | 1 | 4 | 0 | — | 2025-09-27 |
 | 68 | [scoop-bucket](https://github.com/NotHarshhaa/scoop-bucket) | 1 | 0 | 0 | — | 2026-04-20 |
 | 69 | [devops-mcp](https://github.com/NotHarshhaa/devops-mcp) | 1 | 1 | 0 | — | 2026-05-29 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,397
-  &nbsp;·&nbsp; 🍴 4,167
+  &nbsp;·&nbsp; ⭐ 4,399
+  &nbsp;·&nbsp; 🍴 4,170
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -121,7 +121,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) |
 | **Commit date** | `2026-05-02` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-18` |
+| **Repo updated** | `2026-06-19` |
 | **License** | `No license` |
 | **Languages** | `Java` · `TypeScript` · `CSS` · `JavaScript` · `HCL` |
 | **Topics** | `aws` · `beginner-friendly` · `devops` · `devops-learning` · `devops-poc` · `devops-project` |
@@ -133,7 +133,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
   &nbsp;·&nbsp; ⭐ 938
-  &nbsp;·&nbsp; 🍴 696
+  &nbsp;·&nbsp; 🍴 697
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -216,7 +216,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 369
+  &nbsp;·&nbsp; ⭐ 370
   &nbsp;·&nbsp; 🍴 281
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
@@ -233,7 +233,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: README: Update README.md to enhance structure and clarity, including a new...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) |
 | **Commit date** | `2025-06-17` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-15` |
+| **Repo updated** | `2026-06-19` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `devops` · `devopsproject` · `kubernetes` · `kubernetes-cluster` · `kubernetes-deployment` · `kubernetes-learning` |
@@ -245,7 +245,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/devops-cheatsheet">devops-cheatsheet</a></strong>
   &nbsp;·&nbsp; ⭐ 319
-  &nbsp;·&nbsp; 🍴 246
+  &nbsp;·&nbsp; 🍴 247
   &nbsp;·&nbsp; CI Fail
   <br><sub>A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud...</sub>
 </summary>
@@ -328,7 +328,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps_Setup-Installations">DevOps_Setup-Installations</a></strong>
-  &nbsp;·&nbsp; ⭐ 185
+  &nbsp;·&nbsp; ⭐ 186
   &nbsp;·&nbsp; 🍴 200
   &nbsp;·&nbsp; CI —
   <br><sub>Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools</sub>
@@ -345,7 +345,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Guides: README: Update structure and content for improved navigation and clarity](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3) |
 | **Commit date** | `2026-04-24` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-27` |
+| **Repo updated** | `2026-06-19` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `cloud-services` · `cloud-setup` · `devops` · `devops-guide` · `devops-setup-tools` · `devops-tools` |
@@ -1042,7 +1042,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/616caf97c45a907bb67d174875decb4f841e5d3a) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3a9063721e4440feab96ebbb7b940a887575c169) |
 | **Commit date** | `2026-06-19` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-06-19` |
@@ -1752,6 +1752,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:kubeguardian -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/kubeguardian">kubeguardian</a></strong>
+  &nbsp;·&nbsp; ⭐ 2
+  &nbsp;·&nbsp; 🍴 2
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>KubeGuardian is an open-source Kubernetes automation tool that continuously monitors cluster health, detects common failures, and automat...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubeguardian?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubeguardian?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubeguardian?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubeguardian?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [kube: Update dependencies and configuration for improved functionality](https://github.com/NotHarshhaa/kubeguardian/commit/60a6f9cad9969651eb54b1598c68cb96a601d450) |
+| **Commit date** | `2026-02-08` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-19` |
+| **License** | `MIT License` |
+| **Languages** | `Go` · `Shell` · `Go Template` · `Makefile` · `Dockerfile` |
+| **Topics** | `kubeguard` · `kubeguardian` · `kubernetes` · `kubernetes-cluster` · `kubernetes-monitoring` |
+
+</details>
+
 <!-- repo:pipeline-forge -->
 <details>
 <summary>
@@ -1917,34 +1945,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `MIT License` |
 | **Languages** | `Python` |
 | **Topics** | _None_ |
-
-</details>
-
-<!-- repo:kubeguardian -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/kubeguardian">kubeguardian</a></strong>
-  &nbsp;·&nbsp; ⭐ 1
-  &nbsp;·&nbsp; 🍴 2
-  &nbsp;·&nbsp; CI Pass
-  <br><sub>KubeGuardian is an open-source Kubernetes automation tool that continuously monitors cluster health, detects common failures, and automat...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubeguardian?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubeguardian?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubeguardian?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubeguardian?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [kube: Update dependencies and configuration for improved functionality](https://github.com/NotHarshhaa/kubeguardian/commit/60a6f9cad9969651eb54b1598c68cb96a601d450) |
-| **Commit date** | `2026-02-08` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-02-08` |
-| **License** | `MIT License` |
-| **Languages** | `Go` · `Shell` · `Go Template` · `Makefile` · `Dockerfile` |
-| **Topics** | `kubeguard` · `kubeguardian` · `kubernetes` · `kubernetes-cluster` · `kubernetes-monitoring` |
 
 </details>
 

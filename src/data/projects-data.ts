@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4397,
-    "forks": 4167,
+    "stars": 4399,
+    "forks": 4170,
     "issues": 23,
-    "lastUpdated": "2026-06-18T22:17:03Z",
+    "lastUpdated": "2026-06-19T14:03:50Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 938,
-    "forks": 696,
+    "forks": 697,
     "issues": 2,
     "lastUpdated": "2026-06-18T16:34:05Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 369,
+    "stars": 370,
     "forks": 281,
     "issues": 1,
-    "lastUpdated": "2026-06-15T22:58:25Z",
+    "lastUpdated": "2026-06-19T12:24:02Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 319,
-    "forks": 246,
+    "forks": 247,
     "issues": 3,
     "lastUpdated": "2026-06-19T08:25:41Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -156,10 +156,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 185,
+    "stars": 186,
     "forks": 200,
     "issues": 0,
-    "lastUpdated": "2026-05-27T15:34:56Z",
+    "lastUpdated": "2026-06-19T13:08:00Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-19T04:27:01Z",
-    "lastCommit": "616caf97c45a907bb67d174875decb4f841e5d3a"
+    "lastUpdated": "2026-06-19T10:30:04Z",
+    "lastCommit": "3a9063721e4440feab96ebbb7b940a887575c169"
   },
   {
     "title": "Links Portfolio",
@@ -1052,10 +1052,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubeguardian",
       "href": "https://github.com/NotHarshhaa/kubeguardian"
     },
-    "stars": 1,
+    "stars": 2,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-02-08T07:38:39Z",
+    "lastUpdated": "2026-06-19T14:54:52Z",
     "lastCommit": "60a6f9cad9969651eb54b1598c68cb96a601d450"
   },
   {
