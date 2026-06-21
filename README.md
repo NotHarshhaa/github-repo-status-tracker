@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--20%2019%3A29%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--21%2004%3A21%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,264** combined stars
+**79** repositories tracked · **9,271** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,264** stars · **7,967** forks · **45** open issues
+> **79** repositories · **9,271** stars · **7,968** forks · **45** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,416 | 4,172 | 23 | — | 2026-06-20 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,419 | 4,172 | 23 | — | 2026-06-20 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 940 | 700 | 2 | — | 2026-06-20 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 872 | 524 | 0 | — | 2026-06-16 |
-| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 553 | 219 | 4 | — | 2026-06-20 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 384 | 290 | 1 | — | 2026-06-20 |
+| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 554 | 219 | 4 | — | 2026-06-20 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 387 | 291 | 1 | — | 2026-06-21 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 319 | 247 | 3 | Fail | 2026-06-19 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 226 | 161 | 3 | — | 2026-06-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 187 | 200 | 0 | — | 2026-06-20 |
@@ -104,7 +104,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,416
+  &nbsp;·&nbsp; ⭐ 4,419
   &nbsp;·&nbsp; 🍴 4,172
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
@@ -188,7 +188,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-learning-path">kubernetes-learning-path</a></strong>
-  &nbsp;·&nbsp; ⭐ 553
+  &nbsp;·&nbsp; ⭐ 554
   &nbsp;·&nbsp; 🍴 219
   &nbsp;·&nbsp; CI —
   <br><sub>A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)</sub>
@@ -216,8 +216,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 384
-  &nbsp;·&nbsp; 🍴 290
+  &nbsp;·&nbsp; ⭐ 387
+  &nbsp;·&nbsp; 🍴 291
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -233,7 +233,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: README: Update README.md to enhance structure and clarity, including a new...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) |
 | **Commit date** | `2025-06-17` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-20` |
+| **Repo updated** | `2026-06-21` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `devops` · `devopsproject` · `kubernetes` · `kubernetes-cluster` · `kubernetes-deployment` · `kubernetes-learning` |
@@ -1042,7 +1042,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/fa9096cf20facc9c03b1368eb6936aac12c0ae0d) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/65f69917e67a54843ebc3619e77fec1270f7cb05) |
 | **Commit date** | `2026-06-20` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-06-20` |
