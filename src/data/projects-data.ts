@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4419,
-    "forks": 4173,
+    "stars": 4420,
+    "forks": 4174,
     "issues": 23,
-    "lastUpdated": "2026-06-20T23:12:08Z",
+    "lastUpdated": "2026-06-21T22:31:43Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 942,
-    "forks": 702,
+    "forks": 703,
     "issues": 2,
     "lastUpdated": "2026-06-21T14:02:15Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 390,
-    "forks": 292,
+    "stars": 392,
+    "forks": 293,
     "issues": 1,
-    "lastUpdated": "2026-06-21T14:41:33Z",
+    "lastUpdated": "2026-06-22T02:22:46Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-21T14:15:04Z",
-    "lastCommit": "bc6ea129a29ed7afd677faa7b46ba158e44d21c7"
+    "lastUpdated": "2026-06-21T19:44:18Z",
+    "lastCommit": "e3e8022c57a4a5e6454975f8622e3622e11b4669"
   },
   {
     "title": "Links Portfolio",
@@ -1170,10 +1170,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/internal-developer-platform-cli",
       "href": "https://github.com/NotHarshhaa/internal-developer-platform-cli"
     },
-    "stars": 1,
+    "stars": 2,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-04-17T11:33:15Z",
+    "lastUpdated": "2026-06-21T22:35:47Z",
     "lastCommit": "4776fc3ca75747f8bcd088b7297fe09f09a51998"
   },
   {

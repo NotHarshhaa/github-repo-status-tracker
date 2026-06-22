@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--21%2019%3A43%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--22%2004%3A23%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,277** combined stars
+**79** repositories tracked · **9,281** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,277** stars · **7,973** forks · **45** open issues
+> **79** repositories · **9,281** stars · **7,976** forks · **45** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,419 | 4,173 | 23 | — | 2026-06-20 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 942 | 702 | 2 | — | 2026-06-21 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,420 | 4,174 | 23 | — | 2026-06-21 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 942 | 703 | 2 | — | 2026-06-21 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 872 | 524 | 0 | — | 2026-06-16 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 554 | 219 | 4 | — | 2026-06-20 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 390 | 292 | 1 | — | 2026-06-21 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 392 | 293 | 1 | — | 2026-06-22 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 319 | 247 | 3 | Fail | 2026-06-19 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 226 | 161 | 3 | — | 2026-06-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 188 | 200 | 0 | — | 2026-06-21 |
@@ -75,9 +75,9 @@ Updates automatically every 6 hours via GitHub Actions.
 | 57 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
 | 58 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 2 | 8 | 0 | — | 2026-05-25 |
 | 59 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-04-24 |
-| 60 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 2 | 2 | 0 | Pass | 2026-06-19 |
-| 61 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-06-14 |
-| 62 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 1 | 2 | 0 | — | 2026-04-17 |
+| 60 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 2 | 2 | 0 | — | 2026-06-21 |
+| 61 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 2 | 2 | 0 | Pass | 2026-06-19 |
+| 62 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-06-14 |
 | 63 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 1 | 0 | 0 | — | 2026-05-08 |
 | 64 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 1 | 0 | 0 | Pass | 2026-05-11 |
 | 65 | [shadcn-docs-nuxt-starter](https://github.com/NotHarshhaa/shadcn-docs-nuxt-starter) | 1 | 1 | 0 | — | 2025-05-31 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,419
-  &nbsp;·&nbsp; 🍴 4,173
+  &nbsp;·&nbsp; ⭐ 4,420
+  &nbsp;·&nbsp; 🍴 4,174
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -121,7 +121,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) |
 | **Commit date** | `2026-05-02` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-20` |
+| **Repo updated** | `2026-06-21` |
 | **License** | `No license` |
 | **Languages** | `Java` · `TypeScript` · `CSS` · `JavaScript` · `HCL` |
 | **Topics** | `aws` · `beginner-friendly` · `devops` · `devops-learning` · `devops-poc` · `devops-project` |
@@ -133,7 +133,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
   &nbsp;·&nbsp; ⭐ 942
-  &nbsp;·&nbsp; 🍴 702
+  &nbsp;·&nbsp; 🍴 703
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -216,8 +216,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 390
-  &nbsp;·&nbsp; 🍴 292
+  &nbsp;·&nbsp; ⭐ 392
+  &nbsp;·&nbsp; 🍴 293
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -233,7 +233,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: README: Update README.md to enhance structure and clarity, including a new...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) |
 | **Commit date** | `2025-06-17` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-21` |
+| **Repo updated** | `2026-06-22` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `devops` · `devopsproject` · `kubernetes` · `kubernetes-cluster` · `kubernetes-deployment` · `kubernetes-learning` |
@@ -1042,7 +1042,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/bc6ea129a29ed7afd677faa7b46ba158e44d21c7) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/e3e8022c57a4a5e6454975f8622e3622e11b4669) |
 | **Commit date** | `2026-06-21` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-06-21` |
@@ -1752,6 +1752,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:internal-developer-platform-cli -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/internal-developer-platform-cli">internal-developer-platform-cli</a></strong>
+  &nbsp;·&nbsp; ⭐ 2
+  &nbsp;·&nbsp; 🍴 2
+  &nbsp;·&nbsp; CI —
+  <br><sub>A powerful CLI & Web tool that enables self-service infrastructure and service creation for developers, following modern Platform Enginee...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [idp-cli: Update Template Statistics and Add New Service Generators](https://github.com/NotHarshhaa/internal-developer-platform-cli/commit/4776fc3ca75747f8bcd088b7297fe09f09a51998) |
+| **Commit date** | `2026-04-17` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-21` |
+| **License** | `GNU General Public License v3.0` |
+| **Languages** | `Python` · `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:kubeguardian -->
 <details>
 <summary>
@@ -1804,34 +1832,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Repo updated** | `2026-06-14` |
 | **License** | `Eclipse Public License 2.0` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
-| **Topics** | _None_ |
-
-</details>
-
-<!-- repo:internal-developer-platform-cli -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/internal-developer-platform-cli">internal-developer-platform-cli</a></strong>
-  &nbsp;·&nbsp; ⭐ 1
-  &nbsp;·&nbsp; 🍴 2
-  &nbsp;·&nbsp; CI —
-  <br><sub>A powerful CLI & Web tool that enables self-service infrastructure and service creation for developers, following modern Platform Enginee...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/internal-developer-platform-cli?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [idp-cli: Update Template Statistics and Add New Service Generators](https://github.com/NotHarshhaa/internal-developer-platform-cli/commit/4776fc3ca75747f8bcd088b7297fe09f09a51998) |
-| **Commit date** | `2026-04-17` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-04-17` |
-| **License** | `GNU General Public License v3.0` |
-| **Languages** | `Python` · `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | _None_ |
 
 </details>
