@@ -1,16 +1,16 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4430,
-    "forks": 4181,
+    "stars": 4432,
+    "forks": 4182,
     "issues": 23,
-    "lastUpdated": "2026-06-23T16:21:34Z",
+    "lastUpdated": "2026-06-23T20:31:50Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 947,
-    "forks": 706,
+    "forks": 707,
     "issues": 2,
     "lastUpdated": "2026-06-23T11:32:33Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -18,7 +18,7 @@
   {
     "repo": "into-the-devops",
     "stars": 873,
-    "forks": 524,
+    "forks": 525,
     "issues": 0,
     "lastUpdated": "2026-06-22T11:27:00Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -90,7 +90,7 @@
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "stars": 99,
-    "forks": 42,
+    "forks": 43,
     "issues": 0,
     "lastUpdated": "2026-06-17T17:08:32Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -106,7 +106,7 @@
   {
     "repo": "azure-all_in_one",
     "stars": 90,
-    "forks": 60,
+    "forks": 61,
     "issues": 0,
     "lastUpdated": "2026-06-07T09:12:59Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -202,7 +202,7 @@
   {
     "repo": "devops-monitoring-in-a-box",
     "stars": 14,
-    "forks": 16,
+    "forks": 17,
     "issues": 0,
     "lastUpdated": "2026-05-11T20:34:49Z",
     "lastCommit": "ef41c2c28229583a9392b760901cb1eb0289a609"
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-23T14:52:56Z",
-    "lastCommit": "cca4c9cc0c84c87270326b885a45f76d604844f9"
+    "lastUpdated": "2026-06-23T20:09:34Z",
+    "lastCommit": "141b9600f7c3d62c211c0dbf96c529245e91119a"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -298,7 +298,7 @@
   {
     "repo": "ai-platform-engineering-handbook",
     "stars": 7,
-    "forks": 3,
+    "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-06-14T18:28:13Z",
     "lastCommit": "da08c250828e942a9e780fdfdad512a69fd90187"
