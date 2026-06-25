@@ -30,7 +30,7 @@ export const PROJECTS: Project[] = [
     "stars": 4439,
     "forks": 4190,
     "issues": 23,
-    "lastUpdated": "2026-06-24T16:06:58Z",
+    "lastUpdated": "2026-06-25T07:13:58Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 947,
+    "stars": 948,
     "forks": 707,
     "issues": 2,
-    "lastUpdated": "2026-06-23T11:32:33Z",
+    "lastUpdated": "2026-06-25T05:49:24Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 401,
+    "stars": 402,
     "forks": 302,
     "issues": 1,
-    "lastUpdated": "2026-06-24T05:26:26Z",
+    "lastUpdated": "2026-06-25T03:55:31Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-24T19:49:17Z",
-    "lastCommit": "493d19abd75a8e588aefa999a4767c723db014d1"
+    "lastUpdated": "2026-06-25T03:42:41Z",
+    "lastCommit": "e91d18b332730b2ca7fd6f8782afe6d74d9630c4"
   },
   {
     "title": "Links Portfolio",
@@ -961,7 +961,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/terraform-cost-predictor"
     },
     "stars": 2,
-    "forks": 3,
+    "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-05-30T17:31:30Z",
     "lastCommit": "14f7789df80c5702089de5c8c5f793f40cb1465d"
