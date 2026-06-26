@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4447,
-    "forks": 4192,
-    "issues": 23,
-    "lastUpdated": "2026-06-25T22:36:36Z",
+    "stars": 4450,
+    "forks": 4193,
+    "issues": 24,
+    "lastUpdated": "2026-06-26T08:38:11Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 948,
-    "forks": 709,
+    "forks": 710,
     "issues": 2,
     "lastUpdated": "2026-06-25T05:49:24Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 561,
+    "stars": 563,
     "forks": 219,
     "issues": 4,
-    "lastUpdated": "2026-06-25T19:41:16Z",
+    "lastUpdated": "2026-06-26T07:54:58Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 403,
+    "stars": 404,
     "forks": 303,
     "issues": 1,
-    "lastUpdated": "2026-06-25T17:27:01Z",
+    "lastUpdated": "2026-06-26T06:04:18Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -487,7 +487,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-project-templates"
     },
     "stars": 11,
-    "forks": 3,
+    "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-05-17T18:31:41Z",
     "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-25T20:03:21Z",
-    "lastCommit": "ce5aa829565aaf6cb5480196133351a69688d594"
+    "lastUpdated": "2026-06-26T03:53:19Z",
+    "lastCommit": "34622813a21009923a97bd370b65a164690ac3ad"
   },
   {
     "title": "Links Portfolio",
