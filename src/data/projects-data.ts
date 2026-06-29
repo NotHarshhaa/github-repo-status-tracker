@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4469,
-    "forks": 4194,
+    "stars": 4473,
+    "forks": 4199,
     "issues": 24,
-    "lastUpdated": "2026-06-29T02:42:50Z",
+    "lastUpdated": "2026-06-29T11:20:46Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 955,
-    "forks": 714,
+    "stars": 958,
+    "forks": 716,
     "issues": 2,
-    "lastUpdated": "2026-06-29T00:23:48Z",
+    "lastUpdated": "2026-06-29T15:04:51Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 874,
-    "forks": 526,
+    "forks": 527,
     "issues": 0,
     "lastUpdated": "2026-06-26T20:12:01Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 565,
+    "stars": 566,
     "forks": 219,
     "issues": 4,
-    "lastUpdated": "2026-06-27T01:50:37Z",
+    "lastUpdated": "2026-06-29T12:40:14Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 408,
-    "forks": 307,
+    "forks": 306,
     "issues": 1,
     "lastUpdated": "2026-06-28T22:29:21Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 320,
-    "forks": 248,
+    "forks": 249,
     "issues": 3,
     "lastUpdated": "2026-06-27T04:32:33Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -124,10 +124,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 226,
+    "stars": 225,
     "forks": 162,
     "issues": 3,
-    "lastUpdated": "2026-06-01T01:01:52Z",
+    "lastUpdated": "2026-06-29T12:19:10Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -192,7 +192,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 132,
-    "forks": 116,
+    "forks": 117,
     "issues": 1,
     "lastUpdated": "2026-06-12T12:28:05Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 99,
+    "stars": 100,
     "forks": 44,
     "issues": 0,
-    "lastUpdated": "2026-06-25T14:53:46Z",
+    "lastUpdated": "2026-06-29T08:19:00Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -365,7 +365,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
     "stars": 25,
-    "forks": 37,
+    "forks": 38,
     "issues": 0,
     "lastUpdated": "2026-06-23T18:29:18Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-28T19:24:12Z",
-    "lastCommit": "5a8c00231828636c292f5fff91f5cea9e2fef3cc"
+    "lastUpdated": "2026-06-29T04:04:44Z",
+    "lastCommit": "a39eb6ff055c61a2f12703a61a9ea1aac37f1534"
   },
   {
     "title": "Links Portfolio",
