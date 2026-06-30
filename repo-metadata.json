@@ -1,26 +1,26 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4476,
+    "stars": 4475,
     "forks": 4199,
     "issues": 24,
-    "lastUpdated": "2026-06-29T19:45:19Z",
+    "lastUpdated": "2026-06-30T03:27:24Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 960,
-    "forks": 716,
+    "stars": 959,
+    "forks": 718,
     "issues": 2,
-    "lastUpdated": "2026-06-29T19:52:20Z",
+    "lastUpdated": "2026-06-30T03:27:24Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
     "repo": "into-the-devops",
-    "stars": 874,
+    "stars": 875,
     "forks": 527,
     "issues": 0,
-    "lastUpdated": "2026-06-26T20:12:01Z",
+    "lastUpdated": "2026-06-30T03:45:58Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -41,10 +41,10 @@
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 320,
+    "stars": 321,
     "forks": 249,
     "issues": 3,
-    "lastUpdated": "2026-06-27T04:32:33Z",
+    "lastUpdated": "2026-06-30T01:18:08Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -65,10 +65,10 @@
   },
   {
     "repo": "DevOps_Setup-Installations",
-    "stars": 186,
-    "forks": 202,
+    "stars": 187,
+    "forks": 203,
     "issues": 0,
-    "lastUpdated": "2026-06-19T13:08:00Z",
+    "lastUpdated": "2026-06-30T03:05:45Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -241,26 +241,26 @@
   },
   {
     "repo": "cv-portfolio",
-    "stars": 11,
-    "forks": 11,
+    "stars": 12,
+    "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-06-28T11:23:43Z",
+    "lastUpdated": "2026-06-30T02:18:35Z",
     "lastCommit": "85489143b779d9dd56e136caab60bead0e2e7370"
   },
   {
     "repo": "awesome-devops-cloud",
-    "stars": 10,
-    "forks": 13,
+    "stars": 11,
+    "forks": 14,
     "issues": 6,
-    "lastUpdated": "2026-06-10T18:05:09Z",
+    "lastUpdated": "2026-06-30T02:30:47Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
   {
     "repo": "links-portfolio",
-    "stars": 7,
-    "forks": 8,
+    "stars": 8,
+    "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-04-27T07:31:12Z",
+    "lastUpdated": "2026-06-30T02:20:59Z",
     "lastCommit": "83efa408a5b90ee1699718fb71a49f8163f856ae"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-29T15:50:37Z",
-    "lastCommit": "1668e68506962412f2061ae60915870f6e71b466"
+    "lastUpdated": "2026-06-29T20:01:38Z",
+    "lastCommit": "23c67e97b217640ecd9d6fe4528f2f1d32340c1b"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -361,10 +361,10 @@
   },
   {
     "repo": "personal-portfolio",
-    "stars": 4,
-    "forks": 6,
+    "stars": 5,
+    "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-04-24T11:15:28Z",
+    "lastUpdated": "2026-06-30T02:20:31Z",
     "lastCommit": "5c0e04466c0e788819a0cbf47b6a7a24b4997f13"
   },
   {
@@ -433,10 +433,10 @@
   },
   {
     "repo": "prodevopsguytech-v2",
-    "stars": 2,
-    "forks": 2,
+    "stars": 3,
+    "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-04-20T11:40:35Z",
+    "lastUpdated": "2026-06-30T02:22:00Z",
     "lastCommit": "67e44e0a5ea73e47005bfe03d0ce033e775f2e26"
   },
   {
