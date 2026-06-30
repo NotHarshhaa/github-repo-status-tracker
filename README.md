@@ -1,22 +1,22 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--30%2014%3A23%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--30%2020%3A01%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,411** combined stars
+**79** repositories tracked · **9,414** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,411** stars · **8,057** forks · **46** open issues
+> **79** repositories · **9,414** stars · **8,059** forks · **46** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,481 | 4,203 | 24 | — | 2026-06-30 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,482 | 4,205 | 24 | — | 2026-06-30 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 963 | 718 | 2 | — | 2026-06-30 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 875 | 527 | 0 | — | 2026-06-30 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 566 | 219 | 4 | — | 2026-06-29 |
@@ -27,8 +27,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 188 | 203 | 0 | — | 2026-06-30 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 160 | 120 | 0 | Fail | 2026-06-25 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 132 | 117 | 1 | Fail | 2026-06-12 |
-| 12 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 101 | 43 | 0 | — | 2026-06-27 |
-| 13 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 100 | 44 | 0 | — | 2026-06-29 |
+| 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 102 | 44 | 0 | — | 2026-06-30 |
+| 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 101 | 43 | 0 | — | 2026-06-27 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 90 | 61 | 0 | — | 2026-06-07 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 73 | 67 | 0 | — | 2026-05-25 |
 | 16 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 62 | 70 | 0 | — | 2026-05-25 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,481
-  &nbsp;·&nbsp; 🍴 4,203
+  &nbsp;·&nbsp; ⭐ 4,482
+  &nbsp;·&nbsp; 🍴 4,205
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -408,6 +408,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:AWS-Projects -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
+  &nbsp;·&nbsp; ⭐ 102
+  &nbsp;·&nbsp; 🍴 44
+  &nbsp;·&nbsp; CI —
+  <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-Projects?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Projects?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Projects?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Projects?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [AWS: Add Code of Conduct, Contributing Guidelines, Security Policy, and Funding Informa...](https://github.com/NotHarshhaa/AWS-Projects/commit/c942afb83427ab02b475685461c7b3e0b0a1fd84) |
+| **Commit date** | `2026-05-11` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-06-30` |
+| **License** | `No license` |
+| **Languages** | _None detected_ |
+| **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
+
+</details>
+
 <!-- repo:AWS-GCP-Azure-Cloud-Projects-Workshop -->
 <details>
 <summary>
@@ -433,34 +461,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | `amazon-web-services` · `aws` · `azure` · `cloud-projects` · `google-cloud-platform` · `microsoft-azure` |
-
-</details>
-
-<!-- repo:AWS-Projects -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 100
-  &nbsp;·&nbsp; 🍴 44
-  &nbsp;·&nbsp; CI —
-  <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/AWS-Projects?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/AWS-Projects?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/AWS-Projects?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/AWS-Projects?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [AWS: Add Code of Conduct, Contributing Guidelines, Security Policy, and Funding Informa...](https://github.com/NotHarshhaa/AWS-Projects/commit/c942afb83427ab02b475685461c7b3e0b0a1fd84) |
-| **Commit date** | `2026-05-11` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-29` |
-| **License** | `No license` |
-| **Languages** | _None detected_ |
-| **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
 
 </details>
 
@@ -1042,7 +1042,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/5538accfb203c6d0889a3cfeb8d2268d5273ba98) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f4654da5ef4cfce49c2c883842177fab066d3072) |
 | **Commit date** | `2026-06-30` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-06-30` |
