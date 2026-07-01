@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4482,
-    "forks": 4205,
+    "stars": 4484,
+    "forks": 4204,
     "issues": 24,
-    "lastUpdated": "2026-06-30T19:25:43Z",
+    "lastUpdated": "2026-06-30T21:50:28Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 963,
-    "forks": 718,
+    "stars": 964,
+    "forks": 720,
     "issues": 2,
-    "lastUpdated": "2026-06-30T14:07:26Z",
+    "lastUpdated": "2026-07-01T00:34:25Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 408,
+    "stars": 409,
     "forks": 306,
     "issues": 1,
-    "lastUpdated": "2026-06-28T22:29:21Z",
+    "lastUpdated": "2026-07-01T03:14:24Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-06-30T14:24:42Z",
-    "lastCommit": "f4654da5ef4cfce49c2c883842177fab066d3072"
+    "lastUpdated": "2026-06-30T20:01:58Z",
+    "lastCommit": "66a4c53b62408b0bbbb13443fa601a6286ac6b93"
   },
   {
     "title": "Links Portfolio",
@@ -630,10 +630,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/links-portfolio",
       "href": "https://github.com/NotHarshhaa/links-portfolio"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-06-30T02:20:59Z",
+    "lastUpdated": "2026-06-30T23:02:07Z",
     "lastCommit": "83efa408a5b90ee1699718fb71a49f8163f856ae"
   },
   {
@@ -890,10 +890,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com",
       "href": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com"
     },
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2025-12-18T09:17:35Z",
+    "lastUpdated": "2026-06-30T23:07:05Z",
     "lastCommit": "bbbbbb4721e7e3dbe971bd03edad3aaf7455369f"
   },
   {
@@ -1071,10 +1071,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-mcp",
       "href": "https://github.com/NotHarshhaa/devops-mcp"
     },
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-05-29T11:46:00Z",
+    "lastUpdated": "2026-06-30T23:01:29Z",
     "lastCommit": "c1b5044cc6e3bac1b87ee525bd87e71ed98f0ca9"
   },
   {
