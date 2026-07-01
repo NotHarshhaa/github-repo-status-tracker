@@ -1,16 +1,16 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4491,
-    "forks": 4205,
+    "stars": 4493,
+    "forks": 4204,
     "issues": 24,
-    "lastUpdated": "2026-07-01T12:19:24Z",
+    "lastUpdated": "2026-07-01T18:15:18Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 965,
-    "forks": 720,
+    "forks": 721,
     "issues": 2,
     "lastUpdated": "2026-07-01T08:43:49Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -25,10 +25,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 566,
+    "stars": 567,
     "forks": 220,
     "issues": 4,
-    "lastUpdated": "2026-07-01T13:30:19Z",
+    "lastUpdated": "2026-07-01T16:59:07Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -57,10 +57,10 @@
   },
   {
     "repo": "Kubernetes",
-    "stars": 191,
+    "stars": 192,
     "forks": 200,
     "issues": 0,
-    "lastUpdated": "2026-07-01T12:44:51Z",
+    "lastUpdated": "2026-07-01T15:15:42Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -97,10 +97,10 @@
   },
   {
     "repo": "AWS-Projects",
-    "stars": 103,
+    "stars": 104,
     "forks": 45,
     "issues": 0,
-    "lastUpdated": "2026-07-01T07:46:22Z",
+    "lastUpdated": "2026-07-01T16:57:57Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-01T09:50:59Z",
-    "lastCommit": "78499d88321bcbc5933494223cc8200f6d144c4c"
+    "lastUpdated": "2026-07-01T14:40:42Z",
+    "lastCommit": "0c5d31f3b3953619dd44d194258159e4c68a4799"
   },
   {
     "repo": "prodevopsguytech.com",
