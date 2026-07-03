@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4496,
+    "stars": 4498,
     "forks": 4209,
     "issues": 24,
-    "lastUpdated": "2026-07-02T21:22:41Z",
+    "lastUpdated": "2026-07-03T08:12:52Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 568,
+    "stars": 569,
     "forks": 220,
     "issues": 4,
-    "lastUpdated": "2026-07-01T21:58:26Z",
+    "lastUpdated": "2026-07-03T07:59:13Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 409,
+    "stars": 410,
     "forks": 307,
     "issues": 1,
-    "lastUpdated": "2026-07-01T03:14:24Z",
+    "lastUpdated": "2026-07-03T04:03:36Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-02T19:26:58Z",
-    "lastCommit": "c8325c58bd16d3413839204d09b39c7df3b87858"
+    "lastUpdated": "2026-07-03T03:24:59Z",
+    "lastCommit": "3e888a44748957be824a9240a38760201c045523"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 7,
-    "forks": 4,
+    "stars": 8,
+    "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-06-14T18:28:13Z",
+    "lastUpdated": "2026-07-03T05:51:56Z",
     "lastCommit": "da08c250828e942a9e780fdfdad512a69fd90187"
   },
   {
@@ -925,10 +925,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-project-generator",
       "href": "https://github.com/NotHarshhaa/devops-project-generator"
     },
-    "stars": 2,
-    "forks": 8,
+    "stars": 3,
+    "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-05-25T16:34:32Z",
+    "lastUpdated": "2026-07-03T05:52:51Z",
     "lastCommit": "730d8af09315cd838f98d7daa920e05d291b562e"
   },
   {
@@ -1221,10 +1221,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/mlops-project-generator",
       "href": "https://github.com/NotHarshhaa/mlops-project-generator"
     },
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-05-26T06:08:24Z",
+    "lastUpdated": "2026-07-03T05:52:29Z",
     "lastCommit": "490981c4e53a04476d10c6d0ace1fcaaba15d07b"
   },
   {

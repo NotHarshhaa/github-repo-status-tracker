@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03%2003%3A24%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03%2009%3A20%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,448** combined stars
+**79** repositories tracked · **9,455** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,448** stars · **8,078** forks · **46** open issues
+> **79** repositories · **9,455** stars · **8,081** forks · **46** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,496 | 4,209 | 24 | — | 2026-07-02 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,498 | 4,209 | 24 | — | 2026-07-03 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 967 | 726 | 2 | — | 2026-07-02 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 877 | 529 | 0 | — | 2026-07-01 |
-| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 568 | 220 | 4 | — | 2026-07-01 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 409 | 307 | 1 | — | 2026-07-01 |
+| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 569 | 220 | 4 | — | 2026-07-03 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 410 | 307 | 1 | — | 2026-07-03 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 321 | 249 | 3 | — | 2026-06-30 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 226 | 162 | 3 | — | 2026-07-02 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 192 | 200 | 0 | — | 2026-07-01 |
@@ -49,11 +49,11 @@ Updates automatically every 6 hours via GitHub Actions.
 | 31 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 21 | 0 | — | 2026-06-11 |
 | 32 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
 | 33 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 9 | 9 | 0 | — | 2026-06-30 |
-| 34 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-07-02 |
-| 35 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
-| 36 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
-| 37 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
-| 38 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 7 | 4 | 0 | — | 2026-06-14 |
+| 34 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 8 | 5 | 0 | — | 2026-07-03 |
+| 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-07-03 |
+| 36 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
+| 37 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
+| 38 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
 | 39 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-05-09 |
 | 40 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 6 | 12 | 0 | — | 2026-02-09 |
 | 41 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
@@ -69,11 +69,11 @@ Updates automatically every 6 hours via GitHub Actions.
 | 51 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
 | 52 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
 | 53 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-06-30 |
-| 54 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 2 | 4 | 0 | — | 2026-05-30 |
-| 55 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 2 | 7 | 0 | Fail | 2026-05-01 |
-| 56 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 2 | 1 | 0 | — | 2026-05-05 |
-| 57 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
-| 58 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 2 | 8 | 0 | — | 2026-05-25 |
+| 54 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 3 | 9 | 0 | — | 2026-07-03 |
+| 55 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 2 | 4 | 0 | — | 2026-05-30 |
+| 56 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 2 | 7 | 0 | Fail | 2026-05-01 |
+| 57 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 2 | 1 | 0 | — | 2026-05-05 |
+| 58 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
 | 59 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-04-24 |
 | 60 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 2 | 2 | 0 | — | 2026-06-21 |
 | 61 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 2 | 2 | 0 | Pass | 2026-06-19 |
@@ -85,11 +85,11 @@ Updates automatically every 6 hours via GitHub Actions.
 | 67 | [drift-watchdog](https://github.com/NotHarshhaa/drift-watchdog) | 1 | 0 | 0 | — | 2026-05-01 |
 | 68 | [awesome-devops-cloud-ui](https://github.com/NotHarshhaa/awesome-devops-cloud-ui) | 1 | 4 | 0 | — | 2025-09-27 |
 | 69 | [scoop-bucket](https://github.com/NotHarshhaa/scoop-bucket) | 1 | 0 | 0 | — | 2026-04-20 |
-| 70 | [mainframe-mcp-server](https://github.com/NotHarshhaa/mainframe-mcp-server) | 0 | 0 | 0 | Pass | 2026-06-10 |
-| 71 | [devops-atlasx](https://github.com/NotHarshhaa/devops-atlasx) | 0 | 0 | 0 | — | 2026-04-18 |
-| 72 | [itsmeharshhaa.site](https://github.com/NotHarshhaa/itsmeharshhaa.site) | 0 | 1 | 0 | — | 2025-04-12 |
-| 73 | [terraview](https://github.com/NotHarshhaa/terraview) | 0 | 0 | 0 | Pass | 2026-06-12 |
-| 74 | [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator) | 0 | 0 | 0 | Fail | 2026-05-26 |
+| 70 | [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator) | 1 | 1 | 0 | Fail | 2026-07-03 |
+| 71 | [mainframe-mcp-server](https://github.com/NotHarshhaa/mainframe-mcp-server) | 0 | 0 | 0 | Pass | 2026-06-10 |
+| 72 | [devops-atlasx](https://github.com/NotHarshhaa/devops-atlasx) | 0 | 0 | 0 | — | 2026-04-18 |
+| 73 | [itsmeharshhaa.site](https://github.com/NotHarshhaa/itsmeharshhaa.site) | 0 | 1 | 0 | — | 2025-04-12 |
+| 74 | [terraview](https://github.com/NotHarshhaa/terraview) | 0 | 0 | 0 | Pass | 2026-06-12 |
 | 75 | [pod-why-dead](https://github.com/NotHarshhaa/pod-why-dead) | 0 | 0 | 0 | Pass | 2026-05-01 |
 | 76 | [homebrew-tap](https://github.com/NotHarshhaa/homebrew-tap) | 0 | 0 | 0 | — | 2026-06-22 |
 | 77 | [terraview-action](https://github.com/NotHarshhaa/terraview-action) | 0 | 0 | 0 | Pass | 2026-06-05 |
@@ -104,7 +104,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,496
+  &nbsp;·&nbsp; ⭐ 4,498
   &nbsp;·&nbsp; 🍴 4,209
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
@@ -121,7 +121,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) |
 | **Commit date** | `2026-05-02` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-02` |
+| **Repo updated** | `2026-07-03` |
 | **License** | `No license` |
 | **Languages** | `Java` · `TypeScript` · `CSS` · `JavaScript` · `HCL` |
 | **Topics** | `aws` · `beginner-friendly` · `devops` · `devops-learning` · `devops-poc` · `devops-project` |
@@ -188,7 +188,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-learning-path">kubernetes-learning-path</a></strong>
-  &nbsp;·&nbsp; ⭐ 568
+  &nbsp;·&nbsp; ⭐ 569
   &nbsp;·&nbsp; 🍴 220
   &nbsp;·&nbsp; CI —
   <br><sub>A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)</sub>
@@ -205,7 +205,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) |
 | **Commit date** | `2025-03-08` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-01` |
+| **Repo updated** | `2026-07-03` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `beginner` · `kubernetes` · `kubernetes-best-practices` · `kubernetes-deployment` · `kubernetes-roadmap` · `kubernetes-setup` |
@@ -216,7 +216,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 409
+  &nbsp;·&nbsp; ⭐ 410
   &nbsp;·&nbsp; 🍴 307
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
@@ -233,7 +233,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: README: Update README.md to enhance structure and clarity, including a new...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) |
 | **Commit date** | `2025-06-17` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-01` |
+| **Repo updated** | `2026-07-03` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `devops` · `devopsproject` · `kubernetes` · `kubernetes-cluster` · `kubernetes-deployment` · `kubernetes-learning` |
@@ -1024,6 +1024,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:ai-platform-engineering-handbook -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/ai-platform-engineering-handbook">ai-platform-engineering-handbook</a></strong>
+  &nbsp;·&nbsp; ⭐ 8
+  &nbsp;·&nbsp; 🍴 5
+  &nbsp;·&nbsp; CI —
+  <br><sub>Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, an...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [ai-platform-handbook: Add Vercel configuration for Hugo build environment](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/da08c250828e942a9e780fdfdad512a69fd90187) |
+| **Commit date** | `2026-06-14` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-07-03` |
+| **License** | `MIT License` |
+| **Languages** | _None detected_ |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:github-repo-status-tracker -->
 <details>
 <summary>
@@ -1042,10 +1070,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c8325c58bd16d3413839204d09b39c7df3b87858) |
-| **Commit date** | `2026-07-02` |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3e888a44748957be824a9240a38760201c045523) |
+| **Commit date** | `2026-07-03` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-02` |
+| **Repo updated** | `2026-07-03` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
 | **Topics** | _None_ |
@@ -1133,34 +1161,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `MIT License` |
 | **Languages** | `Shell` · `PowerShell` · `TypeScript` · `JavaScript` · `CSS` |
 | **Topics** | `devops` · `devops-environment` · `devops-tools` · `devops-tools-support` · `installation-scripts` · `setup-development-environment` |
-
-</details>
-
-<!-- repo:ai-platform-engineering-handbook -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/ai-platform-engineering-handbook">ai-platform-engineering-handbook</a></strong>
-  &nbsp;·&nbsp; ⭐ 7
-  &nbsp;·&nbsp; 🍴 4
-  &nbsp;·&nbsp; CI —
-  <br><sub>Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, an...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/ai-platform-engineering-handbook?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [ai-platform-handbook: Add Vercel configuration for Hugo build environment](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/da08c250828e942a9e780fdfdad512a69fd90187) |
-| **Commit date** | `2026-06-14` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-14` |
-| **License** | `MIT License` |
-| **Languages** | _None detected_ |
-| **Topics** | _None_ |
 
 </details>
 
@@ -1584,6 +1584,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:devops-project-generator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-project-generator">devops-project-generator</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 9
+  &nbsp;·&nbsp; CI —
+  <br><sub>A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [devops-gen: Update README and add banner image for DevOps Project Generator](https://github.com/NotHarshhaa/devops-project-generator/commit/730d8af09315cd838f98d7daa920e05d291b562e) |
+| **Commit date** | `2026-05-25` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-07-03` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `Python` · `Jinja` · `Shell` · `Makefile` |
+| **Topics** | `devops` · `devops-gen` · `devops-project` · `devops-project-generator` · `project-gen` · `project-generator` |
+
+</details>
+
 <!-- repo:terraform-cost-predictor -->
 <details>
 <summary>
@@ -1693,34 +1721,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `Apache License 2.0` |
 | **Languages** | `Go` · `Makefile` · `Go Template` · `Dockerfile` · `PowerShell` |
 | **Topics** | `ai` · `data-scientist` · `kubernetes` · `kubernetes-operator` · `machine-learning` · `mlflow-tracking` |
-
-</details>
-
-<!-- repo:devops-project-generator -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/devops-project-generator">devops-project-generator</a></strong>
-  &nbsp;·&nbsp; ⭐ 2
-  &nbsp;·&nbsp; 🍴 8
-  &nbsp;·&nbsp; CI —
-  <br><sub>A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [devops-gen: Update README and add banner image for DevOps Project Generator](https://github.com/NotHarshhaa/devops-project-generator/commit/730d8af09315cd838f98d7daa920e05d291b562e) |
-| **Commit date** | `2026-05-25` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-25` |
-| **License** | `MIT License` |
-| **Languages** | `TypeScript` · `Python` · `Jinja` · `Shell` · `Makefile` |
-| **Topics** | `devops` · `devops-gen` · `devops-project` · `devops-project-generator` · `project-gen` · `project-generator` |
 
 </details>
 
@@ -2032,6 +2032,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:mlops-project-generator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/mlops-project-generator">mlops-project-generator</a></strong>
+  &nbsp;·&nbsp; ⭐ 1
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI Fail
+  <br><sub>A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/mlops-project-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/mlops-project-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/mlops-project-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/mlops-project-generator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [MLOps-Gen: Release version 2.1.0 with enhanced NLP support and template updates](https://github.com/NotHarshhaa/mlops-project-generator/commit/490981c4e53a04476d10c6d0ace1fcaaba15d07b) |
+| **Commit date** | `2026-05-26` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-07-03` |
+| **License** | `MIT License` |
+| **Languages** | `Python` · `Jinja` · `TypeScript` · `CSS` · `Makefile` |
+| **Topics** | `mlops` · `mlops-project` · `mlops-template` · `pytorch` · `scikit-learn` · `tensorflow` |
+
+</details>
+
 <!-- repo:mainframe-mcp-server -->
 <details>
 <summary>
@@ -2141,34 +2169,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `Apache License 2.0` |
 | **Languages** | `TypeScript` · `Go` · `CSS` · `Dockerfile` · `Makefile` |
 | **Topics** | _None_ |
-
-</details>
-
-<!-- repo:mlops-project-generator -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/mlops-project-generator">mlops-project-generator</a></strong>
-  &nbsp;·&nbsp; ⭐ 0
-  &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI Fail
-  <br><sub>A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/mlops-project-generator?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/mlops-project-generator?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/mlops-project-generator?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/mlops-project-generator?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [MLOps-Gen: Release version 2.1.0 with enhanced NLP support and template updates](https://github.com/NotHarshhaa/mlops-project-generator/commit/490981c4e53a04476d10c6d0ace1fcaaba15d07b) |
-| **Commit date** | `2026-05-26` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-26` |
-| **License** | `MIT License` |
-| **Languages** | `Python` · `Jinja` · `TypeScript` · `CSS` · `Makefile` |
-| **Topics** | `mlops` · `mlops-project` · `mlops-template` · `pytorch` · `scikit-learn` · `tensorflow` |
 
 </details>
 
