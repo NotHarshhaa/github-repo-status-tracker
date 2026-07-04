@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4502,
-    "forks": 4211,
+    "stars": 4504,
+    "forks": 4212,
     "issues": 24,
-    "lastUpdated": "2026-07-04T09:05:35Z",
+    "lastUpdated": "2026-07-04T17:45:33Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 970,
-    "forks": 727,
+    "stars": 971,
+    "forks": 729,
     "issues": 2,
-    "lastUpdated": "2026-07-03T19:36:00Z",
+    "lastUpdated": "2026-07-04T16:22:52Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 570,
+    "stars": 571,
     "forks": 220,
     "issues": 4,
-    "lastUpdated": "2026-07-03T18:28:29Z",
+    "lastUpdated": "2026-07-04T17:47:11Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -281,8 +281,8 @@ export const PROJECTS: Project[] = [
     "stars": 62,
     "forks": 70,
     "issues": 0,
-    "lastUpdated": "2026-07-04T13:08:50Z",
-    "lastCommit": "9f5cb0439877d3f3ea3cfb588d76f29045a8e22b"
+    "lastUpdated": "2026-07-04T13:40:32Z",
+    "lastCommit": "b49b9dd35b4013740775bb3ce2b6c6c2e621c10f"
   },
   {
     "title": "Secure Kubernetes Dashboard",
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-04T08:39:45Z",
-    "lastCommit": "9cbb3e3751732465c422578d5605ae27a6df307e"
+    "lastUpdated": "2026-07-04T13:37:39Z",
+    "lastCommit": "cb52ca3af119fba3657fe8d2d246eeb51a4cd1a7"
   },
   {
     "title": "Links Portfolio",
