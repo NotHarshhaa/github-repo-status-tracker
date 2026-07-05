@@ -34,7 +34,7 @@
   {
     "repo": "kubernetes-projects-learning",
     "stars": 411,
-    "forks": 308,
+    "forks": 309,
     "issues": 1,
     "lastUpdated": "2026-07-04T09:43:31Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -65,10 +65,10 @@
   },
   {
     "repo": "DevOps_Setup-Installations",
-    "stars": 189,
+    "stars": 190,
     "forks": 203,
     "issues": 0,
-    "lastUpdated": "2026-07-01T09:17:05Z",
+    "lastUpdated": "2026-07-05T02:11:50Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-04T13:37:39Z",
-    "lastCommit": "cb52ca3af119fba3657fe8d2d246eeb51a4cd1a7"
+    "lastUpdated": "2026-07-04T19:17:16Z",
+    "lastCommit": "5dbf9ddb8b5741403f5d9f4b5848cbc1d5419e3f"
   },
   {
     "repo": "prodevopsguytech.com",
