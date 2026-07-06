@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4508,
-    "forks": 4218,
+    "stars": 4507,
+    "forks": 4219,
     "issues": 24,
-    "lastUpdated": "2026-07-05T23:31:10Z",
+    "lastUpdated": "2026-07-06T04:46:52Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 973,
-    "forks": 732,
+    "forks": 731,
     "issues": 2,
     "lastUpdated": "2026-07-05T14:47:38Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -124,10 +124,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 226,
+    "stars": 227,
     "forks": 162,
     "issues": 3,
-    "lastUpdated": "2026-07-02T23:54:57Z",
+    "lastUpdated": "2026-07-06T07:13:14Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -232,7 +232,7 @@ export const PROJECTS: Project[] = [
     "stars": 104,
     "forks": 46,
     "issues": 0,
-    "lastUpdated": "2026-07-01T16:57:57Z",
+    "lastUpdated": "2026-07-06T06:56:17Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-05T19:20:21Z",
-    "lastCommit": "1c68b832c111d620c6b25709325cbfc6259fec28"
+    "lastUpdated": "2026-07-06T03:40:50Z",
+    "lastCommit": "a4d8c076bdc2c7f9a76683013668289aa5ada749"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-03T05:51:56Z",
+    "lastUpdated": "2026-07-06T09:05:56Z",
     "lastCommit": "da08c250828e942a9e780fdfdad512a69fd90187"
   },
   {
@@ -1122,10 +1122,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kube-ctx-manager",
       "href": "https://github.com/NotHarshhaa/kube-ctx-manager"
     },
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-05-08T03:41:12Z",
+    "lastUpdated": "2026-07-06T09:17:54Z",
     "lastCommit": "153acfa316d4737439299fa746025829a61216b9"
   },
   {
