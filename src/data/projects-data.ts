@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4549,
-    "forks": 4234,
+    "stars": 4553,
+    "forks": 4247,
     "issues": 25,
-    "lastUpdated": "2026-07-08T05:44:03Z",
+    "lastUpdated": "2026-07-08T13:12:02Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 879,
+    "stars": 881,
     "forks": 530,
     "issues": 0,
-    "lastUpdated": "2026-07-08T01:27:19Z",
+    "lastUpdated": "2026-07-08T13:12:41Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -172,10 +172,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 160,
+    "stars": 161,
     "forks": 120,
     "issues": 0,
-    "lastUpdated": "2026-06-25T15:07:46Z",
+    "lastUpdated": "2026-07-08T09:09:35Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-08T02:49:12Z",
-    "lastCommit": "3fc814885f7abb7903dca329f72fafc95bfcfa3c"
+    "lastUpdated": "2026-07-08T08:32:38Z",
+    "lastCommit": "6cdaaa8b43b9395039d107124923da1f2cd4edb8"
   },
   {
     "title": "Links Portfolio",
@@ -842,10 +842,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/aws-infra-generator",
       "href": "https://github.com/NotHarshhaa/aws-infra-generator"
     },
-    "stars": 4,
+    "stars": 5,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-01T08:02:03Z",
+    "lastUpdated": "2026-07-08T09:09:14Z",
     "lastCommit": "4dcc27555e984181431ec82952ffa818d0dca873"
   },
   {

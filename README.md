@@ -1,31 +1,31 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--08%2008%3A32%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--08%2014%3A12%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,533** combined stars
+**79** repositories tracked · **9,541** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,533** stars · **8,126** forks · **47** open issues
+> **79** repositories · **9,541** stars · **8,139** forks · **47** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,549 | 4,234 | 25 | — | 2026-07-08 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,553 | 4,247 | 25 | — | 2026-07-08 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 981 | 737 | 2 | — | 2026-07-08 |
-| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 879 | 530 | 0 | — | 2026-07-08 |
+| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 881 | 530 | 0 | — | 2026-07-08 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 573 | 220 | 4 | — | 2026-07-05 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 411 | 309 | 1 | — | 2026-07-07 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 322 | 250 | 3 | — | 2026-07-07 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 228 | 162 | 3 | — | 2026-07-07 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 192 | 202 | 0 | — | 2026-07-01 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 190 | 203 | 0 | — | 2026-07-07 |
-| 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 160 | 120 | 0 | Fail | 2026-06-25 |
+| 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 161 | 120 | 0 | Fail | 2026-07-08 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 132 | 117 | 1 | Fail | 2026-06-12 |
 | 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 104 | 47 | 0 | — | 2026-07-06 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 101 | 43 | 0 | — | 2026-06-27 |
@@ -60,10 +60,10 @@ Updates automatically every 6 hours via GitHub Actions.
 | 42 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 5 | 8 | 0 | — | 2026-06-20 |
 | 43 | [prodevopsguy.xyz](https://github.com/NotHarshhaa/prodevopsguy.xyz) | 5 | 2 | 1 | — | 2025-02-22 |
 | 44 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 5 | 7 | 0 | — | 2026-06-30 |
-| 45 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
-| 46 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
-| 47 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-06-30 |
-| 48 | [aws-infra-generator](https://github.com/NotHarshhaa/aws-infra-generator) | 4 | 5 | 0 | — | 2026-07-01 |
+| 45 | [aws-infra-generator](https://github.com/NotHarshhaa/aws-infra-generator) | 5 | 5 | 0 | — | 2026-07-08 |
+| 46 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
+| 47 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
+| 48 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-06-30 |
 | 49 | [status.prodevopsguytech.com](https://github.com/NotHarshhaa/status.prodevopsguytech.com) | 3 | 8 | 0 | Pass | 2026-05-25 |
 | 50 | [prodevopsguy.hashnode.dev](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev) | 3 | 10 | 0 | — | 2025-11-23 |
 | 51 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,549
-  &nbsp;·&nbsp; 🍴 4,234
+  &nbsp;·&nbsp; ⭐ 4,553
+  &nbsp;·&nbsp; 🍴 4,247
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -160,7 +160,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/into-the-devops">into-the-devops</a></strong>
-  &nbsp;·&nbsp; ⭐ 879
+  &nbsp;·&nbsp; ⭐ 881
   &nbsp;·&nbsp; 🍴 530
   &nbsp;·&nbsp; CI —
   <br><sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elasti...</sub>
@@ -356,7 +356,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator">Certified_Kubernetes_Administrator</a></strong>
-  &nbsp;·&nbsp; ⭐ 160
+  &nbsp;·&nbsp; ⭐ 161
   &nbsp;·&nbsp; 🍴 120
   &nbsp;·&nbsp; CI Fail
   <br><sub>Master Kubernetes from scratch and become a Certified Kubernetes Administrator (CKA)! This repository is your one-stop resource to learn...</sub>
@@ -373,7 +373,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [CKA: Update README for clarity and consistency](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a) |
 | **Commit date** | `2026-04-26` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-25` |
+| **Repo updated** | `2026-07-08` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | `cka` · `ckad` · `ckad-exercises` · `helm` · `k8s` · `kubernetes` |
@@ -1070,7 +1070,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3fc814885f7abb7903dca329f72fafc95bfcfa3c) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/6cdaaa8b43b9395039d107124923da1f2cd4edb8) |
 | **Commit date** | `2026-07-08` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-08` |
@@ -1332,6 +1332,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:aws-infra-generator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/aws-infra-generator">aws-infra-generator</a></strong>
+  &nbsp;·&nbsp; ⭐ 5
+  &nbsp;·&nbsp; 🍴 5
+  &nbsp;·&nbsp; CI —
+  <br><sub>A platform engineering tool that generates production-ready AWS infrastructure templates using Terraform or CloudFormation based on user-...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/aws-infra-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/aws-infra-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/aws-infra-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-infra-generator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [aws-infra: Refactor imports and enhance cloudformation helpers](https://github.com/NotHarshhaa/aws-infra-generator/commit/4dcc27555e984181431ec82952ffa818d0dca873) |
+| **Commit date** | `2026-05-25` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-07-08` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | `aws` · `aws-infra` · `aws-infra-gen` · `aws-infrastructure-automation` · `cloudformation` · `infra-gen` |
+
+</details>
+
 <!-- repo:jobs.prodevopsguytech.com -->
 <details>
 <summary>
@@ -1413,34 +1441,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | _None_ |
-
-</details>
-
-<!-- repo:aws-infra-generator -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/aws-infra-generator">aws-infra-generator</a></strong>
-  &nbsp;·&nbsp; ⭐ 4
-  &nbsp;·&nbsp; 🍴 5
-  &nbsp;·&nbsp; CI —
-  <br><sub>A platform engineering tool that generates production-ready AWS infrastructure templates using Terraform or CloudFormation based on user-...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/aws-infra-generator?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/aws-infra-generator?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/aws-infra-generator?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/aws-infra-generator?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [aws-infra: Refactor imports and enhance cloudformation helpers](https://github.com/NotHarshhaa/aws-infra-generator/commit/4dcc27555e984181431ec82952ffa818d0dca873) |
-| **Commit date** | `2026-05-25` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-01` |
-| **License** | `MIT License` |
-| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
-| **Topics** | `aws` · `aws-infra` · `aws-infra-gen` · `aws-infrastructure-automation` · `cloudformation` · `infra-gen` |
 
 </details>
 
