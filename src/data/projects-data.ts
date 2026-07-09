@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4556,
+    "stars": 4557,
     "forks": 4250,
     "issues": 25,
-    "lastUpdated": "2026-07-08T18:45:57Z",
+    "lastUpdated": "2026-07-09T01:07:40Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 573,
+    "stars": 574,
     "forks": 220,
     "issues": 4,
-    "lastUpdated": "2026-07-05T14:00:49Z",
+    "lastUpdated": "2026-07-08T21:42:04Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 322,
+    "stars": 323,
     "forks": 251,
     "issues": 3,
-    "lastUpdated": "2026-07-07T13:44:36Z",
+    "lastUpdated": "2026-07-08T23:00:04Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -346,10 +346,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/From-Docker-to-Kubernetes",
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
-    "stars": 27,
+    "stars": 28,
     "forks": 33,
     "issues": 1,
-    "lastUpdated": "2026-05-19T07:41:11Z",
+    "lastUpdated": "2026-07-09T03:05:27Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-08T14:14:28Z",
-    "lastCommit": "82cd59bb9f19ad5647c0ac768c9b1109fa1ed99b"
+    "lastUpdated": "2026-07-08T19:27:59Z",
+    "lastCommit": "3024e0511dbf5b7855d19d8092a702661381588e"
   },
   {
     "title": "Links Portfolio",
