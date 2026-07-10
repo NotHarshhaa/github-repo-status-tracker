@@ -1,10 +1,10 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4567,
-    "forks": 4255,
+    "stars": 4571,
+    "forks": 4256,
     "issues": 25,
-    "lastUpdated": "2026-07-10T14:07:58Z",
+    "lastUpdated": "2026-07-10T15:14:07Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -65,10 +65,10 @@
   },
   {
     "repo": "DevOps_Setup-Installations",
-    "stars": 190,
+    "stars": 191,
     "forks": 203,
     "issues": 0,
-    "lastUpdated": "2026-07-07T06:25:20Z",
+    "lastUpdated": "2026-07-10T15:39:06Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-10T09:40:01Z",
-    "lastCommit": "b2ea1a335e3399d1d09601c2a10ff76e7d09a7c4"
+    "lastUpdated": "2026-07-10T14:32:01Z",
+    "lastCommit": "9b02512087568f76ee7841c36d50f1b9c5690883"
   },
   {
     "repo": "prodevopsguytech.com",
