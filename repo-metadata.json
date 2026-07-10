@@ -1,18 +1,18 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4562,
+    "stars": 4563,
     "forks": 4252,
     "issues": 25,
-    "lastUpdated": "2026-07-09T14:13:09Z",
+    "lastUpdated": "2026-07-09T23:27:30Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 988,
-    "forks": 738,
+    "stars": 990,
+    "forks": 739,
     "issues": 2,
-    "lastUpdated": "2026-07-09T16:42:27Z",
+    "lastUpdated": "2026-07-10T00:16:18Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-09T15:15:48Z",
-    "lastCommit": "1ff29217414b2e7b4d713433c0f6d5525b4f29bb"
+    "lastUpdated": "2026-07-09T19:49:08Z",
+    "lastCommit": "71d94d2ad95e39af77fa722e623506068bf855fc"
   },
   {
     "repo": "prodevopsguytech.com",
