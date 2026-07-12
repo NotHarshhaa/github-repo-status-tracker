@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4583,
-    "forks": 4260,
+    "stars": 4587,
+    "forks": 4261,
     "issues": 25,
-    "lastUpdated": "2026-07-11T18:04:14Z",
+    "lastUpdated": "2026-07-12T02:33:26Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 992,
+    "stars": 993,
     "forks": 740,
     "issues": 2,
-    "lastUpdated": "2026-07-11T10:38:41Z",
+    "lastUpdated": "2026-07-12T01:12:09Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 881,
+    "stars": 882,
     "forks": 531,
     "issues": 0,
-    "lastUpdated": "2026-07-08T13:12:41Z",
+    "lastUpdated": "2026-07-11T20:09:07Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -124,10 +124,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 229,
+    "stars": 230,
     "forks": 162,
     "issues": 3,
-    "lastUpdated": "2026-07-11T15:18:21Z",
+    "lastUpdated": "2026-07-12T01:14:41Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-11T13:22:50Z",
-    "lastCommit": "9b6fe11912b99375430726717c6a6c05525c1bb6"
+    "lastUpdated": "2026-07-11T19:07:01Z",
+    "lastCommit": "c6ab00647b0130515321e7b2c4f964a73467692e"
   },
   {
     "title": "Links Portfolio",
