@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4610,
+    "stars": 4611,
     "forks": 4273,
     "issues": 25,
-    "lastUpdated": "2026-07-15T00:07:43Z",
+    "lastUpdated": "2026-07-15T06:04:40Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 998,
+    "stars": 999,
     "forks": 746,
     "issues": 2,
-    "lastUpdated": "2026-07-14T18:19:12Z",
+    "lastUpdated": "2026-07-15T07:13:33Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 883,
+    "stars": 884,
     "forks": 532,
     "issues": 0,
-    "lastUpdated": "2026-07-13T20:40:54Z",
+    "lastUpdated": "2026-07-15T04:17:37Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 414,
+    "stars": 416,
     "forks": 315,
     "issues": 1,
-    "lastUpdated": "2026-07-14T03:37:05Z",
+    "lastUpdated": "2026-07-15T07:18:54Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 325,
-    "forks": 253,
+    "forks": 254,
     "issues": 3,
     "lastUpdated": "2026-07-14T16:29:32Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-14T19:23:26Z",
-    "lastCommit": "a0181765ef157de3434665199b36b777eacf4850"
+    "lastUpdated": "2026-07-15T02:34:18Z",
+    "lastCommit": "b66f009c04cb565b63789dd9cedc6ef7ff30f431"
   },
   {
     "title": "Links Portfolio",
