@@ -2,17 +2,17 @@
   {
     "repo": "DevOps-Projects",
     "stars": 4611,
-    "forks": 4273,
+    "forks": 4276,
     "issues": 25,
-    "lastUpdated": "2026-07-15T06:04:40Z",
+    "lastUpdated": "2026-07-15T09:28:58Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 999,
-    "forks": 746,
+    "stars": 1000,
+    "forks": 747,
     "issues": 2,
-    "lastUpdated": "2026-07-15T07:13:33Z",
+    "lastUpdated": "2026-07-15T10:10:50Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-15T02:34:18Z",
-    "lastCommit": "b66f009c04cb565b63789dd9cedc6ef7ff30f431"
+    "lastUpdated": "2026-07-15T08:13:32Z",
+    "lastCommit": "f6e3a82ca9cd941049a8692b31194212f1ca283c"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -444,8 +444,8 @@
     "stars": 2,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-05-05T09:49:32Z",
-    "lastCommit": "157b37d8a957a2460655c35419fe609f845dd668"
+    "lastUpdated": "2026-07-15T12:41:21Z",
+    "lastCommit": "40fdcbf30b96f735dd7fe0742addfc75267e28ef"
   },
   {
     "repo": "mlflow-k8s-operator",
