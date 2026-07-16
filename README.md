@@ -1,23 +1,23 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--16%2013%3A54%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--16%2019%3A13%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,658** combined stars
+**79** repositories tracked · **9,661** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,658** stars · **8,203** forks · **49** open issues
+> **79** repositories · **9,661** stars · **8,206** forks · **49** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
 | 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,620 | 4,279 | 25 | — | 2026-07-16 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,003 | 752 | 2 | — | 2026-07-16 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,004 | 753 | 2 | — | 2026-07-16 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 886 | 532 | 0 | — | 2026-07-16 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 576 | 219 | 4 | — | 2026-07-14 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 416 | 315 | 1 | — | 2026-07-15 |
@@ -29,19 +29,19 @@ Updates automatically every 6 hours via GitHub Actions.
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 132 | 117 | 1 | Fail | 2026-06-12 |
 | 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 107 | 48 | 0 | — | 2026-07-12 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 103 | 44 | 0 | — | 2026-07-10 |
-| 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 90 | 61 | 0 | — | 2026-06-07 |
+| 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 91 | 61 | 0 | — | 2026-07-16 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 73 | 67 | 0 | — | 2026-05-25 |
 | 16 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 62 | 70 | 0 | — | 2026-07-04 |
 | 17 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 57 | 56 | 0 | — | 2026-05-25 |
 | 18 | [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard) | 57 | 53 | 0 | Pass | 2026-05-25 |
 | 19 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 28 | 33 | 1 | — | 2026-07-09 |
 | 20 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 27 | 65 | 0 | — | 2026-02-16 |
-| 21 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 25 | 39 | 0 | — | 2026-06-23 |
-| 22 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 21 | 43 | 0 | — | 2026-05-11 |
+| 21 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 25 | 40 | 0 | — | 2026-06-23 |
+| 22 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 22 | 43 | 0 | — | 2026-07-16 |
 | 23 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 20 | 56 | 0 | — | 2026-02-21 |
 | 24 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 23 | 0 | — | 2026-06-04 |
 | 25 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 80 | 0 | — | 2026-03-13 |
-| 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 14 | 18 | 1 | Pass | 2026-05-11 |
+| 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 14 | 19 | 1 | Pass | 2026-05-11 |
 | 27 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-06-30 |
 | 28 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 12 | 17 | 7 | — | 2026-07-01 |
 | 29 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 11 | 33 | 0 | — | 2026-02-03 |
@@ -132,8 +132,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,003
-  &nbsp;·&nbsp; 🍴 752
+  &nbsp;·&nbsp; ⭐ 1,004
+  &nbsp;·&nbsp; 🍴 753
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -468,7 +468,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/azure-all_in_one">azure-all_in_one</a></strong>
-  &nbsp;·&nbsp; ⭐ 90
+  &nbsp;·&nbsp; ⭐ 91
   &nbsp;·&nbsp; 🍴 61
   &nbsp;·&nbsp; CI —
   <br><sub>A curated list of awesome Azure e Resource, libraries, open source repos, guides, blogs, and other resources.</sub>
@@ -485,7 +485,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Azure Guide: README: Update header banner](https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3) |
 | **Commit date** | `2025-03-07` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-07` |
+| **Repo updated** | `2026-07-16` |
 | **License** | `GNU Affero General Public License v3.0` |
 | **Languages** | _None detected_ |
 | **Topics** | `azure` · `azure-app-service` · `azure-automation` · `azure-cli` · `azure-cloud` · `azure-cloud-services` |
@@ -665,7 +665,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project">Cloud-Native-DevOps-Project</a></strong>
   &nbsp;·&nbsp; ⭐ 25
-  &nbsp;·&nbsp; 🍴 39
+  &nbsp;·&nbsp; 🍴 40
   &nbsp;·&nbsp; CI —
   <br><sub>Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernetes – all on AWS! 💥</sub>
 </summary>
@@ -692,7 +692,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Learning-Prometheus">Learning-Prometheus</a></strong>
-  &nbsp;·&nbsp; ⭐ 21
+  &nbsp;·&nbsp; ⭐ 22
   &nbsp;·&nbsp; 🍴 43
   &nbsp;·&nbsp; CI —
   <br><sub>A repository dedicated to exploring and implementing Prometheus for monitoring and observability in Kubernetes environments.</sub>
@@ -709,7 +709,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Learning-Prometheus: docs: Improved README with detailed explanations and fixed TOC links](https://github.com/NotHarshhaa/Learning-Prometheus/commit/c79e4344f3531c08ab27ced74bfa2b018d8fe4e0) |
 | **Commit date** | `2025-03-15` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-11` |
+| **Repo updated** | `2026-07-16` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `prometheus` · `prometheus-client` · `prometheus-learning` · `prometheus-metrics` · `prometheus-operator` |
@@ -805,7 +805,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/devops-monitoring-in-a-box">devops-monitoring-in-a-box</a></strong>
   &nbsp;·&nbsp; ⭐ 14
-  &nbsp;·&nbsp; 🍴 18
+  &nbsp;·&nbsp; 🍴 19
   &nbsp;·&nbsp; CI Pass
   <br><sub>This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prom...</sub>
 </summary>
@@ -1070,7 +1070,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1202802a223a5f6863774cdb19123827d3e48d4c) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/bb72cb71b0da0eefb672075f6bcc1e850107c486) |
 | **Commit date** | `2026-07-16` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-16` |
