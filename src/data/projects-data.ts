@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4621,
+    "stars": 4624,
     "forks": 4283,
     "issues": 25,
-    "lastUpdated": "2026-07-17T07:45:50Z",
+    "lastUpdated": "2026-07-17T12:43:52Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1007,
+    "stars": 1010,
     "forks": 753,
     "issues": 2,
-    "lastUpdated": "2026-07-17T07:53:20Z",
+    "lastUpdated": "2026-07-17T12:50:56Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 886,
+    "stars": 887,
     "forks": 532,
     "issues": 0,
-    "lastUpdated": "2026-07-16T10:39:37Z",
+    "lastUpdated": "2026-07-17T08:11:33Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -210,10 +210,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 103,
+    "stars": 104,
     "forks": 44,
     "issues": 0,
-    "lastUpdated": "2026-07-10T13:57:50Z",
+    "lastUpdated": "2026-07-17T08:28:29Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-17T02:44:43Z",
-    "lastCommit": "039a030807864e0c5abfc3619c13d6b2cdd408f2"
+    "lastUpdated": "2026-07-17T08:12:33Z",
+    "lastCommit": "8962118aa735bce29ca105b79ee46b6d31fa6721"
   },
   {
     "title": "Links Portfolio",
