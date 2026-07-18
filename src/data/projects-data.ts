@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4629,
-    "forks": 4286,
+    "stars": 4640,
+    "forks": 4288,
     "issues": 25,
-    "lastUpdated": "2026-07-18T07:35:21Z",
+    "lastUpdated": "2026-07-18T12:52:39Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1011,
-    "forks": 753,
+    "forks": 754,
     "issues": 2,
     "lastUpdated": "2026-07-17T19:35:44Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 416,
+    "stars": 418,
     "forks": 316,
     "issues": 1,
-    "lastUpdated": "2026-07-15T07:18:54Z",
+    "lastUpdated": "2026-07-18T09:57:18Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -364,10 +364,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
-    "stars": 25,
+    "stars": 26,
     "forks": 40,
     "issues": 0,
-    "lastUpdated": "2026-06-23T18:29:18Z",
+    "lastUpdated": "2026-07-18T09:14:31Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 15,
-    "forks": 79,
+    "forks": 80,
     "issues": 0,
     "lastUpdated": "2026-03-13T05:44:05Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-18T02:36:43Z",
-    "lastCommit": "48cb364d5c347360c40416e72cacb66594217295"
+    "lastUpdated": "2026-07-18T07:53:17Z",
+    "lastCommit": "679e31e96e75e764f4581a75bdfeb3388bf8eb96"
   },
   {
     "title": "Links Portfolio",
