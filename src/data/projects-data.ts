@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4654,
+    "stars": 4658,
     "forks": 4287,
     "issues": 25,
-    "lastUpdated": "2026-07-19T08:07:52Z",
+    "lastUpdated": "2026-07-19T13:05:07Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 576,
+    "stars": 577,
     "forks": 219,
     "issues": 4,
-    "lastUpdated": "2026-07-14T13:13:48Z",
+    "lastUpdated": "2026-07-19T09:33:01Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 107,
+    "stars": 108,
     "forks": 48,
     "issues": 0,
-    "lastUpdated": "2026-07-12T17:09:17Z",
+    "lastUpdated": "2026-07-19T11:24:34Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-19T02:50:53Z",
-    "lastCommit": "97ee9ad9de8a252382f8aee840d5b1b5dc93a98e"
+    "lastUpdated": "2026-07-19T08:22:38Z",
+    "lastCommit": "ef37c2c4b54e0ca5dec18401136ef3a47cb6084a"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 11,
+    "stars": 12,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-18T20:14:29Z",
+    "lastUpdated": "2026-07-19T08:27:07Z",
     "lastCommit": "da08c250828e942a9e780fdfdad512a69fd90187"
   },
   {
