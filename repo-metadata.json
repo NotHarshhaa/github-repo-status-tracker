@@ -1,10 +1,10 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4649,
-    "forks": 4288,
+    "stars": 4654,
+    "forks": 4287,
     "issues": 25,
-    "lastUpdated": "2026-07-19T02:14:50Z",
+    "lastUpdated": "2026-07-19T08:07:52Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -161,10 +161,10 @@
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
-    "stars": 26,
+    "stars": 27,
     "forks": 40,
     "issues": 0,
-    "lastUpdated": "2026-07-18T09:14:31Z",
+    "lastUpdated": "2026-07-19T06:20:10Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-18T19:06:49Z",
-    "lastCommit": "ee252a7f60bd3a9fa69572dff205058b2e094e1c"
+    "lastUpdated": "2026-07-19T02:50:53Z",
+    "lastCommit": "97ee9ad9de8a252382f8aee840d5b1b5dc93a98e"
   },
   {
     "repo": "prodevopsguytech.com",
