@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--19%2013%3A19%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--19%2019%3A08%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,724** combined stars
+**79** repositories tracked · **9,727** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,724** stars · **8,218** forks · **49** open issues
+> **79** repositories · **9,727** stars · **8,223** forks · **49** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,658 | 4,287 | 25 | — | 2026-07-19 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,660 | 4,290 | 25 | — | 2026-07-19 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,011 | 755 | 2 | — | 2026-07-17 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 888 | 532 | 0 | — | 2026-07-18 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 577 | 219 | 4 | — | 2026-07-19 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 420 | 318 | 1 | — | 2026-07-18 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 420 | 319 | 1 | — | 2026-07-18 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 329 | 254 | 3 | — | 2026-07-17 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 230 | 162 | 3 | — | 2026-07-12 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 194 | 202 | 0 | — | 2026-07-17 |
@@ -42,10 +42,10 @@ Updates automatically every 6 hours via GitHub Actions.
 | 24 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 23 | 0 | — | 2026-06-04 |
 | 25 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 79 | 0 | — | 2026-03-13 |
 | 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 14 | 19 | 1 | Pass | 2026-05-11 |
-| 27 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-06-30 |
-| 28 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 12 | 17 | 7 | — | 2026-07-01 |
-| 29 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 12 | 5 | 0 | — | 2026-07-19 |
-| 30 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 11 | 33 | 0 | — | 2026-02-03 |
+| 27 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 12 | 34 | 0 | — | 2026-07-19 |
+| 28 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-06-30 |
+| 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 12 | 17 | 7 | — | 2026-07-01 |
+| 30 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 12 | 5 | 0 | — | 2026-07-19 |
 | 31 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 4 | 0 | Fail | 2026-05-17 |
 | 32 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 21 | 0 | — | 2026-06-11 |
 | 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,658
-  &nbsp;·&nbsp; 🍴 4,287
+  &nbsp;·&nbsp; ⭐ 4,660
+  &nbsp;·&nbsp; 🍴 4,290
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -217,7 +217,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
   &nbsp;·&nbsp; ⭐ 420
-  &nbsp;·&nbsp; 🍴 318
+  &nbsp;·&nbsp; 🍴 319
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -828,6 +828,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:Deployment-of-super-Mario-on-Kubernetes-using-terraform -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform">Deployment-of-super-Mario-on-Kubernetes-using-terraform</a></strong>
+  &nbsp;·&nbsp; ⭐ 12
+  &nbsp;·&nbsp; 🍴 34
+  &nbsp;·&nbsp; CI —
+  <br><sub>Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Amazon EKS (Elastic Kubernetes Service) us...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [AWS/Kubernetes/Terraform: Updated EKS-TF configuration and README for improved deployment](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/882896355b69b1f3a94deed097829db93756f1ae) |
+| **Commit date** | `2026-02-03` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-07-19` |
+| **License** | `No license` |
+| **Languages** | `HCL` |
+| **Topics** | `aws` · `aws-ec2` · `eks` · `supermario` · `terraform` · `terraform-modules` |
+
+</details>
+
 <!-- repo:cv-portfolio -->
 <details>
 <summary>
@@ -902,41 +930,13 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [ai-platform-handbook: Add Vercel configuration for Hugo build environment](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/da08c250828e942a9e780fdfdad512a69fd90187) |
-| **Commit date** | `2026-06-14` |
+| **Latest commit** | [ai-platform-handbook: Add README for Vector Databases](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/1b1037852b505e5c77577d5f180b51be58805ed2) |
+| **Commit date** | `2026-07-19` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-19` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | _None_ |
-
-</details>
-
-<!-- repo:Deployment-of-super-Mario-on-Kubernetes-using-terraform -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform">Deployment-of-super-Mario-on-Kubernetes-using-terraform</a></strong>
-  &nbsp;·&nbsp; ⭐ 11
-  &nbsp;·&nbsp; 🍴 33
-  &nbsp;·&nbsp; CI —
-  <br><sub>Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Amazon EKS (Elastic Kubernetes Service) us...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [AWS/Kubernetes/Terraform: Updated EKS-TF configuration and README for improved deployment](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/882896355b69b1f3a94deed097829db93756f1ae) |
-| **Commit date** | `2026-02-03` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-02-03` |
-| **License** | `No license` |
-| **Languages** | `HCL` |
-| **Topics** | `aws` · `aws-ec2` · `eks` · `supermario` · `terraform` · `terraform-modules` |
 
 </details>
 
@@ -1070,7 +1070,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ef37c2c4b54e0ca5dec18401136ef3a47cb6084a) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/74ff8b809dee9fed4eb039d49e064f7e45e11dcd) |
 | **Commit date** | `2026-07-19` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-19` |
