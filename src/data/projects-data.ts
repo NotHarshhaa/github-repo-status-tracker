@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4665,
-    "forks": 4292,
+    "stars": 4666,
+    "forks": 4294,
     "issues": 25,
-    "lastUpdated": "2026-07-20T06:24:20Z",
+    "lastUpdated": "2026-07-20T09:34:14Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1011,
-    "forks": 757,
+    "stars": 1012,
+    "forks": 758,
     "issues": 2,
-    "lastUpdated": "2026-07-17T19:35:44Z",
+    "lastUpdated": "2026-07-20T10:35:46Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 422,
-    "forks": 320,
+    "stars": 423,
+    "forks": 321,
     "issues": 1,
-    "lastUpdated": "2026-07-20T08:17:53Z",
+    "lastUpdated": "2026-07-20T09:36:44Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-20T03:19:04Z",
-    "lastCommit": "2b7894e3e1dab063af92c39c935685a80bf7ba58"
+    "lastUpdated": "2026-07-20T09:18:21Z",
+    "lastCommit": "4e09bf9d142dc724fdff31c9eb0b96ad946d8b15"
   },
   {
     "title": "Links Portfolio",
@@ -685,8 +685,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-20T09:13:27Z",
-    "lastCommit": "dde76ab9b8db35461d44b57a751cddbb6b50100a"
+    "lastUpdated": "2026-07-20T09:57:09Z",
+    "lastCommit": "d4b072a31db48d833bb4312330806d351cf3c5b2"
   },
   {
     "title": "DevOps Tools Setups & Installations",

@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--20%2009%3A17%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--20%2014%3A08%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,735** combined stars
+**79** repositories tracked · **9,738** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,735** stars · **8,229** forks · **49** open issues
+> **79** repositories · **9,738** stars · **8,233** forks · **49** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,665 | 4,292 | 25 | — | 2026-07-20 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,011 | 757 | 2 | — | 2026-07-17 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,666 | 4,294 | 25 | — | 2026-07-20 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,012 | 758 | 2 | — | 2026-07-20 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 888 | 532 | 0 | — | 2026-07-18 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 577 | 219 | 4 | — | 2026-07-19 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 422 | 320 | 1 | — | 2026-07-20 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 423 | 321 | 1 | — | 2026-07-20 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 329 | 254 | 3 | — | 2026-07-17 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 230 | 162 | 3 | — | 2026-07-12 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 194 | 202 | 0 | — | 2026-07-17 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,665
-  &nbsp;·&nbsp; 🍴 4,292
+  &nbsp;·&nbsp; ⭐ 4,666
+  &nbsp;·&nbsp; 🍴 4,294
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -132,8 +132,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,011
-  &nbsp;·&nbsp; 🍴 757
+  &nbsp;·&nbsp; ⭐ 1,012
+  &nbsp;·&nbsp; 🍴 758
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -149,7 +149,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Interview: docs: Expand with new sections on Linux & System Administration and G...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) |
 | **Commit date** | `2025-08-09` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-17` |
+| **Repo updated** | `2026-07-20` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws-interview-questions` · `azure-interview-questions` · `cicd` · `cloud-computing` · `devops` · `devops-interview-questions` |
@@ -216,8 +216,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 422
-  &nbsp;·&nbsp; 🍴 320
+  &nbsp;·&nbsp; ⭐ 423
+  &nbsp;·&nbsp; 🍴 321
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -930,7 +930,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [ai-platform-handbook: Add README for Production-Ready Agentic System Design](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/dde76ab9b8db35461d44b57a751cddbb6b50100a) |
+| **Latest commit** | [ai-platform-handbook: Update AI Platform Engineering Handbook for Weeks 5 and 6, 7, 8,...](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/d4b072a31db48d833bb4312330806d351cf3c5b2) |
 | **Commit date** | `2026-07-20` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-20` |
@@ -1070,7 +1070,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2b7894e3e1dab063af92c39c935685a80bf7ba58) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4e09bf9d142dc724fdff31c9eb0b96ad946d8b15) |
 | **Commit date** | `2026-07-20` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-20` |
