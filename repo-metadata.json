@@ -1,16 +1,16 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4660,
-    "forks": 4290,
+    "stars": 4663,
+    "forks": 4292,
     "issues": 25,
-    "lastUpdated": "2026-07-19T15:39:07Z",
+    "lastUpdated": "2026-07-20T03:16:58Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 1011,
-    "forks": 755,
+    "forks": 756,
     "issues": 2,
     "lastUpdated": "2026-07-17T19:35:44Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -33,10 +33,10 @@
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 420,
-    "forks": 319,
+    "stars": 421,
+    "forks": 320,
     "issues": 1,
-    "lastUpdated": "2026-07-18T17:55:44Z",
+    "lastUpdated": "2026-07-20T02:41:20Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -90,7 +90,7 @@
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "stars": 104,
-    "forks": 44,
+    "forks": 45,
     "issues": 0,
     "lastUpdated": "2026-07-17T08:28:29Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -161,10 +161,10 @@
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
-    "stars": 27,
+    "stars": 28,
     "forks": 40,
     "issues": 0,
-    "lastUpdated": "2026-07-19T06:20:10Z",
+    "lastUpdated": "2026-07-20T02:25:05Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-19T13:20:16Z",
-    "lastCommit": "74ff8b809dee9fed4eb039d49e064f7e45e11dcd"
+    "lastUpdated": "2026-07-19T19:09:18Z",
+    "lastCommit": "ac258a8d83ee38d69f928406e0b1466a3847f226"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -300,8 +300,8 @@
     "stars": 12,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-19T19:03:24Z",
-    "lastCommit": "1b1037852b505e5c77577d5f180b51be58805ed2"
+    "lastUpdated": "2026-07-19T19:09:07Z",
+    "lastCommit": "c27caee3dc6df769d3e84e6467e7370ee3341b5f"
   },
   {
     "repo": "projects.prodevopsguytech.com",
