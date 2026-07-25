@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 4693,
-    "forks": 4310,
+    "forks": 4311,
     "issues": 25,
     "lastUpdated": "2026-07-24T15:00:18Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 431,
+    "stars": 432,
     "forks": 329,
     "issues": 1,
-    "lastUpdated": "2026-07-24T10:19:59Z",
+    "lastUpdated": "2026-07-25T09:42:37Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-25T02:45:26Z",
-    "lastCommit": "6e5ca7a7dfe337e73dbeae9ebecafec6732d0785"
+    "lastUpdated": "2026-07-25T08:08:42Z",
+    "lastCommit": "7cfaa63f88153dd97d588464b5b7bf42ef691845"
   },
   {
     "title": "Links Portfolio",
@@ -682,11 +682,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 13,
+    "stars": 14,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-25T05:40:21Z",
-    "lastCommit": "3d5c5e043892bb9fd8ada28a077db707c752d324"
+    "lastUpdated": "2026-07-25T11:41:38Z",
+    "lastCommit": "42febaeae3a309d29883d317012457cdf13cf495"
   },
   {
     "title": "DevOps Tools Setups & Installations",
