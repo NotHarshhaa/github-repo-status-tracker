@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1026,
-    "forks": 777,
+    "stars": 1027,
+    "forks": 778,
     "issues": 2,
-    "lastUpdated": "2026-07-25T17:57:33Z",
+    "lastUpdated": "2026-07-26T17:33:14Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 432,
-    "forks": 331,
+    "stars": 433,
+    "forks": 333,
     "issues": 1,
-    "lastUpdated": "2026-07-25T09:42:37Z",
+    "lastUpdated": "2026-07-26T14:51:10Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -156,10 +156,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 192,
+    "stars": 193,
     "forks": 204,
     "issues": 0,
-    "lastUpdated": "2026-07-24T08:22:50Z",
+    "lastUpdated": "2026-07-26T18:51:31Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 15,
-    "forks": 79,
+    "forks": 81,
     "issues": 0,
     "lastUpdated": "2026-03-13T05:44:05Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-26T08:30:12Z",
-    "lastCommit": "01e8b6066a9c041951d2fc4610ae3bd3d5e54ada"
+    "lastUpdated": "2026-07-26T13:26:14Z",
+    "lastCommit": "56298deeeb76eeb28ffa826164b8617a458de16e"
   },
   {
     "title": "Links Portfolio",
