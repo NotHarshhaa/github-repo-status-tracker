@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--26%2008%3A28%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--26%2013%3A25%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,797** combined stars
+**79** repositories tracked · **9,799** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,797** stars · **8,282** forks · **49** open issues
+> **79** repositories · **9,799** stars · **8,285** forks · **49** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,694 | 4,312 | 25 | — | 2026-07-25 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,026 | 776 | 2 | — | 2026-07-25 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,695 | 4,313 | 25 | — | 2026-07-26 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,026 | 777 | 2 | — | 2026-07-25 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 888 | 532 | 0 | — | 2026-07-18 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 579 | 219 | 4 | — | 2026-07-21 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 432 | 330 | 1 | — | 2026-07-25 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 432 | 331 | 1 | — | 2026-07-25 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 331 | 255 | 3 | — | 2026-07-22 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 230 | 162 | 3 | — | 2026-07-12 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 195 | 202 | 0 | — | 2026-07-24 |
@@ -32,8 +32,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 91 | 61 | 0 | — | 2026-07-16 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 73 | 67 | 0 | — | 2026-05-25 |
 | 16 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 62 | 70 | 0 | — | 2026-07-04 |
-| 17 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 57 | 56 | 0 | — | 2026-05-25 |
-| 18 | [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard) | 57 | 53 | 0 | Pass | 2026-05-25 |
+| 17 | [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard) | 58 | 53 | 0 | Pass | 2026-07-26 |
+| 18 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 57 | 56 | 0 | — | 2026-05-25 |
 | 19 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 28 | 33 | 1 | — | 2026-07-09 |
 | 20 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 28 | 40 | 0 | — | 2026-07-20 |
 | 21 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 27 | 65 | 0 | — | 2026-02-16 |
@@ -42,7 +42,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 24 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 23 | 0 | — | 2026-06-04 |
 | 25 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 79 | 0 | — | 2026-03-13 |
 | 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 14 | 19 | 1 | Pass | 2026-05-11 |
-| 27 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 14 | 5 | 0 | — | 2026-07-25 |
+| 27 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 14 | 5 | 0 | — | 2026-07-26 |
 | 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 12 | 34 | 0 | — | 2026-07-19 |
 | 29 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-06-30 |
 | 30 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 12 | 17 | 7 | — | 2026-07-01 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,694
-  &nbsp;·&nbsp; 🍴 4,312
+  &nbsp;·&nbsp; ⭐ 4,695
+  &nbsp;·&nbsp; 🍴 4,313
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -121,7 +121,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps: Update CONTRIBUTING.md for Enhanced Clarity and Guidance](https://github.com/NotHarshhaa/DevOps-Projects/commit/a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1) |
 | **Commit date** | `2026-05-02` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-25` |
+| **Repo updated** | `2026-07-26` |
 | **License** | `No license` |
 | **Languages** | `Java` · `TypeScript` · `CSS` · `JavaScript` · `HCL` |
 | **Topics** | `aws` · `beginner-friendly` · `devops` · `devops-learning` · `devops-poc` · `devops-project` |
@@ -133,7 +133,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
   &nbsp;·&nbsp; ⭐ 1,026
-  &nbsp;·&nbsp; 🍴 776
+  &nbsp;·&nbsp; 🍴 777
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -217,7 +217,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
   &nbsp;·&nbsp; ⭐ 432
-  &nbsp;·&nbsp; 🍴 330
+  &nbsp;·&nbsp; 🍴 331
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -548,6 +548,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:kubernetes-dashboard -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/kubernetes-dashboard">kubernetes-dashboard</a></strong>
+  &nbsp;·&nbsp; ⭐ 58
+  &nbsp;·&nbsp; 🍴 53
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A kubernetes dashboard integrated with health checks, trivy scanning and health checks for pods</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Kubernetes-dashboard: enhance UI components with demo mode indicators and connection st...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) |
+| **Commit date** | `2026-02-07` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-07-26` |
+| **License** | `No license` |
+| **Languages** | `TypeScript` · `CSS` · `Dockerfile` · `JavaScript` |
+| **Topics** | `health-check` · `kubernetes` · `kubernetes-dashboard` · `kubernetes-metrics` · `kubernetes-monitoring` · `kubernetes-pods` |
+
+</details>
+
 <!-- repo:aws-billing-alert-terraform -->
 <details>
 <summary>
@@ -573,34 +601,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `HCL` |
 | **Topics** | `aws` · `aws-billing` · `aws-terraform` · `terraform` · `terraform-modules` |
-
-</details>
-
-<!-- repo:kubernetes-dashboard -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/kubernetes-dashboard">kubernetes-dashboard</a></strong>
-  &nbsp;·&nbsp; ⭐ 57
-  &nbsp;·&nbsp; 🍴 53
-  &nbsp;·&nbsp; CI Pass
-  <br><sub>A kubernetes dashboard integrated with health checks, trivy scanning and health checks for pods</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/kubernetes-dashboard?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [Kubernetes-dashboard: enhance UI components with demo mode indicators and connection st...](https://github.com/NotHarshhaa/kubernetes-dashboard/commit/c4f02b6e1faed85bd743bae193cb2d3af04d3ef3) |
-| **Commit date** | `2026-02-07` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-25` |
-| **License** | `No license` |
-| **Languages** | `TypeScript` · `CSS` · `Dockerfile` · `JavaScript` |
-| **Topics** | `health-check` · `kubernetes` · `kubernetes-dashboard` · `kubernetes-metrics` · `kubernetes-monitoring` · `kubernetes-pods` |
 
 </details>
 
@@ -846,10 +846,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [ai-platform-handbook: Enhance homepage with author section and styling updates](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/42febaeae3a309d29883d317012457cdf13cf495) |
-| **Commit date** | `2026-07-25` |
+| **Latest commit** | [ai-platform-handbook: Update SCSS for improved content layout on sidebar toggle](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/69492b78c8889e621f645cae3a0d220998e7ea53) |
+| **Commit date** | `2026-07-26` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-25` |
+| **Repo updated** | `2026-07-26` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | _None_ |
@@ -1070,7 +1070,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/bf51ff18ad58abcd27eac3795d6e7cbaa7918f72) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/01e8b6066a9c041951d2fc4610ae3bd3d5e54ada) |
 | **Commit date** | `2026-07-26` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-26` |
