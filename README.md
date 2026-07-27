@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--27%2014%3A37%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--27%2019%3A28%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,812** combined stars
+**79** repositories tracked · **9,813** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,812** stars · **8,297** forks · **49** open issues
+> **79** repositories · **9,813** stars · **8,299** forks · **49** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,703 | 4,319 | 25 | — | 2026-07-27 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,027 | 779 | 2 | — | 2026-07-26 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,704 | 4,320 | 25 | — | 2026-07-27 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,026 | 779 | 2 | — | 2026-07-27 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 888 | 532 | 0 | — | 2026-07-18 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 579 | 219 | 4 | — | 2026-07-21 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 434 | 333 | 1 | — | 2026-07-27 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 434 | 334 | 1 | — | 2026-07-27 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 331 | 255 | 3 | — | 2026-07-22 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 230 | 162 | 3 | — | 2026-07-12 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 195 | 202 | 0 | — | 2026-07-24 |
@@ -49,7 +49,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 31 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 4 | 0 | Fail | 2026-05-17 |
 | 32 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 21 | 0 | — | 2026-06-11 |
 | 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
-| 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 9 | 9 | 0 | — | 2026-06-30 |
+| 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 10 | 9 | 0 | — | 2026-07-27 |
 | 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-07-27 |
 | 36 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
 | 37 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,703
-  &nbsp;·&nbsp; 🍴 4,319
+  &nbsp;·&nbsp; ⭐ 4,704
+  &nbsp;·&nbsp; 🍴 4,320
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -132,7 +132,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,027
+  &nbsp;·&nbsp; ⭐ 1,026
   &nbsp;·&nbsp; 🍴 779
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
@@ -149,7 +149,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Interview: docs: Expand with new sections on Linux & System Administration and G...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) |
 | **Commit date** | `2025-08-09` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-26` |
+| **Repo updated** | `2026-07-27` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws-interview-questions` · `azure-interview-questions` · `cicd` · `cloud-computing` · `devops` · `devops-interview-questions` |
@@ -217,7 +217,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
   &nbsp;·&nbsp; ⭐ 434
-  &nbsp;·&nbsp; 🍴 333
+  &nbsp;·&nbsp; 🍴 334
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -1028,7 +1028,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/links-portfolio">links-portfolio</a></strong>
-  &nbsp;·&nbsp; ⭐ 9
+  &nbsp;·&nbsp; ⭐ 10
   &nbsp;·&nbsp; 🍴 9
   &nbsp;·&nbsp; CI —
   <br><sub>✨ Links to my social media.</sub>
@@ -1045,7 +1045,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [link: refactor: enhance performance optimizations and mobile responsiveness](https://github.com/NotHarshhaa/links-portfolio/commit/83efa408a5b90ee1699718fb71a49f8163f856ae) |
 | **Commit date** | `2026-04-27` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-30` |
+| **Repo updated** | `2026-07-27` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `css` · `javascript` · `links` · `nextjs` · `personal-site` · `personal-website` |
@@ -1070,7 +1070,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8e3f64d629b3ca35be1d297fc928c5e62ca0c278) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/92e3c28045788118a76942b340add345ed88bfca) |
 | **Commit date** | `2026-07-27` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-27` |
