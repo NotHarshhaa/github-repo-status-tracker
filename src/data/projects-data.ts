@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4715,
+    "stars": 4716,
     "forks": 4336,
     "issues": 26,
-    "lastUpdated": "2026-07-29T13:57:21Z",
+    "lastUpdated": "2026-07-29T18:08:56Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1030,
-    "forks": 780,
+    "forks": 781,
     "issues": 3,
     "lastUpdated": "2026-07-29T09:51:13Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -156,10 +156,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 193,
+    "stars": 194,
     "forks": 204,
     "issues": 0,
-    "lastUpdated": "2026-07-26T18:51:31Z",
+    "lastUpdated": "2026-07-29T16:47:20Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 109,
+    "stars": 110,
     "forks": 50,
     "issues": 0,
-    "lastUpdated": "2026-07-29T08:04:51Z",
+    "lastUpdated": "2026-07-29T16:49:43Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-29T08:44:14Z",
-    "lastCommit": "cef52917f1d5d3b24362ed84747049c960163a00"
+    "lastUpdated": "2026-07-29T14:14:55Z",
+    "lastCommit": "99fa0bc8b5320c7b7ca9e0025b1b499ee3d46caf"
   },
   {
     "title": "Links Portfolio",
@@ -685,8 +685,8 @@ export const PROJECTS: Project[] = [
     "stars": 14,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-26T11:13:40Z",
-    "lastCommit": "69492b78c8889e621f645cae3a0d220998e7ea53"
+    "lastUpdated": "2026-07-29T18:54:22Z",
+    "lastCommit": "50d43f6c25e13122f216f966abbf7445f13a38a0"
   },
   {
     "title": "DevOps Tools Setups & Installations",
