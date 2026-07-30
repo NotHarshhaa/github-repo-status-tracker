@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 4735,
-    "forks": 4354,
+    "forks": 4358,
     "issues": 26,
     "lastUpdated": "2026-07-30T13:06:07Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1031,
+    "stars": 1032,
     "forks": 782,
     "issues": 3,
-    "lastUpdated": "2026-07-30T13:23:29Z",
+    "lastUpdated": "2026-07-30T17:02:33Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 331,
+    "stars": 332,
     "forks": 256,
     "issues": 3,
-    "lastUpdated": "2026-07-22T12:43:13Z",
+    "lastUpdated": "2026-07-30T14:54:03Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -467,10 +467,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform",
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
-    "stars": 12,
+    "stars": 13,
     "forks": 35,
     "issues": 0,
-    "lastUpdated": "2026-07-19T14:02:39Z",
+    "lastUpdated": "2026-07-30T15:09:34Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-30T08:30:01Z",
-    "lastCommit": "43160c4576b6c4c0b7e38c43d3d05e7e3203f611"
+    "lastUpdated": "2026-07-30T14:09:18Z",
+    "lastCommit": "1208936917c5b9e579a96b62d26fb094bf3ac16d"
   },
   {
     "title": "Links Portfolio",
