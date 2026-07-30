@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4716,
+    "stars": 4718,
     "forks": 4336,
     "issues": 26,
-    "lastUpdated": "2026-07-29T18:08:56Z",
+    "lastUpdated": "2026-07-29T23:56:10Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -156,10 +156,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 194,
+    "stars": 195,
     "forks": 204,
     "issues": 0,
-    "lastUpdated": "2026-07-29T16:47:20Z",
+    "lastUpdated": "2026-07-29T23:29:15Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 110,
+    "stars": 109,
     "forks": 50,
     "issues": 0,
-    "lastUpdated": "2026-07-29T16:49:43Z",
+    "lastUpdated": "2026-07-30T00:49:23Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-29T14:14:55Z",
-    "lastCommit": "99fa0bc8b5320c7b7ca9e0025b1b499ee3d46caf"
+    "lastUpdated": "2026-07-29T19:19:56Z",
+    "lastCommit": "200e8fe4ca2c23f48f84f9283501784fd5d43098"
   },
   {
     "title": "Links Portfolio",
