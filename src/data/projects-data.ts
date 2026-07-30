@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4727,
-    "forks": 4347,
+    "stars": 4735,
+    "forks": 4354,
     "issues": 26,
-    "lastUpdated": "2026-07-30T07:25:48Z",
+    "lastUpdated": "2026-07-30T13:06:07Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1030,
-    "forks": 781,
+    "stars": 1031,
+    "forks": 782,
     "issues": 3,
-    "lastUpdated": "2026-07-29T09:51:13Z",
+    "lastUpdated": "2026-07-30T13:23:29Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -192,7 +192,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 133,
-    "forks": 117,
+    "forks": 118,
     "issues": 1,
     "lastUpdated": "2026-07-17T17:54:45Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 111,
+    "stars": 112,
     "forks": 50,
     "issues": 0,
-    "lastUpdated": "2026-07-30T08:21:15Z",
+    "lastUpdated": "2026-07-30T12:52:36Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -487,7 +487,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-project-templates"
     },
     "stars": 11,
-    "forks": 4,
+    "forks": 5,
     "issues": 0,
     "lastUpdated": "2026-05-17T18:31:41Z",
     "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
@@ -506,7 +506,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy"
     },
     "stars": 11,
-    "forks": 21,
+    "forks": 22,
     "issues": 0,
     "lastUpdated": "2026-06-11T21:58:36Z",
     "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-07-30T02:30:41Z",
-    "lastCommit": "170d936b091a03e243dae44f85d1933b60637555"
+    "lastUpdated": "2026-07-30T08:30:01Z",
+    "lastCommit": "43160c4576b6c4c0b7e38c43d3d05e7e3203f611"
   },
   {
     "title": "Links Portfolio",
@@ -683,7 +683,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 14,
-    "forks": 5,
+    "forks": 6,
     "issues": 0,
     "lastUpdated": "2026-07-29T18:54:22Z",
     "lastCommit": "50d43f6c25e13122f216f966abbf7445f13a38a0"
@@ -944,10 +944,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/cloud-billing-automation",
       "href": "https://github.com/NotHarshhaa/cloud-billing-automation"
     },
-    "stars": 2,
+    "stars": 3,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-05-01T10:34:12Z",
+    "lastUpdated": "2026-07-30T11:52:38Z",
     "lastCommit": "a63df46cd7a3dda1db69cd0218bd86a2b3da9530"
   },
   {

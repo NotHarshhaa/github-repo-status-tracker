@@ -1,23 +1,23 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30%2008%3A28%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30%2014%3A05%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**79** repositories tracked · **9,859** combined stars
+**79** repositories tracked · **9,870** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **79** repositories · **9,859** stars · **8,333** forks · **51** open issues
+> **79** repositories · **9,870** stars · **8,345** forks · **51** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,727 | 4,347 | 26 | — | 2026-07-30 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,030 | 781 | 3 | — | 2026-07-29 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,735 | 4,354 | 26 | — | 2026-07-30 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,031 | 782 | 3 | — | 2026-07-30 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 889 | 532 | 0 | — | 2026-07-30 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 581 | 219 | 4 | — | 2026-07-29 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 442 | 334 | 1 | — | 2026-07-30 |
@@ -26,8 +26,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 195 | 203 | 0 | — | 2026-07-24 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 195 | 204 | 0 | — | 2026-07-29 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 161 | 120 | 0 | Fail | 2026-07-08 |
-| 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 133 | 117 | 1 | Fail | 2026-07-17 |
-| 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 111 | 50 | 0 | — | 2026-07-30 |
+| 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 133 | 118 | 1 | Fail | 2026-07-17 |
+| 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 112 | 50 | 0 | — | 2026-07-30 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 104 | 46 | 0 | — | 2026-07-17 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 91 | 61 | 0 | — | 2026-07-16 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 73 | 67 | 0 | — | 2026-05-25 |
@@ -42,12 +42,12 @@ Updates automatically every 6 hours via GitHub Actions.
 | 24 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 23 | 0 | — | 2026-06-04 |
 | 25 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 81 | 0 | — | 2026-03-13 |
 | 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 15 | 19 | 1 | Pass | 2026-07-27 |
-| 27 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 14 | 5 | 0 | — | 2026-07-29 |
+| 27 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 14 | 6 | 0 | — | 2026-07-29 |
 | 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 12 | 35 | 0 | — | 2026-07-19 |
 | 29 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-06-30 |
 | 30 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 12 | 17 | 7 | — | 2026-07-01 |
-| 31 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 4 | 0 | Fail | 2026-05-17 |
-| 32 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 21 | 0 | — | 2026-06-11 |
+| 31 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 5 | 0 | Fail | 2026-05-17 |
+| 32 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 22 | 0 | — | 2026-06-11 |
 | 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 10 | 9 | 0 | — | 2026-07-27 |
 | 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 7 | 15 | 0 | Running | 2026-07-30 |
@@ -69,9 +69,9 @@ Updates automatically every 6 hours via GitHub Actions.
 | 51 | [prodevopsguy.hashnode.dev](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev) | 3 | 10 | 0 | — | 2025-11-23 |
 | 52 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
 | 53 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
-| 54 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-06-30 |
-| 55 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 2 | 4 | 0 | — | 2026-05-30 |
-| 56 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 2 | 7 | 0 | Fail | 2026-05-01 |
+| 54 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 3 | 7 | 0 | Fail | 2026-07-30 |
+| 55 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-06-30 |
+| 56 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 2 | 4 | 0 | — | 2026-05-30 |
 | 57 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 2 | 1 | 0 | — | 2026-07-15 |
 | 58 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
 | 59 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-04-24 |
@@ -104,8 +104,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,727
-  &nbsp;·&nbsp; 🍴 4,347
+  &nbsp;·&nbsp; ⭐ 4,735
+  &nbsp;·&nbsp; 🍴 4,354
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -132,8 +132,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,030
-  &nbsp;·&nbsp; 🍴 781
+  &nbsp;·&nbsp; ⭐ 1,031
+  &nbsp;·&nbsp; 🍴 782
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -149,7 +149,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Interview: docs: Expand with new sections on Linux & System Administration and G...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) |
 | **Commit date** | `2025-08-09` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-07-29` |
+| **Repo updated** | `2026-07-30` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws-interview-questions` · `azure-interview-questions` · `cicd` · `cloud-computing` · `devops` · `devops-interview-questions` |
@@ -385,7 +385,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions">CI-CD_EKS-GitHub_Actions</a></strong>
   &nbsp;·&nbsp; ⭐ 133
-  &nbsp;·&nbsp; 🍴 117
+  &nbsp;·&nbsp; 🍴 118
   &nbsp;·&nbsp; CI Fail
   <br><sub>A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and...</sub>
 </summary>
@@ -412,7 +412,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 111
+  &nbsp;·&nbsp; ⭐ 112
   &nbsp;·&nbsp; 🍴 50
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -833,7 +833,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/ai-platform-engineering-handbook">ai-platform-engineering-handbook</a></strong>
   &nbsp;·&nbsp; ⭐ 14
-  &nbsp;·&nbsp; 🍴 5
+  &nbsp;·&nbsp; 🍴 6
   &nbsp;·&nbsp; CI —
   <br><sub>Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, an...</sub>
 </summary>
@@ -945,7 +945,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/devops-project-templates">devops-project-templates</a></strong>
   &nbsp;·&nbsp; ⭐ 11
-  &nbsp;·&nbsp; 🍴 4
+  &nbsp;·&nbsp; 🍴 5
   &nbsp;·&nbsp; CI Fail
   <br><sub>A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.</sub>
 </summary>
@@ -973,7 +973,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy">tf-ecr-ecs-gh-deploy</a></strong>
   &nbsp;·&nbsp; ⭐ 11
-  &nbsp;·&nbsp; 🍴 21
+  &nbsp;·&nbsp; 🍴 22
   &nbsp;·&nbsp; CI —
   <br><sub>This project automates the deployment of a Python application to AWS Elastic Container Service (ECS) using GitHub Actions, Docker, and Te...</sub>
 </summary>
@@ -1070,7 +1070,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/170d936b091a03e243dae44f85d1933b60637555) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/43160c4576b6c4c0b7e38c43d3d05e7e3203f611) |
 | **Commit date** | `2026-07-30` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-07-30` |
@@ -1584,6 +1584,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:cloud-billing-automation -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/cloud-billing-automation">cloud-billing-automation</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 7
+  &nbsp;·&nbsp; CI Fail
+  <br><sub>A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [cloud-billing-cli: Release version 0.6.0 with security enhancements and improvements](https://github.com/NotHarshhaa/cloud-billing-automation/commit/a63df46cd7a3dda1db69cd0218bd86a2b3da9530) |
+| **Commit date** | `2026-05-01` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-07-30` |
+| **License** | `MIT License` |
+| **Languages** | `Python` · `Batchfile` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:prodevopsguytech-v2 -->
 <details>
 <summary>
@@ -1636,34 +1664,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Repo updated** | `2026-05-30` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `CSS` · `Dockerfile` · `JavaScript` |
-| **Topics** | _None_ |
-
-</details>
-
-<!-- repo:cloud-billing-automation -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/cloud-billing-automation">cloud-billing-automation</a></strong>
-  &nbsp;·&nbsp; ⭐ 2
-  &nbsp;·&nbsp; 🍴 7
-  &nbsp;·&nbsp; CI Fail
-  <br><sub>A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/cloud-billing-automation?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cloud-billing-automation?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [cloud-billing-cli: Release version 0.6.0 with security enhancements and improvements](https://github.com/NotHarshhaa/cloud-billing-automation/commit/a63df46cd7a3dda1db69cd0218bd86a2b3da9530) |
-| **Commit date** | `2026-05-01` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-05-01` |
-| **License** | `MIT License` |
-| **Languages** | `Python` · `Batchfile` |
 | **Topics** | _None_ |
 
 </details>
