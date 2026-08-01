@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4767,
-    "forks": 4374,
+    "stars": 4772,
+    "forks": 4375,
     "issues": 26,
-    "lastUpdated": "2026-08-01T09:00:55Z",
+    "lastUpdated": "2026-08-01T17:17:50Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,9 +45,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1033,
-    "forks": 783,
+    "forks": 786,
     "issues": 3,
-    "lastUpdated": "2026-07-31T19:14:33Z",
+    "lastUpdated": "2026-08-01T17:35:11Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 7,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-01T08:24:15Z",
-    "lastCommit": "7604a7d6718317ba552755f7c15d90964fadf349"
+    "lastUpdated": "2026-08-01T13:23:50Z",
+    "lastCommit": "fe88ee40ad26c236a00d815f7c7138d3f251297b"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 14,
+    "stars": 15,
     "forks": 6,
     "issues": 0,
-    "lastUpdated": "2026-08-01T08:33:34Z",
+    "lastUpdated": "2026-08-01T16:30:50Z",
     "lastCommit": "40e89ac7d6dfe3e47ea5c8370a807bdb6b0f0c6f"
   },
   {
@@ -1074,8 +1074,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-06-30T23:01:29Z",
-    "lastCommit": "c1b5044cc6e3bac1b87ee525bd87e71ed98f0ca9"
+    "lastUpdated": "2026-08-01T16:08:16Z",
+    "lastCommit": "128120a34aa201ee2d9b3320b20b6950ca382e2a"
   },
   {
     "title": "Pipeline Forge",
@@ -1294,8 +1294,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-06-12T11:21:38Z",
-    "lastCommit": "d8ad0961ff8f8a61a23aab3562879bb0d311074b"
+    "lastUpdated": "2026-08-01T14:48:01Z",
+    "lastCommit": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f"
   },
   {
     "title": "Pod Why Dead",
