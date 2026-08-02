@@ -1,10 +1,10 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4772,
-    "forks": 4375,
+    "stars": 4774,
+    "forks": 4378,
     "issues": 26,
-    "lastUpdated": "2026-08-01T17:17:50Z",
+    "lastUpdated": "2026-08-02T04:29:27Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -33,10 +33,10 @@
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 443,
-    "forks": 335,
+    "stars": 444,
+    "forks": 336,
     "issues": 1,
-    "lastUpdated": "2026-07-31T02:15:43Z",
+    "lastUpdated": "2026-08-02T07:11:24Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -122,7 +122,7 @@
   {
     "repo": "DevOps-Tool-Installer",
     "stars": 62,
-    "forks": 70,
+    "forks": 71,
     "issues": 0,
     "lastUpdated": "2026-07-04T13:40:32Z",
     "lastCommit": "b49b9dd35b4013740775bb3ce2b6c6c2e621c10f"
@@ -268,8 +268,8 @@
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-02T02:31:40Z",
-    "lastCommit": "d12dcc1e1867deda2152388b9e86185b61eda4cf"
+    "lastUpdated": "2026-08-02T02:52:53Z",
+    "lastCommit": "d044453dd0411f675d61ae50d2997373076cccab"
   },
   {
     "repo": "prodevopsguytech.com",
