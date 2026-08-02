@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4775,
-    "forks": 4381,
+    "stars": 4778,
+    "forks": 4382,
     "issues": 26,
-    "lastUpdated": "2026-08-02T10:07:25Z",
+    "lastUpdated": "2026-08-02T17:58:43Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1034,
+    "stars": 1035,
     "forks": 786,
     "issues": 3,
-    "lastUpdated": "2026-08-02T08:58:16Z",
+    "lastUpdated": "2026-08-02T17:58:21Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 332,
+    "stars": 333,
     "forks": 256,
     "issues": 3,
-    "lastUpdated": "2026-07-30T14:54:03Z",
+    "lastUpdated": "2026-08-02T14:58:49Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -453,8 +453,8 @@ export const PROJECTS: Project[] = [
     "stars": 15,
     "forks": 19,
     "issues": 1,
-    "lastUpdated": "2026-07-27T09:07:27Z",
-    "lastCommit": "ef41c2c28229583a9392b760901cb1eb0289a609"
+    "lastUpdated": "2026-08-02T18:06:29Z",
+    "lastCommit": "827be2fb9f5110b70122a0f796f973c78f7a7dfd"
   },
   {
     "title": "Deploy Super Mario on EKS",
@@ -542,11 +542,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/cv-portfolio",
       "href": "https://github.com/NotHarshhaa/cv-portfolio"
     },
-    "stars": 12,
+    "stars": 11,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-06-30T02:18:35Z",
-    "lastCommit": "85489143b779d9dd56e136caab60bead0e2e7370"
+    "lastUpdated": "2026-08-02T16:59:09Z",
+    "lastCommit": "a419f9b96d5e2bc822047a61c3e618d32cc4f4f5"
   },
   {
     "title": "Awesome DevOps Cloud",
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-02T08:26:23Z",
-    "lastCommit": "c5ff4fe2bd2317bc4ed613153d1d9a70a526c1cb"
+    "lastUpdated": "2026-08-02T13:25:19Z",
+    "lastCommit": "a9dd7274799f9dba0a5731896983b9e89e12bce9"
   },
   {
     "title": "Links Portfolio",
@@ -633,8 +633,8 @@ export const PROJECTS: Project[] = [
     "stars": 10,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-07-27T19:24:28Z",
-    "lastCommit": "83efa408a5b90ee1699718fb71a49f8163f856ae"
+    "lastUpdated": "2026-08-02T17:19:04Z",
+    "lastCommit": "26366c2b35c45734791f90f341d9967a25bf5300"
   },
   {
     "title": "Prodevopsguytech Com",
@@ -788,8 +788,8 @@ export const PROJECTS: Project[] = [
     "stars": 5,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-06-30T02:20:31Z",
-    "lastCommit": "5c0e04466c0e788819a0cbf47b6a7a24b4997f13"
+    "lastUpdated": "2026-08-02T17:09:00Z",
+    "lastCommit": "1a8b3c4f541b7bd5e8aec2a39963b14f1744c717"
   },
   {
     "title": "Jobs Prodevopsguytech Com",
