@@ -1,18 +1,18 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4780,
+    "stars": 4784,
     "forks": 4382,
     "issues": 26,
-    "lastUpdated": "2026-08-02T21:07:02Z",
+    "lastUpdated": "2026-08-03T07:48:57Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 1035,
-    "forks": 787,
+    "stars": 1037,
+    "forks": 788,
     "issues": 3,
-    "lastUpdated": "2026-08-02T17:58:21Z",
+    "lastUpdated": "2026-08-03T08:46:18Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -26,7 +26,7 @@
   {
     "repo": "kubernetes-learning-path",
     "stars": 585,
-    "forks": 219,
+    "forks": 220,
     "issues": 4,
     "lastUpdated": "2026-08-03T00:07:53Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -244,8 +244,8 @@
     "stars": 11,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-08-02T16:59:09Z",
-    "lastCommit": "a419f9b96d5e2bc822047a61c3e618d32cc4f4f5"
+    "lastUpdated": "2026-08-03T05:29:06Z",
+    "lastCommit": "47f9e214d7ac7f6fc1e1d077d5d6332308447662"
   },
   {
     "repo": "awesome-devops-cloud",
@@ -260,16 +260,16 @@
     "stars": 10,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-08-02T17:19:04Z",
-    "lastCommit": "26366c2b35c45734791f90f341d9967a25bf5300"
+    "lastUpdated": "2026-08-03T05:28:24Z",
+    "lastCommit": "2aa0a68734b1da74d80cbbdad1c9e67d472d4254"
   },
   {
     "repo": "github-repo-status-tracker",
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-02T19:12:54Z",
-    "lastCommit": "c493246bd33365be40b036c39d4cee206421dcc9"
+    "lastUpdated": "2026-08-03T02:54:20Z",
+    "lastCommit": "3f388b377ea240e6dabc87f1732d7beebb63422e"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -300,8 +300,8 @@
     "stars": 15,
     "forks": 6,
     "issues": 0,
-    "lastUpdated": "2026-08-01T16:30:50Z",
-    "lastCommit": "40e89ac7d6dfe3e47ea5c8370a807bdb6b0f0c6f"
+    "lastUpdated": "2026-08-03T06:16:36Z",
+    "lastCommit": "1c2a59ccce754e4ad8e37485680fc2376c4bef05"
   },
   {
     "repo": "projects.prodevopsguytech.com",
@@ -364,8 +364,8 @@
     "stars": 5,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-08-02T17:09:00Z",
-    "lastCommit": "1a8b3c4f541b7bd5e8aec2a39963b14f1744c717"
+    "lastUpdated": "2026-08-03T05:27:03Z",
+    "lastCommit": "46c9c7d988167e38df73f32ab28f54e5dff1532d"
   },
   {
     "repo": "status.prodevopsguytech.com",
@@ -468,8 +468,8 @@
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-04-24T11:06:27Z",
-    "lastCommit": "21d26f2d4dfea25365707cfe4ce50797f548904d"
+    "lastUpdated": "2026-08-03T05:20:40Z",
+    "lastCommit": "e147ed96d20a2b2aa954bfc881066a64d51dcfca"
   },
   {
     "repo": "pipeline-forge",
