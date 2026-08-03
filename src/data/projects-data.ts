@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4784,
+    "stars": 4786,
     "forks": 4382,
     "issues": 26,
-    "lastUpdated": "2026-08-03T07:48:57Z",
+    "lastUpdated": "2026-08-03T12:26:21Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1037,
-    "forks": 788,
+    "forks": 789,
     "issues": 3,
     "lastUpdated": "2026-08-03T08:46:18Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 889,
+    "stars": 888,
     "forks": 532,
     "issues": 0,
-    "lastUpdated": "2026-07-31T04:30:22Z",
+    "lastUpdated": "2026-08-03T12:26:19Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 333,
+    "stars": 332,
     "forks": 256,
     "issues": 3,
-    "lastUpdated": "2026-08-02T14:58:49Z",
+    "lastUpdated": "2026-08-03T12:26:17Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -124,10 +124,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 230,
+    "stars": 229,
     "forks": 162,
     "issues": 3,
-    "lastUpdated": "2026-07-12T01:14:41Z",
+    "lastUpdated": "2026-08-03T13:41:24Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-03T02:54:20Z",
-    "lastCommit": "3f388b377ea240e6dabc87f1732d7beebb63422e"
+    "lastUpdated": "2026-08-03T09:50:27Z",
+    "lastCommit": "0e2b23333079562900d59f038760e11ea0960e40"
   },
   {
     "title": "Links Portfolio",
