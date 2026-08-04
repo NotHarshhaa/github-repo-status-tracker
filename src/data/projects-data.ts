@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4790,
-    "forks": 4385,
+    "stars": 4795,
+    "forks": 4386,
     "issues": 26,
-    "lastUpdated": "2026-08-04T03:41:44Z",
+    "lastUpdated": "2026-08-04T13:06:22Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -77,7 +77,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 585,
-    "forks": 220,
+    "forks": 221,
     "issues": 4,
     "lastUpdated": "2026-08-03T00:07:53Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 444,
+    "stars": 445,
     "forks": 337,
     "issues": 1,
-    "lastUpdated": "2026-08-02T07:11:24Z",
+    "lastUpdated": "2026-08-04T12:17:36Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -230,7 +230,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 112,
-    "forks": 51,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2026-07-30T12:52:36Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
@@ -468,8 +468,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 12,
-    "forks": 35,
-    "issues": 0,
+    "forks": 36,
+    "issues": 1,
     "lastUpdated": "2026-08-02T08:26:56Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
   },
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-04T02:38:22Z",
-    "lastCommit": "f002792377c1d142a1de4969cd9ad2b4ec341a38"
+    "lastUpdated": "2026-08-04T08:41:30Z",
+    "lastCommit": "81f5dddfc750d0dec03e4c8249e1ecb9eeb74e5e"
   },
   {
     "title": "Links Portfolio",
