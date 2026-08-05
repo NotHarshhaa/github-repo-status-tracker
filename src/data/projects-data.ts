@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4798,
-    "forks": 4388,
+    "stars": 4800,
+    "forks": 4392,
     "issues": 26,
-    "lastUpdated": "2026-08-05T01:13:36Z",
+    "lastUpdated": "2026-08-05T07:50:21Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1042,
-    "forks": 794,
+    "stars": 1044,
+    "forks": 795,
     "issues": 3,
-    "lastUpdated": "2026-08-04T21:30:18Z",
+    "lastUpdated": "2026-08-05T08:33:40Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 888,
-    "forks": 533,
+    "forks": 532,
     "issues": 0,
     "lastUpdated": "2026-08-03T12:26:19Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 585,
+    "stars": 586,
     "forks": 221,
     "issues": 4,
-    "lastUpdated": "2026-08-03T00:07:53Z",
+    "lastUpdated": "2026-08-05T03:06:25Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -125,7 +125,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 229,
-    "forks": 162,
+    "forks": 161,
     "issues": 3,
     "lastUpdated": "2026-08-03T13:41:24Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
@@ -173,7 +173,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 161,
-    "forks": 120,
+    "forks": 119,
     "issues": 0,
     "lastUpdated": "2026-07-08T09:09:35Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
@@ -192,7 +192,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 134,
-    "forks": 118,
+    "forks": 117,
     "issues": 1,
     "lastUpdated": "2026-07-31T04:30:46Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
@@ -210,10 +210,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 104,
+    "stars": 105,
     "forks": 46,
     "issues": 0,
-    "lastUpdated": "2026-07-17T08:28:29Z",
+    "lastUpdated": "2026-08-05T05:08:22Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -246,7 +246,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 91,
-    "forks": 61,
+    "forks": 60,
     "issues": 0,
     "lastUpdated": "2026-07-16T17:08:13Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -263,7 +263,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
     "stars": 73,
-    "forks": 67,
+    "forks": 66,
     "issues": 0,
     "lastUpdated": "2026-05-25T08:21:07Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
@@ -296,7 +296,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
     "stars": 58,
-    "forks": 53,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2026-07-26T09:21:30Z",
     "lastCommit": "c4f02b6e1faed85bd743bae193cb2d3af04d3ef3"
@@ -313,7 +313,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
     "stars": 57,
-    "forks": 56,
+    "forks": 55,
     "issues": 0,
     "lastUpdated": "2026-05-25T08:21:15Z",
     "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-04T19:39:45Z",
-    "lastCommit": "a5aeb0d0736d1d02b23be4d79912046a86b523dc"
+    "lastUpdated": "2026-08-05T02:36:18Z",
+    "lastCommit": "c3f1387ec35c3ef3b398cf6b689351a245b31135"
   },
   {
     "title": "Links Portfolio",
