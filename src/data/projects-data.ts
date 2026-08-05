@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4800,
-    "forks": 4392,
+    "stars": 4803,
+    "forks": 4395,
     "issues": 26,
-    "lastUpdated": "2026-08-05T07:50:21Z",
+    "lastUpdated": "2026-08-05T13:59:29Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1044,
-    "forks": 795,
+    "forks": 796,
     "issues": 3,
     "lastUpdated": "2026-08-05T08:33:40Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 332,
-    "forks": 257,
+    "forks": 258,
     "issues": 3,
     "lastUpdated": "2026-08-03T12:26:17Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 112,
+    "stars": 113,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-07-30T12:52:36Z",
+    "lastUpdated": "2026-08-05T09:43:40Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -329,10 +329,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment",
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
-    "stars": 27,
+    "stars": 28,
     "forks": 65,
     "issues": 0,
-    "lastUpdated": "2026-02-16T16:41:08Z",
+    "lastUpdated": "2026-08-05T14:00:54Z",
     "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-05T02:36:18Z",
-    "lastCommit": "c3f1387ec35c3ef3b398cf6b689351a245b31135"
+    "lastUpdated": "2026-08-05T08:38:26Z",
+    "lastCommit": "ea7c9a670befa679d1f1dcda97a470fb9f0fb069"
   },
   {
     "title": "Links Portfolio",
