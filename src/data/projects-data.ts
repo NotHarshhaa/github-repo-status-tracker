@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4810,
-    "forks": 4395,
-    "issues": 26,
-    "lastUpdated": "2026-08-06T08:09:28Z",
+    "stars": 4812,
+    "forks": 4397,
+    "issues": 27,
+    "lastUpdated": "2026-08-06T13:26:07Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1047,
+    "stars": 1048,
     "forks": 797,
     "issues": 3,
-    "lastUpdated": "2026-08-06T06:55:20Z",
+    "lastUpdated": "2026-08-06T11:45:50Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 888,
-    "forks": 532,
+    "forks": 531,
     "issues": 0,
     "lastUpdated": "2026-08-03T12:26:19Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -364,10 +364,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
-    "stars": 28,
+    "stars": 29,
     "forks": 41,
     "issues": 0,
-    "lastUpdated": "2026-07-20T02:25:05Z",
+    "lastUpdated": "2026-08-06T12:53:45Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-06T02:39:38Z",
-    "lastCommit": "2ef14931e17dadb4bdf4ab8565736280ac3fb9d2"
+    "lastUpdated": "2026-08-06T08:38:26Z",
+    "lastCommit": "8e11a9fe4c1fbf2196d30b4f56a2fd4b25f1ab21"
   },
   {
     "title": "Links Portfolio",
@@ -1017,8 +1017,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-08-04T17:13:13Z",
-    "lastCommit": "30dabb4e8c52703d9e0ec05d00b246f2e7fd5067"
+    "lastUpdated": "2026-08-06T08:51:14Z",
+    "lastCommit": "305e9ff8b9dd400a9de474fb3e44c3e9dcd273a9"
   },
   {
     "title": "Prodevopsguytech V2",
