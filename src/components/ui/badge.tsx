@@ -3,22 +3,18 @@ import { cva, type VariantProps } from 'class-variance-authority'
 import { cn } from '@/lib/utils'
 
 const badgeVariants = cva(
-  'inline-flex items-center rounded-full border px-3 py-1 text-sm font-semibold font-mono tracking-wide text-nowrap transition-all duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-primary/40 focus:ring-offset-2 shadow-sm',
+  'inline-flex items-center border px-2 py-0.5 text-xs font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-ring/40 focus:ring-offset-2',
   {
     variants: {
       variant: {
         default:
-          'border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60 hover:shadow-md hover:scale-105',
+          'border-transparent bg-foreground text-background',
         secondary:
-          'border border-border bg-secondary/70 text-secondary-foreground hover:bg-secondary/90 hover:shadow-md hover:scale-105 dark:bg-secondary/40 dark:text-white dark:border-secondary',
+          'border-border bg-secondary text-secondary-foreground',
         destructive:
-          'border-transparent bg-destructive/90 text-destructive-foreground hover:bg-destructive/80 hover:shadow-md hover:scale-105',
+          'border-transparent bg-destructive text-destructive-foreground',
         outline:
-          'border-2 border-primary/40 bg-background/70 text-primary hover:bg-primary/10 hover:shadow-md hover:scale-105',
-        accent:
-          'border-0 bg-gradient-to-r from-primary/80 to-accent/80 text-white shadow-md hover:from-primary/60 hover:to-accent/60 hover:scale-105',
-        glass:
-          'border border-border/40 bg-white/20 backdrop-blur-md text-foreground shadow-md hover:bg-white/30 hover:scale-105',
+          'border-border bg-background text-foreground',
       }
     },
     defaultVariants: {

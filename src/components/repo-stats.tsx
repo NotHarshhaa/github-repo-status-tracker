@@ -1,4 +1,5 @@
 import { FolderGit2, GitFork, Star, Zap } from 'lucide-react'
+import { FrameGrid, FrameGridCell } from './frame'
 
 type Props = {
   total: number
@@ -16,19 +17,15 @@ export function RepoStats({ total, active, stars, forks }: Props) {
   ]
 
   return (
-    <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
+    <FrameGrid>
       {items.map((item) => (
-        <div
-          key={item.label}
-          className="rounded-xl border border-border/50 bg-card/50 p-4 backdrop-blur-sm"
-        >
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <item.icon className="h-4 w-4" />
-            {item.label}
+        <FrameGridCell key={item.label} label={item.label}>
+          <div className="flex items-baseline justify-between gap-2">
+            <p className="text-2xl font-semibold tracking-tight">{item.value}</p>
+            <item.icon className="size-4 text-muted-foreground" />
           </div>
-          <p className="mt-2 text-2xl font-bold tracking-tight">{item.value}</p>
-        </div>
+        </FrameGridCell>
       ))}
-    </div>
+    </FrameGrid>
   )
 }

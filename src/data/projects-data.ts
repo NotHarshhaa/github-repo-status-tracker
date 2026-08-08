@@ -1379,5 +1379,157 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2025-04-12T04:53:03Z",
     "lastCommit": "30a4c8e06825071d41dfcae2ac6158522768a4c0"
+  },
+  {
+    "title": "CtxLean",
+    "techStack": [
+      "AI",
+      "LLM",
+      "Context Optimization",
+      "Token Management"
+    ],
+    "description": "Reduce LLM context bloat, control token usage, improve latency, and make AI applications more efficient — without changing the underlying model.",
+    "link": {
+      "label": "github.com/NotHarshhaa/ctxlean",
+      "href": "https://github.com/NotHarshhaa/ctxlean"
+    },
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-08-08T14:58:14Z",
+    "lastCommit": "a09c8486f67768abdf4dacb805f8f92bd9b3e677"
+  },
+  {
+    "title": "Azure DevOps Zero to Hero",
+    "techStack": [
+      "Azure DevOps",
+      "CI/CD",
+      "Microsoft Azure",
+      "DevOps"
+    ],
+    "description": "Comprehensive guide to master Azure DevOps from fundamentals to advanced use — Boards, Pipelines, Repos, Artifacts, and Test Plans.",
+    "link": {
+      "label": "github.com/NotHarshhaa/azure-devops-zero-to-hero",
+      "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
+    },
+    "stars": 1,
+    "forks": 4,
+    "issues": 0,
+    "lastUpdated": "2026-08-06T17:25:12Z",
+    "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
+  },
+  {
+    "title": "DevOps Agent Skills",
+    "techStack": [
+      "AI Agents",
+      "DevOps",
+      "Agent Skills",
+      "Platform Engineering"
+    ],
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "link": {
+      "label": "github.com/NotHarshhaa/devops-skills",
+      "href": "https://github.com/NotHarshhaa/devops-skills"
+    },
+    "stars": 5,
+    "forks": 3,
+    "issues": 0,
+    "lastUpdated": "2026-08-03T16:31:50Z",
+    "lastCommit": "b3d56768774d11656c47bd7abbd81fbf2bd630e5"
+  },
+  {
+    "title": "RepoSage",
+    "techStack": [
+      "AI",
+      "RAG",
+      "GitHub",
+      "LLM"
+    ],
+    "description": "Chat with any public GitHub repository using RAG — clone, index, and ask questions about a codebase's architecture, config, and workflows in natural language.",
+    "link": {
+      "label": "github.com/NotHarshhaa/reposage",
+      "href": "https://github.com/NotHarshhaa/reposage"
+    },
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-07-31T22:27:46Z",
+    "lastCommit": "f8cfd4e2d37ba38ec215a42acff4870eabf6d19f"
+  },
+  {
+    "title": "PromptDeck",
+    "techStack": [
+      "AI",
+      "Prompt Engineering",
+      "LLM",
+      "Evaluation"
+    ],
+    "description": "Open-source platform to build, test, compare, and evaluate prompts across OpenAI, Claude, Gemini, Groq, Ollama, and more — one workspace instead of ten tabs.",
+    "link": {
+      "label": "github.com/NotHarshhaa/promptdeck",
+      "href": "https://github.com/NotHarshhaa/promptdeck"
+    },
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-07-31T22:14:39Z",
+    "lastCommit": "eaa6381761b069e6695fdfd5cf96a55aa3eb0b43"
+  },
+  {
+    "title": "DevOps Incident Agent",
+    "techStack": [
+      "AI",
+      "DevOps",
+      "Incident Response",
+      "Kubernetes"
+    ],
+    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
+    "link": {
+      "label": "github.com/NotHarshhaa/devops-incident-agent",
+      "href": "https://github.com/NotHarshhaa/devops-incident-agent"
+    },
+    "stars": 2,
+    "forks": 2,
+    "issues": 7,
+    "lastUpdated": "2026-07-30T12:57:52Z",
+    "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
+  },
+  {
+    "title": "DevOps Agent Kit",
+    "techStack": [
+      "AI",
+      "Kubernetes",
+      "ArgoCD",
+      "Prometheus"
+    ],
+    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph).",
+    "link": {
+      "label": "github.com/NotHarshhaa/devops-agent-kit",
+      "href": "https://github.com/NotHarshhaa/devops-agent-kit"
+    },
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-06-29T06:37:24Z",
+    "lastCommit": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6"
+  },
+  {
+    "title": "Slimify",
+    "techStack": [
+      "Docker",
+      "DevOps",
+      "Container Optimization",
+      "Dockerfile"
+    ],
+    "description": "Scan. Understand. Shrink. slimify inspects any Docker image, explains exactly where the bloat is, and hands you a rewritten Dockerfile + tuned .dockerignore ready to run.",
+    "link": {
+      "label": "github.com/NotHarshhaa/slimify",
+      "href": "https://github.com/NotHarshhaa/slimify"
+    },
+    "stars": 2,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-06-22T08:06:58Z",
+    "lastCommit": "da6a863606d03d79f703e66305f6e204316e9492"
   }
 ];

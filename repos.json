@@ -78,6 +78,14 @@
     "homebrew-tap",
     "terraview-action",
     "cost-digest-bot",
-    "aws-ghost"
+    "aws-ghost",
+    "ctxlean",
+    "azure-devops-zero-to-hero",
+    "devops-skills",
+    "reposage",
+    "promptdeck",
+    "devops-incident-agent",
+    "devops-agent-kit",
+    "slimify"
   ]
 }

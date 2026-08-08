@@ -7,30 +7,28 @@ import { cva, type VariantProps } from 'class-variance-authority'
 import { cn } from '@/lib/utils'
 
 const buttonVariants = cva(
-  'inline-flex items-center justify-center whitespace-nowrap rounded-3xl text-sm font-semibold ring-offset-background transition-all duration-300 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50',
+  'inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/40 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50',
   {
     variants: {
       variant: {
         default:
-          'bg-primary/90 text-primary-foreground shadow-xl hover:bg-primary/80 hover:shadow-2xl hover:scale-[1.045] active:scale-95',
+          'border border-foreground bg-foreground text-background hover:bg-foreground/90',
         destructive:
-          'bg-destructive/90 text-destructive-foreground shadow-xl hover:bg-destructive/80 hover:shadow-2xl hover:scale-[1.045] active:scale-95',
+          'border border-destructive bg-destructive text-destructive-foreground hover:bg-destructive/90',
         outline:
-          'border-2 border-border bg-background/80 hover:bg-muted/60 hover:text-foreground hover:border-primary/40 shadow-md hover:shadow-lg hover:scale-[1.035] active:scale-95',
+          'border border-border bg-background hover:bg-muted',
         secondary:
-          'bg-secondary/80 text-secondary-foreground border border-border hover:bg-secondary/60 hover:border-primary/30 shadow-md hover:shadow-lg hover:scale-[1.035] active:scale-95',
-        ghost:
-          'bg-transparent hover:bg-muted/60 hover:text-foreground shadow-none hover:shadow-md hover:scale-[1.025] active:scale-95',
-        link:
-          'text-primary underline-offset-4 hover:underline hover:shadow-none hover:scale-100',
+          'border border-border bg-secondary text-secondary-foreground hover:bg-secondary/80',
+        ghost: 'hover:bg-muted',
+        link: 'text-foreground underline-offset-4 hover:underline',
         github:
-          'bg-black/90 text-white hover:bg-black hover:shadow-2xl hover:scale-[1.045] dark:bg-white/90 dark:text-black dark:hover:bg-white shadow-xl',
+          'border border-foreground bg-foreground text-background hover:bg-foreground/90',
       },
       size: {
-        default: 'h-11 px-6 py-2 text-base',
-        sm: 'h-9 px-4 text-sm',
-        lg: 'h-12 px-8 text-lg',
-        icon: 'h-11 w-11 p-0 text-lg'
+        default: 'h-10 px-4 py-2',
+        sm: 'h-9 px-3 text-xs',
+        lg: 'h-11 px-6',
+        icon: 'size-10'
       }
     },
     defaultVariants: {

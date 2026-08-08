@@ -1,10 +1,10 @@
 'use client';
 
 import { Badge } from '@/components/ui/badge'
-import { Section } from '@/components/ui/section'
 import { ProjectCard } from '@/components/project-card'
 import { RepoStats } from '@/components/repo-stats'
 import { RepoToolbar } from '@/components/repo-toolbar'
+import { Frame, FrameBody, FrameHeader } from '@/components/frame'
 import { ArrowUp } from 'lucide-react'
 import { data } from '@/constants'
 import { Button } from '@/components/ui/button'
@@ -67,55 +67,45 @@ export default function Page() {
 
 	return (
 		<TooltipProvider>
-			<main className="min-h-screen bg-gradient-to-b from-background to-background/95">
+			<main className="min-h-screen">
 				<Header />
-				<div className="mx-auto max-w-[1600px] relative scroll-my-12 overflow-auto p-3 sm:p-4 md:p-6 lg:p-8 print:p-12">
-				<section className="mx-auto w-full max-w-[1400px] space-y-8 sm:space-y-10 md:space-y-12 bg-background/80 text-foreground print:space-y-6 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 border border-border/50">
-					<Section id="about">
-						<h2 className='text-xl sm:text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent'>
-							About
-						</h2>
-						<p className="mt-3 sm:mt-4 text-sm sm:text-base text-muted-foreground leading-relaxed max-w-3xl">
-							{data.about} This dashboard tracks <strong>{stats.total}</strong> repositories
-							with live GitHub stats, updated automatically every 6 hours.
-						</p>
-						<div className="mt-4 sm:mt-6">
+				<div className="relative space-y-8 py-8 sm:space-y-10 sm:py-10 print:p-12">
+					<Frame id="about">
+						<FrameHeader label="About" />
+						<FrameBody className="space-y-5">
+							<p className="max-w-3xl text-sm leading-relaxed text-muted-foreground sm:text-base">
+								{data.about} This dashboard tracks <strong className="text-foreground">{stats.total}</strong> repositories
+								with live GitHub stats, updated automatically every 6 hours.
+							</p>
 							<RepoStats
 								total={stats.total}
 								active={stats.active}
 								stars={stats.stars}
 								forks={stats.forks}
 							/>
-						</div>
-					</Section>
+						</FrameBody>
+					</Frame>
 
-					<Section id="tech-stack">
-						<h2 className='text-xl sm:text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent'>
-							Tech Stack
-						</h2>
-						<div className='flex flex-wrap gap-1.5 sm:gap-2 mt-3 sm:mt-4'>
-							{data.skills.map((skill) => (
-								<Badge 
-									key={skill}
-									className="px-2.5 sm:px-3 py-0.5 sm:py-1 text-xs sm:text-sm font-medium rounded-full bg-secondary/70 text-secondary-foreground hover:bg-secondary/90 hover:shadow-md hover:scale-105 dark:bg-secondary/40 dark:text-white dark:border-secondary"
-								>
-									{skill}
-								</Badge>
-							))}
-						</div>
-					</Section>
+					<Frame id="tech-stack">
+						<FrameHeader label="Tech Stack" />
+						<FrameBody>
+							<div className="flex flex-wrap gap-2">
+								{data.skills.map((skill) => (
+									<Badge key={skill} variant="outline" className="font-mono text-[11px] uppercase tracking-wide">
+										{skill}
+									</Badge>
+								))}
+							</div>
+						</FrameBody>
+					</Frame>
 
-					<Section id="all-repositories" className='print-force-new-page scroll-mb-16'>
-						<div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
-							<h2 className='text-xl sm:text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent'>
-								All Repositories
-							</h2>
-							<p className="text-sm text-muted-foreground">
-								{stats.total} repos · {stats.stars.toLocaleString()} stars · auto-synced from GitHub
-							</p>
-						</div>
-
-						<div className="mt-4">
+					<Frame id="all-repositories" className="print-force-new-page scroll-mb-16">
+						<FrameHeader label="All Repositories">
+							<span className="font-mono text-[11px] text-muted-foreground">
+								{stats.total} repos · {stats.stars.toLocaleString()} stars
+							</span>
+						</FrameHeader>
+						<FrameBody className="space-y-4">
 							<RepoToolbar
 								query={query}
 								sortBy={sortBy}
@@ -126,66 +116,66 @@ export default function Page() {
 								onSortChange={setSortBy}
 								onStatusChange={setStatus}
 							/>
-						</div>
 
-						{filteredProjects.length > 0 ? (
-							<div className='px-2 grid grid-cols-1 gap-4 print:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mt-4'>
-								{filteredProjects.map((project) => (
-									<ProjectCard
-										key={getRepoSlug(project)}
-										title={project.title}
-										description={project.description}
-										tags={project.techStack}
-										link={project.link?.href}
-										stars={project.stars}
-										forks={project.forks}
-										issues={project.issues}
-										lastUpdated={project.lastUpdated}
-										lastCommit={project.lastCommit}
-									/>
-								))}
-							</div>
-						) : (
-							<div className="mt-6 rounded-xl border border-dashed border-border/60 bg-card/20 px-6 py-10 text-center">
-								<p className="text-base font-medium">No repositories match your filters</p>
-								<p className="mt-2 text-sm text-muted-foreground">
-									Try a different search term or switch back to &quot;All&quot; repositories.
-								</p>
-								<Button
-									variant="outline"
-									size="sm"
-									className="mt-4"
-									onClick={() => {
-										setQuery('')
-										setStatus('all')
-										setSortBy('stars')
-									}}
-								>
-									Reset filters
-								</Button>
-							</div>
-						)}
-					</Section>
-				</section>
+							{filteredProjects.length > 0 ? (
+								<Frame className="overflow-visible" corners>
+									<ul>
+										{filteredProjects.map((project, index) => (
+											<ProjectCard
+												key={getRepoSlug(project)}
+												title={project.title}
+												description={project.description}
+												tags={project.techStack}
+												link={project.link?.href}
+												stars={project.stars}
+												forks={project.forks}
+												issues={project.issues}
+												lastUpdated={project.lastUpdated}
+												lastCommit={project.lastCommit}
+												isLast={index === filteredProjects.length - 1}
+											/>
+										))}
+									</ul>
+								</Frame>
+							) : (
+								<div className="border border-dashed border-border bg-muted/30 px-6 py-10 text-center">
+									<p className="text-base font-medium">No repositories match your filters</p>
+									<p className="mt-2 text-sm text-muted-foreground">
+										Try a different search term or switch back to &quot;All&quot; repositories.
+									</p>
+									<Button
+										variant="outline"
+										size="sm"
+										className="mt-4"
+										onClick={() => {
+											setQuery('')
+											setStatus('all')
+											setSortBy('stars')
+										}}
+									>
+										Reset filters
+									</Button>
+								</div>
+							)}
+						</FrameBody>
+					</Frame>
+				</div>
 
 				<Button
 					onClick={scrollToTop}
 					className={cn(
-						"fixed bottom-3 right-3 sm:bottom-4 sm:right-4 md:bottom-6 md:right-6 lg:bottom-8 lg:right-8 z-50 print:hidden",
-						"size-9 sm:size-10 rounded-full bg-background/80 backdrop-blur-sm border border-border/50",
-						"hover:bg-background hover:border-border/80",
+						"fixed bottom-4 right-4 z-50 print:hidden sm:bottom-6 sm:right-6",
+						"size-10 border border-border bg-card",
 						"transition-opacity duration-200",
-						"shadow-lg hover:shadow-xl",
 						showScrollTop ? "opacity-100" : "opacity-0 pointer-events-none"
 					)}
 					variant="outline"
 					size="icon"
 				>
-					<ArrowUp className="size-4 sm:size-5" />
+					<ArrowUp className="size-4" />
 				</Button>
-			</div>
-			<Footer />
-		</main>
+				<Footer />
+			</main>
 		</TooltipProvider>
 	)
 }

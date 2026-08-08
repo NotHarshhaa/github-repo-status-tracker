@@ -86,7 +86,8 @@ export const REPOS_DATA: RepoData = {
 		'Continuous Learning', 'Infrastructure as Code', 'Configuration Management',
 		'Secrets Management', 'Incident Management', 'Disaster Recovery', 'Load Balancing',
 		'High Availability', 'Performance Tuning', 'Security Best Practices', 'HashiCorp Vault',
-		'Agile', 'DevOps Practices', 'VS Code'
+		'Agile', 'DevOps Practices', 'VS Code', 'MLOps', 'AI/ML', 'LLM', 'RAG',
+		'Prompt Engineering', 'Platform Engineering', 'AI Agents'
 	] as const,
 	// Projects
 	projects: PROJECTS,

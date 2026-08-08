@@ -772,5 +772,93 @@
       "Cloud Cost"
     ],
     "status": "Active"
+  },
+  "ctxlean": {
+    "displayName": "CtxLean",
+    "description": "Reduce LLM context bloat, control token usage, improve latency, and make AI applications more efficient — without changing the underlying model.",
+    "techStack": [
+      "AI",
+      "LLM",
+      "Context Optimization",
+      "Token Management"
+    ],
+    "status": "Active"
+  },
+  "azure-devops-zero-to-hero": {
+    "displayName": "Azure DevOps Zero to Hero",
+    "description": "Comprehensive guide to master Azure DevOps from fundamentals to advanced use — Boards, Pipelines, Repos, Artifacts, and Test Plans.",
+    "techStack": [
+      "Azure DevOps",
+      "CI/CD",
+      "Microsoft Azure",
+      "DevOps"
+    ],
+    "status": "Learning"
+  },
+  "devops-skills": {
+    "displayName": "DevOps Agent Skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "techStack": [
+      "AI Agents",
+      "DevOps",
+      "Agent Skills",
+      "Platform Engineering"
+    ],
+    "status": "Active"
+  },
+  "reposage": {
+    "displayName": "RepoSage",
+    "description": "Chat with any public GitHub repository using RAG — clone, index, and ask questions about a codebase's architecture, config, and workflows in natural language.",
+    "techStack": [
+      "AI",
+      "RAG",
+      "GitHub",
+      "LLM"
+    ],
+    "status": "Active"
+  },
+  "promptdeck": {
+    "displayName": "PromptDeck",
+    "description": "Open-source platform to build, test, compare, and evaluate prompts across OpenAI, Claude, Gemini, Groq, Ollama, and more — one workspace instead of ten tabs.",
+    "techStack": [
+      "AI",
+      "Prompt Engineering",
+      "LLM",
+      "Evaluation"
+    ],
+    "status": "Active"
+  },
+  "devops-incident-agent": {
+    "displayName": "DevOps Incident Agent",
+    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
+    "techStack": [
+      "AI",
+      "DevOps",
+      "Incident Response",
+      "Kubernetes"
+    ],
+    "status": "Active"
+  },
+  "devops-agent-kit": {
+    "displayName": "DevOps Agent Kit",
+    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph).",
+    "techStack": [
+      "AI",
+      "Kubernetes",
+      "ArgoCD",
+      "Prometheus"
+    ],
+    "status": "Active"
+  },
+  "slimify": {
+    "displayName": "Slimify",
+    "description": "Scan. Understand. Shrink. slimify inspects any Docker image, explains exactly where the bloat is, and hands you a rewritten Dockerfile + tuned .dockerignore ready to run.",
+    "techStack": [
+      "Docker",
+      "DevOps",
+      "Container Optimization",
+      "Dockerfile"
+    ],
+    "status": "Active"
   }
 }
