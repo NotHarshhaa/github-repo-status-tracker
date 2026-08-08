@@ -1,16 +1,16 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4824,
-    "forks": 4403,
-    "issues": 27,
-    "lastUpdated": "2026-08-07T18:41:32Z",
+    "stars": 4826,
+    "forks": 4402,
+    "issues": 28,
+    "lastUpdated": "2026-08-08T06:22:36Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 1051,
-    "forks": 804,
+    "forks": 805,
     "issues": 3,
     "lastUpdated": "2026-08-07T21:36:56Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -113,10 +113,10 @@
   },
   {
     "repo": "eks-cluster-terraform",
-    "stars": 73,
+    "stars": 74,
     "forks": 66,
     "issues": 0,
-    "lastUpdated": "2026-05-25T08:21:07Z",
+    "lastUpdated": "2026-08-08T04:50:23Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
@@ -161,10 +161,10 @@
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
-    "stars": 29,
-    "forks": 41,
+    "stars": 30,
+    "forks": 42,
     "issues": 0,
-    "lastUpdated": "2026-08-06T12:53:45Z",
+    "lastUpdated": "2026-08-08T04:58:04Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
@@ -249,10 +249,10 @@
   },
   {
     "repo": "awesome-devops-cloud",
-    "stars": 12,
-    "forks": 17,
+    "stars": 13,
+    "forks": 18,
     "issues": 7,
-    "lastUpdated": "2026-07-01T08:06:34Z",
+    "lastUpdated": "2026-08-08T05:00:25Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-07T18:59:17Z",
-    "lastCommit": "578f8390b23a70c2086e060d736a668d9a81cce7"
+    "lastUpdated": "2026-08-08T01:43:32Z",
+    "lastCommit": "ab5d2339eb5ebd3363c9df59a921c3a47820983e"
   },
   {
     "repo": "prodevopsguytech.com",
