@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4833,
+    "stars": 4837,
     "forks": 4405,
     "issues": 28,
-    "lastUpdated": "2026-08-09T10:37:06Z",
+    "lastUpdated": "2026-08-09T18:15:52Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1055,
+    "stars": 1056,
     "forks": 808,
     "issues": 3,
-    "lastUpdated": "2026-08-08T20:32:38Z",
+    "lastUpdated": "2026-08-09T14:31:28Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 888,
-    "forks": 531,
+    "forks": 532,
     "issues": 0,
     "lastUpdated": "2026-08-03T12:26:19Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 333,
-    "forks": 258,
+    "stars": 334,
+    "forks": 259,
     "issues": 3,
-    "lastUpdated": "2026-08-09T10:11:00Z",
+    "lastUpdated": "2026-08-09T14:38:36Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -230,7 +230,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 116,
-    "forks": 54,
+    "forks": 55,
     "issues": 0,
     "lastUpdated": "2026-08-09T10:36:45Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-09T06:59:44Z",
-    "lastCommit": "091ebdc2bd0e1129d51b5e004ceab97e8fdb6ba0"
+    "lastUpdated": "2026-08-09T12:53:03Z",
+    "lastCommit": "ca63ac1769e6c1f76d49cdb259e4cfc7b46f1c82"
   },
   {
     "title": "Links Portfolio",
@@ -685,8 +685,8 @@ export const PROJECTS: Project[] = [
     "stars": 15,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-08-08T17:00:18Z",
-    "lastCommit": "54404670d6ac58b19fb26442519231ff95bd4dd1"
+    "lastUpdated": "2026-08-09T14:40:48Z",
+    "lastCommit": "33a8132d2fa9830f966f2b9c60f5b1603df193c4"
   },
   {
     "title": "DevOps Tools Setups & Installations",
