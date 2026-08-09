@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 4828,
-    "forks": 4402,
+    "forks": 4403,
     "issues": 28,
     "lastUpdated": "2026-08-08T17:57:41Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1052,
+    "stars": 1055,
     "forks": 808,
     "issues": 3,
-    "lastUpdated": "2026-08-08T11:51:04Z",
+    "lastUpdated": "2026-08-08T20:32:38Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-08T15:57:31Z",
-    "lastCommit": "9d53da38d356bad0527294c66f161e19f9ba93a3"
+    "lastUpdated": "2026-08-08T18:40:02Z",
+    "lastCommit": "9f8e484734489449e8e01e89ca85f8a527914cfd"
   },
   {
     "title": "Links Portfolio",
