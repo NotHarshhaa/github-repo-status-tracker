@@ -1,10 +1,10 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4830,
-    "forks": 4403,
+    "stars": 4833,
+    "forks": 4405,
     "issues": 28,
-    "lastUpdated": "2026-08-09T05:42:39Z",
+    "lastUpdated": "2026-08-09T10:37:06Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -41,10 +41,10 @@
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 332,
-    "forks": 259,
+    "stars": 333,
+    "forks": 258,
     "issues": 3,
-    "lastUpdated": "2026-08-03T12:26:17Z",
+    "lastUpdated": "2026-08-09T10:11:00Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -97,10 +97,10 @@
   },
   {
     "repo": "AWS-Projects",
-    "stars": 115,
+    "stars": 116,
     "forks": 54,
     "issues": 0,
-    "lastUpdated": "2026-08-07T18:18:32Z",
+    "lastUpdated": "2026-08-09T10:36:45Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-09T01:50:16Z",
-    "lastCommit": "979be88776e9d4847fedb2a806873bfdb4f7ec1e"
+    "lastUpdated": "2026-08-09T06:59:44Z",
+    "lastCommit": "091ebdc2bd0e1129d51b5e004ceab97e8fdb6ba0"
   },
   {
     "repo": "prodevopsguytech.com",
