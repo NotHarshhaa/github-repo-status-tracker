@@ -2,7 +2,7 @@
   {
     "repo": "DevOps-Projects",
     "stars": 4837,
-    "forks": 4405,
+    "forks": 4406,
     "issues": 28,
     "lastUpdated": "2026-08-09T18:15:52Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -25,10 +25,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 587,
+    "stars": 588,
     "forks": 221,
     "issues": 4,
-    "lastUpdated": "2026-08-07T20:19:55Z",
+    "lastUpdated": "2026-08-09T18:44:20Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -162,7 +162,7 @@
   {
     "repo": "Cloud-Native-DevOps-Project",
     "stars": 30,
-    "forks": 42,
+    "forks": 43,
     "issues": 0,
     "lastUpdated": "2026-08-08T04:58:04Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
@@ -268,8 +268,8 @@
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-09T12:53:03Z",
-    "lastCommit": "ca63ac1769e6c1f76d49cdb259e4cfc7b46f1c82"
+    "lastUpdated": "2026-08-09T18:42:46Z",
+    "lastCommit": "3e854ceb0abbbdcac562058b7692d61394a9823e"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -468,8 +468,8 @@
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-08-06T08:51:14Z",
-    "lastCommit": "305e9ff8b9dd400a9de474fb3e44c3e9dcd273a9"
+    "lastUpdated": "2026-08-09T19:17:08Z",
+    "lastCommit": "5eae2fa9e14fdaa4b88cd23f24cb0f6b81193754"
   },
   {
     "repo": "pipeline-forge",
