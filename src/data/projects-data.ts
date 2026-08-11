@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4845,
-    "forks": 4406,
+    "stars": 4846,
+    "forks": 4408,
     "issues": 28,
-    "lastUpdated": "2026-08-11T04:26:54Z",
+    "lastUpdated": "2026-08-11T11:47:10Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1060,
-    "forks": 808,
+    "stars": 1061,
+    "forks": 810,
     "issues": 3,
-    "lastUpdated": "2026-08-10T21:27:10Z",
+    "lastUpdated": "2026-08-11T11:47:32Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-11T01:50:23Z",
-    "lastCommit": "a89e4d659840b40761a1ee67173ee4648800199c"
+    "lastUpdated": "2026-08-11T07:09:57Z",
+    "lastCommit": "2276e5c09ef7bc258a4a39a7114352e2e8b36ba7"
   },
   {
     "title": "Links Portfolio",
