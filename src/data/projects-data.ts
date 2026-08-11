@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4843,
-    "forks": 4405,
+    "stars": 4845,
+    "forks": 4406,
     "issues": 28,
-    "lastUpdated": "2026-08-10T17:21:55Z",
+    "lastUpdated": "2026-08-11T04:26:54Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-10T19:00:37Z",
-    "lastCommit": "438080ad50024454f20b2756c68e53c98b23c28f"
+    "lastUpdated": "2026-08-11T01:50:23Z",
+    "lastCommit": "a89e4d659840b40761a1ee67173ee4648800199c"
   },
   {
     "title": "Links Portfolio",
@@ -683,7 +683,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 16,
-    "forks": 8,
+    "forks": 9,
     "issues": 0,
     "lastUpdated": "2026-08-10T05:08:01Z",
     "lastCommit": "33a8132d2fa9830f966f2b9c60f5b1603df193c4"
@@ -1413,7 +1413,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
     },
     "stars": 1,
-    "forks": 4,
+    "forks": 5,
     "issues": 0,
     "lastUpdated": "2026-08-06T17:25:12Z",
     "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
