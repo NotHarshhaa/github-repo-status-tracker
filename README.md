@@ -1,33 +1,33 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--13%2007%3A28%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--13%2013%3A14%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,103** combined stars
+**87** repositories tracked · **10,107** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,103** stars · **8,519** forks · **62** open issues
+> **87** repositories · **10,107** stars · **8,524** forks · **62** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,867 | 4,428 | 28 | — | 2026-08-13 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,069 | 822 | 4 | — | 2026-08-13 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,868 | 4,430 | 28 | — | 2026-08-13 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,069 | 823 | 4 | — | 2026-08-13 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 890 | 532 | 0 | — | 2026-08-10 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 589 | 222 | 4 | — | 2026-08-13 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 452 | 360 | 1 | — | 2026-08-13 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 453 | 361 | 1 | — | 2026-08-13 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 336 | 260 | 3 | — | 2026-08-12 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 230 | 161 | 3 | — | 2026-08-10 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 196 | 204 | 0 | — | 2026-08-10 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 196 | 206 | 0 | — | 2026-08-10 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 162 | 120 | 0 | Fail | 2026-08-10 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 135 | 117 | 1 | Fail | 2026-08-10 |
-| 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 120 | 55 | 0 | — | 2026-08-12 |
+| 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 121 | 55 | 0 | — | 2026-08-13 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 107 | 46 | 0 | — | 2026-08-07 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 60 | 0 | — | 2026-08-10 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 75 | 66 | 0 | — | 2026-08-10 |
@@ -43,8 +43,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 25 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 17 | 9 | 0 | — | 2026-08-11 |
 | 26 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 82 | 0 | — | 2026-03-13 |
 | 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 15 | 19 | 1 | Pass | 2026-08-02 |
-| 28 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 13 | 18 | 7 | — | 2026-08-08 |
-| 29 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 12 | 37 | 1 | — | 2026-08-02 |
+| 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 13 | 37 | 1 | — | 2026-08-13 |
+| 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 13 | 18 | 7 | — | 2026-08-08 |
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 5 | 0 | Fail | 2026-05-17 |
 | 31 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 22 | 0 | — | 2026-06-11 |
 | 32 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 11 | 12 | 0 | — | 2026-08-03 |
@@ -89,7 +89,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 71 | [awesome-devops-cloud-ui](https://github.com/NotHarshhaa/awesome-devops-cloud-ui) | 1 | 4 | 0 | — | 2025-09-27 |
 | 72 | [scoop-bucket](https://github.com/NotHarshhaa/scoop-bucket) | 1 | 0 | 0 | — | 2026-04-20 |
 | 73 | [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator) | 1 | 1 | 0 | Fail | 2026-07-03 |
-| 74 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 1 | 6 | 0 | — | 2026-08-06 |
+| 74 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 1 | 7 | 0 | — | 2026-08-06 |
 | 75 | [mainframe-mcp-server](https://github.com/NotHarshhaa/mainframe-mcp-server) | 0 | 0 | 0 | Pass | 2026-06-10 |
 | 76 | [devops-atlasx](https://github.com/NotHarshhaa/devops-atlasx) | 0 | 0 | 0 | — | 2026-04-18 |
 | 77 | [itsmeharshhaa.site](https://github.com/NotHarshhaa/itsmeharshhaa.site) | 0 | 1 | 0 | — | 2025-04-12 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,867
-  &nbsp;·&nbsp; 🍴 4,428
+  &nbsp;·&nbsp; ⭐ 4,868
+  &nbsp;·&nbsp; 🍴 4,430
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -141,7 +141,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
   &nbsp;·&nbsp; ⭐ 1,069
-  &nbsp;·&nbsp; 🍴 822
+  &nbsp;·&nbsp; 🍴 823
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -224,8 +224,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 452
-  &nbsp;·&nbsp; 🍴 360
+  &nbsp;·&nbsp; ⭐ 453
+  &nbsp;·&nbsp; 🍴 361
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -420,7 +420,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 120
+  &nbsp;·&nbsp; ⭐ 121
   &nbsp;·&nbsp; 🍴 55
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -437,7 +437,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [AWS: Add Code of Conduct, Contributing Guidelines, Security Policy, and Funding Informa...](https://github.com/NotHarshhaa/AWS-Projects/commit/c942afb83427ab02b475685461c7b3e0b0a1fd84) |
 | **Commit date** | `2026-05-11` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-12` |
+| **Repo updated** | `2026-08-13` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
@@ -864,6 +864,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:Deployment-of-super-Mario-on-Kubernetes-using-terraform -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform">Deployment-of-super-Mario-on-Kubernetes-using-terraform</a></strong>
+  &nbsp;·&nbsp; ⭐ 13
+  &nbsp;·&nbsp; 🍴 37
+  &nbsp;·&nbsp; CI —
+  <br><sub>Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Amazon EKS (Elastic Kubernetes Service) us...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [AWS/Kubernetes/Terraform: Updated EKS-TF configuration and README for improved deployment](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/882896355b69b1f3a94deed097829db93756f1ae) |
+| **Commit date** | `2026-02-03` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-08-13` |
+| **License** | `No license` |
+| **Languages** | `HCL` |
+| **Topics** | `aws` · `aws-ec2` · `eks` · `supermario` · `terraform` · `terraform-modules` |
+
+</details>
+
 <!-- repo:awesome-devops-cloud -->
 <details>
 <summary>
@@ -889,34 +917,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `JavaScript` |
 | **Topics** | _None_ |
-
-</details>
-
-<!-- repo:Deployment-of-super-Mario-on-Kubernetes-using-terraform -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform">Deployment-of-super-Mario-on-Kubernetes-using-terraform</a></strong>
-  &nbsp;·&nbsp; ⭐ 12
-  &nbsp;·&nbsp; 🍴 37
-  &nbsp;·&nbsp; CI —
-  <br><sub>Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Amazon EKS (Elastic Kubernetes Service) us...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [AWS/Kubernetes/Terraform: Updated EKS-TF configuration and README for improved deployment](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform/commit/882896355b69b1f3a94deed097829db93756f1ae) |
-| **Commit date** | `2026-02-03` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-02` |
-| **License** | `No license` |
-| **Languages** | `HCL` |
-| **Topics** | `aws` · `aws-ec2` · `eks` · `supermario` · `terraform` · `terraform-modules` |
 
 </details>
 
@@ -1078,7 +1078,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/085dfcdf0bc3d197df934f385480816266897036) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/dca2c9eaff1ec39b02bbccf5ae04fbd0cfc93079) |
 | **Commit date** | `2026-08-13` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-08-13` |
@@ -2157,7 +2157,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/azure-devops-zero-to-hero">azure-devops-zero-to-hero</a></strong>
   &nbsp;·&nbsp; ⭐ 1
-  &nbsp;·&nbsp; 🍴 6
+  &nbsp;·&nbsp; 🍴 7
   &nbsp;·&nbsp; CI —
   <br><sub>Azure DevOps Zero to Hero — comprehensive guide to master Azure DevOps from fundamentals to advanced use. Learn Boards, Pipelines, Repos,...</sub>
 </summary>

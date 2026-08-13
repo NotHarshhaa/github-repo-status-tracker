@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4867,
-    "forks": 4428,
+    "stars": 4868,
+    "forks": 4430,
     "issues": 28,
-    "lastUpdated": "2026-08-13T05:08:18Z",
+    "lastUpdated": "2026-08-13T07:43:05Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1069,
-    "forks": 822,
+    "forks": 823,
     "issues": 4,
     "lastUpdated": "2026-08-13T06:53:12Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 452,
-    "forks": 360,
+    "stars": 453,
+    "forks": 361,
     "issues": 1,
-    "lastUpdated": "2026-08-13T05:17:32Z",
+    "lastUpdated": "2026-08-13T11:33:00Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 120,
+    "stars": 121,
     "forks": 55,
     "issues": 0,
-    "lastUpdated": "2026-08-12T20:48:56Z",
+    "lastUpdated": "2026-08-13T10:09:31Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -467,10 +467,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform",
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
-    "stars": 12,
+    "stars": 13,
     "forks": 37,
     "issues": 1,
-    "lastUpdated": "2026-08-02T08:26:56Z",
+    "lastUpdated": "2026-08-13T08:01:43Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-13T02:04:13Z",
-    "lastCommit": "085dfcdf0bc3d197df934f385480816266897036"
+    "lastUpdated": "2026-08-13T07:29:38Z",
+    "lastCommit": "dca2c9eaff1ec39b02bbccf5ae04fbd0cfc93079"
   },
   {
     "title": "Links Portfolio",
@@ -1413,7 +1413,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
     },
     "stars": 1,
-    "forks": 6,
+    "forks": 7,
     "issues": 0,
     "lastUpdated": "2026-08-06T17:25:12Z",
     "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
