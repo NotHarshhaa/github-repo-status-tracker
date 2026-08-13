@@ -1,30 +1,30 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--13%2013%3A14%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--13%2019%3A05%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,107** combined stars
+**87** repositories tracked · **10,110** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,107** stars · **8,524** forks · **62** open issues
+> **87** repositories · **10,110** stars · **8,525** forks · **62** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,868 | 4,430 | 28 | — | 2026-08-13 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,871 | 4,430 | 28 | — | 2026-08-13 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,069 | 823 | 4 | — | 2026-08-13 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 890 | 532 | 0 | — | 2026-08-10 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 589 | 222 | 4 | — | 2026-08-13 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 453 | 361 | 1 | — | 2026-08-13 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 453 | 362 | 1 | — | 2026-08-13 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 336 | 260 | 3 | — | 2026-08-12 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 230 | 161 | 3 | — | 2026-08-10 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 196 | 204 | 0 | — | 2026-08-10 |
-| 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 196 | 206 | 0 | — | 2026-08-10 |
+| 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 195 | 206 | 0 | — | 2026-08-13 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 162 | 120 | 0 | Fail | 2026-08-10 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 135 | 117 | 1 | Fail | 2026-08-10 |
 | 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 121 | 55 | 0 | — | 2026-08-13 |
@@ -43,8 +43,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 25 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 17 | 9 | 0 | — | 2026-08-11 |
 | 26 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 82 | 0 | — | 2026-03-13 |
 | 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 15 | 19 | 1 | Pass | 2026-08-02 |
-| 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 13 | 37 | 1 | — | 2026-08-13 |
-| 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 13 | 18 | 7 | — | 2026-08-08 |
+| 28 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 18 | 7 | — | 2026-08-13 |
+| 29 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 13 | 37 | 1 | — | 2026-08-13 |
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 5 | 0 | Fail | 2026-05-17 |
 | 31 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 22 | 0 | — | 2026-06-11 |
 | 32 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 11 | 12 | 0 | — | 2026-08-03 |
@@ -112,7 +112,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,868
+  &nbsp;·&nbsp; ⭐ 4,871
   &nbsp;·&nbsp; 🍴 4,430
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
@@ -225,7 +225,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
   &nbsp;·&nbsp; ⭐ 453
-  &nbsp;·&nbsp; 🍴 361
+  &nbsp;·&nbsp; 🍴 362
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
 </summary>
@@ -336,7 +336,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps_Setup-Installations">DevOps_Setup-Installations</a></strong>
-  &nbsp;·&nbsp; ⭐ 196
+  &nbsp;·&nbsp; ⭐ 195
   &nbsp;·&nbsp; 🍴 206
   &nbsp;·&nbsp; CI —
   <br><sub>Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools</sub>
@@ -353,7 +353,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Guides: README: Update structure and content for improved navigation and clarity](https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3) |
 | **Commit date** | `2026-04-24` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-10` |
+| **Repo updated** | `2026-08-13` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `cloud-services` · `cloud-setup` · `devops` · `devops-guide` · `devops-setup-tools` · `devops-tools` |
@@ -864,6 +864,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:awesome-devops-cloud -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/awesome-devops-cloud">awesome-devops-cloud</a></strong>
+  &nbsp;·&nbsp; ⭐ 14
+  &nbsp;·&nbsp; 🍴 18
+  &nbsp;·&nbsp; CI —
+  <br><sub>A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilities, and guides — beautifully categorize...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/awesome-devops-cloud?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [awesome-devops-cloud: README: Expand tool listings and enhance contribution guidelines](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) |
+| **Commit date** | `2025-07-22` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-08-13` |
+| **License** | `No license` |
+| **Languages** | `JavaScript` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:Deployment-of-super-Mario-on-Kubernetes-using-terraform -->
 <details>
 <summary>
@@ -889,34 +917,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `HCL` |
 | **Topics** | `aws` · `aws-ec2` · `eks` · `supermario` · `terraform` · `terraform-modules` |
-
-</details>
-
-<!-- repo:awesome-devops-cloud -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/awesome-devops-cloud">awesome-devops-cloud</a></strong>
-  &nbsp;·&nbsp; ⭐ 13
-  &nbsp;·&nbsp; 🍴 18
-  &nbsp;·&nbsp; CI —
-  <br><sub>A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilities, and guides — beautifully categorize...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/awesome-devops-cloud?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [awesome-devops-cloud: README: Expand tool listings and enhance contribution guidelines](https://github.com/NotHarshhaa/awesome-devops-cloud/commit/d0a9a3bca984b55babd7750e7159faa4b61d2192) |
-| **Commit date** | `2025-07-22` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-08` |
-| **License** | `No license` |
-| **Languages** | `JavaScript` |
-| **Topics** | _None_ |
 
 </details>
 
@@ -1078,7 +1078,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/dca2c9eaff1ec39b02bbccf5ae04fbd0cfc93079) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1205d301446c1535b4d3f94c8984addea3f7aef9) |
 | **Commit date** | `2026-08-13` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-08-13` |
