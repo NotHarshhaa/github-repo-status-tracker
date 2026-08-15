@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 476,
+    "stars": 479,
     "forks": 369,
     "issues": 1,
-    "lastUpdated": "2026-08-14T22:54:02Z",
+    "lastUpdated": "2026-08-15T05:51:39Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -141,7 +141,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 196,
-    "forks": 205,
+    "forks": 206,
     "issues": 0,
     "lastUpdated": "2026-08-10T10:48:42Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-14T18:56:26Z",
-    "lastCommit": "eede2a412431ee60f2132e046bfe41fea586241b"
+    "lastUpdated": "2026-08-15T01:18:07Z",
+    "lastCommit": "d4a5cf5fa75a446456fbb04d3ea8506830f17115"
   },
   {
     "title": "Links Portfolio",
@@ -1276,8 +1276,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-ghost"
     },
     "stars": 0,
-    "forks": 0,
-    "issues": 0,
+    "forks": 1,
+    "issues": 2,
     "lastUpdated": "2026-05-30T16:46:12Z",
     "lastCommit": "90db1d3dd35502cb24016511f84471a709167367"
   },

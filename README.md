@@ -1,16 +1,16 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15%2001%3A17%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15%2006%3A40%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,144** combined stars
+**87** repositories tracked · **10,147** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,144** stars · **8,551** forks · **63** open issues
+> **87** repositories · **10,147** stars · **8,553** forks · **65** open issues
 
 ### Quick overview
 
@@ -20,10 +20,10 @@ Updates automatically every 6 hours via GitHub Actions.
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,073 | 826 | 4 | — | 2026-08-14 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 889 | 532 | 0 | — | 2026-08-14 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 589 | 223 | 4 | — | 2026-08-13 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 476 | 369 | 1 | — | 2026-08-14 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 479 | 369 | 1 | — | 2026-08-15 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 338 | 261 | 3 | — | 2026-08-14 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 231 | 161 | 3 | — | 2026-08-14 |
-| 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 196 | 205 | 0 | — | 2026-08-10 |
+| 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 196 | 206 | 0 | — | 2026-08-10 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 195 | 206 | 0 | — | 2026-08-13 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 162 | 122 | 0 | Fail | 2026-08-10 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 135 | 117 | 1 | Fail | 2026-08-10 |
@@ -50,7 +50,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 32 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 11 | 12 | 0 | — | 2026-08-03 |
 | 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 10 | 9 | 0 | — | 2026-08-03 |
-| 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 8 | 15 | 0 | Running | 2026-08-14 |
+| 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 8 | 15 | 0 | Running | 2026-08-15 |
 | 36 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
 | 37 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
 | 38 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
@@ -98,7 +98,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 80 | [homebrew-tap](https://github.com/NotHarshhaa/homebrew-tap) | 0 | 0 | 0 | — | 2026-06-22 |
 | 81 | [terraview-action](https://github.com/NotHarshhaa/terraview-action) | 0 | 0 | 0 | Pass | 2026-06-05 |
 | 82 | [cost-digest-bot](https://github.com/NotHarshhaa/cost-digest-bot) | 0 | 1 | 0 | Fail | 2026-04-03 |
-| 83 | [aws-ghost](https://github.com/NotHarshhaa/aws-ghost) | 0 | 0 | 0 | Pass | 2026-05-30 |
+| 83 | [aws-ghost](https://github.com/NotHarshhaa/aws-ghost) | 0 | 1 | 2 | Pass | 2026-05-30 |
 | 84 | [ctxlean](https://github.com/NotHarshhaa/ctxlean) | 0 | 0 | 0 | — | 2026-08-08 |
 | 85 | [reposage](https://github.com/NotHarshhaa/reposage) | 0 | 0 | 0 | Fail | 2026-07-31 |
 | 86 | [promptdeck](https://github.com/NotHarshhaa/promptdeck) | 0 | 0 | 0 | — | 2026-07-31 |
@@ -224,7 +224,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 476
+  &nbsp;·&nbsp; ⭐ 479
   &nbsp;·&nbsp; 🍴 369
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
@@ -241,7 +241,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: README: Update README.md to enhance structure and clarity, including a new...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) |
 | **Commit date** | `2025-06-17` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-14` |
+| **Repo updated** | `2026-08-15` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `devops` · `devopsproject` · `kubernetes` · `kubernetes-cluster` · `kubernetes-deployment` · `kubernetes-learning` |
@@ -309,7 +309,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Kubernetes">Kubernetes</a></strong>
   &nbsp;·&nbsp; ⭐ 196
-  &nbsp;·&nbsp; 🍴 205
+  &nbsp;·&nbsp; 🍴 206
   &nbsp;·&nbsp; CI —
   <br><sub>📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to le...</sub>
 </summary>
@@ -1078,10 +1078,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/eede2a412431ee60f2132e046bfe41fea586241b) |
-| **Commit date** | `2026-08-14` |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/d4a5cf5fa75a446456fbb04d3ea8506830f17115) |
+| **Commit date** | `2026-08-15` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-14` |
+| **Repo updated** | `2026-08-15` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
 | **Topics** | _None_ |
@@ -2409,7 +2409,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/aws-ghost">aws-ghost</a></strong>
   &nbsp;·&nbsp; ⭐ 0
-  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; 🍴 1
   &nbsp;·&nbsp; CI Pass
   <br><sub>Scan your AWS account for forgotten, idle, and wasteful resources with per-resource cost estimates. Read-only. No SaaS. Just a CLI.</sub>
 </summary>
