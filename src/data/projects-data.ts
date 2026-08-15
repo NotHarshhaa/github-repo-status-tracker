@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 483,
+    "stars": 484,
     "forks": 370,
     "issues": 1,
-    "lastUpdated": "2026-08-15T11:50:57Z",
+    "lastUpdated": "2026-08-15T17:24:24Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 121,
+    "stars": 122,
     "forks": 55,
     "issues": 0,
-    "lastUpdated": "2026-08-13T10:09:31Z",
+    "lastUpdated": "2026-08-15T14:46:29Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-15T06:40:39Z",
-    "lastCommit": "64a5090bd51c6dc2b44430da397b27c5eed9b34a"
+    "lastUpdated": "2026-08-15T12:41:14Z",
+    "lastCommit": "6ab067f4112bb7e615437c4c74ffc2924f4c823b"
   },
   {
     "title": "Links Portfolio",
