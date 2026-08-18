@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4901,
-    "forks": 4466,
+    "stars": 4904,
+    "forks": 4469,
     "issues": 29,
-    "lastUpdated": "2026-08-18T05:43:44Z",
+    "lastUpdated": "2026-08-18T18:14:10Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 491,
-    "forks": 377,
+    "forks": 380,
     "issues": 1,
     "lastUpdated": "2026-08-18T02:09:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -611,11 +611,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/github-repo-status-tracker",
       "href": "https://github.com/NotHarshhaa/github-repo-status-tracker"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-18T06:45:09Z",
-    "lastCommit": "fe6e9ff976e2b17416ec9301f68cc27c692c7c5a"
+    "lastUpdated": "2026-08-18T14:13:12Z",
+    "lastCommit": "7944d0a357237b8fec45d5b420d3ca10d28e600f"
   },
   {
     "title": "Links Portfolio",
@@ -633,8 +633,8 @@ export const PROJECTS: Project[] = [
     "stars": 10,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-08-03T05:28:24Z",
-    "lastCommit": "2aa0a68734b1da74d80cbbdad1c9e67d472d4254"
+    "lastUpdated": "2026-08-18T17:46:38Z",
+    "lastCommit": "9a3ad323085195907f54d6bcb2d049ead8224bc6"
   },
   {
     "title": "Prodevopsguytech Com",
@@ -1017,8 +1017,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-08-09T19:17:08Z",
-    "lastCommit": "5eae2fa9e14fdaa4b88cd23f24cb0f6b81193754"
+    "lastUpdated": "2026-08-18T17:48:15Z",
+    "lastCommit": "e8c7b365c16e60b81c31ee69c7984fa571a9d4c4"
   },
   {
     "title": "Prodevopsguytech V2",
