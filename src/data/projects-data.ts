@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4899,
-    "forks": 4459,
+    "stars": 4901,
+    "forks": 4465,
     "issues": 29,
-    "lastUpdated": "2026-08-18T00:39:43Z",
+    "lastUpdated": "2026-08-18T05:43:44Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -77,7 +77,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 590,
-    "forks": 223,
+    "forks": 224,
     "issues": 4,
     "lastUpdated": "2026-08-15T23:25:07Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 490,
+    "stars": 491,
     "forks": 376,
     "issues": 1,
-    "lastUpdated": "2026-08-17T22:42:44Z",
+    "lastUpdated": "2026-08-18T02:09:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -230,7 +230,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 124,
-    "forks": 56,
+    "forks": 57,
     "issues": 0,
     "lastUpdated": "2026-08-17T20:26:44Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-17T18:45:17Z",
-    "lastCommit": "5f37bf66d286d6286fbf23cb5e006193ce0601df"
+    "lastUpdated": "2026-08-18T01:17:32Z",
+    "lastCommit": "22f460fbbd4828fc5562d8e276f7b16f743c2352"
   },
   {
     "title": "Links Portfolio",
@@ -926,7 +926,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-project-generator"
     },
     "stars": 4,
-    "forks": 9,
+    "forks": 10,
     "issues": 0,
     "lastUpdated": "2026-07-29T07:47:50Z",
     "lastCommit": "730d8af09315cd838f98d7daa920e05d291b562e"
