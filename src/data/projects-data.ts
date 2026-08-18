@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 4901,
-    "forks": 4465,
+    "forks": 4466,
     "issues": 29,
     "lastUpdated": "2026-08-18T05:43:44Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1082,
-    "forks": 831,
+    "forks": 832,
     "issues": 4,
     "lastUpdated": "2026-08-17T19:53:32Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 491,
-    "forks": 376,
+    "forks": 377,
     "issues": 1,
     "lastUpdated": "2026-08-18T02:09:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-18T01:17:32Z",
-    "lastCommit": "22f460fbbd4828fc5562d8e276f7b16f743c2352"
+    "lastUpdated": "2026-08-18T06:45:09Z",
+    "lastCommit": "fe6e9ff976e2b17416ec9301f68cc27c692c7c5a"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 21,
+    "stars": 22,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-08-17T22:45:13Z",
+    "lastUpdated": "2026-08-18T08:29:09Z",
     "lastCommit": "33a8132d2fa9830f966f2b9c60f5b1603df193c4"
   },
   {
@@ -1488,10 +1488,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-incident-agent",
       "href": "https://github.com/NotHarshhaa/devops-incident-agent"
     },
-    "stars": 2,
+    "stars": 3,
     "forks": 2,
     "issues": 7,
-    "lastUpdated": "2026-07-30T12:57:52Z",
+    "lastUpdated": "2026-08-18T08:02:27Z",
     "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
   },
   {
