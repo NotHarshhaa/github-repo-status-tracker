@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4905,
-    "forks": 4471,
+    "stars": 4910,
+    "forks": 4473,
     "issues": 29,
-    "lastUpdated": "2026-08-18T22:07:58Z",
+    "lastUpdated": "2026-08-19T12:32:43Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 889,
-    "forks": 533,
+    "forks": 532,
     "issues": 0,
     "lastUpdated": "2026-08-17T13:58:17Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -156,10 +156,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 195,
+    "stars": 196,
     "forks": 207,
     "issues": 0,
-    "lastUpdated": "2026-08-13T16:25:19Z",
+    "lastUpdated": "2026-08-19T09:33:03Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-19T01:19:05Z",
-    "lastCommit": "70a9aa3cebdac2a0146155541c8f43aa7476aea0"
+    "lastUpdated": "2026-08-19T06:47:11Z",
+    "lastCommit": "3c5c2ccc1dc18bc8e09ba822271a7e7851e0980b"
   },
   {
     "title": "Links Portfolio",
@@ -1222,7 +1222,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/mlops-project-generator"
     },
     "stars": 1,
-    "forks": 1,
+    "forks": 2,
     "issues": 0,
     "lastUpdated": "2026-07-03T05:52:29Z",
     "lastCommit": "490981c4e53a04476d10c6d0ace1fcaaba15d07b"
