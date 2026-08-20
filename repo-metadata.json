@@ -1,18 +1,18 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4915,
-    "forks": 4482,
+    "stars": 4920,
+    "forks": 4483,
     "issues": 29,
-    "lastUpdated": "2026-08-20T12:24:47Z",
+    "lastUpdated": "2026-08-20T18:09:35Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 1085,
+    "stars": 1086,
     "forks": 834,
     "issues": 4,
-    "lastUpdated": "2026-08-20T11:35:00Z",
+    "lastUpdated": "2026-08-20T15:09:52Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -25,18 +25,18 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 590,
+    "stars": 591,
     "forks": 224,
     "issues": 4,
-    "lastUpdated": "2026-08-15T23:25:07Z",
+    "lastUpdated": "2026-08-20T17:00:54Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
     "repo": "kubernetes-projects-learning",
-    "stars": 494,
+    "stars": 496,
     "forks": 384,
     "issues": 1,
-    "lastUpdated": "2026-08-20T08:18:25Z",
+    "lastUpdated": "2026-08-20T18:31:44Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -49,10 +49,10 @@
   },
   {
     "repo": "devops-tools",
-    "stars": 232,
+    "stars": 233,
     "forks": 161,
     "issues": 3,
-    "lastUpdated": "2026-08-18T20:38:11Z",
+    "lastUpdated": "2026-08-20T17:00:58Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -124,7 +124,7 @@
     "stars": 63,
     "forks": 71,
     "issues": 0,
-    "lastUpdated": "2026-08-10T10:49:15Z",
+    "lastUpdated": "2026-08-20T16:32:51Z",
     "lastCommit": "b49b9dd35b4013740775bb3ce2b6c6c2e621c10f"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-20T06:48:53Z",
-    "lastCommit": "a30ff30dbe588e6c0ccfab017a7a410942ab7a88"
+    "lastUpdated": "2026-08-20T12:58:07Z",
+    "lastCommit": "aa73df92ae60cb3c017cde44d676c536e4860cca"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -420,7 +420,7 @@
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-05-30T17:31:30Z",
+    "lastUpdated": "2026-08-20T16:32:43Z",
     "lastCommit": "14f7789df80c5702089de5c8c5f793f40cb1465d"
   },
   {
@@ -476,7 +476,7 @@
     "stars": 1,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-06-14T05:33:44Z",
+    "lastUpdated": "2026-08-20T16:32:46Z",
     "lastCommit": "c959508ec3b73a4d31bca4e09d992ca31ef0d5d5"
   },
   {
@@ -548,7 +548,7 @@
     "stars": 2,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-01T16:08:16Z",
+    "lastUpdated": "2026-08-20T16:33:00Z",
     "lastCommit": "128120a34aa201ee2d9b3320b20b6950ca382e2a"
   },
   {
@@ -612,7 +612,7 @@
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-06-05T04:38:03Z",
+    "lastUpdated": "2026-08-20T16:32:45Z",
     "lastCommit": "024d827fb364c66d2fdecf6f9400a57c7558398d"
   },
   {
@@ -641,18 +641,18 @@
   },
   {
     "repo": "azure-devops-zero-to-hero",
-    "stars": 2,
+    "stars": 3,
     "forks": 8,
     "issues": 0,
-    "lastUpdated": "2026-08-17T22:45:59Z",
+    "lastUpdated": "2026-08-20T16:33:03Z",
     "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
   },
   {
     "repo": "devops-skills",
-    "stars": 5,
+    "stars": 6,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-08-03T16:31:50Z",
+    "lastUpdated": "2026-08-20T16:32:05Z",
     "lastCommit": "b3d56768774d11656c47bd7abbd81fbf2bd630e5"
   },
   {
@@ -676,7 +676,7 @@
     "stars": 3,
     "forks": 2,
     "issues": 7,
-    "lastUpdated": "2026-08-18T08:02:27Z",
+    "lastUpdated": "2026-08-20T16:32:56Z",
     "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
   },
   {
@@ -684,7 +684,7 @@
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-06-29T06:37:24Z",
+    "lastUpdated": "2026-08-20T16:32:50Z",
     "lastCommit": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6"
   },
   {
@@ -692,7 +692,7 @@
     "stars": 2,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-06-22T08:06:58Z",
+    "lastUpdated": "2026-08-20T16:32:48Z",
     "lastCommit": "da6a863606d03d79f703e66305f6e204316e9492"
   }
 ]
