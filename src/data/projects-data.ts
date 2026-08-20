@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4914,
+    "stars": 4915,
     "forks": 4482,
     "issues": 29,
-    "lastUpdated": "2026-08-19T18:27:00Z",
+    "lastUpdated": "2026-08-20T12:24:47Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1084,
+    "stars": 1085,
     "forks": 834,
     "issues": 4,
-    "lastUpdated": "2026-08-19T13:33:23Z",
+    "lastUpdated": "2026-08-20T11:35:00Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 493,
+    "stars": 494,
     "forks": 384,
     "issues": 1,
-    "lastUpdated": "2026-08-20T01:32:53Z",
+    "lastUpdated": "2026-08-20T08:18:25Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 124,
+    "stars": 126,
     "forks": 58,
     "issues": 0,
-    "lastUpdated": "2026-08-17T20:26:44Z",
+    "lastUpdated": "2026-08-20T07:21:31Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-20T01:19:32Z",
-    "lastCommit": "e52955ebeb645c6ef86f1c01355d77c2e09ba40c"
+    "lastUpdated": "2026-08-20T06:48:53Z",
+    "lastCommit": "a30ff30dbe588e6c0ccfab017a7a410942ab7a88"
   },
   {
     "title": "Links Portfolio",
@@ -1017,8 +1017,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-08-18T17:48:15Z",
-    "lastCommit": "e8c7b365c16e60b81c31ee69c7984fa571a9d4c4"
+    "lastUpdated": "2026-08-20T08:19:52Z",
+    "lastCommit": "9be5835c89e742ac579435867f295d1c3fbc8374"
   },
   {
     "title": "Prodevopsguytech V2",
