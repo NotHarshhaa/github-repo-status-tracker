@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 4914,
-    "forks": 4478,
+    "forks": 4482,
     "issues": 29,
     "lastUpdated": "2026-08-19T18:27:00Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1084,
-    "forks": 833,
+    "forks": 834,
     "issues": 4,
     "lastUpdated": "2026-08-19T13:33:23Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 494,
-    "forks": 383,
+    "stars": 493,
+    "forks": 384,
     "issues": 1,
-    "lastUpdated": "2026-08-19T18:12:38Z",
+    "lastUpdated": "2026-08-20T01:32:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -364,10 +364,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
-    "stars": 31,
+    "stars": 32,
     "forks": 43,
     "issues": 0,
-    "lastUpdated": "2026-08-14T17:19:01Z",
+    "lastUpdated": "2026-08-20T04:05:12Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-19T18:39:45Z",
-    "lastCommit": "15417ae46857b1d24e283848923ebe7538bc6eaa"
+    "lastUpdated": "2026-08-20T01:19:32Z",
+    "lastCommit": "e52955ebeb645c6ef86f1c01355d77c2e09ba40c"
   },
   {
     "title": "Links Portfolio",
@@ -633,8 +633,8 @@ export const PROJECTS: Project[] = [
     "stars": 10,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-08-18T17:46:38Z",
-    "lastCommit": "9a3ad323085195907f54d6bcb2d049ead8224bc6"
+    "lastUpdated": "2026-08-20T06:38:40Z",
+    "lastCommit": "cdab583ae17169968e204cff85fec20e91dacc09"
   },
   {
     "title": "Prodevopsguytech Com",
