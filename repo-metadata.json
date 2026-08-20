@@ -2,7 +2,7 @@
   {
     "repo": "DevOps-Projects",
     "stars": 4914,
-    "forks": 4477,
+    "forks": 4478,
     "issues": 29,
     "lastUpdated": "2026-08-19T18:27:00Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -10,7 +10,7 @@
   {
     "repo": "DevOps-Interview-Questions",
     "stars": 1084,
-    "forks": 834,
+    "forks": 833,
     "issues": 4,
     "lastUpdated": "2026-08-19T13:33:23Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -98,7 +98,7 @@
   {
     "repo": "AWS-Projects",
     "stars": 124,
-    "forks": 57,
+    "forks": 58,
     "issues": 0,
     "lastUpdated": "2026-08-17T20:26:44Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
@@ -226,7 +226,7 @@
   {
     "repo": "Jenkins-Terraform-AWS-Infra",
     "stars": 10,
-    "forks": 25,
+    "forks": 24,
     "issues": 0,
     "lastUpdated": "2026-04-26T11:51:26Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
@@ -268,8 +268,8 @@
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-19T12:52:51Z",
-    "lastCommit": "8045d015a38c57dae25f9e5c1c4b28712b0f81ec"
+    "lastUpdated": "2026-08-19T18:39:45Z",
+    "lastCommit": "15417ae46857b1d24e283848923ebe7538bc6eaa"
   },
   {
     "repo": "prodevopsguytech.com",

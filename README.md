@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--19%2018%3A38%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--20%2001%3A17%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
@@ -16,8 +16,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,914 | 4,477 | 29 | — | 2026-08-19 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,084 | 834 | 4 | — | 2026-08-19 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,914 | 4,478 | 29 | — | 2026-08-19 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,084 | 833 | 4 | — | 2026-08-19 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 890 | 532 | 0 | — | 2026-08-19 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 590 | 224 | 4 | — | 2026-08-15 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 494 | 383 | 1 | — | 2026-08-19 |
@@ -27,7 +27,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 196 | 207 | 0 | — | 2026-08-19 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 162 | 123 | 0 | Fail | 2026-08-10 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 135 | 117 | 1 | Fail | 2026-08-10 |
-| 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 124 | 57 | 0 | — | 2026-08-17 |
+| 12 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 124 | 58 | 0 | — | 2026-08-17 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 108 | 46 | 0 | — | 2026-08-18 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 60 | 0 | — | 2026-08-10 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 75 | 67 | 0 | — | 2026-08-10 |
@@ -48,7 +48,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 5 | 0 | Fail | 2026-05-17 |
 | 31 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 22 | 0 | — | 2026-06-11 |
 | 32 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 11 | 12 | 0 | — | 2026-08-03 |
-| 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
+| 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 24 | 0 | — | 2026-04-26 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 10 | 9 | 0 | — | 2026-08-18 |
 | 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 9 | 15 | 0 | Running | 2026-08-19 |
 | 36 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
@@ -113,7 +113,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
   &nbsp;·&nbsp; ⭐ 4,914
-  &nbsp;·&nbsp; 🍴 4,477
+  &nbsp;·&nbsp; 🍴 4,478
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -141,7 +141,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
   &nbsp;·&nbsp; ⭐ 1,084
-  &nbsp;·&nbsp; 🍴 834
+  &nbsp;·&nbsp; 🍴 833
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
 </summary>
@@ -421,7 +421,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
   &nbsp;·&nbsp; ⭐ 124
-  &nbsp;·&nbsp; 🍴 57
+  &nbsp;·&nbsp; 🍴 58
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
 </summary>
@@ -1009,7 +1009,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra">Jenkins-Terraform-AWS-Infra</a></strong>
   &nbsp;·&nbsp; ⭐ 10
-  &nbsp;·&nbsp; 🍴 25
+  &nbsp;·&nbsp; 🍴 24
   &nbsp;·&nbsp; CI —
   <br><sub>Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Security Groups, EC2 instances, and Jenkins...</sub>
 </summary>
@@ -1078,7 +1078,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8045d015a38c57dae25f9e5c1c4b28712b0f81ec) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/15417ae46857b1d24e283848923ebe7538bc6eaa) |
 | **Commit date** | `2026-08-19` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-08-19` |
