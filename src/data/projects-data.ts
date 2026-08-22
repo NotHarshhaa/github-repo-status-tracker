@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4933,
-    "forks": 4488,
+    "stars": 4935,
+    "forks": 4489,
     "issues": 29,
-    "lastUpdated": "2026-08-22T08:18:17Z",
+    "lastUpdated": "2026-08-22T16:47:07Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1092,
-    "forks": 841,
+    "stars": 1093,
+    "forks": 842,
     "issues": 4,
-    "lastUpdated": "2026-08-21T21:47:46Z",
+    "lastUpdated": "2026-08-22T12:43:08Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 339,
+    "stars": 340,
     "forks": 261,
     "issues": 3,
-    "lastUpdated": "2026-08-21T08:00:18Z",
+    "lastUpdated": "2026-08-22T13:28:50Z",
     "lastCommit": "d433174187b1718521bbeb45689a25444fb515b2"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-22T06:42:22Z",
-    "lastCommit": "901e905a53a6d13757685a2d5c57761a0225a786"
+    "lastUpdated": "2026-08-22T12:41:28Z",
+    "lastCommit": "eef886ef2dd58ee5f32024c6fbc9a6e14eec2b21"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 22,
+    "stars": 23,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-08-18T08:29:09Z",
+    "lastUpdated": "2026-08-22T14:16:31Z",
     "lastCommit": "33a8132d2fa9830f966f2b9c60f5b1603df193c4"
   },
   {
@@ -1017,8 +1017,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-08-20T08:19:52Z",
-    "lastCommit": "9be5835c89e742ac579435867f295d1c3fbc8374"
+    "lastUpdated": "2026-08-22T13:06:11Z",
+    "lastCommit": "f129468b6de3ec732694370f280ec4cd7e74ab74"
   },
   {
     "title": "Prodevopsguytech V2",
