@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4930,
-    "forks": 4486,
+    "stars": 4933,
+    "forks": 4488,
     "issues": 29,
-    "lastUpdated": "2026-08-22T06:24:47Z",
+    "lastUpdated": "2026-08-22T08:18:17Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1092,
-    "forks": 840,
+    "forks": 841,
     "issues": 4,
     "lastUpdated": "2026-08-21T21:47:46Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -545,8 +545,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-08-03T05:29:06Z",
-    "lastCommit": "47f9e214d7ac7f6fc1e1d077d5d6332308447662"
+    "lastUpdated": "2026-08-22T09:09:22Z",
+    "lastCommit": "f418a67183d3373183cb135862e644bf32d304db"
   },
   {
     "title": "Awesome DevOps Cloud",
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-22T01:18:03Z",
-    "lastCommit": "1d7bad55bbc858adc351e43d365fd37532c00e5c"
+    "lastUpdated": "2026-08-22T06:42:22Z",
+    "lastCommit": "901e905a53a6d13757685a2d5c57761a0225a786"
   },
   {
     "title": "Links Portfolio",
@@ -1431,10 +1431,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 6,
+    "stars": 7,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-08-20T16:32:05Z",
+    "lastUpdated": "2026-08-22T10:25:39Z",
     "lastCommit": "b3d56768774d11656c47bd7abbd81fbf2bd630e5"
   },
   {
