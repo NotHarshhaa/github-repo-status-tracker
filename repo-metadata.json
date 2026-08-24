@@ -1,26 +1,26 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4936,
-    "forks": 4492,
+    "stars": 4939,
+    "forks": 4493,
     "issues": 30,
-    "lastUpdated": "2026-08-23T11:58:56Z",
+    "lastUpdated": "2026-08-24T00:44:34Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 1097,
-    "forks": 846,
+    "stars": 1101,
+    "forks": 847,
     "issues": 4,
-    "lastUpdated": "2026-08-23T17:39:25Z",
+    "lastUpdated": "2026-08-23T23:55:26Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
     "repo": "into-the-devops",
-    "stars": 891,
+    "stars": 892,
     "forks": 532,
     "issues": 0,
-    "lastUpdated": "2026-08-23T18:23:41Z",
+    "lastUpdated": "2026-08-23T18:33:22Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-23T12:43:23Z",
-    "lastCommit": "8090d36c2ddc4235c3b5cbcec0e4d8b00ac21f3d"
+    "lastUpdated": "2026-08-23T18:32:47Z",
+    "lastCommit": "ab940fcbcade9e0dc35c1ebc3e835fe412d51ebd"
   },
   {
     "repo": "prodevopsguytech.com",
