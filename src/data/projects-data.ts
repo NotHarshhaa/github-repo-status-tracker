@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4939,
-    "forks": 4493,
+    "stars": 4940,
+    "forks": 4494,
     "issues": 30,
-    "lastUpdated": "2026-08-24T00:44:34Z",
+    "lastUpdated": "2026-08-24T06:53:44Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1101,
-    "forks": 847,
+    "forks": 848,
     "issues": 4,
     "lastUpdated": "2026-08-23T23:55:26Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
@@ -77,7 +77,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 594,
-    "forks": 224,
+    "forks": 225,
     "issues": 4,
     "lastUpdated": "2026-08-23T14:30:41Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -210,10 +210,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 108,
+    "stars": 109,
     "forks": 46,
     "issues": 0,
-    "lastUpdated": "2026-08-18T00:36:56Z",
+    "lastUpdated": "2026-08-24T05:11:05Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -468,7 +468,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 13,
-    "forks": 37,
+    "forks": 38,
     "issues": 1,
     "lastUpdated": "2026-08-13T08:01:43Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-23T18:32:47Z",
-    "lastCommit": "ab940fcbcade9e0dc35c1ebc3e835fe412d51ebd"
+    "lastUpdated": "2026-08-24T01:21:17Z",
+    "lastCommit": "07a945a202c96bd3e05ffdfe4b71a6014669947c"
   },
   {
     "title": "Links Portfolio",
@@ -845,8 +845,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-07-29T07:48:03Z",
-    "lastCommit": "4dcc27555e984181431ec82952ffa818d0dca873"
+    "lastUpdated": "2026-08-24T06:54:22Z",
+    "lastCommit": "5807382252bea9d31449e8c7e9fd00237b66fdab"
   },
   {
     "title": "Status Prodevopsguytech Com",
