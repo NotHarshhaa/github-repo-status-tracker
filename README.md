@@ -1,29 +1,29 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--24%2007%3A00%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--24%2012%3A52%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,294** combined stars
+**87** repositories tracked · **10,300** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,294** stars · **8,659** forks · **66** open issues
+> **87** repositories · **10,300** stars · **8,660** forks · **66** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,940 | 4,494 | 30 | — | 2026-08-24 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,101 | 848 | 4 | — | 2026-08-23 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,944 | 4,494 | 30 | — | 2026-08-24 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,102 | 848 | 4 | — | 2026-08-24 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 892 | 532 | 0 | — | 2026-08-23 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 594 | 225 | 4 | — | 2026-08-23 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 499 | 384 | 1 | — | 2026-08-23 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 340 | 261 | 3 | — | 2026-08-22 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 232 | 161 | 3 | — | 2026-08-23 |
-| 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 196 | 207 | 0 | — | 2026-08-10 |
+| 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 196 | 208 | 0 | — | 2026-08-10 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 196 | 207 | 0 | — | 2026-08-19 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 162 | 123 | 0 | Fail | 2026-08-10 |
 | 11 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 135 | 118 | 1 | Fail | 2026-08-10 |
@@ -42,7 +42,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 24 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 20 | 57 | 0 | — | 2026-02-21 |
 | 25 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 25 | 0 | — | 2026-06-04 |
 | 26 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 15 | 82 | 0 | — | 2026-03-13 |
-| 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 15 | 19 | 1 | Pass | 2026-08-02 |
+| 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 15 | 19 | 1 | Pass | 2026-08-24 |
 | 28 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 18 | 7 | — | 2026-08-13 |
 | 29 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 13 | 38 | 1 | — | 2026-08-13 |
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 11 | 5 | 0 | Fail | 2026-05-17 |
@@ -51,10 +51,10 @@ Updates automatically every 6 hours via GitHub Actions.
 | 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 24 | 0 | — | 2026-04-26 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 10 | 9 | 0 | — | 2026-08-20 |
 | 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 9 | 15 | 0 | Running | 2026-08-24 |
-| 36 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
-| 37 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
-| 38 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
-| 39 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 7 | 3 | 0 | — | 2026-08-22 |
+| 36 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 8 | 3 | 0 | — | 2026-08-24 |
+| 37 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
+| 38 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
+| 39 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
 | 40 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-05-09 |
 | 41 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 6 | 12 | 0 | — | 2026-02-09 |
 | 42 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
@@ -112,7 +112,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 4,940
+  &nbsp;·&nbsp; ⭐ 4,944
   &nbsp;·&nbsp; 🍴 4,494
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
@@ -140,7 +140,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,101
+  &nbsp;·&nbsp; ⭐ 1,102
   &nbsp;·&nbsp; 🍴 848
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 1100+ DevOps interview questions with detailed answers covering CI/CD, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, Ansi...</sub>
@@ -157,7 +157,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Interview: docs: Expand with new sections on Linux & System Administration and G...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/4dc7fb875a13d34cd91071005cabd414f0d65166) |
 | **Commit date** | `2025-08-09` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-23` |
+| **Repo updated** | `2026-08-24` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws-interview-questions` · `azure-interview-questions` · `cicd` · `cloud-computing` · `devops` · `devops-interview-questions` |
@@ -309,7 +309,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Kubernetes">Kubernetes</a></strong>
   &nbsp;·&nbsp; ⭐ 196
-  &nbsp;·&nbsp; 🍴 207
+  &nbsp;·&nbsp; 🍴 208
   &nbsp;·&nbsp; CI —
   <br><sub>📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to le...</sub>
 </summary>
@@ -854,10 +854,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [devops-monitoring: refactor: improve data handling and query structure in metrics hooks](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/827be2fb9f5110b70122a0f796f973c78f7a7dfd) |
-| **Commit date** | `2026-08-02` |
+| **Latest commit** | [devops-monitoring: feat: introduce SSL/TLS monitoring and SLA tracking features](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/d072bc9711c12e038f398094da54932a010480e5) |
+| **Commit date** | `2026-08-24` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-02` |
+| **Repo updated** | `2026-08-24` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Shell` · `PowerShell` · `CSS` · `JavaScript` |
 | **Topics** | `alertmanager` · `devops-monitoring` · `docker` · `docker-compose` · `grafana` · `grafana-dashboard` |
@@ -1078,13 +1078,41 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/07a945a202c96bd3e05ffdfe4b71a6014669947c) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/7835fcd7f6518a91801b58abac3c6a9d80ed92e3) |
 | **Commit date** | `2026-08-24` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-08-24` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
 | **Topics** | _None_ |
+
+</details>
+
+<!-- repo:devops-skills -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-skills">devops-skills</a></strong>
+  &nbsp;·&nbsp; ⭐ 8
+  &nbsp;·&nbsp; 🍴 3
+  &nbsp;·&nbsp; CI —
+  <br><sub>A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability,...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-skills?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-skills?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-skills?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-skills?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [feat(skills): update skill files to reflect new skills and versioning changes](https://github.com/NotHarshhaa/devops-skills/commit/b3d56768774d11656c47bd7abbd81fbf2bd630e5) |
+| **Commit date** | `2026-08-01` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-08-24` |
+| **License** | `MIT License` |
+| **Languages** | _None detected_ |
+| **Topics** | `agent-skill` · `agent-skills` · `agents` · `devops-agent-skills` · `devops-agents` · `devops-skills` |
 
 </details>
 
@@ -1169,34 +1197,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `MIT License` |
 | **Languages** | `Shell` · `PowerShell` · `TypeScript` · `JavaScript` · `CSS` |
 | **Topics** | `devops` · `devops-environment` · `devops-tools` · `devops-tools-support` · `installation-scripts` · `setup-development-environment` |
-
-</details>
-
-<!-- repo:devops-skills -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/devops-skills">devops-skills</a></strong>
-  &nbsp;·&nbsp; ⭐ 7
-  &nbsp;·&nbsp; 🍴 3
-  &nbsp;·&nbsp; CI —
-  <br><sub>A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability,...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-skills?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-skills?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-skills?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-skills?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [feat(skills): update skill files to reflect new skills and versioning changes](https://github.com/NotHarshhaa/devops-skills/commit/b3d56768774d11656c47bd7abbd81fbf2bd630e5) |
-| **Commit date** | `2026-08-01` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-22` |
-| **License** | `MIT License` |
-| **Languages** | _None detected_ |
-| **Topics** | `agent-skill` · `agent-skills` · `agents` · `devops-agent-skills` · `devops-agents` · `devops-skills` |
 
 </details>
 
@@ -1302,7 +1302,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [aws-infra: Add ConfiguratorActions import to service configurator](https://github.com/NotHarshhaa/aws-infra-generator/commit/5807382252bea9d31449e8c7e9fd00237b66fdab) |
+| **Latest commit** | [aws-infra: Revamp landing page components and enhance global styles](https://github.com/NotHarshhaa/aws-infra-generator/commit/8fe2ab96143dd48d8d0659f487ccad940e6e9ce1) |
 | **Commit date** | `2026-08-24` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-08-24` |

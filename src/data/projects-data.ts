@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4940,
+    "stars": 4944,
     "forks": 4494,
     "issues": 30,
-    "lastUpdated": "2026-08-24T06:53:44Z",
+    "lastUpdated": "2026-08-24T11:52:19Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1101,
+    "stars": 1102,
     "forks": 848,
     "issues": 4,
-    "lastUpdated": "2026-08-23T23:55:26Z",
+    "lastUpdated": "2026-08-24T10:15:39Z",
     "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
   },
   {
@@ -141,7 +141,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 196,
-    "forks": 207,
+    "forks": 208,
     "issues": 0,
     "lastUpdated": "2026-08-10T10:48:42Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -453,8 +453,8 @@ export const PROJECTS: Project[] = [
     "stars": 15,
     "forks": 19,
     "issues": 1,
-    "lastUpdated": "2026-08-02T18:06:29Z",
-    "lastCommit": "827be2fb9f5110b70122a0f796f973c78f7a7dfd"
+    "lastUpdated": "2026-08-24T11:59:43Z",
+    "lastCommit": "d072bc9711c12e038f398094da54932a010480e5"
   },
   {
     "title": "Deploy Super Mario on EKS",
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-24T01:21:17Z",
-    "lastCommit": "07a945a202c96bd3e05ffdfe4b71a6014669947c"
+    "lastUpdated": "2026-08-24T07:01:51Z",
+    "lastCommit": "7835fcd7f6518a91801b58abac3c6a9d80ed92e3"
   },
   {
     "title": "Links Portfolio",
@@ -845,8 +845,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-08-24T06:54:22Z",
-    "lastCommit": "5807382252bea9d31449e8c7e9fd00237b66fdab"
+    "lastUpdated": "2026-08-24T08:34:43Z",
+    "lastCommit": "8fe2ab96143dd48d8d0659f487ccad940e6e9ce1"
   },
   {
     "title": "Status Prodevopsguytech Com",
@@ -1431,10 +1431,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 7,
+    "stars": 8,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-08-22T10:25:39Z",
+    "lastUpdated": "2026-08-24T09:52:36Z",
     "lastCommit": "b3d56768774d11656c47bd7abbd81fbf2bd630e5"
   },
   {
