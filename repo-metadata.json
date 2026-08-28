@@ -1,18 +1,18 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 4968,
-    "forks": 4514,
+    "stars": 4972,
+    "forks": 4515,
     "issues": 31,
-    "lastUpdated": "2026-08-28T06:38:32Z",
+    "lastUpdated": "2026-08-28T19:39:41Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 1113,
-    "forks": 856,
+    "stars": 1117,
+    "forks": 858,
     "issues": 4,
-    "lastUpdated": "2026-08-28T08:18:51Z",
+    "lastUpdated": "2026-08-28T19:43:32Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -34,7 +34,7 @@
   {
     "repo": "kubernetes-projects-learning",
     "stars": 505,
-    "forks": 389,
+    "forks": 388,
     "issues": 1,
     "lastUpdated": "2026-08-27T15:12:40Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -140,8 +140,8 @@
     "stars": 59,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-08-10T10:48:56Z",
-    "lastCommit": "c4f02b6e1faed85bd743bae193cb2d3af04d3ef3"
+    "lastUpdated": "2026-08-28T13:05:37Z",
+    "lastCommit": "ea98f5f5e848a01aeac04ebdda83fe171ec54525"
   },
   {
     "repo": "From-Docker-to-Kubernetes",
@@ -156,8 +156,8 @@
     "stars": 29,
     "forks": 67,
     "issues": 0,
-    "lastUpdated": "2026-08-27T03:15:11Z",
-    "lastCommit": "05fdaf765530612930ae6d605bfec0e54e2a2ea0"
+    "lastUpdated": "2026-08-28T11:25:46Z",
+    "lastCommit": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -268,8 +268,8 @@
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-27T21:56:04Z",
-    "lastCommit": "3953cde42f5451e702c3b9bf80cc6574a257c2b3"
+    "lastUpdated": "2026-08-28T10:07:57Z",
+    "lastCommit": "f4063e1eefef8ed7b87a3d695cf80f7111c9f700"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -436,8 +436,8 @@
     "stars": 3,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-06-30T02:22:00Z",
-    "lastCommit": "67e44e0a5ea73e47005bfe03d0ce033e775f2e26"
+    "lastUpdated": "2026-08-28T18:56:30Z",
+    "lastCommit": "271a24134e3df3ee3c458074e50e7df38e51f811"
   },
   {
     "repo": "ai-question-paper-generator",
