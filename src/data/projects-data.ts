@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4967,
-    "forks": 4512,
+    "stars": 4968,
+    "forks": 4514,
     "issues": 31,
-    "lastUpdated": "2026-08-27T21:46:35Z",
+    "lastUpdated": "2026-08-28T06:38:32Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -47,8 +47,8 @@ export const PROJECTS: Project[] = [
     "stars": 1113,
     "forks": 856,
     "issues": 4,
-    "lastUpdated": "2026-08-27T11:22:47Z",
-    "lastCommit": "4dc7fb875a13d34cd91071005cabd414f0d65166"
+    "lastUpdated": "2026-08-28T08:18:51Z",
+    "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
     "title": "Into the DevOps",
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 893,
+    "stars": 894,
     "forks": 532,
     "issues": 0,
-    "lastUpdated": "2026-08-27T13:24:06Z",
+    "lastUpdated": "2026-08-28T06:29:49Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -157,7 +157,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 196,
-    "forks": 207,
+    "forks": 208,
     "issues": 0,
     "lastUpdated": "2026-08-19T09:33:03Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
@@ -365,7 +365,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
     "stars": 34,
-    "forks": 43,
+    "forks": 42,
     "issues": 0,
     "lastUpdated": "2026-08-24T16:31:11Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-27T08:05:04Z",
-    "lastCommit": "ff8656b2426dff18cfd71ae94e3596543462a594"
+    "lastUpdated": "2026-08-27T21:56:04Z",
+    "lastCommit": "3953cde42f5451e702c3b9bf80cc6574a257c2b3"
   },
   {
     "title": "Links Portfolio",
@@ -1173,8 +1173,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-06-21T22:35:47Z",
-    "lastCommit": "4776fc3ca75747f8bcd088b7297fe09f09a51998"
+    "lastUpdated": "2026-08-28T07:38:40Z",
+    "lastCommit": "af6175e6acce9716d330d31a6d49d0f3b42199c2"
   },
   {
     "title": "Awesome DevOps Cloud UI",
