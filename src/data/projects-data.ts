@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4972,
-    "forks": 4515,
+    "stars": 4974,
+    "forks": 4516,
     "issues": 31,
-    "lastUpdated": "2026-08-28T19:39:41Z",
+    "lastUpdated": "2026-08-29T05:24:40Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1117,
+    "stars": 1118,
     "forks": 858,
     "issues": 4,
-    "lastUpdated": "2026-08-28T19:43:32Z",
+    "lastUpdated": "2026-08-28T22:41:11Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 505,
+    "stars": 506,
     "forks": 388,
     "issues": 1,
-    "lastUpdated": "2026-08-27T15:12:40Z",
+    "lastUpdated": "2026-08-29T03:37:00Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -140,10 +140,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 196,
+    "stars": 197,
     "forks": 208,
     "issues": 0,
-    "lastUpdated": "2026-08-10T10:48:42Z",
+    "lastUpdated": "2026-08-29T04:31:30Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-28T10:07:57Z",
-    "lastCommit": "f4063e1eefef8ed7b87a3d695cf80f7111c9f700"
+    "lastUpdated": "2026-08-28T21:48:30Z",
+    "lastCommit": "3a388fa6806530b287924b23585c4d050acd66df"
   },
   {
     "title": "Links Portfolio",
