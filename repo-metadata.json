@@ -2,7 +2,7 @@
   {
     "repo": "DevOps-Projects",
     "stars": 4976,
-    "forks": 4518,
+    "forks": 4517,
     "issues": 31,
     "lastUpdated": "2026-08-29T17:40:24Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
@@ -50,8 +50,8 @@
   {
     "repo": "devops-tools",
     "stars": 233,
-    "forks": 161,
-    "issues": 3,
+    "forks": 162,
+    "issues": 4,
     "lastUpdated": "2026-08-27T13:24:11Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
@@ -250,8 +250,8 @@
   {
     "repo": "awesome-devops-cloud",
     "stars": 14,
-    "forks": 18,
-    "issues": 7,
+    "forks": 19,
+    "issues": 8,
     "lastUpdated": "2026-08-13T13:46:23Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
@@ -268,8 +268,8 @@
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-29T16:21:56Z",
-    "lastCommit": "7e4c53136b27fd91c6a51e93ca04a605e6add163"
+    "lastUpdated": "2026-08-29T20:33:27Z",
+    "lastCommit": "5df5c88cb81d5ae2c180b323d47443ed1b905f38"
   },
   {
     "repo": "prodevopsguytech.com",
