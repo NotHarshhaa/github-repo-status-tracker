@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 4976,
-    "forks": 4517,
+    "stars": 4978,
+    "forks": 4523,
     "issues": 31,
-    "lastUpdated": "2026-08-29T17:40:24Z",
+    "lastUpdated": "2026-08-30T10:31:31Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1121,
-    "forks": 861,
+    "stars": 1122,
+    "forks": 862,
     "issues": 4,
-    "lastUpdated": "2026-08-29T19:12:26Z",
+    "lastUpdated": "2026-08-30T08:47:30Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -211,7 +211,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
     "stars": 110,
-    "forks": 46,
+    "forks": 47,
     "issues": 0,
     "lastUpdated": "2026-08-27T03:16:51Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -246,7 +246,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
     "stars": 92,
-    "forks": 60,
+    "forks": 61,
     "issues": 0,
     "lastUpdated": "2026-08-10T10:48:10Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-29T20:33:27Z",
-    "lastCommit": "5df5c88cb81d5ae2c180b323d47443ed1b905f38"
+    "lastUpdated": "2026-08-30T04:08:44Z",
+    "lastCommit": "c6a32ef80a669c1c90fc56ca3732c6eddd56e0ea"
   },
   {
     "title": "Links Portfolio",
@@ -1413,7 +1413,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
     },
     "stars": 4,
-    "forks": 8,
+    "forks": 9,
     "issues": 0,
     "lastUpdated": "2026-08-27T03:09:46Z",
     "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
