@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5002,
+    "stars": 5004,
     "forks": 4544,
     "issues": 31,
-    "lastUpdated": "2026-08-31T21:47:49Z",
+    "lastUpdated": "2026-09-01T02:41:19Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 597,
+    "stars": 598,
     "forks": 224,
     "issues": 4,
-    "lastUpdated": "2026-08-30T11:38:50Z",
+    "lastUpdated": "2026-09-01T02:01:41Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 508,
+    "stars": 509,
     "forks": 389,
     "issues": 1,
-    "lastUpdated": "2026-08-31T09:09:10Z",
+    "lastUpdated": "2026-09-01T00:00:08Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -140,10 +140,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 197,
+    "stars": 198,
     "forks": 209,
     "issues": 0,
-    "lastUpdated": "2026-08-29T04:31:30Z",
+    "lastUpdated": "2026-09-01T02:01:17Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-31T13:11:37Z",
-    "lastCommit": "de5fa174fa881575e743e661148edfe09b7d28aa"
+    "lastUpdated": "2026-08-31T22:37:05Z",
+    "lastCommit": "b87bd966363e9bdee07e828ba61000ec8aebcdde"
   },
   {
     "title": "Links Portfolio",
