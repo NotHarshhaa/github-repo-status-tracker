@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5010,
-    "forks": 4548,
+    "stars": 5016,
+    "forks": 4551,
     "issues": 31,
-    "lastUpdated": "2026-09-01T09:54:35Z",
+    "lastUpdated": "2026-09-01T15:11:38Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1135,
+    "stars": 1136,
     "forks": 870,
     "issues": 4,
-    "lastUpdated": "2026-09-01T09:43:36Z",
+    "lastUpdated": "2026-09-01T11:19:49Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 896,
-    "forks": 531,
+    "forks": 532,
     "issues": 0,
     "lastUpdated": "2026-08-31T17:39:59Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 598,
-    "forks": 224,
+    "stars": 599,
+    "forks": 225,
     "issues": 4,
-    "lastUpdated": "2026-09-01T02:01:41Z",
+    "lastUpdated": "2026-09-01T12:45:46Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -230,7 +230,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 133,
-    "forks": 63,
+    "forks": 64,
     "issues": 0,
     "lastUpdated": "2026-09-01T07:07:34Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Zomato-Clone",
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
-    "stars": 15,
+    "stars": 16,
     "forks": 82,
-    "issues": 0,
-    "lastUpdated": "2026-03-13T05:44:05Z",
+    "issues": 2,
+    "lastUpdated": "2026-09-01T11:46:49Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
   },
   {
@@ -543,7 +543,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/cv-portfolio"
     },
     "stars": 11,
-    "forks": 12,
+    "forks": 13,
     "issues": 0,
     "lastUpdated": "2026-08-22T09:09:22Z",
     "lastCommit": "f418a67183d3373183cb135862e644bf32d304db"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-09-01T04:08:00Z",
-    "lastCommit": "3d859f7e38cc1a2084c20964a8afc60bb1cc5f11"
+    "lastUpdated": "2026-09-01T11:17:43Z",
+    "lastCommit": "ee3bf9312003bebc97743f04e72762b2ab7c8971"
   },
   {
     "title": "Links Portfolio",
@@ -1527,7 +1527,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/slimify"
     },
     "stars": 2,
-    "forks": 1,
+    "forks": 2,
     "issues": 0,
     "lastUpdated": "2026-08-20T16:32:48Z",
     "lastCommit": "da6a863606d03d79f703e66305f6e204316e9492"
