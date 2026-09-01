@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5004,
-    "forks": 4544,
+    "stars": 5010,
+    "forks": 4548,
     "issues": 31,
-    "lastUpdated": "2026-09-01T02:41:19Z",
+    "lastUpdated": "2026-09-01T09:54:35Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1130,
-    "forks": 865,
+    "stars": 1135,
+    "forks": 870,
     "issues": 4,
-    "lastUpdated": "2026-08-31T21:52:17Z",
+    "lastUpdated": "2026-09-01T09:43:36Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 344,
+    "stars": 345,
     "forks": 262,
     "issues": 3,
-    "lastUpdated": "2026-08-31T19:05:23Z",
+    "lastUpdated": "2026-09-01T09:43:03Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 132,
+    "stars": 133,
     "forks": 63,
     "issues": 0,
-    "lastUpdated": "2026-08-31T17:24:26Z",
+    "lastUpdated": "2026-09-01T07:07:34Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-08-31T22:37:05Z",
-    "lastCommit": "b87bd966363e9bdee07e828ba61000ec8aebcdde"
+    "lastUpdated": "2026-09-01T04:08:00Z",
+    "lastCommit": "3d859f7e38cc1a2084c20964a8afc60bb1cc5f11"
   },
   {
     "title": "Links Portfolio",
@@ -995,10 +995,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-question-paper-generator",
       "href": "https://github.com/NotHarshhaa/ai-question-paper-generator"
     },
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-08-27T21:31:06Z",
+    "lastUpdated": "2026-09-01T09:43:41Z",
     "lastCommit": "b03ed64428d46c20f522a75f2ac21654a3f15cb4"
   },
   {
@@ -1221,10 +1221,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/mlops-project-generator",
       "href": "https://github.com/NotHarshhaa/mlops-project-generator"
     },
-    "stars": 2,
+    "stars": 3,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-08-27T21:38:42Z",
+    "lastUpdated": "2026-09-01T09:43:39Z",
     "lastCommit": "90cc314ec1cbeceda66b63d89f984f50eb183272"
   },
   {
@@ -1412,10 +1412,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/azure-devops-zero-to-hero",
       "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-08-31T17:24:11Z",
+    "lastUpdated": "2026-09-01T09:44:00Z",
     "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
   },
   {
