@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5016,
-    "forks": 4552,
+    "stars": 5017,
+    "forks": 4554,
     "issues": 31,
-    "lastUpdated": "2026-09-01T20:08:14Z",
+    "lastUpdated": "2026-09-02T03:19:07Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 599,
+    "stars": 598,
     "forks": 225,
     "issues": 4,
-    "lastUpdated": "2026-09-01T12:45:46Z",
+    "lastUpdated": "2026-09-01T23:51:23Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -124,10 +124,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 233,
+    "stars": 232,
     "forks": 161,
     "issues": 4,
-    "lastUpdated": "2026-08-27T13:24:11Z",
+    "lastUpdated": "2026-09-01T23:51:22Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -156,10 +156,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 195,
+    "stars": 194,
     "forks": 207,
     "issues": 0,
-    "lastUpdated": "2026-08-31T16:15:54Z",
+    "lastUpdated": "2026-09-01T23:51:24Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -191,10 +191,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 136,
+    "stars": 135,
     "forks": 119,
     "issues": 1,
-    "lastUpdated": "2026-08-27T03:14:45Z",
+    "lastUpdated": "2026-09-01T23:51:18Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
@@ -296,7 +296,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
     "stars": 59,
-    "forks": 52,
+    "forks": 53,
     "issues": 0,
     "lastUpdated": "2026-08-28T13:05:37Z",
     "lastCommit": "ea98f5f5e848a01aeac04ebdda83fe171ec54525"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-09-01T16:34:38Z",
-    "lastCommit": "8588350b770c4e12524049265f5968c16b56ae50"
+    "lastUpdated": "2026-09-01T20:42:10Z",
+    "lastCommit": "cae49d5ddd071ab78245aa11dc723141fcd0c583"
   },
   {
     "title": "Links Portfolio",
