@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5033,
-    "forks": 4565,
+    "stars": 5045,
+    "forks": 4575,
     "issues": 31,
-    "lastUpdated": "2026-09-04T02:25:33Z",
+    "lastUpdated": "2026-09-04T10:37:13Z",
     "lastCommit": "a38cc0fc72d8d127c8eeaf0a16b7724fb9aba7f1"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1145,
+    "stars": 1146,
     "forks": 873,
     "issues": 4,
-    "lastUpdated": "2026-09-04T02:01:40Z",
+    "lastUpdated": "2026-09-04T04:03:06Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 510,
+    "stars": 511,
     "forks": 389,
     "issues": 1,
-    "lastUpdated": "2026-09-02T09:49:17Z",
+    "lastUpdated": "2026-09-04T06:58:53Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -230,7 +230,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 138,
-    "forks": 66,
+    "forks": 67,
     "issues": 0,
     "lastUpdated": "2026-09-03T18:05:38Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
@@ -433,10 +433,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Zomato-Clone",
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
-    "stars": 16,
-    "forks": 82,
+    "stars": 17,
+    "forks": 84,
     "issues": 2,
-    "lastUpdated": "2026-09-01T11:46:49Z",
+    "lastUpdated": "2026-09-04T05:47:24Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
   },
   {
@@ -467,10 +467,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform",
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
-    "stars": 13,
+    "stars": 14,
     "forks": 38,
     "issues": 1,
-    "lastUpdated": "2026-08-13T08:01:43Z",
+    "lastUpdated": "2026-09-04T05:31:17Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
   },
   {
@@ -545,8 +545,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-08-22T09:09:22Z",
-    "lastCommit": "f418a67183d3373183cb135862e644bf32d304db"
+    "lastUpdated": "2026-09-04T06:58:23Z",
+    "lastCommit": "5d22efb5cecdf1ae61937e37b72e83acc239fba8"
   },
   {
     "title": "Awesome DevOps Cloud",
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-09-03T20:39:32Z",
-    "lastCommit": "3566a492a082c5686b65074832c273820ed9f2c9"
+    "lastUpdated": "2026-09-04T03:23:14Z",
+    "lastCommit": "9a9722f4e107869072bbe1a1fccd783a6eede85d"
   },
   {
     "title": "Links Portfolio",
@@ -633,8 +633,8 @@ export const PROJECTS: Project[] = [
     "stars": 10,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-08-20T06:38:40Z",
-    "lastCommit": "cdab583ae17169968e204cff85fec20e91dacc09"
+    "lastUpdated": "2026-09-04T08:09:08Z",
+    "lastCommit": "c280bf812411625503f2cc58a678e3c28e604dc8"
   },
   {
     "title": "Prodevopsguytech Com",
@@ -1017,8 +1017,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-08-30T19:07:13Z",
-    "lastCommit": "6c26661d8d72f969ace655368df1da333a3bacf9"
+    "lastUpdated": "2026-09-04T06:50:19Z",
+    "lastCommit": "ad033e7c2b78186e9899c15dffe48e3cde6c4626"
   },
   {
     "title": "Prodevopsguytech V2",
@@ -1453,8 +1453,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-07-31T22:27:46Z",
-    "lastCommit": "f8cfd4e2d37ba38ec215a42acff4870eabf6d19f"
+    "lastUpdated": "2026-09-04T07:19:18Z",
+    "lastCommit": "1b34db16bc78a6d892eb19dfdcc509227a4dcb0d"
   },
   {
     "title": "PromptDeck",
@@ -1472,8 +1472,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-07-31T22:14:39Z",
-    "lastCommit": "eaa6381761b069e6695fdfd5cf96a55aa3eb0b43"
+    "lastUpdated": "2026-09-04T07:41:31Z",
+    "lastCommit": "aa9f45b12925e41f0cfc023e1d1fa882e83ff8a8"
   },
   {
     "title": "DevOps Incident Agent",
