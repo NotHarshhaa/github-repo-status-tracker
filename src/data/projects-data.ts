@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5067,
-    "forks": 4593,
+    "stars": 5079,
+    "forks": 4600,
     "issues": 31,
-    "lastUpdated": "2026-09-04T15:47:15Z",
+    "lastUpdated": "2026-09-04T18:59:49Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1147,
-    "forks": 873,
+    "stars": 1149,
+    "forks": 874,
     "issues": 4,
-    "lastUpdated": "2026-09-04T15:33:09Z",
+    "lastUpdated": "2026-09-04T16:57:43Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -191,10 +191,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 135,
+    "stars": 136,
     "forks": 119,
     "issues": 1,
-    "lastUpdated": "2026-09-01T23:51:18Z",
+    "lastUpdated": "2026-09-04T19:47:39Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
@@ -450,10 +450,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-monitoring-in-a-box",
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
-    "stars": 15,
+    "stars": 16,
     "forks": 19,
     "issues": 1,
-    "lastUpdated": "2026-08-24T11:59:43Z",
+    "lastUpdated": "2026-09-04T18:22:01Z",
     "lastCommit": "d072bc9711c12e038f398094da54932a010480e5"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 9,
     "forks": 15,
     "issues": 0,
-    "lastUpdated": "2026-09-04T10:53:27Z",
-    "lastCommit": "fff20141a9d4a4086f9305c9f8cbf04aecb68ca1"
+    "lastUpdated": "2026-09-04T15:55:55Z",
+    "lastCommit": "277d365438d01d55987a3137bdfc0d03a3c7ba76"
   },
   {
     "title": "Links Portfolio",
@@ -720,8 +720,8 @@ export const PROJECTS: Project[] = [
     "stars": 5,
     "forks": 8,
     "issues": 0,
-    "lastUpdated": "2026-09-04T13:59:57Z",
-    "lastCommit": "dcb9f0afe96fa0c5e16650ef3944604503ef50f0"
+    "lastUpdated": "2026-09-04T18:49:16Z",
+    "lastCommit": "3204be5a70d79a93ae68a39e39bfbad514ebafc1"
   },
   {
     "title": "Interviews Prodevopsguytech Com",

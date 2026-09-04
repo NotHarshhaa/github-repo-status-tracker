@@ -1,23 +1,23 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--04%2015%3A55%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--04%2020%3A24%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,532** combined stars
+**87** repositories tracked · **10,548** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,532** stars · **8,810** forks · **71** open issues
+> **87** repositories · **10,548** stars · **8,818** forks · **71** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,067 | 4,593 | 31 | — | 2026-09-04 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,147 | 873 | 4 | — | 2026-09-04 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,079 | 4,600 | 31 | — | 2026-09-04 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,149 | 874 | 4 | — | 2026-09-04 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 897 | 533 | 0 | — | 2026-09-04 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 600 | 224 | 4 | — | 2026-09-03 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 511 | 389 | 1 | — | 2026-09-04 |
@@ -27,7 +27,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 194 | 207 | 0 | — | 2026-09-01 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 163 | 122 | 0 | Fail | 2026-08-27 |
 | 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 138 | 67 | 0 | — | 2026-09-03 |
-| 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 135 | 119 | 1 | Fail | 2026-09-01 |
+| 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 136 | 119 | 1 | Fail | 2026-09-04 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 110 | 47 | 0 | — | 2026-08-27 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 61 | 0 | — | 2026-08-10 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 75 | 68 | 0 | — | 2026-08-10 |
@@ -42,7 +42,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 24 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 20 | 57 | 0 | — | 2026-02-21 |
 | 25 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 25 | 0 | — | 2026-06-04 |
 | 26 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 17 | 84 | 2 | — | 2026-09-04 |
-| 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 15 | 19 | 1 | Pass | 2026-08-24 |
+| 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 16 | 19 | 1 | Pass | 2026-09-04 |
 | 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 14 | 38 | 1 | — | 2026-09-04 |
 | 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,067
-  &nbsp;·&nbsp; 🍴 4,593
+  &nbsp;·&nbsp; ⭐ 5,079
+  &nbsp;·&nbsp; 🍴 4,600
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -140,8 +140,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,147
-  &nbsp;·&nbsp; 🍴 873
+  &nbsp;·&nbsp; ⭐ 1,149
+  &nbsp;·&nbsp; 🍴 874
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
 </summary>
@@ -420,7 +420,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions">CI-CD_EKS-GitHub_Actions</a></strong>
-  &nbsp;·&nbsp; ⭐ 135
+  &nbsp;·&nbsp; ⭐ 136
   &nbsp;·&nbsp; 🍴 119
   &nbsp;·&nbsp; CI Fail
   <br><sub>A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and...</sub>
@@ -437,7 +437,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and EKS deployment](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) |
 | **Commit date** | `2026-02-14` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-01` |
+| **Repo updated** | `2026-09-04` |
 | **License** | `No license` |
 | **Languages** | `JavaScript` · `HCL` · `Dockerfile` · `Python` |
 | **Topics** | `aws` · `aws-eks` · `cicd` · `devops` · `eks` · `eks-cluster` |
@@ -840,7 +840,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/devops-monitoring-in-a-box">devops-monitoring-in-a-box</a></strong>
-  &nbsp;·&nbsp; ⭐ 15
+  &nbsp;·&nbsp; ⭐ 16
   &nbsp;·&nbsp; 🍴 19
   &nbsp;·&nbsp; CI Pass
   <br><sub>This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prom...</sub>
@@ -857,7 +857,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [devops-monitoring: feat: introduce SSL/TLS monitoring and SLA tracking features](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/d072bc9711c12e038f398094da54932a010480e5) |
 | **Commit date** | `2026-08-24` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-24` |
+| **Repo updated** | `2026-09-04` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Shell` · `PowerShell` · `CSS` · `JavaScript` |
 | **Topics** | `alertmanager` · `devops-monitoring` · `docker` · `docker-compose` · `grafana` · `grafana-dashboard` |
@@ -1078,7 +1078,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/fff20141a9d4a4086f9305c9f8cbf04aecb68ca1) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/277d365438d01d55987a3137bdfc0d03a3c7ba76) |
 | **Commit date** | `2026-09-04` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-09-04` |
@@ -1358,7 +1358,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [Projects-Showcase: feat: Update tag-data.json and add new DevOps project documentation](https://github.com/NotHarshhaa/projects.prodevopsguytech.com/commit/dcb9f0afe96fa0c5e16650ef3944604503ef50f0) |
+| **Latest commit** | [Projects-Showcase: feat: Refactor Project components for improved UI and performance](https://github.com/NotHarshhaa/projects.prodevopsguytech.com/commit/3204be5a70d79a93ae68a39e39bfbad514ebafc1) |
 | **Commit date** | `2026-09-04` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-09-04` |
