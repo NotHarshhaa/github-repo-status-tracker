@@ -154672,3 +154672,186 @@
 2026-09-05 20:03:18,402 - INFO - ✅ README.md updated with latest repo statuses!
 2026-09-05 20:03:18,402 - INFO - Updated 87 repositories in README
 2026-09-05 20:03:18,402 - INFO - Repository status update completed
+2026-09-06 03:22:55,366 - INFO - Starting GitHub Repository Status Update
+2026-09-06 03:22:55,610 - INFO - API Rate Limit: 5000/5000 requests remaining, resets at 2026-09-06 04:22:55
+2026-09-06 03:22:55,612 - INFO - Loaded 87 repositories from config file
+2026-09-06 03:22:55,612 - INFO - Processing repository: DevOps-Projects
+2026-09-06 03:22:55,612 - INFO - Fetching data for DevOps-Projects (attempt 1)
+2026-09-06 03:22:56,552 - INFO - Processing repository: DevOps-Interview-Questions
+2026-09-06 03:22:56,553 - INFO - Fetching data for DevOps-Interview-Questions (attempt 1)
+2026-09-06 03:22:57,507 - INFO - Processing repository: into-the-devops
+2026-09-06 03:22:57,507 - INFO - Fetching data for into-the-devops (attempt 1)
+2026-09-06 03:22:58,530 - INFO - Processing repository: kubernetes-learning-path
+2026-09-06 03:22:58,531 - INFO - Fetching data for kubernetes-learning-path (attempt 1)
+2026-09-06 03:22:59,525 - INFO - Processing repository: kubernetes-projects-learning
+2026-09-06 03:22:59,525 - INFO - Fetching data for kubernetes-projects-learning (attempt 1)
+2026-09-06 03:23:00,479 - INFO - Processing repository: devops-cheatsheet
+2026-09-06 03:23:00,479 - INFO - Fetching data for devops-cheatsheet (attempt 1)
+2026-09-06 03:23:01,422 - INFO - Processing repository: devops-tools
+2026-09-06 03:23:01,423 - INFO - Fetching data for devops-tools (attempt 1)
+2026-09-06 03:23:02,446 - INFO - Processing repository: Kubernetes
+2026-09-06 03:23:02,446 - INFO - Fetching data for Kubernetes (attempt 1)
+2026-09-06 03:23:03,434 - INFO - Processing repository: DevOps_Setup-Installations
+2026-09-06 03:23:03,434 - INFO - Fetching data for DevOps_Setup-Installations (attempt 1)
+2026-09-06 03:23:04,493 - INFO - Processing repository: Certified_Kubernetes_Administrator
+2026-09-06 03:23:04,493 - INFO - Fetching data for Certified_Kubernetes_Administrator (attempt 1)
+2026-09-06 03:23:05,501 - INFO - Processing repository: CI-CD_EKS-GitHub_Actions
+2026-09-06 03:23:05,501 - INFO - Fetching data for CI-CD_EKS-GitHub_Actions (attempt 1)
+2026-09-06 03:23:07,648 - INFO - Processing repository: AWS-GCP-Azure-Cloud-Projects-Workshop
+2026-09-06 03:23:07,648 - INFO - Fetching data for AWS-GCP-Azure-Cloud-Projects-Workshop (attempt 1)
+2026-09-06 03:23:08,648 - INFO - Processing repository: AWS-Projects
+2026-09-06 03:23:08,648 - INFO - Fetching data for AWS-Projects (attempt 1)
+2026-09-06 03:23:09,664 - INFO - Processing repository: azure-all_in_one
+2026-09-06 03:23:09,664 - INFO - Fetching data for azure-all_in_one (attempt 1)
+2026-09-06 03:23:10,627 - INFO - Processing repository: eks-cluster-terraform
+2026-09-06 03:23:10,628 - INFO - Fetching data for eks-cluster-terraform (attempt 1)
+2026-09-06 03:23:11,632 - INFO - Processing repository: DevOps-Tool-Installer
+2026-09-06 03:23:11,632 - INFO - Fetching data for DevOps-Tool-Installer (attempt 1)
+2026-09-06 03:23:12,651 - INFO - Processing repository: aws-billing-alert-terraform
+2026-09-06 03:23:12,651 - INFO - Fetching data for aws-billing-alert-terraform (attempt 1)
+2026-09-06 03:23:13,652 - INFO - Processing repository: kubernetes-dashboard
+2026-09-06 03:23:13,652 - INFO - Fetching data for kubernetes-dashboard (attempt 1)
+2026-09-06 03:23:14,773 - INFO - Processing repository: From-Docker-to-Kubernetes
+2026-09-06 03:23:14,773 - INFO - Fetching data for From-Docker-to-Kubernetes (attempt 1)
+2026-09-06 03:23:15,688 - INFO - Processing repository: AWS-DevOps_Real-Time_Deployment
+2026-09-06 03:23:15,688 - INFO - Fetching data for AWS-DevOps_Real-Time_Deployment (attempt 1)
+2026-09-06 03:23:16,736 - INFO - Processing repository: Cloud-Native-DevOps-Project
+2026-09-06 03:23:16,737 - INFO - Fetching data for Cloud-Native-DevOps-Project (attempt 1)
+2026-09-06 03:23:17,943 - INFO - Processing repository: Learning-Prometheus
+2026-09-06 03:23:17,943 - INFO - Fetching data for Learning-Prometheus (attempt 1)
+2026-09-06 03:23:18,916 - INFO - Processing repository: AWS-EKS_Terraform
+2026-09-06 03:23:18,916 - INFO - Fetching data for AWS-EKS_Terraform (attempt 1)
+2026-09-06 03:23:19,924 - INFO - Processing repository: AWS-Terraform-Workshop
+2026-09-06 03:23:19,925 - INFO - Fetching data for AWS-Terraform-Workshop (attempt 1)
+2026-09-06 03:23:20,950 - INFO - Processing repository: Zomato-Clone
+2026-09-06 03:23:20,950 - INFO - Fetching data for Zomato-Clone (attempt 1)
+2026-09-06 03:23:22,006 - INFO - Processing repository: devops-monitoring-in-a-box
+2026-09-06 03:23:22,006 - INFO - Fetching data for devops-monitoring-in-a-box (attempt 1)
+2026-09-06 03:23:23,076 - INFO - Processing repository: Deployment-of-super-Mario-on-Kubernetes-using-terraform
+2026-09-06 03:23:23,077 - INFO - Fetching data for Deployment-of-super-Mario-on-Kubernetes-using-terraform (attempt 1)
+2026-09-06 03:23:24,335 - INFO - Processing repository: devops-project-templates
+2026-09-06 03:23:24,335 - INFO - Fetching data for devops-project-templates (attempt 1)
+2026-09-06 03:23:25,358 - INFO - Processing repository: Jenkins-Terraform-AWS-Infra
+2026-09-06 03:23:25,358 - INFO - Fetching data for Jenkins-Terraform-AWS-Infra (attempt 1)
+2026-09-06 03:23:26,383 - INFO - Processing repository: tf-ecr-ecs-gh-deploy
+2026-09-06 03:23:26,384 - INFO - Fetching data for tf-ecr-ecs-gh-deploy (attempt 1)
+2026-09-06 03:23:27,378 - INFO - Processing repository: cv-portfolio
+2026-09-06 03:23:27,378 - INFO - Fetching data for cv-portfolio (attempt 1)
+2026-09-06 03:23:28,377 - INFO - Processing repository: awesome-devops-cloud
+2026-09-06 03:23:28,378 - INFO - Fetching data for awesome-devops-cloud (attempt 1)
+2026-09-06 03:23:29,409 - INFO - Processing repository: links-portfolio
+2026-09-06 03:23:29,410 - INFO - Fetching data for links-portfolio (attempt 1)
+2026-09-06 03:23:30,415 - INFO - Processing repository: github-repo-status-tracker
+2026-09-06 03:23:30,416 - INFO - Fetching data for github-repo-status-tracker (attempt 1)
+2026-09-06 03:23:31,459 - INFO - Processing repository: prodevopsguytech.com
+2026-09-06 03:23:31,459 - INFO - Fetching data for prodevopsguytech.com (attempt 1)
+2026-09-06 03:23:32,552 - INFO - Processing repository: cloud-native-monitoring-app
+2026-09-06 03:23:32,552 - INFO - Fetching data for cloud-native-monitoring-app (attempt 1)
+2026-09-06 03:23:33,501 - INFO - Processing repository: devops-environment-toolkit-beginners
+2026-09-06 03:23:33,501 - INFO - Fetching data for devops-environment-toolkit-beginners (attempt 1)
+2026-09-06 03:23:34,488 - INFO - Processing repository: ai-platform-engineering-handbook
+2026-09-06 03:23:34,489 - INFO - Fetching data for ai-platform-engineering-handbook (attempt 1)
+2026-09-06 03:23:35,460 - INFO - Processing repository: projects.prodevopsguytech.com
+2026-09-06 03:23:35,460 - INFO - Fetching data for projects.prodevopsguytech.com (attempt 1)
+2026-09-06 03:23:36,453 - INFO - Processing repository: devops-tools-setups-installations
+2026-09-06 03:23:36,453 - INFO - Fetching data for devops-tools-setups-installations (attempt 1)
+2026-09-06 03:23:37,474 - INFO - Processing repository: uber-clone
+2026-09-06 03:23:37,474 - INFO - Fetching data for uber-clone (attempt 1)
+2026-09-06 03:23:38,342 - INFO - Processing repository: interviews.prodevopsguytech.com
+2026-09-06 03:23:38,342 - INFO - Fetching data for interviews.prodevopsguytech.com (attempt 1)
+2026-09-06 03:23:39,333 - INFO - Processing repository: prodevopsguy.xyz
+2026-09-06 03:23:39,333 - INFO - Fetching data for prodevopsguy.xyz (attempt 1)
+2026-09-06 03:23:40,488 - INFO - Processing repository: jobs.prodevopsguytech.com
+2026-09-06 03:23:40,489 - INFO - Fetching data for jobs.prodevopsguytech.com (attempt 1)
+2026-09-06 03:23:41,585 - INFO - Processing repository: DevOps-Engineering
+2026-09-06 03:23:41,585 - INFO - Fetching data for DevOps-Engineering (attempt 1)
+2026-09-06 03:23:42,575 - INFO - Processing repository: personal-portfolio
+2026-09-06 03:23:42,575 - INFO - Fetching data for personal-portfolio (attempt 1)
+2026-09-06 03:23:43,586 - INFO - Processing repository: status.prodevopsguytech.com
+2026-09-06 03:23:43,587 - INFO - Fetching data for status.prodevopsguytech.com (attempt 1)
+2026-09-06 03:23:44,516 - INFO - Processing repository: prodevopsguy.hashnode.dev
+2026-09-06 03:23:44,516 - INFO - Fetching data for prodevopsguy.hashnode.dev (attempt 1)
+2026-09-06 03:23:45,461 - INFO - Processing repository: cheatsheet.prodevopsguytech.com
+2026-09-06 03:23:45,461 - INFO - Fetching data for cheatsheet.prodevopsguytech.com (attempt 1)
+2026-09-06 03:23:46,453 - INFO - Processing repository: k8s-learning-platform
+2026-09-06 03:23:46,453 - INFO - Fetching data for k8s-learning-platform (attempt 1)
+2026-09-06 03:23:47,477 - INFO - Processing repository: home-of-best-devops-resources
+2026-09-06 03:23:47,477 - INFO - Fetching data for home-of-best-devops-resources (attempt 1)
+2026-09-06 03:23:48,411 - INFO - Processing repository: aws-infra-generator
+2026-09-06 03:23:48,412 - INFO - Fetching data for aws-infra-generator (attempt 1)
+2026-09-06 03:23:49,377 - INFO - Processing repository: terraform-cost-predictor
+2026-09-06 03:23:49,377 - INFO - Fetching data for terraform-cost-predictor (attempt 1)
+2026-09-06 03:23:50,480 - INFO - Processing repository: cloud-billing-automation
+2026-09-06 03:23:50,480 - INFO - Fetching data for cloud-billing-automation (attempt 1)
+2026-09-06 03:23:51,610 - INFO - Processing repository: prodevopsguytech-v2
+2026-09-06 03:23:51,611 - INFO - Fetching data for prodevopsguytech-v2 (attempt 1)
+2026-09-06 03:23:52,651 - INFO - Processing repository: ai-question-paper-generator
+2026-09-06 03:23:52,651 - INFO - Fetching data for ai-question-paper-generator (attempt 1)
+2026-09-06 03:23:53,664 - INFO - Processing repository: mlflow-k8s-operator
+2026-09-06 03:23:53,664 - INFO - Fetching data for mlflow-k8s-operator (attempt 1)
+2026-09-06 03:23:54,791 - INFO - Processing repository: devops-project-generator
+2026-09-06 03:23:54,791 - INFO - Fetching data for devops-project-generator (attempt 1)
+2026-09-06 03:23:55,786 - INFO - Processing repository: personal-blog
+2026-09-06 03:23:55,786 - INFO - Fetching data for personal-blog (attempt 1)
+2026-09-06 03:23:56,787 - INFO - Processing repository: pipeline-forge
+2026-09-06 03:23:56,787 - INFO - Fetching data for pipeline-forge (attempt 1)
+2026-09-06 03:23:57,830 - INFO - Processing repository: internal-developer-platform-cli
+2026-09-06 03:23:57,830 - INFO - Fetching data for internal-developer-platform-cli (attempt 1)
+2026-09-06 03:23:58,862 - INFO - Processing repository: kube-ctx-manager
+2026-09-06 03:23:58,862 - INFO - Fetching data for kube-ctx-manager (attempt 1)
+2026-09-06 03:23:59,911 - INFO - Processing repository: jenkins-plus
+2026-09-06 03:23:59,911 - INFO - Fetching data for jenkins-plus (attempt 1)
+2026-09-06 03:24:00,947 - INFO - Processing repository: shadcn-docs-nuxt-starter
+2026-09-06 03:24:00,947 - INFO - Fetching data for shadcn-docs-nuxt-starter (attempt 1)
+2026-09-06 03:24:01,998 - INFO - Processing repository: drift-watchdog
+2026-09-06 03:24:01,998 - INFO - Fetching data for drift-watchdog (attempt 1)
+2026-09-06 03:24:02,964 - INFO - Processing repository: kubeguardian
+2026-09-06 03:24:02,964 - INFO - Fetching data for kubeguardian (attempt 1)
+2026-09-06 03:24:04,048 - INFO - Processing repository: awesome-devops-cloud-ui
+2026-09-06 03:24:04,048 - INFO - Fetching data for awesome-devops-cloud-ui (attempt 1)
+2026-09-06 03:24:05,005 - INFO - Processing repository: scoop-bucket
+2026-09-06 03:24:05,006 - INFO - Fetching data for scoop-bucket (attempt 1)
+2026-09-06 03:24:05,981 - INFO - Processing repository: devops-mcp
+2026-09-06 03:24:05,982 - INFO - Fetching data for devops-mcp (attempt 1)
+2026-09-06 03:24:06,950 - INFO - Processing repository: mainframe-mcp-server
+2026-09-06 03:24:06,951 - INFO - Fetching data for mainframe-mcp-server (attempt 1)
+2026-09-06 03:24:08,077 - INFO - Processing repository: devops-atlasx
+2026-09-06 03:24:08,077 - INFO - Fetching data for devops-atlasx (attempt 1)
+2026-09-06 03:24:09,123 - INFO - Processing repository: itsmeharshhaa.site
+2026-09-06 03:24:09,124 - INFO - Fetching data for itsmeharshhaa.site (attempt 1)
+2026-09-06 03:24:10,091 - INFO - Processing repository: terraview
+2026-09-06 03:24:10,091 - INFO - Fetching data for terraview (attempt 1)
+2026-09-06 03:24:11,313 - INFO - Processing repository: mlops-project-generator
+2026-09-06 03:24:11,314 - INFO - Fetching data for mlops-project-generator (attempt 1)
+2026-09-06 03:24:12,411 - INFO - Processing repository: pod-why-dead
+2026-09-06 03:24:12,411 - INFO - Fetching data for pod-why-dead (attempt 1)
+2026-09-06 03:24:13,445 - INFO - Processing repository: homebrew-tap
+2026-09-06 03:24:13,446 - INFO - Fetching data for homebrew-tap (attempt 1)
+2026-09-06 03:24:14,403 - INFO - Processing repository: terraview-action
+2026-09-06 03:24:14,404 - INFO - Fetching data for terraview-action (attempt 1)
+2026-09-06 03:24:15,599 - INFO - Processing repository: cost-digest-bot
+2026-09-06 03:24:15,599 - INFO - Fetching data for cost-digest-bot (attempt 1)
+2026-09-06 03:24:16,666 - INFO - Processing repository: aws-ghost
+2026-09-06 03:24:16,666 - INFO - Fetching data for aws-ghost (attempt 1)
+2026-09-06 03:24:17,694 - INFO - Processing repository: ctxlean
+2026-09-06 03:24:17,694 - INFO - Fetching data for ctxlean (attempt 1)
+2026-09-06 03:24:18,724 - INFO - Processing repository: azure-devops-zero-to-hero
+2026-09-06 03:24:18,724 - INFO - Fetching data for azure-devops-zero-to-hero (attempt 1)
+2026-09-06 03:24:19,765 - INFO - Processing repository: devops-skills
+2026-09-06 03:24:19,765 - INFO - Fetching data for devops-skills (attempt 1)
+2026-09-06 03:24:20,783 - INFO - Processing repository: reposage
+2026-09-06 03:24:20,784 - INFO - Fetching data for reposage (attempt 1)
+2026-09-06 03:24:21,912 - INFO - Processing repository: promptdeck
+2026-09-06 03:24:21,912 - INFO - Fetching data for promptdeck (attempt 1)
+2026-09-06 03:24:22,908 - INFO - Processing repository: devops-incident-agent
+2026-09-06 03:24:22,908 - INFO - Fetching data for devops-incident-agent (attempt 1)
+2026-09-06 03:24:23,935 - INFO - Processing repository: devops-agent-kit
+2026-09-06 03:24:23,936 - INFO - Fetching data for devops-agent-kit (attempt 1)
+2026-09-06 03:24:24,974 - INFO - Processing repository: slimify
+2026-09-06 03:24:24,974 - INFO - Fetching data for slimify (attempt 1)
+2026-09-06 03:24:25,977 - INFO - Repository metadata exported to repo-metadata.json
+2026-09-06 03:24:25,977 - INFO - Processing 87 repositories (before deduplication)
+2026-09-06 03:24:25,977 - INFO - Processed 87 repositories (after deduplication)
+2026-09-06 03:24:25,980 - INFO - ✅ README.md updated with latest repo statuses!
+2026-09-06 03:24:25,981 - INFO - Updated 87 repositories in README
+2026-09-06 03:24:25,981 - INFO - Repository status update completed
