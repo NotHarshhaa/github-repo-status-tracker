@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5112,
-    "forks": 4626,
+    "stars": 5114,
+    "forks": 4631,
     "issues": 31,
-    "lastUpdated": "2026-09-06T13:36:05Z",
+    "lastUpdated": "2026-09-06T19:27:35Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -172,10 +172,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 163,
+    "stars": 164,
     "forks": 122,
     "issues": 0,
-    "lastUpdated": "2026-08-27T03:14:07Z",
+    "lastUpdated": "2026-09-06T16:47:21Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
   },
   {
@@ -194,7 +194,7 @@ export const PROJECTS: Project[] = [
     "stars": 136,
     "forks": 119,
     "issues": 1,
-    "lastUpdated": "2026-09-04T19:47:39Z",
+    "lastUpdated": "2026-09-06T16:03:28Z",
     "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
   },
   {
@@ -262,10 +262,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/eks-cluster-terraform",
       "href": "https://github.com/NotHarshhaa/eks-cluster-terraform"
     },
-    "stars": 75,
+    "stars": 74,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-08-10T10:48:23Z",
+    "lastUpdated": "2026-09-06T16:03:25Z",
     "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 10,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-06T10:28:30Z",
-    "lastCommit": "da61796c6f3f75e669119551dea72d12b569c7c6"
+    "lastUpdated": "2026-09-06T15:06:16Z",
+    "lastCommit": "87a99acf5acce69e74826802798e4db686da8d21"
   },
   {
     "title": "Links Portfolio",

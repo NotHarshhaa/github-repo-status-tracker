@@ -1,22 +1,22 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--06%2015%3A05%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--06%2020%3A07%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,594** combined stars
+**87** repositories tracked · **10,596** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,594** stars · **8,860** forks · **71** open issues
+> **87** repositories · **10,596** stars · **8,865** forks · **71** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,112 | 4,626 | 31 | — | 2026-09-06 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,114 | 4,631 | 31 | — | 2026-09-06 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,154 | 878 | 4 | — | 2026-09-06 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 898 | 535 | 0 | — | 2026-09-06 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 602 | 225 | 4 | — | 2026-09-06 |
@@ -25,12 +25,12 @@ Updates automatically every 6 hours via GitHub Actions.
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 232 | 161 | 4 | — | 2026-09-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 198 | 209 | 0 | — | 2026-09-01 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 194 | 207 | 0 | — | 2026-09-01 |
-| 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 163 | 122 | 0 | Fail | 2026-08-27 |
+| 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 164 | 122 | 0 | Fail | 2026-09-06 |
 | 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 139 | 67 | 0 | — | 2026-09-06 |
-| 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 136 | 119 | 1 | Fail | 2026-09-04 |
+| 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 136 | 119 | 1 | Fail | 2026-09-06 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 111 | 48 | 0 | — | 2026-09-05 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 61 | 0 | — | 2026-08-10 |
-| 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 75 | 68 | 0 | — | 2026-08-10 |
+| 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 74 | 68 | 0 | — | 2026-09-06 |
 | 16 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 64 | 71 | 0 | — | 2026-08-27 |
 | 17 | [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard) | 59 | 53 | 0 | Pass | 2026-08-28 |
 | 18 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 58 | 55 | 0 | — | 2026-08-10 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,112
-  &nbsp;·&nbsp; 🍴 4,626
+  &nbsp;·&nbsp; ⭐ 5,114
+  &nbsp;·&nbsp; 🍴 4,631
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -364,7 +364,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator">Certified_Kubernetes_Administrator</a></strong>
-  &nbsp;·&nbsp; ⭐ 163
+  &nbsp;·&nbsp; ⭐ 164
   &nbsp;·&nbsp; 🍴 122
   &nbsp;·&nbsp; CI Fail
   <br><sub>Master Kubernetes from scratch and become a Certified Kubernetes Administrator (CKA)! This repository is your one-stop resource to learn...</sub>
@@ -381,7 +381,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [CKA: Update README for clarity and consistency](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a) |
 | **Commit date** | `2026-04-26` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-27` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | `cka` · `ckad` · `ckad-exercises` · `helm` · `k8s` · `kubernetes` |
@@ -437,7 +437,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and EKS deployment](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e) |
 | **Commit date** | `2026-02-14` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-04` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `No license` |
 | **Languages** | `JavaScript` · `HCL` · `Dockerfile` · `Python` |
 | **Topics** | `aws` · `aws-eks` · `cicd` · `devops` · `eks` · `eks-cluster` |
@@ -504,7 +504,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/eks-cluster-terraform">eks-cluster-terraform</a></strong>
-  &nbsp;·&nbsp; ⭐ 75
+  &nbsp;·&nbsp; ⭐ 74
   &nbsp;·&nbsp; 🍴 68
   &nbsp;·&nbsp; CI —
   <br><sub>This project uses Terraform to provision an Amazon EKS Cluster on AWS. By leveraging Infrastructure as Code (IaC), we automate the deploy...</sub>
@@ -521,7 +521,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Terraform: Update Kubernetes deployment configuration and enhance .gitignore for better...](https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1) |
 | **Commit date** | `2025-03-28` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-08-10` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `No license` |
 | **Languages** | `HCL` |
 | **Topics** | `aws` · `aws-eks` · `deployment` · `eks` · `terraform` · `terraform-modules` |
@@ -1078,7 +1078,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/da61796c6f3f75e669119551dea72d12b569c7c6) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/87a99acf5acce69e74826802798e4db686da8d21) |
 | **Commit date** | `2026-09-06` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-09-06` |
