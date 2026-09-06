@@ -1,32 +1,32 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--06%2010%3A27%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--06%2015%3A05%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,586** combined stars
+**87** repositories tracked · **10,594** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,586** stars · **8,857** forks · **71** open issues
+> **87** repositories · **10,594** stars · **8,860** forks · **71** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,109 | 4,624 | 31 | — | 2026-09-06 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,151 | 878 | 4 | — | 2026-09-05 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,112 | 4,626 | 31 | — | 2026-09-06 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,154 | 878 | 4 | — | 2026-09-06 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 898 | 535 | 0 | — | 2026-09-06 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 602 | 225 | 4 | — | 2026-09-06 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 511 | 389 | 1 | — | 2026-09-04 |
-| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 347 | 264 | 3 | — | 2026-09-05 |
+| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 348 | 265 | 3 | — | 2026-09-06 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 232 | 161 | 4 | — | 2026-09-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 198 | 209 | 0 | — | 2026-09-01 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 194 | 207 | 0 | — | 2026-09-01 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 163 | 122 | 0 | Fail | 2026-08-27 |
-| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 138 | 67 | 0 | — | 2026-09-03 |
+| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 139 | 67 | 0 | — | 2026-09-06 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 136 | 119 | 1 | Fail | 2026-09-04 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 111 | 48 | 0 | — | 2026-09-05 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 61 | 0 | — | 2026-08-10 |
@@ -47,7 +47,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
 | 31 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 22 | 0 | — | 2026-06-11 |
-| 32 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 11 | 13 | 0 | — | 2026-09-04 |
+| 32 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 11 | 13 | 0 | — | 2026-09-06 |
 | 33 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 24 | 0 | — | 2026-04-26 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 10 | 9 | 0 | — | 2026-09-04 |
 | 35 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 10 | 16 | 0 | Running | 2026-09-06 |
@@ -62,7 +62,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 44 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 6 | 10 | 0 | — | 2026-09-01 |
 | 45 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 5 | 9 | 0 | — | 2026-09-04 |
 | 46 | [prodevopsguy.xyz](https://github.com/NotHarshhaa/prodevopsguy.xyz) | 5 | 2 | 1 | — | 2025-02-22 |
-| 47 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 5 | 7 | 0 | — | 2026-09-02 |
+| 47 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 5 | 7 | 0 | — | 2026-09-06 |
 | 48 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
 | 49 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
 | 50 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-06-30 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,109
-  &nbsp;·&nbsp; 🍴 4,624
+  &nbsp;·&nbsp; ⭐ 5,112
+  &nbsp;·&nbsp; 🍴 4,626
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -140,7 +140,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,151
+  &nbsp;·&nbsp; ⭐ 1,154
   &nbsp;·&nbsp; 🍴 878
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
@@ -157,7 +157,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993) |
 | **Commit date** | `2026-08-28` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-05` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws-interview-questions` · `azure-interview-questions` · `cicd` · `cloud-computing` · `devops` · `devops-interview-questions` |
@@ -252,8 +252,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/devops-cheatsheet">devops-cheatsheet</a></strong>
-  &nbsp;·&nbsp; ⭐ 347
-  &nbsp;·&nbsp; 🍴 264
+  &nbsp;·&nbsp; ⭐ 348
+  &nbsp;·&nbsp; 🍴 265
   &nbsp;·&nbsp; CI —
   <br><sub>A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud...</sub>
 </summary>
@@ -269,7 +269,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLa...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66) |
 | **Commit date** | `2026-08-30` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-05` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `GNU General Public License v2.0` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `automation` · `aws` · `azure` · `cheatsheet` · `cicd` · `cloud` |
@@ -392,7 +392,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 138
+  &nbsp;·&nbsp; ⭐ 139
   &nbsp;·&nbsp; 🍴 67
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -409,7 +409,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [AWS: Add Code of Conduct, Contributing Guidelines, Security Policy, and Funding Informa...](https://github.com/NotHarshhaa/AWS-Projects/commit/c942afb83427ab02b475685461c7b3e0b0a1fd84) |
 | **Commit date** | `2026-05-11` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-03` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
@@ -983,7 +983,7 @@ Updates automatically every 6 hours via GitHub Actions.
   &nbsp;·&nbsp; ⭐ 11
   &nbsp;·&nbsp; 🍴 13
   &nbsp;·&nbsp; CI —
-  <br><sub>🌐 A personal CV website built with Next.js, Tailwind CSS, and TypeScript — responsive, printable, and perfect for showcasing professional...</sub>
+  <br><sub>A modern, responsive, and print-ready CV portfolio showcasing hands-on expertise across Platform Engineering, DevOps, AI Infrastructure,...</sub>
 </summary>
 <br>
 
@@ -994,10 +994,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [cv: feat: enhance NavigationMenu and PortfolioAIAgent with theme toggle and markdown re...](https://github.com/NotHarshhaa/cv-portfolio/commit/79085ae25d6db7f27d22d433780b8f9f3bfa13be) |
-| **Commit date** | `2026-09-04` |
+| **Latest commit** | [cv: feat: enhance NavigationMenu with improved layout and accessibility](https://github.com/NotHarshhaa/cv-portfolio/commit/7aa128d008f983e78f9168c9bff3860d755508e6) |
+| **Commit date** | `2026-09-06` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-04` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `cv` · `javascript` · `nextjs` · `personal-cv` · `tailwindcss` · `typescript` |
@@ -1078,7 +1078,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1926270e5e3d504ab0059a57c106b73141b2a1f5) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/da61796c6f3f75e669119551dea72d12b569c7c6) |
 | **Commit date** | `2026-09-06` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-09-06` |
@@ -1414,10 +1414,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [portfolio: feat: enhance architecture components with flow canvas and node inspector](https://github.com/NotHarshhaa/personal-portfolio/commit/9cae05cb4117507213e660816cf28d8734a7c4b6) |
-| **Commit date** | `2026-09-02` |
+| **Latest commit** | [portfolio: style: update NodeInspector and TraceController components for improved aest...](https://github.com/NotHarshhaa/personal-portfolio/commit/f763f82a4080abf6f3605c436fa85fc6d1c00909) |
+| **Commit date** | `2026-09-06` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-02` |
+| **Repo updated** | `2026-09-06` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `css` · `javascript` · `nodejs` · `tailwindcss` · `typescript` |
