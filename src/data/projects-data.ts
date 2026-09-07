@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5116,
-    "forks": 4631,
+    "stars": 5119,
+    "forks": 4638,
     "issues": 31,
-    "lastUpdated": "2026-09-06T22:11:17Z",
+    "lastUpdated": "2026-09-07T07:09:41Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1154,
-    "forks": 878,
+    "stars": 1156,
+    "forks": 881,
     "issues": 4,
-    "lastUpdated": "2026-09-06T14:52:02Z",
+    "lastUpdated": "2026-09-07T11:37:56Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 898,
+    "stars": 899,
     "forks": 535,
     "issues": 0,
-    "lastUpdated": "2026-09-06T02:57:50Z",
+    "lastUpdated": "2026-09-07T07:09:30Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 348,
+    "stars": 349,
     "forks": 265,
     "issues": 3,
-    "lastUpdated": "2026-09-06T14:52:36Z",
+    "lastUpdated": "2026-09-07T05:20:01Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -232,7 +232,7 @@ export const PROJECTS: Project[] = [
     "stars": 139,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-09-06T11:32:01Z",
+    "lastUpdated": "2026-09-07T07:57:22Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -468,7 +468,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 14,
-    "forks": 38,
+    "forks": 37,
     "issues": 1,
     "lastUpdated": "2026-09-04T05:31:17Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
@@ -542,10 +542,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/cv-portfolio",
       "href": "https://github.com/NotHarshhaa/cv-portfolio"
     },
-    "stars": 11,
+    "stars": 12,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-09-06T12:26:43Z",
+    "lastUpdated": "2026-09-07T07:01:19Z",
     "lastCommit": "7aa128d008f983e78f9168c9bff3860d755508e6"
   },
   {
@@ -611,11 +611,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/github-repo-status-tracker",
       "href": "https://github.com/NotHarshhaa/github-repo-status-tracker"
     },
-    "stars": 10,
+    "stars": 11,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-06T20:07:53Z",
-    "lastCommit": "ccb6e34630d9bba80489998eb3c2e80f640c8029"
+    "lastUpdated": "2026-09-07T07:01:10Z",
+    "lastCommit": "7582077704624740b250c4da4747dc0f6fd25f58"
   },
   {
     "title": "Links Portfolio",
@@ -630,10 +630,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/links-portfolio",
       "href": "https://github.com/NotHarshhaa/links-portfolio"
     },
-    "stars": 10,
+    "stars": 11,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-09-04T08:09:08Z",
+    "lastUpdated": "2026-09-07T07:01:35Z",
     "lastCommit": "c280bf812411625503f2cc58a678e3c28e604dc8"
   },
   {
@@ -717,10 +717,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/projects.prodevopsguytech.com",
       "href": "https://github.com/NotHarshhaa/projects.prodevopsguytech.com"
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-09-04T18:49:16Z",
+    "lastUpdated": "2026-09-07T07:01:27Z",
     "lastCommit": "3204be5a70d79a93ae68a39e39bfbad514ebafc1"
   },
   {
@@ -785,10 +785,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/personal-portfolio",
       "href": "https://github.com/NotHarshhaa/personal-portfolio"
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-09-06T13:01:47Z",
+    "lastUpdated": "2026-09-07T07:01:15Z",
     "lastCommit": "f763f82a4080abf6f3605c436fa85fc6d1c00909"
   },
   {
@@ -1450,10 +1450,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/reposage",
       "href": "https://github.com/NotHarshhaa/reposage"
     },
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-04T07:19:18Z",
+    "lastUpdated": "2026-09-07T07:01:40Z",
     "lastCommit": "1b34db16bc78a6d892eb19dfdcc509227a4dcb0d"
   },
   {
@@ -1469,10 +1469,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/promptdeck",
       "href": "https://github.com/NotHarshhaa/promptdeck"
     },
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-09-04T07:41:31Z",
+    "lastUpdated": "2026-09-07T07:01:38Z",
     "lastCommit": "aa9f45b12925e41f0cfc023e1d1fa882e83ff8a8"
   },
   {
