@@ -1,24 +1,24 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08%2016%3A10%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08%2020%3A51%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,628** combined stars
+**87** repositories tracked · **10,631** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,628** stars · **8,884** forks · **71** open issues
+> **87** repositories · **10,631** stars · **8,888** forks · **71** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,130 | 4,644 | 31 | — | 2026-09-08 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,132 | 4,648 | 31 | — | 2026-09-08 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,158 | 883 | 4 | — | 2026-09-07 |
-| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 901 | 535 | 0 | — | 2026-09-08 |
+| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 902 | 535 | 0 | — | 2026-09-08 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 602 | 226 | 4 | — | 2026-09-06 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 512 | 389 | 1 | — | 2026-09-08 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 350 | 265 | 3 | — | 2026-09-08 |
@@ -37,7 +37,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 19 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 33 | 42 | 0 | — | 2026-09-07 |
 | 20 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 31 | 34 | 1 | — | 2026-08-29 |
 | 21 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 30 | 68 | 0 | — | 2026-09-03 |
-| 22 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 26 | 10 | 0 | — | 2026-09-01 |
+| 22 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 26 | 10 | 0 | — | 2026-09-08 |
 | 23 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 22 | 43 | 0 | — | 2026-07-16 |
 | 24 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 20 | 57 | 0 | — | 2026-02-21 |
 | 25 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 25 | 0 | — | 2026-06-04 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,130
-  &nbsp;·&nbsp; 🍴 4,644
+  &nbsp;·&nbsp; ⭐ 5,132
+  &nbsp;·&nbsp; 🍴 4,648
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -168,7 +168,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/into-the-devops">into-the-devops</a></strong>
-  &nbsp;·&nbsp; ⭐ 901
+  &nbsp;·&nbsp; ⭐ 902
   &nbsp;·&nbsp; 🍴 535
   &nbsp;·&nbsp; CI —
   <br><sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elasti...</sub>
@@ -714,10 +714,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [ai-platform-handbook: Revise curriculum structure and enhance documentation visuals](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f69d7ba99106068d0b96a2c4bf5f8c56affa2480) |
-| **Commit date** | `2026-08-23` |
+| **Latest commit** | [ai-platform-handbook: Add Week 17 content on Forward Deployed Engineering](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/e9a125836691e0ad9168b32a8b0f4159d5f8413a) |
+| **Commit date** | `2026-09-08` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-01` |
+| **Repo updated** | `2026-09-08` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | _None_ |
@@ -1050,7 +1050,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/59a8f4d23415a7b413742e0e7b185f11fbf9d479) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/dfa752908541be9f14bebf462f1fdfb4d18edb4a) |
 | **Commit date** | `2026-09-08` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-09-08` |
