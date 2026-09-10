@@ -1,10 +1,10 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 5147,
-    "forks": 4672,
+    "stars": 5149,
+    "forks": 4673,
     "issues": 31,
-    "lastUpdated": "2026-09-10T10:02:25Z",
+    "lastUpdated": "2026-09-10T15:00:08Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -20,15 +20,15 @@
     "stars": 903,
     "forks": 536,
     "issues": 0,
-    "lastUpdated": "2026-09-10T00:43:57Z",
+    "lastUpdated": "2026-09-10T13:16:28Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 602,
+    "stars": 603,
     "forks": 226,
     "issues": 4,
-    "lastUpdated": "2026-09-06T07:19:38Z",
+    "lastUpdated": "2026-09-10T12:57:29Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -41,10 +41,10 @@
   },
   {
     "repo": "devops-cheatsheet",
-    "stars": 350,
+    "stars": 351,
     "forks": 265,
     "issues": 3,
-    "lastUpdated": "2026-09-08T03:22:20Z",
+    "lastUpdated": "2026-09-10T12:00:49Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -97,10 +97,10 @@
   },
   {
     "repo": "AWS-Projects",
-    "stars": 139,
+    "stars": 140,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-09-07T07:57:22Z",
+    "lastUpdated": "2026-09-10T13:07:15Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -268,8 +268,8 @@
     "stars": 11,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-10T03:32:27Z",
-    "lastCommit": "08dab1548f39f021df047ea1442340f70f486d69"
+    "lastUpdated": "2026-09-10T10:51:14Z",
+    "lastCommit": "9b89a8d7f9e532271d5b31a2b1eb77f30ced8400"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -298,8 +298,8 @@
   {
     "repo": "ai-platform-engineering-handbook",
     "stars": 26,
-    "forks": 10,
-    "issues": 0,
+    "forks": 11,
+    "issues": 1,
     "lastUpdated": "2026-09-09T06:57:49Z",
     "lastCommit": "9c7307833752ae5abc0dd7cf8f0d5329a5bc8071"
   },
