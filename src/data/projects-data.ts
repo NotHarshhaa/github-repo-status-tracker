@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5154,
-    "forks": 4676,
+    "stars": 5157,
+    "forks": 4682,
     "issues": 31,
-    "lastUpdated": "2026-09-11T00:25:18Z",
+    "lastUpdated": "2026-09-11T09:05:25Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1162,
-    "forks": 884,
+    "forks": 886,
     "issues": 4,
     "lastUpdated": "2026-09-11T01:23:10Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -77,7 +77,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 604,
-    "forks": 226,
+    "forks": 227,
     "issues": 4,
     "lastUpdated": "2026-09-10T21:26:29Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 513,
-    "forks": 391,
+    "forks": 392,
     "issues": 1,
     "lastUpdated": "2026-09-09T03:21:40Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 351,
-    "forks": 265,
+    "forks": 267,
     "issues": 3,
     "lastUpdated": "2026-09-10T12:00:49Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
@@ -141,7 +141,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 199,
-    "forks": 209,
+    "forks": 210,
     "issues": 0,
     "lastUpdated": "2026-09-10T00:19:58Z",
     "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
@@ -330,7 +330,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 30,
-    "forks": 68,
+    "forks": 69,
     "issues": 0,
     "lastUpdated": "2026-09-03T14:32:46Z",
     "lastCommit": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8"
@@ -382,7 +382,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 22,
-    "forks": 43,
+    "forks": 44,
     "issues": 0,
     "lastUpdated": "2026-07-16T17:33:32Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -434,7 +434,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 17,
-    "forks": 84,
+    "forks": 85,
     "issues": 2,
     "lastUpdated": "2026-09-04T05:47:24Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -524,7 +524,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra"
     },
     "stars": 10,
-    "forks": 24,
+    "forks": 25,
     "issues": 0,
     "lastUpdated": "2026-04-26T11:51:26Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-10T20:32:46Z",
-    "lastCommit": "7217a2f59e663329a9f80203c13790c5c1683b9d"
+    "lastUpdated": "2026-09-11T03:30:20Z",
+    "lastCommit": "cdd2a7b50c4ada0f5c90390ab20d9da8d5714d54"
   },
   {
     "title": "Links Portfolio",
@@ -667,7 +667,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/uber-clone"
     },
     "stars": 6,
-    "forks": 12,
+    "forks": 13,
     "issues": 0,
     "lastUpdated": "2026-02-09T10:06:59Z",
     "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
@@ -1432,7 +1432,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
     "stars": 8,
-    "forks": 3,
+    "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-08-24T09:52:36Z",
     "lastCommit": "b3d56768774d11656c47bd7abbd81fbf2bd630e5"
