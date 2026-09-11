@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5157,
-    "forks": 4682,
+    "stars": 5160,
+    "forks": 4684,
     "issues": 31,
-    "lastUpdated": "2026-09-11T09:05:25Z",
+    "lastUpdated": "2026-09-11T15:33:13Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1162,
-    "forks": 886,
+    "forks": 887,
     "issues": 4,
     "lastUpdated": "2026-09-11T01:23:10Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 604,
+    "stars": 605,
     "forks": 227,
     "issues": 4,
-    "lastUpdated": "2026-09-10T21:26:29Z",
+    "lastUpdated": "2026-09-11T13:51:14Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -127,7 +127,7 @@ export const PROJECTS: Project[] = [
     "stars": 232,
     "forks": 161,
     "issues": 4,
-    "lastUpdated": "2026-09-01T23:51:22Z",
+    "lastUpdated": "2026-09-11T14:56:57Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -506,7 +506,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy"
     },
     "stars": 11,
-    "forks": 22,
+    "forks": 23,
     "issues": 0,
     "lastUpdated": "2026-06-11T21:58:36Z",
     "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-11T03:30:20Z",
-    "lastCommit": "cdd2a7b50c4ada0f5c90390ab20d9da8d5714d54"
+    "lastUpdated": "2026-09-11T10:47:17Z",
+    "lastCommit": "a9f237861e1f94156ba633ba0fe755e12bdfdb36"
   },
   {
     "title": "Links Portfolio",
