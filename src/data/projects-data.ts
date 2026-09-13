@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5172,
-    "forks": 4694,
+    "stars": 5173,
+    "forks": 4697,
     "issues": 31,
-    "lastUpdated": "2026-09-13T00:02:38Z",
+    "lastUpdated": "2026-09-13T09:47:24Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1166,
+    "stars": 1167,
     "forks": 888,
     "issues": 4,
-    "lastUpdated": "2026-09-12T17:52:32Z",
+    "lastUpdated": "2026-09-13T09:46:30Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -124,10 +124,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 233,
+    "stars": 234,
     "forks": 161,
     "issues": 4,
-    "lastUpdated": "2026-09-12T11:37:37Z",
+    "lastUpdated": "2026-09-13T03:46:05Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -298,8 +298,8 @@ export const PROJECTS: Project[] = [
     "stars": 59,
     "forks": 53,
     "issues": 0,
-    "lastUpdated": "2026-08-28T13:05:37Z",
-    "lastCommit": "ea98f5f5e848a01aeac04ebdda83fe171ec54525"
+    "lastUpdated": "2026-09-13T07:17:41Z",
+    "lastCommit": "76ce74c2cb8a22403c49a534468a790647ebce29"
   },
   {
     "title": "AWS Billing Alert with Terraform",
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-12T20:19:17Z",
-    "lastCommit": "78cd0876069e6b33a9fca7f3928b248a28f0c920"
+    "lastUpdated": "2026-09-13T03:41:28Z",
+    "lastCommit": "eabbc815aabd3c01dc00ff35bf5521d0a2ea638a"
   },
   {
     "title": "Links Portfolio",
@@ -998,8 +998,8 @@ export const PROJECTS: Project[] = [
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-01T09:43:41Z",
-    "lastCommit": "b03ed64428d46c20f522a75f2ac21654a3f15cb4"
+    "lastUpdated": "2026-09-13T09:48:01Z",
+    "lastCommit": "be2441c97cfa3402899e4da57d99e24b886add9c"
   },
   {
     "title": "Personal Blog",
