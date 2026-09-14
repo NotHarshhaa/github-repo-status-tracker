@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5177,
-    "forks": 4703,
+    "stars": 5183,
+    "forks": 4704,
     "issues": 31,
-    "lastUpdated": "2026-09-14T02:42:59Z",
+    "lastUpdated": "2026-09-14T11:56:58Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1169,
+    "stars": 1171,
     "forks": 889,
     "issues": 4,
-    "lastUpdated": "2026-09-14T01:22:38Z",
+    "lastUpdated": "2026-09-14T11:12:57Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 513,
-    "forks": 392,
+    "forks": 393,
     "issues": 1,
     "lastUpdated": "2026-09-09T03:21:40Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 140,
+    "stars": 141,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-09-10T13:07:15Z",
+    "lastUpdated": "2026-09-14T11:42:39Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-13T20:29:03Z",
-    "lastCommit": "cf1da472ad542c8e1b45aca89203939b8f092fb3"
+    "lastUpdated": "2026-09-14T03:50:46Z",
+    "lastCommit": "a6b91232f47193f687e2a2a7d0365dce8978abe5"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 27,
-    "forks": 11,
+    "stars": 28,
+    "forks": 12,
     "issues": 1,
-    "lastUpdated": "2026-09-10T17:24:14Z",
+    "lastUpdated": "2026-09-14T11:59:49Z",
     "lastCommit": "9c7307833752ae5abc0dd7cf8f0d5329a5bc8071"
   },
   {
@@ -928,8 +928,8 @@ export const PROJECTS: Project[] = [
     "stars": 4,
     "forks": 10,
     "issues": 0,
-    "lastUpdated": "2026-07-29T07:47:50Z",
-    "lastCommit": "730d8af09315cd838f98d7daa920e05d291b562e"
+    "lastUpdated": "2026-09-14T09:27:22Z",
+    "lastCommit": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b"
   },
   {
     "title": "Cloud Billing Automation",
@@ -1488,10 +1488,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-incident-agent",
       "href": "https://github.com/NotHarshhaa/devops-incident-agent"
     },
-    "stars": 3,
-    "forks": 2,
+    "stars": 4,
+    "forks": 3,
     "issues": 7,
-    "lastUpdated": "2026-08-20T16:32:56Z",
+    "lastUpdated": "2026-09-14T10:24:29Z",
     "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
   },
   {
