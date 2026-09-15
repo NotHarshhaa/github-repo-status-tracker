@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5194,
-    "forks": 4710,
+    "stars": 5199,
+    "forks": 4715,
     "issues": 31,
-    "lastUpdated": "2026-09-15T10:35:51Z",
+    "lastUpdated": "2026-09-15T16:17:16Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1174,
+    "stars": 1175,
     "forks": 890,
     "issues": 4,
-    "lastUpdated": "2026-09-14T19:47:14Z",
+    "lastUpdated": "2026-09-15T13:57:49Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 906,
-    "forks": 539,
+    "forks": 538,
     "issues": 0,
     "lastUpdated": "2026-09-15T08:09:11Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 513,
-    "forks": 393,
+    "forks": 392,
     "issues": 1,
     "lastUpdated": "2026-09-09T03:21:40Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -210,10 +210,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 112,
+    "stars": 113,
     "forks": 49,
     "issues": 0,
-    "lastUpdated": "2026-09-10T00:28:23Z",
+    "lastUpdated": "2026-09-15T13:03:26Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-15T07:45:58Z",
-    "lastCommit": "de1402deb4ef03268954364c3f86ff0f108e0089"
+    "lastUpdated": "2026-09-15T11:19:18Z",
+    "lastCommit": "b5cad2f97e344331904ca369a8a0a31c1ccee900"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 29,
-    "forks": 13,
+    "stars": 30,
+    "forks": 14,
     "issues": 1,
-    "lastUpdated": "2026-09-14T20:12:50Z",
+    "lastUpdated": "2026-09-15T13:00:52Z",
     "lastCommit": "9c7307833752ae5abc0dd7cf8f0d5329a5bc8071"
   },
   {
