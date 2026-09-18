@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5217,
-    "forks": 4729,
+    "stars": 5218,
+    "forks": 4730,
     "issues": 31,
-    "lastUpdated": "2026-09-17T20:12:35Z",
+    "lastUpdated": "2026-09-18T02:42:43Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1182,
-    "forks": 894,
+    "stars": 1184,
+    "forks": 895,
     "issues": 4,
-    "lastUpdated": "2026-09-17T16:07:53Z",
+    "lastUpdated": "2026-09-18T02:40:41Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 909,
+    "stars": 910,
     "forks": 538,
     "issues": 0,
-    "lastUpdated": "2026-09-17T15:44:58Z",
+    "lastUpdated": "2026-09-18T02:10:35Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -211,7 +211,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
     "stars": 113,
-    "forks": 49,
+    "forks": 50,
     "issues": 0,
     "lastUpdated": "2026-09-15T13:03:26Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 142,
+    "stars": 143,
     "forks": 69,
     "issues": 0,
-    "lastUpdated": "2026-09-17T03:21:24Z",
+    "lastUpdated": "2026-09-18T02:16:29Z",
     "lastCommit": "c942afb83427ab02b475685461c7b3e0b0a1fd84"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-17T16:28:06Z",
-    "lastCommit": "1c595f3c71a2163838d8b12e2dccaf638dd0e1dc"
+    "lastUpdated": "2026-09-17T21:03:46Z",
+    "lastCommit": "8dfbfb859dfec15be2a0ddff56923a7584249315"
   },
   {
     "title": "Links Portfolio",
