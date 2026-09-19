@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5227,
-    "forks": 4734,
+    "stars": 5226,
+    "forks": 4738,
     "issues": 31,
-    "lastUpdated": "2026-09-19T02:30:33Z",
+    "lastUpdated": "2026-09-19T07:15:22Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1184,
-    "forks": 896,
+    "stars": 1185,
+    "forks": 897,
     "issues": 4,
-    "lastUpdated": "2026-09-18T02:40:41Z",
+    "lastUpdated": "2026-09-19T08:51:46Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -172,10 +172,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 165,
+    "stars": 166,
     "forks": 122,
     "issues": 0,
-    "lastUpdated": "2026-09-16T09:25:54Z",
+    "lastUpdated": "2026-09-19T06:02:44Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 16,
     "issues": 0,
-    "lastUpdated": "2026-09-18T20:34:38Z",
-    "lastCommit": "ff213bd8c0e1efe70ab91b93882c544cce2f6b68"
+    "lastUpdated": "2026-09-19T03:36:55Z",
+    "lastCommit": "36344ee474aff75cd91da55273df20e761faf03c"
   },
   {
     "title": "Links Portfolio",
@@ -1434,8 +1434,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-08-24T09:52:36Z",
-    "lastCommit": "b3d56768774d11656c47bd7abbd81fbf2bd630e5"
+    "lastUpdated": "2026-09-19T07:41:22Z",
+    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
     "title": "RepoSage",
