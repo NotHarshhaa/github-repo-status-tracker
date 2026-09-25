@@ -1,32 +1,32 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--25%2003%3A53%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--25%2011%3A22%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,874** combined stars
+**87** repositories tracked · **10,876** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,874** stars · **9,065** forks · **71** open issues
+> **87** repositories · **10,876** stars · **9,068** forks · **71** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,260 | 4,760 | 30 | — | 2026-09-25 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,261 | 4,763 | 30 | — | 2026-09-25 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,200 | 905 | 4 | — | 2026-09-24 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 910 | 542 | 0 | — | 2026-09-19 |
-| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 618 | 230 | 4 | — | 2026-09-25 |
+| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 620 | 230 | 4 | — | 2026-09-25 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 520 | 393 | 1 | — | 2026-09-24 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 359 | 270 | 3 | — | 2026-09-24 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 237 | 162 | 4 | — | 2026-09-16 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 200 | 210 | 0 | — | 2026-09-16 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 194 | 207 | 0 | — | 2026-09-01 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 166 | 122 | 0 | Fail | 2026-09-19 |
-| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 146 | 70 | 0 | — | 2026-09-20 |
+| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 145 | 70 | 0 | — | 2026-09-25 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 138 | 119 | 1 | Fail | 2026-09-22 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 113 | 50 | 0 | — | 2026-09-15 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 61 | 0 | — | 2026-08-10 |
@@ -47,7 +47,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
 | 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 13 | 0 | — | 2026-09-07 |
-| 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 12 | 17 | 0 | Running | 2026-09-24 |
+| 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 12 | 17 | 0 | Running | 2026-09-25 |
 | 33 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 23 | 0 | — | 2026-06-11 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-09-07 |
 | 35 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,260
-  &nbsp;·&nbsp; 🍴 4,760
+  &nbsp;·&nbsp; ⭐ 5,261
+  &nbsp;·&nbsp; 🍴 4,763
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -196,7 +196,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-learning-path">kubernetes-learning-path</a></strong>
-  &nbsp;·&nbsp; ⭐ 618
+  &nbsp;·&nbsp; ⭐ 620
   &nbsp;·&nbsp; 🍴 230
   &nbsp;·&nbsp; CI —
   <br><sub>A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)</sub>
@@ -392,7 +392,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 146
+  &nbsp;·&nbsp; ⭐ 145
   &nbsp;·&nbsp; 🍴 70
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -409,7 +409,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [AWS: Add Code of Conduct, Contributing Guidelines, Security Policy, and Funding Informa...](https://github.com/NotHarshhaa/AWS-Projects/commit/c942afb83427ab02b475685461c7b3e0b0a1fd84) |
 | **Commit date** | `2026-05-11` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-20` |
+| **Repo updated** | `2026-09-25` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
@@ -994,10 +994,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/aed63b81a8557477a5b8b3effcca8eb1ec0aa949) |
-| **Commit date** | `2026-09-24` |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/57ca59367b8d2a96b0e885a31ce3758220df9eca) |
+| **Commit date** | `2026-09-25` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-24` |
+| **Repo updated** | `2026-09-25` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
 | **Topics** | _None_ |
