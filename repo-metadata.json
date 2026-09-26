@@ -2,9 +2,9 @@
   {
     "repo": "DevOps-Projects",
     "stars": 5269,
-    "forks": 4769,
+    "forks": 4775,
     "issues": 30,
-    "lastUpdated": "2026-09-26T10:35:45Z",
+    "lastUpdated": "2026-09-26T15:43:21Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 621,
+    "stars": 622,
     "forks": 230,
     "issues": 4,
-    "lastUpdated": "2026-09-26T08:23:04Z",
+    "lastUpdated": "2026-09-26T12:29:13Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -42,7 +42,7 @@
   {
     "repo": "devops-cheatsheet",
     "stars": 359,
-    "forks": 271,
+    "forks": 272,
     "issues": 3,
     "lastUpdated": "2026-09-24T09:53:27Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
@@ -268,8 +268,8 @@
     "stars": 12,
     "forks": 17,
     "issues": 0,
-    "lastUpdated": "2026-09-26T03:59:20Z",
-    "lastCommit": "10f3501baafaeca8f3650e1c59cb0904ca7f94e4"
+    "lastUpdated": "2026-09-26T10:59:09Z",
+    "lastCommit": "1451f22d068f092e8d61805be56fe9fa3b2adaa2"
   },
   {
     "repo": "prodevopsguytech.com",
