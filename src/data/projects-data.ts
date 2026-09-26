@@ -28,9 +28,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5269,
-    "forks": 4775,
+    "forks": 4777,
     "issues": 30,
-    "lastUpdated": "2026-09-26T15:43:21Z",
+    "lastUpdated": "2026-09-26T18:49:09Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 17,
     "issues": 0,
-    "lastUpdated": "2026-09-26T10:59:09Z",
-    "lastCommit": "1451f22d068f092e8d61805be56fe9fa3b2adaa2"
+    "lastUpdated": "2026-09-26T15:59:00Z",
+    "lastCommit": "8068ca031837fe27226691be59051ff4e643e6f3"
   },
   {
     "title": "Links Portfolio",
@@ -685,8 +685,8 @@ export const PROJECTS: Project[] = [
     "stars": 32,
     "forks": 15,
     "issues": 1,
-    "lastUpdated": "2026-09-26T00:51:39Z",
-    "lastCommit": "c044224ed588ab2ddc266107e7f1c422856f0fa2"
+    "lastUpdated": "2026-09-26T16:49:18Z",
+    "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
   },
   {
     "title": "DevOps Tools Setups & Installations",
