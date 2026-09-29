@@ -1,22 +1,22 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--29%2004%3A42%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--29%2012%3A19%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,912** combined stars
+**87** repositories tracked · **10,915** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,912** stars · **9,105** forks · **71** open issues
+> **87** repositories · **10,915** stars · **9,109** forks · **71** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,283 | 4,791 | 30 | — | 2026-09-29 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,285 | 4,795 | 30 | — | 2026-09-29 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,203 | 908 | 4 | — | 2026-09-27 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 910 | 542 | 0 | — | 2026-09-19 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 623 | 232 | 4 | — | 2026-09-27 |
@@ -26,7 +26,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 200 | 210 | 0 | — | 2026-09-16 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 195 | 207 | 0 | — | 2026-09-28 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 166 | 122 | 0 | Fail | 2026-09-19 |
-| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 145 | 71 | 0 | — | 2026-09-25 |
+| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 145 | 71 | 0 | — | 2026-09-29 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 138 | 119 | 1 | Fail | 2026-09-22 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 113 | 50 | 0 | — | 2026-09-15 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 61 | 0 | — | 2026-08-10 |
@@ -46,10 +46,10 @@ Updates automatically every 6 hours via GitHub Actions.
 | 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 14 | 37 | 1 | — | 2026-09-04 |
 | 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
-| 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-09-07 |
-| 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 12 | 17 | 0 | Running | 2026-09-28 |
+| 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-09-29 |
+| 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 12 | 17 | 0 | Running | 2026-09-29 |
 | 33 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 23 | 0 | — | 2026-06-11 |
-| 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-09-07 |
+| 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-09-29 |
 | 35 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
 | 36 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 8 | 4 | 0 | Pass | 2026-09-19 |
 | 37 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
@@ -68,13 +68,13 @@ Updates automatically every 6 hours via GitHub Actions.
 | 50 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
 | 51 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
 | 52 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-06-30 |
-| 53 | [status.prodevopsguytech.com](https://github.com/NotHarshhaa/status.prodevopsguytech.com) | 3 | 8 | 0 | Pass | 2026-05-25 |
-| 54 | [prodevopsguy.hashnode.dev](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev) | 3 | 10 | 0 | — | 2025-11-23 |
-| 55 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
-| 56 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
-| 57 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 3 | 7 | 0 | Fail | 2026-07-30 |
-| 58 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-09-14 |
-| 59 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 3 | 1 | 0 | Running | 2026-09-13 |
+| 53 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 4 | 1 | 0 | Running | 2026-09-29 |
+| 54 | [status.prodevopsguytech.com](https://github.com/NotHarshhaa/status.prodevopsguytech.com) | 3 | 8 | 0 | Pass | 2026-05-25 |
+| 55 | [prodevopsguy.hashnode.dev](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev) | 3 | 10 | 0 | — | 2025-11-23 |
+| 56 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
+| 57 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
+| 58 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 3 | 7 | 0 | Fail | 2026-07-30 |
+| 59 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-09-14 |
 | 60 | [devops-mcp](https://github.com/NotHarshhaa/devops-mcp) | 3 | 1 | 0 | — | 2026-09-03 |
 | 61 | [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator) | 3 | 2 | 0 | Fail | 2026-09-01 |
 | 62 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 2 | 4 | 0 | — | 2026-09-27 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,283
-  &nbsp;·&nbsp; 🍴 4,791
+  &nbsp;·&nbsp; ⭐ 5,285
+  &nbsp;·&nbsp; 🍴 4,795
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
 </summary>
@@ -406,12 +406,12 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [AWS: Add Code of Conduct, Contributing Guidelines, Security Policy, and Funding Informa...](https://github.com/NotHarshhaa/AWS-Projects/commit/c942afb83427ab02b475685461c7b3e0b0a1fd84) |
-| **Commit date** | `2026-05-11` |
+| **Latest commit** | [AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System](https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a) |
+| **Commit date** | `2026-09-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-25` |
+| **Repo updated** | `2026-09-29` |
 | **License** | `No license` |
-| **Languages** | _None detected_ |
+| **Languages** | `Python` · `HTML` |
 | **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
 
 </details>
@@ -966,10 +966,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [cv: feat: enhance NavigationMenu with improved layout and accessibility](https://github.com/NotHarshhaa/cv-portfolio/commit/7aa128d008f983e78f9168c9bff3860d755508e6) |
-| **Commit date** | `2026-09-06` |
+| **Latest commit** | [cv: feat: enhance accessibility and layout in various components](https://github.com/NotHarshhaa/cv-portfolio/commit/3a5251dab60b1d25b8a0f7414bde2b359ca426cf) |
+| **Commit date** | `2026-09-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-07` |
+| **Repo updated** | `2026-09-29` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `cv` · `javascript` · `nextjs` · `personal-cv` · `tailwindcss` · `typescript` |
@@ -994,10 +994,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b1005b08564f8eafa43797dfab376e58c32dfd73) |
-| **Commit date** | `2026-09-28` |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8014e4a1992002eea1a27a1e934f7badeec06c07) |
+| **Commit date** | `2026-09-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-28` |
+| **Repo updated** | `2026-09-29` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
 | **Topics** | _None_ |
@@ -1050,10 +1050,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [link: refactor: improve TerminalModal styling and command presentation](https://github.com/NotHarshhaa/links-portfolio/commit/c280bf812411625503f2cc58a678e3c28e604dc8) |
-| **Commit date** | `2026-09-04` |
+| **Latest commit** | [link: feat: implement global click tracking and service status monitoring](https://github.com/NotHarshhaa/links-portfolio/commit/6abbe99a627698293a3d2ba461e8472ea0200feb) |
+| **Commit date** | `2026-09-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-07` |
+| **Repo updated** | `2026-09-29` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `css` · `javascript` · `links` · `nextjs` · `personal-site` · `personal-website` |
@@ -1564,6 +1564,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:ai-question-paper-generator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/ai-question-paper-generator">ai-question-paper-generator</a></strong>
+  &nbsp;·&nbsp; ⭐ 4
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI Running
+  <br><sub>An intelligent full-stack system that automatically generates DevOps and AWS certification & university-style question papers using NLP a...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/ai-question-paper-generator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [refactor: clean up imports and improve type definitions across components](https://github.com/NotHarshhaa/ai-question-paper-generator/commit/be2441c97cfa3402899e4da57d99e24b886add9c) |
+| **Commit date** | `2026-09-13` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-09-29` |
+| **License** | `GNU General Public License v3.0` |
+| **Languages** | `TypeScript` · `Python` · `Shell` · `HCL` · `CSS` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:status.prodevopsguytech.com -->
 <details>
 <summary>
@@ -1729,34 +1757,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `cloud` · `devops` · `devops-community` · `nextjs14` · `shadn-ui` · `tailwindcss` |
-
-</details>
-
-<!-- repo:ai-question-paper-generator -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/ai-question-paper-generator">ai-question-paper-generator</a></strong>
-  &nbsp;·&nbsp; ⭐ 3
-  &nbsp;·&nbsp; 🍴 1
-  &nbsp;·&nbsp; CI Running
-  <br><sub>An intelligent full-stack system that automatically generates DevOps and AWS certification & university-style question papers using NLP a...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/ai-question-paper-generator?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/ai-question-paper-generator?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/ai-question-paper-generator?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/ai-question-paper-generator?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [refactor: clean up imports and improve type definitions across components](https://github.com/NotHarshhaa/ai-question-paper-generator/commit/be2441c97cfa3402899e4da57d99e24b886add9c) |
-| **Commit date** | `2026-09-13` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-13` |
-| **License** | `GNU General Public License v3.0` |
-| **Languages** | `TypeScript` · `Python` · `Shell` · `HCL` · `CSS` |
-| **Topics** | _None_ |
 
 </details>
 
