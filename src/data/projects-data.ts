@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5285,
-    "forks": 4795,
+    "stars": 5288,
+    "forks": 4797,
     "issues": 30,
-    "lastUpdated": "2026-09-29T12:17:09Z",
+    "lastUpdated": "2026-09-29T21:24:16Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1203,
-    "forks": 908,
+    "stars": 1205,
+    "forks": 909,
     "issues": 4,
-    "lastUpdated": "2026-09-27T20:24:43Z",
+    "lastUpdated": "2026-09-29T16:00:03Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -124,10 +124,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 238,
+    "stars": 239,
     "forks": 162,
     "issues": 4,
-    "lastUpdated": "2026-09-28T06:33:47Z",
+    "lastUpdated": "2026-09-29T14:30:48Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -453,8 +453,8 @@ export const PROJECTS: Project[] = [
     "stars": 17,
     "forks": 20,
     "issues": 1,
-    "lastUpdated": "2026-09-20T15:31:15Z",
-    "lastCommit": "d072bc9711c12e038f398094da54932a010480e5"
+    "lastUpdated": "2026-09-29T18:12:33Z",
+    "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
   },
   {
     "title": "Deploy Super Mario on EKS",
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 17,
     "issues": 0,
-    "lastUpdated": "2026-09-29T04:43:23Z",
-    "lastCommit": "8014e4a1992002eea1a27a1e934f7badeec06c07"
+    "lastUpdated": "2026-09-29T12:20:14Z",
+    "lastCommit": "9d87fdb459933fa6854d309a7943d82fbbb0f982"
   },
   {
     "title": "Links Portfolio",
@@ -1488,10 +1488,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-incident-agent",
       "href": "https://github.com/NotHarshhaa/devops-incident-agent"
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 3,
     "issues": 7,
-    "lastUpdated": "2026-09-23T06:45:36Z",
+    "lastUpdated": "2026-09-29T20:10:56Z",
     "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
   },
   {
@@ -1507,10 +1507,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-agent-kit",
       "href": "https://github.com/NotHarshhaa/devops-agent-kit"
     },
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-20T16:32:50Z",
+    "lastUpdated": "2026-09-29T20:10:58Z",
     "lastCommit": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6"
   },
   {
