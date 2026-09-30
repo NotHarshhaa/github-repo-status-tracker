@@ -1,18 +1,18 @@
 [
   {
     "repo": "DevOps-Projects",
-    "stars": 5291,
-    "forks": 4802,
+    "stars": 5296,
+    "forks": 4804,
     "issues": 30,
-    "lastUpdated": "2026-09-30T10:17:56Z",
+    "lastUpdated": "2026-09-30T21:16:51Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
     "repo": "DevOps-Interview-Questions",
-    "stars": 1205,
+    "stars": 1207,
     "forks": 910,
     "issues": 4,
-    "lastUpdated": "2026-09-29T16:00:03Z",
+    "lastUpdated": "2026-09-30T20:39:42Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "repo": "kubernetes-learning-path",
-    "stars": 624,
+    "stars": 625,
     "forks": 232,
     "issues": 4,
-    "lastUpdated": "2026-09-30T08:21:31Z",
+    "lastUpdated": "2026-09-30T15:12:06Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -60,8 +60,8 @@
     "stars": 200,
     "forks": 210,
     "issues": 0,
-    "lastUpdated": "2026-09-16T12:02:49Z",
-    "lastCommit": "eb392ed77959fe8147848a94e1c83caab235b9b5"
+    "lastUpdated": "2026-09-30T12:55:30Z",
+    "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -244,8 +244,8 @@
     "stars": 12,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-09-29T09:31:07Z",
-    "lastCommit": "3a5251dab60b1d25b8a0f7414bde2b359ca426cf"
+    "lastUpdated": "2026-09-30T18:23:10Z",
+    "lastCommit": "eacb3e89619766b51edd7794551d5d9dde39f472"
   },
   {
     "repo": "awesome-devops-cloud",
@@ -260,16 +260,16 @@
     "stars": 11,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-09-29T08:54:52Z",
-    "lastCommit": "6abbe99a627698293a3d2ba461e8472ea0200feb"
+    "lastUpdated": "2026-09-30T18:09:26Z",
+    "lastCommit": "a9309dfe6a42b015e0ef2e2d72c099330f8a595c"
   },
   {
     "repo": "github-repo-status-tracker",
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-09-30T04:28:51Z",
-    "lastCommit": "6e99ce4afd3b0e0d4d4548aa9aa09490e9521a2a"
+    "lastUpdated": "2026-09-30T12:05:36Z",
+    "lastCommit": "417bb9c898a83fd1919faaca299056218f74fd29"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -364,8 +364,8 @@
     "stars": 6,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-09-27T07:23:20Z",
-    "lastCommit": "607fd89c3e4d64317a948d11d6717582ed0df83b"
+    "lastUpdated": "2026-09-30T17:51:00Z",
+    "lastCommit": "462f4821383cdfb92e62603da264c94306b263cc"
   },
   {
     "repo": "status.prodevopsguytech.com",
@@ -468,8 +468,8 @@
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-09-23T18:38:24Z",
-    "lastCommit": "808ad47bf3a96dd4a82fd5ee2b1f12eddb3e1ddc"
+    "lastUpdated": "2026-09-30T19:18:37Z",
+    "lastCommit": "4470af508273af706a338f5fd0db2fcde5bf1aba"
   },
   {
     "repo": "pipeline-forge",
