@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5296,
-    "forks": 4804,
+    "stars": 5297,
+    "forks": 4805,
     "issues": 30,
-    "lastUpdated": "2026-09-30T21:16:51Z",
+    "lastUpdated": "2026-09-30T23:05:47Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 361,
+    "stars": 362,
     "forks": 272,
     "issues": 3,
-    "lastUpdated": "2026-09-27T22:47:15Z",
+    "lastUpdated": "2026-09-30T23:58:38Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -451,7 +451,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
     "stars": 17,
-    "forks": 20,
+    "forks": 21,
     "issues": 1,
     "lastUpdated": "2026-09-29T18:12:33Z",
     "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-09-30T12:05:36Z",
-    "lastCommit": "417bb9c898a83fd1919faaca299056218f74fd29"
+    "lastUpdated": "2026-09-30T21:58:52Z",
+    "lastCommit": "ff61e5444a5d0505abf368f8f49ae5ed6794e9d8"
   },
   {
     "title": "Links Portfolio",
