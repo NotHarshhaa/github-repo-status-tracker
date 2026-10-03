@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5310,
+    "stars": 5314,
     "forks": 4807,
     "issues": 30,
-    "lastUpdated": "2026-10-03T11:12:22Z",
+    "lastUpdated": "2026-10-03T13:58:50Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 145,
+    "stars": 146,
     "forks": 72,
     "issues": 0,
-    "lastUpdated": "2026-09-29T07:48:38Z",
+    "lastUpdated": "2026-10-03T11:29:38Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-03T04:15:17Z",
-    "lastCommit": "d26a98fa98011491a9e759e968b0888806a91fcd"
+    "lastUpdated": "2026-10-03T11:16:03Z",
+    "lastCommit": "6b9af470a407000c4a95f92ecff7e29eb64dc26a"
   },
   {
     "title": "Links Portfolio",
@@ -682,10 +682,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 33,
+    "stars": 34,
     "forks": 15,
     "issues": 1,
-    "lastUpdated": "2026-10-03T06:02:09Z",
+    "lastUpdated": "2026-10-03T11:50:53Z",
     "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
   },
   {
