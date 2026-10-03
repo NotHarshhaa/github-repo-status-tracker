@@ -542,10 +542,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/cv-portfolio",
       "href": "https://github.com/NotHarshhaa/cv-portfolio"
     },
-    "stars": 12,
+    "stars": 13,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-09-30T18:23:10Z",
+    "lastUpdated": "2026-10-02T22:09:28Z",
     "lastCommit": "eacb3e89619766b51edd7794551d5d9dde39f472"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-02T12:03:01Z",
-    "lastCommit": "86fa36af14f23cb516f7c3ed1f3c2cd48d5a31b2"
+    "lastUpdated": "2026-10-02T21:56:38Z",
+    "lastCommit": "9aec5629168e0d8055718f196189cd903c889595"
   },
   {
     "title": "Links Portfolio",

@@ -1,16 +1,16 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--02%2021%3A56%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--03%2004%3A14%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **10,958** combined stars
+**87** repositories tracked · **10,959** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **10,958** stars · **9,128** forks · **71** open issues
+> **87** repositories · **10,959** stars · **9,128** forks · **71** open issues
 
 ### Quick overview
 
@@ -45,8 +45,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 17 | 21 | 1 | Pass | 2026-09-29 |
 | 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 14 | 37 | 1 | — | 2026-09-04 |
 | 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
-| 30 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
-| 31 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 12 | 12 | 0 | — | 2026-09-30 |
+| 30 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 13 | 12 | 0 | — | 2026-10-02 |
+| 31 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
 | 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 12 | 18 | 0 | Running | 2026-10-02 |
 | 33 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 23 | 0 | — | 2026-06-11 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-09-30 |
@@ -920,6 +920,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:cv-portfolio -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/cv-portfolio">cv-portfolio</a></strong>
+  &nbsp;·&nbsp; ⭐ 13
+  &nbsp;·&nbsp; 🍴 12
+  &nbsp;·&nbsp; CI —
+  <br><sub>A modern, responsive, and print-ready CV portfolio showcasing hands-on expertise across Platform Engineering, DevOps, AI Infrastructure,...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/cv-portfolio?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/cv-portfolio?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/cv-portfolio?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cv-portfolio?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [cv: feat: add views tracking and enhance page layout with new components](https://github.com/NotHarshhaa/cv-portfolio/commit/eacb3e89619766b51edd7794551d5d9dde39f472) |
+| **Commit date** | `2026-09-30` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-10-02` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Topics** | `cv` · `javascript` · `nextjs` · `personal-cv` · `tailwindcss` · `typescript` |
+
+</details>
+
 <!-- repo:devops-project-templates -->
 <details>
 <summary>
@@ -948,34 +976,6 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
-<!-- repo:cv-portfolio -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/cv-portfolio">cv-portfolio</a></strong>
-  &nbsp;·&nbsp; ⭐ 12
-  &nbsp;·&nbsp; 🍴 12
-  &nbsp;·&nbsp; CI —
-  <br><sub>A modern, responsive, and print-ready CV portfolio showcasing hands-on expertise across Platform Engineering, DevOps, AI Infrastructure,...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/cv-portfolio?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/cv-portfolio?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/cv-portfolio?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/cv-portfolio?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [cv: feat: add views tracking and enhance page layout with new components](https://github.com/NotHarshhaa/cv-portfolio/commit/eacb3e89619766b51edd7794551d5d9dde39f472) |
-| **Commit date** | `2026-09-30` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-30` |
-| **License** | `MIT License` |
-| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
-| **Topics** | `cv` · `javascript` · `nextjs` · `personal-cv` · `tailwindcss` · `typescript` |
-
-</details>
-
 <!-- repo:github-repo-status-tracker -->
 <details>
 <summary>
@@ -994,7 +994,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/86fa36af14f23cb516f7c3ed1f3c2cd48d5a31b2) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/9aec5629168e0d8055718f196189cd903c889595) |
 | **Commit date** | `2026-10-02` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-02` |
