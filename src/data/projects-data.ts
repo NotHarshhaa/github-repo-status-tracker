@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5327,
-    "forks": 4817,
+    "stars": 5328,
+    "forks": 4821,
     "issues": 30,
-    "lastUpdated": "2026-10-05T03:53:21Z",
+    "lastUpdated": "2026-10-05T13:32:51Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1217,
+    "stars": 1223,
     "forks": 911,
     "issues": 4,
-    "lastUpdated": "2026-10-05T02:58:50Z",
+    "lastUpdated": "2026-10-05T13:06:07Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 913,
+    "stars": 914,
     "forks": 543,
     "issues": 0,
-    "lastUpdated": "2026-10-04T15:00:09Z",
+    "lastUpdated": "2026-10-05T09:48:12Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -157,7 +157,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 195,
-    "forks": 207,
+    "forks": 208,
     "issues": 0,
     "lastUpdated": "2026-09-28T02:50:03Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
@@ -417,7 +417,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop"
     },
     "stars": 18,
-    "forks": 25,
+    "forks": 26,
     "issues": 0,
     "lastUpdated": "2026-06-04T09:26:19Z",
     "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-04T20:59:39Z",
-    "lastCommit": "81a2f343f95333509bbb6a2126b80ce79ce9add1"
+    "lastUpdated": "2026-10-05T04:35:22Z",
+    "lastCommit": "2faba81d5b76862ece2e42c2fb563f43ee279693"
   },
   {
     "title": "Links Portfolio",
@@ -1074,8 +1074,8 @@ export const PROJECTS: Project[] = [
     "stars": 3,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-09-03T14:33:02Z",
-    "lastCommit": "128120a34aa201ee2d9b3320b20b6950ca382e2a"
+    "lastUpdated": "2026-10-05T09:36:31Z",
+    "lastCommit": "b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc"
   },
   {
     "title": "Pipeline Forge",
@@ -1434,7 +1434,7 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-09-19T07:41:22Z",
+    "lastUpdated": "2026-10-05T12:14:23Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
