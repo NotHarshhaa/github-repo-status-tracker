@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5324,
-    "forks": 4816,
+    "stars": 5327,
+    "forks": 4817,
     "issues": 30,
-    "lastUpdated": "2026-10-04T19:45:15Z",
+    "lastUpdated": "2026-10-05T03:53:21Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1216,
+    "stars": 1217,
     "forks": 911,
     "issues": 4,
-    "lastUpdated": "2026-10-04T16:18:54Z",
+    "lastUpdated": "2026-10-05T02:58:50Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -140,10 +140,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 201,
+    "stars": 202,
     "forks": 212,
     "issues": 0,
-    "lastUpdated": "2026-10-04T15:01:22Z",
+    "lastUpdated": "2026-10-05T02:55:46Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 147,
+    "stars": 148,
     "forks": 73,
     "issues": 0,
-    "lastUpdated": "2026-10-04T14:19:01Z",
+    "lastUpdated": "2026-10-05T02:56:13Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-04T16:37:00Z",
-    "lastCommit": "cdaffbc8b3741986b6b3e8a414e7b20e4d30be1a"
+    "lastUpdated": "2026-10-04T20:59:39Z",
+    "lastCommit": "81a2f343f95333509bbb6a2126b80ce79ce9add1"
   },
   {
     "title": "Links Portfolio",
