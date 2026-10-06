@@ -1,32 +1,32 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--06%2012%3A56%20UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--06%2022%3A26%20UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,019** combined stars
+**87** repositories tracked · **11,024** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,019** stars · **9,155** forks · **72** open issues
+> **87** repositories · **11,024** stars · **9,155** forks · **72** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,333 | 4,825 | 30 | — | 2026-10-06 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,334 | 4,825 | 30 | — | 2026-10-06 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,231 | 913 | 4 | — | 2026-10-06 |
-| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 914 | 543 | 0 | — | 2026-10-05 |
-| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 626 | 232 | 4 | — | 2026-10-01 |
+| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 915 | 542 | 0 | — | 2026-10-06 |
+| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 627 | 232 | 4 | — | 2026-10-06 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 523 | 394 | 1 | — | 2026-10-01 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 365 | 273 | 3 | — | 2026-10-06 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 241 | 162 | 4 | — | 2026-10-01 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 202 | 212 | 0 | — | 2026-10-05 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 195 | 208 | 0 | — | 2026-09-28 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 166 | 122 | 0 | Fail | 2026-09-19 |
-| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 148 | 73 | 0 | — | 2026-10-05 |
+| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 149 | 73 | 0 | — | 2026-10-06 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 138 | 119 | 1 | Fail | 2026-09-22 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 113 | 51 | 0 | — | 2026-09-15 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 61 | 0 | — | 2026-08-10 |
@@ -50,16 +50,16 @@ Updates automatically every 6 hours via GitHub Actions.
 | 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 12 | 18 | 0 | Running | 2026-10-06 |
 | 33 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 23 | 0 | — | 2026-06-11 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-09-30 |
-| 35 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 25 | 0 | — | 2026-04-26 |
+| 35 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 26 | 0 | — | 2026-04-26 |
 | 36 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 8 | 4 | 0 | Pass | 2026-10-05 |
 | 37 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
 | 38 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
 | 39 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
-| 40 | [aws-infra-generator](https://github.com/NotHarshhaa/aws-infra-generator) | 7 | 5 | 0 | — | 2026-09-03 |
-| 41 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 7 | 10 | 0 | — | 2026-09-15 |
-| 42 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 6 | 9 | 0 | — | 2026-09-07 |
-| 43 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-05-09 |
-| 44 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 6 | 13 | 0 | — | 2026-02-09 |
+| 40 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 7 | 13 | 0 | — | 2026-10-06 |
+| 41 | [aws-infra-generator](https://github.com/NotHarshhaa/aws-infra-generator) | 7 | 5 | 0 | — | 2026-09-03 |
+| 42 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 7 | 10 | 0 | — | 2026-09-15 |
+| 43 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 6 | 9 | 0 | — | 2026-09-07 |
+| 44 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-05-09 |
 | 45 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
 | 46 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 6 | 7 | 0 | — | 2026-09-30 |
 | 47 | [devops-incident-agent](https://github.com/NotHarshhaa/devops-incident-agent) | 6 | 3 | 7 | Pass | 2026-10-01 |
@@ -112,7 +112,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,333
+  &nbsp;·&nbsp; ⭐ 5,334
   &nbsp;·&nbsp; 🍴 4,825
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, an...</sub>
@@ -168,8 +168,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/into-the-devops">into-the-devops</a></strong>
-  &nbsp;·&nbsp; ⭐ 914
-  &nbsp;·&nbsp; 🍴 543
+  &nbsp;·&nbsp; ⭐ 915
+  &nbsp;·&nbsp; 🍴 542
   &nbsp;·&nbsp; CI —
   <br><sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elasti...</sub>
 </summary>
@@ -185,7 +185,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) |
 | **Commit date** | `2025-06-22` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-05` |
+| **Repo updated** | `2026-10-06` |
 | **License** | `No license` |
 | **Languages** | `Python` · `Shell` · `HCL` |
 | **Topics** | `ansible` · `aws` · `azure` · `coding` · `containers` · `devops` |
@@ -196,7 +196,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-learning-path">kubernetes-learning-path</a></strong>
-  &nbsp;·&nbsp; ⭐ 626
+  &nbsp;·&nbsp; ⭐ 627
   &nbsp;·&nbsp; 🍴 232
   &nbsp;·&nbsp; CI —
   <br><sub>A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)</sub>
@@ -213,7 +213,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) |
 | **Commit date** | `2025-03-08` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-01` |
+| **Repo updated** | `2026-10-06` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `beginner` · `kubernetes` · `kubernetes-best-practices` · `kubernetes-deployment` · `kubernetes-roadmap` · `kubernetes-setup` |
@@ -392,7 +392,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 148
+  &nbsp;·&nbsp; ⭐ 149
   &nbsp;·&nbsp; 🍴 73
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -409,7 +409,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System](https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a) |
 | **Commit date** | `2026-09-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-05` |
+| **Repo updated** | `2026-10-06` |
 | **License** | `No license` |
 | **Languages** | `Python` · `HTML` |
 | **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
@@ -994,7 +994,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/5de76c89d6beb2d7fcdac38f389b72f39c757d01) |
+| **Latest commit** | [git-tracker: 🔄 Auto-update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/69e09cb5fdd75c7c0534658c4520ed7810f247e7) |
 | **Commit date** | `2026-10-06` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-06` |
@@ -1065,7 +1065,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra">Jenkins-Terraform-AWS-Infra</a></strong>
   &nbsp;·&nbsp; ⭐ 10
-  &nbsp;·&nbsp; 🍴 25
+  &nbsp;·&nbsp; 🍴 26
   &nbsp;·&nbsp; CI —
   <br><sub>Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Security Groups, EC2 instances, and Jenkins...</sub>
 </summary>
@@ -1200,6 +1200,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:uber-clone -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/uber-clone">uber-clone</a></strong>
+  &nbsp;·&nbsp; ⭐ 7
+  &nbsp;·&nbsp; 🍴 13
+  &nbsp;·&nbsp; CI —
+  <br><sub>This repository is a full-stack transportation application inspired by Uber. It includes a React.js frontend and integrates DevSecOps pra...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/uber-clone?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/uber-clone?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/uber-clone?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/uber-clone?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [Uber-clone: Push Source code files and Setup Uber Clone project with Next.js, Tailwind...](https://github.com/NotHarshhaa/uber-clone/commit/d54f10fc513fc2fdd33f92041ae0f9dfaac36c43) |
+| **Commit date** | `2025-03-20` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-10-06` |
+| **License** | `No license` |
+| **Languages** | `JavaScript` · `HCL` · `CSS` · `Dockerfile` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:aws-infra-generator -->
 <details>
 <summary>
@@ -1308,34 +1336,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Repo updated** | `2026-05-09` |
 | **License** | `No license` |
 | **Languages** | `TypeScript` · `MDX` · `CSS` · `JavaScript` |
-| **Topics** | _None_ |
-
-</details>
-
-<!-- repo:uber-clone -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/uber-clone">uber-clone</a></strong>
-  &nbsp;·&nbsp; ⭐ 6
-  &nbsp;·&nbsp; 🍴 13
-  &nbsp;·&nbsp; CI —
-  <br><sub>This repository is a full-stack transportation application inspired by Uber. It includes a React.js frontend and integrates DevSecOps pra...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/uber-clone?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/uber-clone?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/uber-clone?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/uber-clone?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [Uber-clone: Push Source code files and Setup Uber Clone project with Next.js, Tailwind...](https://github.com/NotHarshhaa/uber-clone/commit/d54f10fc513fc2fdd33f92041ae0f9dfaac36c43) |
-| **Commit date** | `2025-03-20` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-02-09` |
-| **License** | `No license` |
-| **Languages** | `JavaScript` · `HCL` · `CSS` · `Dockerfile` |
 | **Topics** | _None_ |
 
 </details>

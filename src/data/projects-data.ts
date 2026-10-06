@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5333,
+    "stars": 5334,
     "forks": 4825,
     "issues": 30,
-    "lastUpdated": "2026-10-06T06:42:20Z",
+    "lastUpdated": "2026-10-06T14:36:53Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -60,10 +60,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 914,
-    "forks": 543,
+    "stars": 915,
+    "forks": 542,
     "issues": 0,
-    "lastUpdated": "2026-10-05T09:48:12Z",
+    "lastUpdated": "2026-10-06T14:34:16Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 626,
+    "stars": 627,
     "forks": 232,
     "issues": 4,
-    "lastUpdated": "2026-10-01T17:40:58Z",
+    "lastUpdated": "2026-10-06T14:40:23Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -229,10 +229,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 148,
+    "stars": 149,
     "forks": 73,
     "issues": 0,
-    "lastUpdated": "2026-10-05T02:56:13Z",
+    "lastUpdated": "2026-10-06T17:33:22Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -524,7 +524,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra"
     },
     "stars": 10,
-    "forks": 25,
+    "forks": 26,
     "issues": 0,
     "lastUpdated": "2026-04-26T11:51:26Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-06T05:20:50Z",
-    "lastCommit": "5de76c89d6beb2d7fcdac38f389b72f39c757d01"
+    "lastUpdated": "2026-10-06T12:57:32Z",
+    "lastCommit": "69e09cb5fdd75c7c0534658c4520ed7810f247e7"
   },
   {
     "title": "Links Portfolio",
@@ -666,10 +666,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/uber-clone",
       "href": "https://github.com/NotHarshhaa/uber-clone"
     },
-    "stars": 6,
+    "stars": 7,
     "forks": 13,
     "issues": 0,
-    "lastUpdated": "2026-02-09T10:06:59Z",
+    "lastUpdated": "2026-10-06T17:41:13Z",
     "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
   },
   {
