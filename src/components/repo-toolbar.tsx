@@ -13,9 +13,9 @@ type Props = {
   status: StatusFilter
   visibleCount: number
   totalCount: number
-  onQueryChange: (_value: string) => void // eslint-disable-line @typescript-eslint/no-unused-vars
-  onSortChange: (_value: SortOption) => void // eslint-disable-line @typescript-eslint/no-unused-vars
-  onStatusChange: (_value: StatusFilter) => void // eslint-disable-line @typescript-eslint/no-unused-vars
+  onQueryChange: (value: string) => void
+  onSortChange: (value: SortOption) => void
+  onStatusChange: (value: StatusFilter) => void
 }
 
 const sortOptions: { value: SortOption; label: string }[] = [

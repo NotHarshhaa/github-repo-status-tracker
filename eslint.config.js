@@ -9,6 +9,7 @@ import eslintPluginReactRefresh from 'eslint-plugin-react-refresh'
 
 export default [
   { ignores: ['.next/', 'node_modules/', 'dist/', 'build/', 'scripts/', '*.config.*'] },
+  js.configs.recommended,
   ...typescriptEslint.configs.recommended,
   ...nextPlugin,
   {
@@ -48,5 +49,4 @@ export default [
       ],
     },
   },
-  js.configs.recommended,
 ]
