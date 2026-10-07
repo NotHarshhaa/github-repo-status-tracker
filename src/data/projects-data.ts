@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5338,
-    "forks": 4825,
+    "stars": 5340,
+    "forks": 4826,
     "issues": 30,
-    "lastUpdated": "2026-10-07T04:30:33Z",
+    "lastUpdated": "2026-10-07T10:28:42Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1232,
+    "stars": 1233,
     "forks": 913,
     "issues": 4,
-    "lastUpdated": "2026-10-07T00:56:18Z",
+    "lastUpdated": "2026-10-07T09:10:03Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -76,10 +76,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 627,
+    "stars": 628,
     "forks": 232,
     "issues": 4,
-    "lastUpdated": "2026-10-06T14:40:23Z",
+    "lastUpdated": "2026-10-07T08:22:52Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -92,10 +92,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 523,
+    "stars": 524,
     "forks": 394,
     "issues": 1,
-    "lastUpdated": "2026-10-01T17:52:47Z",
+    "lastUpdated": "2026-10-07T09:10:10Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -108,10 +108,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 365,
+    "stars": 366,
     "forks": 273,
     "issues": 3,
-    "lastUpdated": "2026-10-06T10:15:19Z",
+    "lastUpdated": "2026-10-07T09:10:11Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -210,10 +210,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 113,
+    "stars": 114,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-09-15T13:03:26Z",
+    "lastUpdated": "2026-10-07T08:15:21Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-06T22:27:52Z",
-    "lastCommit": "c3aa1191721ecedc4e016a055dfa42e3c0cfd75e"
+    "lastUpdated": "2026-10-07T04:48:59Z",
+    "lastCommit": "c8de40c81256d70ce1fb1794acff0403e6d3cd3a"
   },
   {
     "title": "Links Portfolio",
@@ -1291,10 +1291,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/terraview",
       "href": "https://github.com/NotHarshhaa/terraview"
     },
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-08-01T14:48:01Z",
+    "lastUpdated": "2026-10-07T05:42:34Z",
     "lastCommit": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f"
   },
   {
