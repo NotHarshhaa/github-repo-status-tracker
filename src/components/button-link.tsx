@@ -1,39 +1,61 @@
 import { MailIcon, PhoneIcon, AppWindowIcon, LinkIcon } from 'lucide-react'
-import { Tooltip, TooltipContent, TooltipTrigger } from './ui/tooltip'
-import { Button } from './ui/button'
-import { type ResumeData } from '@/types'
+import { GitHubIcon } from '@/components/icons/github-icon'
+import { LinkedInIcon } from '@/components/icons/linkedin-icon'
+import { TelegramIcon } from '@/components/icons/telegram-icon'
+import { XIcon } from '@/components/icons/x-icon'
+import { siteConfig } from '@/config/site.config'
 import { cn } from '@/lib/utils'
+import { Button } from './ui/button'
+import { Tooltip, TooltipContent, TooltipTrigger } from './ui/tooltip'
 
-export function ButtonLink({ data }: { data: ResumeData }) {
+export function ButtonLink() {
 	const linkData = [
 		{
-			url: data.personalWebsiteUrl?.url,
+			url: siteConfig.author.website,
 			icon: AppWindowIcon,
-			name: data.personalWebsiteUrl?.name,
+			name: siteConfig.author.name + ' Portfolio',
 			type: 'website',
 		},
 		{
-			url: `mailto:${data.contact.email?.at}`,
+			url: `mailto:${siteConfig.author.email}`,
 			icon: MailIcon,
-			name: data.contact.email?.name,
+			name: 'Email',
 			type: 'email',
 		},
 		{
-			url: `tel:${data.contact.tel?.phoneNumber}`,
+			url: `tel:${siteConfig.author.phone}`,
 			icon: PhoneIcon,
-			name: data.contact.tel?.name,
+			name: 'Phone',
 			type: 'phone',
 		},
-		...data.contact.social.map((social) => ({
-			url: social.url,
-			icon: social.icon,
-			name: social.name,
-			type: 'social',
-		})),
 		{
-			url: data.contact.link?.url,
+			url: siteConfig.social.github,
+			icon: GitHubIcon,
+			name: 'GitHub',
+			type: 'social',
+		},
+		{
+			url: siteConfig.social.linkedin,
+			icon: LinkedInIcon,
+			name: 'LinkedIn',
+			type: 'social',
+		},
+		{
+			url: siteConfig.social.twitter,
+			icon: XIcon,
+			name: 'Twitter',
+			type: 'social',
+		},
+		{
+			url: siteConfig.social.telegram,
+			icon: TelegramIcon,
+			name: 'Telegram',
+			type: 'social',
+		},
+		{
+			url: siteConfig.author.linksUrl,
 			icon: LinkIcon,
-			name: data.contact.link?.name,
+			name: 'Other Links',
 			type: 'other links',
 		}
 	]

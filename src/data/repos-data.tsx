@@ -1,3 +1,4 @@
+import type React from 'react'
 import { GitHubIcon, LinkedInIcon, TelegramIcon } from '@/components/icons'
 import { PROJECTS } from './projects-data'
 

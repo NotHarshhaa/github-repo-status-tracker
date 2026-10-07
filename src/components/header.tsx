@@ -1,13 +1,14 @@
 'use client'
 
 import { Github, Info, Layers, FolderGit2, Sun, Moon, ArrowDown, Menu, X } from 'lucide-react'
-import { useMemo, useState } from 'react'
 import { useTheme } from 'next-themes'
+import type React from 'react'
+import { useMemo, useState } from 'react'
 import { ButtonLink } from '@/components/button-link'
-import { HoverMark } from '@/components/hover-mark'
 import { Frame, FrameBody, FrameHeader } from '@/components/frame'
+import { HoverMark } from '@/components/hover-mark'
+import { siteConfig } from '@/config/site.config'
 import { data } from '@/constants'
-import { cn } from '@/lib/utils'
 import { getProjectStats } from '@/lib/project-utils'
 
 export function Header() {
@@ -21,7 +22,7 @@ export function Header() {
   return (
     <header className="w-full">
       <Frame className="border-b-0">
-        <FrameHeader label="DevOps GitHub Repos">
+        <FrameHeader label={siteConfig.site.name}>
           <div className="flex items-center gap-2">
             <Github className="size-4 text-muted-foreground" />
             <span className="hidden font-mono text-[11px] text-muted-foreground sm:inline">
@@ -86,7 +87,7 @@ export function Header() {
               Most Useful DevOps/Cloud GitHub Repositories for Learning
             </h1>
             <p className="text-base leading-relaxed text-muted-foreground">
-              A curated list of DevOps and Cloud GitHub repositories to help you learn essential skills and become a professional DevOps Engineer.
+              {siteConfig.site.description}
             </p>
             <p className="font-mono text-xs text-muted-foreground">
               {stats.total} repositories · {stats.stars.toLocaleString()} combined stars · search, filter, and sort below
@@ -102,7 +103,7 @@ export function Header() {
               <ArrowDown className="size-4" />
             </a>
             <a
-              href="https://github.com/NotHarshhaa/github-repo-status-tracker"
+              href={siteConfig.github.url}
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center justify-center gap-2 border border-border bg-background px-5 py-2.5 text-sm font-medium transition-colors hover:bg-muted"
@@ -112,7 +113,7 @@ export function Header() {
             </a>
           </div>
 
-          <ButtonLink data={data} />
+          <ButtonLink />
         </FrameBody>
       </Frame>
     </header>

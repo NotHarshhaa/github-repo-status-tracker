@@ -1,18 +1,16 @@
 'use client';
 
-import { Badge } from '@/components/ui/badge'
+import { ArrowUp } from 'lucide-react'
+import { useEffect, useMemo, useState } from 'react'
+import { Footer } from '@/components/footer'
+import { Frame, FrameBody, FrameHeader } from '@/components/frame'
+import { Header } from '@/components/header'
 import { ProjectCard } from '@/components/project-card'
 import { RepoStats } from '@/components/repo-stats'
 import { RepoToolbar } from '@/components/repo-toolbar'
-import { Frame, FrameBody, FrameHeader } from '@/components/frame'
-import { ArrowUp } from 'lucide-react'
-import { data } from '@/constants'
+import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { useEffect, useMemo, useState } from 'react'
-import { cn } from '@/lib/utils'
-import { Header } from '@/components/header'
-import { Footer } from '@/components/footer'
-import { TooltipProvider } from '@/components/ui/tooltip'
+import { data } from '@/constants'
 import {
   filterProjects,
   getProjectStats,
@@ -21,6 +19,7 @@ import {
   type SortOption,
   type StatusFilter,
 } from '@/lib/project-utils'
+import { cn } from '@/lib/utils'
 
 export default function Page() {
 	const [showScrollTop, setShowScrollTop] = useState(false)
@@ -28,15 +27,15 @@ export default function Page() {
 	const [sortBy, setSortBy] = useState<SortOption>('stars')
 	const [status, setStatus] = useState<StatusFilter>('all')
 
-	const stats = useMemo(() => getProjectStats(data.projects), [data.projects])
+	const stats = useMemo(() => getProjectStats(data.projects), [])
 
 	const filteredProjects = useMemo(() => {
 		const filtered = filterProjects(data.projects, query, status)
 		return sortProjects(filtered, sortBy)
-	}, [data.projects, query, sortBy, status])
+	}, [query, sortBy, status])
 
 	useEffect(() => {
-		let timeoutId: NodeJS.Timeout
+		let timeoutId: ReturnType<typeof setTimeout>
 		let lastScrollY = 0
 		
 		const handleScroll = () => {
@@ -66,8 +65,7 @@ export default function Page() {
 	}
 
 	return (
-		<TooltipProvider>
-			<main className="min-h-screen">
+		<main className="min-h-screen">
 				<Header />
 				<div className="relative space-y-8 py-8 sm:space-y-10 sm:py-10 print:p-12">
 					<Frame id="about">
@@ -176,6 +174,5 @@ export default function Page() {
 				</Button>
 				<Footer />
 			</main>
-		</TooltipProvider>
 	)
 }

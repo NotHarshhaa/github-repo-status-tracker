@@ -1,10 +1,10 @@
 'use client'
 
-import { memo, useMemo } from 'react'
 import { ArrowUpRight, Bug, Clock, GitCommit, GitFork, Star } from 'lucide-react'
-import { Badge } from './ui/badge'
-import { HoverMark } from './hover-mark'
+import { memo, useMemo } from 'react'
 import { cn } from '@/lib/utils'
+import { HoverMark } from './hover-mark'
+import { Badge } from './ui/badge'
 
 interface Props {
   title: string

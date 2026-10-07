@@ -1,10 +1,11 @@
 'use client'
 
 import { Search, SlidersHorizontal } from 'lucide-react'
-import { Badge } from '@/components/ui/badge'
+import { useEffect, useRef, useCallback } from 'react'
 import { Frame, FrameBody, FrameHeader } from '@/components/frame'
-import { cn } from '@/lib/utils'
+import { Badge } from '@/components/ui/badge'
 import type { SortOption, StatusFilter } from '@/lib/project-utils'
+import { cn } from '@/lib/utils'
 
 type Props = {
   query: string
@@ -12,9 +13,9 @@ type Props = {
   status: StatusFilter
   visibleCount: number
   totalCount: number
-  onQueryChange: (value: string) => void
-  onSortChange: (value: SortOption) => void
-  onStatusChange: (value: StatusFilter) => void
+  onQueryChange: (_value: string) => void // eslint-disable-line @typescript-eslint/no-unused-vars
+  onSortChange: (_value: SortOption) => void // eslint-disable-line @typescript-eslint/no-unused-vars
+  onStatusChange: (_value: StatusFilter) => void // eslint-disable-line @typescript-eslint/no-unused-vars
 }
 
 const sortOptions: { value: SortOption; label: string }[] = [
@@ -30,6 +31,8 @@ const statusOptions: { value: StatusFilter; label: string }[] = [
   { value: 'inactive', label: 'Inactive' },
 ]
 
+const DEBOUNCE_MS = 300
+
 export function RepoToolbar({
   query,
   sortBy,
@@ -40,6 +43,28 @@ export function RepoToolbar({
   onSortChange,
   onStatusChange,
 }: Props) {
+  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  const debouncedOnQueryChange = useCallback(
+    (value: string) => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current)
+      }
+      timeoutRef.current = setTimeout(() => {
+        onQueryChange(value)
+      }, DEBOUNCE_MS)
+    },
+    [onQueryChange]
+  )
+
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current)
+      }
+    }
+  }, [])
+
   return (
     <Frame>
       <FrameHeader label="Filter">
@@ -54,7 +79,7 @@ export function RepoToolbar({
           <input
             type="search"
             value={query}
-            onChange={(event) => onQueryChange(event.target.value)}
+            onChange={(event) => debouncedOnQueryChange(event.target.value)}
             placeholder="Search repositories, topics, or tech stack..."
             className={cn(
               'h-10 w-full border border-border bg-background pl-10 pr-4 text-sm',
