@@ -27,10 +27,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5334,
+    "stars": 5338,
     "forks": 4825,
     "issues": 30,
-    "lastUpdated": "2026-10-06T14:36:53Z",
+    "lastUpdated": "2026-10-07T04:30:33Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -44,10 +44,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/NotHarshhaa/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1231,
+    "stars": 1232,
     "forks": 913,
     "issues": 4,
-    "lastUpdated": "2026-10-06T12:19:23Z",
+    "lastUpdated": "2026-10-07T00:56:18Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -211,7 +211,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
     "stars": 113,
-    "forks": 51,
+    "forks": 52,
     "issues": 0,
     "lastUpdated": "2026-09-15T13:03:26Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -614,8 +614,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-06T12:57:32Z",
-    "lastCommit": "69e09cb5fdd75c7c0534658c4520ed7810f247e7"
+    "lastUpdated": "2026-10-06T22:27:52Z",
+    "lastCommit": "c3aa1191721ecedc4e016a055dfa42e3c0cfd75e"
   },
   {
     "title": "Links Portfolio",
