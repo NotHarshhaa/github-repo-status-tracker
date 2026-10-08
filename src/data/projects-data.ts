@@ -34,9 +34,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5342,
-    "forks": 4831,
+    "forks": 4837,
     "issues": 30,
-    "lastUpdated": "2026-10-08T12:07:25Z",
+    "lastUpdated": "2026-10-08T19:50:04Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1237,
-    "forks": 914,
+    "stars": 1242,
+    "forks": 916,
     "issues": 4,
-    "lastUpdated": "2026-10-08T08:13:44Z",
+    "lastUpdated": "2026-10-08T17:33:59Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -76,7 +76,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 915,
-    "forks": 542,
+    "forks": 543,
     "issues": 0,
     "lastUpdated": "2026-10-06T14:34:16Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-08T05:15:53Z",
-    "lastCommit": "928be508646e50b94dfaac2335138c89f31262f4"
+    "lastUpdated": "2026-10-08T13:04:38Z",
+    "lastCommit": "957f062275cbd61faac4688958a092c184f51d73"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -964,6 +964,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "462f4821383cdfb92e62603da264c94306b263cc"
   },
   {
+    "title": "Devops project generator",
+    "techStack": [
+      "devops",
+      "devops-gen",
+      "devops-project",
+      "devops-project-generator",
+      "project-gen",
+      "project-generator"
+    ],
+    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "link": {
+      "label": "github.com/devops-project-generator",
+      "href": "https://github.com/NotHarshhaa/devops-project-generator"
+    },
+    "stars": 6,
+    "forks": 10,
+    "issues": 0,
+    "lastUpdated": "2026-10-08T17:54:58Z",
+    "lastCommit": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b"
+  },
+  {
     "title": "Devops incident agent",
     "techStack": [
       "Python",
@@ -999,27 +1020,6 @@ export const PROJECTS: Project[] = [
     "issues": 1,
     "lastUpdated": "2025-02-22T19:57:13Z",
     "lastCommit": "97fb1167d78a6f050c4031432dc5f5f5a5b1de5a"
-  },
-  {
-    "title": "Devops project generator",
-    "techStack": [
-      "devops",
-      "devops-gen",
-      "devops-project",
-      "devops-project-generator",
-      "project-gen",
-      "project-generator"
-    ],
-    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "link": {
-      "label": "github.com/devops-project-generator",
-      "href": "https://github.com/NotHarshhaa/devops-project-generator"
-    },
-    "stars": 5,
-    "forks": 10,
-    "issues": 0,
-    "lastUpdated": "2026-09-25T21:53:48Z",
-    "lastCommit": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b"
   },
   {
     "title": "Jobs.prodevopsguytech.com",
@@ -1109,8 +1109,8 @@ export const PROJECTS: Project[] = [
     "stars": 3,
     "forks": 8,
     "issues": 0,
-    "lastUpdated": "2026-05-25T06:58:56Z",
-    "lastCommit": "c68e5af9002337e9060e87263e53da039214a07a"
+    "lastUpdated": "2026-10-08T17:50:51Z",
+    "lastCommit": "43a24c497ac6f858ad45911803ac837c765c1010"
   },
   {
     "title": "Prodevopsguy.hashnode.dev",

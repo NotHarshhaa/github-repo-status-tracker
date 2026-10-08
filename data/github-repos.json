@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5342,
-    "forks": 4831,
+    "forks": 4837,
     "watchers": 5342,
     "ci_cd_status": "none",
     "languages": [
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-08T12:07:25Z"
+    "raw_updated_at": "2026-10-08T19:50:04Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1237,
-    "forks": 914,
-    "watchers": 1237,
+    "stars": 1242,
+    "forks": 916,
+    "watchers": 1242,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-08T08:13:44Z"
+    "raw_updated_at": "2026-10-08T17:33:59Z"
   },
   {
     "repo": "into-the-devops",
@@ -90,7 +90,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 915,
-    "forks": 542,
+    "forks": 543,
     "watchers": 915,
     "ci_cd_status": "none",
     "languages": [
@@ -1007,8 +1007,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-08",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/928be508646e50b94dfaac2335138c89f31262f4",
-    "commit_sha": "928be508646e50b94dfaac2335138c89f31262f4",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/957f062275cbd61faac4688958a092c184f51d73",
+    "commit_sha": "957f062275cbd61faac4688958a092c184f51d73",
     "commit_date": "2026-10-08",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "github-actions[bot]",
@@ -1026,7 +1026,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-08T05:15:53Z"
+    "raw_updated_at": "2026-10-08T13:04:38Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1456,6 +1456,39 @@
     "raw_updated_at": "2026-09-30T17:51:00Z"
   },
   {
+    "repo": "devops-project-generator",
+    "url": "https://github.com/NotHarshhaa/devops-project-generator",
+    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "last_updated": "2026-10-08",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
+    "commit_sha": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
+    "commit_date": "2026-09-14",
+    "commit_message": "devops-gen: Enhance CLI with DevContainer and Git initialization options",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 6,
+    "forks": 10,
+    "watchers": 6,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Jinja",
+      "Shell",
+      "CSS"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "devops",
+      "devops-gen",
+      "devops-project",
+      "devops-project-generator",
+      "project-gen",
+      "project-generator"
+    ],
+    "raw_updated_at": "2026-10-08T17:54:58Z"
+  },
+  {
     "repo": "devops-incident-agent",
     "url": "https://github.com/NotHarshhaa/devops-incident-agent",
     "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
@@ -1503,39 +1536,6 @@
     "license": "MIT License",
     "topics": [],
     "raw_updated_at": "2025-02-22T19:57:13Z"
-  },
-  {
-    "repo": "devops-project-generator",
-    "url": "https://github.com/NotHarshhaa/devops-project-generator",
-    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "last_updated": "2026-09-25",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_sha": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_date": "2026-09-14",
-    "commit_message": "devops-gen: Enhance CLI with DevContainer and Git initialization options",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 5,
-    "forks": 10,
-    "watchers": 5,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "Jinja",
-      "Shell",
-      "CSS"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "devops",
-      "devops-gen",
-      "devops-project",
-      "devops-project-generator",
-      "project-gen",
-      "project-generator"
-    ],
-    "raw_updated_at": "2026-09-25T21:53:48Z"
   },
   {
     "repo": "jobs.prodevopsguytech.com",
@@ -1644,11 +1644,11 @@
     "repo": "status.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/status.prodevopsguytech.com",
     "description": "A modern, responsive status dashboard for monitoring the health and up-time of our web services and applications. ",
-    "last_updated": "2026-05-25",
-    "latest_commit": "https://github.com/NotHarshhaa/status.prodevopsguytech.com/commit/c68e5af9002337e9060e87263e53da039214a07a",
-    "commit_sha": "c68e5af9002337e9060e87263e53da039214a07a",
-    "commit_date": "2026-05-25",
-    "commit_message": "status: Improve Notification component with useCallback and useMemo",
+    "last_updated": "2026-10-08",
+    "latest_commit": "https://github.com/NotHarshhaa/status.prodevopsguytech.com/commit/43a24c497ac6f858ad45911803ac837c765c1010",
+    "commit_sha": "43a24c497ac6f858ad45911803ac837c765c1010",
+    "commit_date": "2026-10-08",
+    "commit_message": "status: Enhance site monitoring features and UI components",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 3,
@@ -1661,7 +1661,7 @@
     ],
     "license": "No license",
     "topics": [],
-    "raw_updated_at": "2026-05-25T06:58:56Z"
+    "raw_updated_at": "2026-10-08T17:50:51Z"
   },
   {
     "repo": "prodevopsguy.hashnode.dev",
