@@ -34,9 +34,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5342,
-    "forks": 4830,
+    "forks": 4831,
     "issues": 30,
-    "lastUpdated": "2026-10-08T05:09:12Z",
+    "lastUpdated": "2026-10-08T12:07:25Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1236,
+    "stars": 1237,
     "forks": 914,
     "issues": 4,
-    "lastUpdated": "2026-10-08T00:30:26Z",
+    "lastUpdated": "2026-10-08T08:13:44Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -448,7 +448,7 @@ export const PROJECTS: Project[] = [
     },
     "stars": 33,
     "forks": 34,
-    "issues": 1,
+    "issues": 2,
     "lastUpdated": "2026-10-01T19:11:58Z",
     "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
   },
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-07T18:46:29Z",
-    "lastCommit": "76cdda0ae89cdcad854f6ad6d7332d183549bf98"
+    "lastUpdated": "2026-10-08T05:15:53Z",
+    "lastCommit": "928be508646e50b94dfaac2335138c89f31262f4"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -878,7 +878,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
     },
     "stars": 7,
-    "forks": 10,
+    "forks": 11,
     "issues": 0,
     "lastUpdated": "2026-09-15T09:04:38Z",
     "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
