@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5342,
-    "forks": 4838,
+    "stars": 5345,
+    "forks": 4842,
     "issues": 30,
-    "lastUpdated": "2026-10-09T00:40:06Z",
+    "lastUpdated": "2026-10-09T12:49:29Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1242,
+    "stars": 1245,
     "forks": 917,
     "issues": 4,
-    "lastUpdated": "2026-10-08T17:33:59Z",
+    "lastUpdated": "2026-10-09T11:47:35Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 628,
+    "stars": 630,
     "forks": 233,
     "issues": 4,
-    "lastUpdated": "2026-10-07T08:22:52Z",
+    "lastUpdated": "2026-10-09T12:16:03Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -180,10 +180,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 202,
+    "stars": 203,
     "forks": 212,
     "issues": 0,
-    "lastUpdated": "2026-10-05T02:55:46Z",
+    "lastUpdated": "2026-10-09T09:24:14Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 149,
+    "stars": 150,
     "forks": 73,
     "issues": 0,
-    "lastUpdated": "2026-10-06T17:33:22Z",
+    "lastUpdated": "2026-10-09T09:24:20Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 114,
+    "stars": 115,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-10-07T08:15:21Z",
+    "lastUpdated": "2026-10-09T10:58:43Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -446,11 +446,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/From-Docker-to-Kubernetes",
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
-    "stars": 33,
+    "stars": 34,
     "forks": 34,
     "issues": 2,
-    "lastUpdated": "2026-10-01T19:11:58Z",
-    "lastCommit": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110"
+    "lastUpdated": "2026-10-09T09:24:02Z",
+    "lastCommit": "80408e3d8f4838dfe2172a6d2ceab9e533c0680c"
   },
   {
     "title": "A W S  Dev Ops  Real  Time  Deployment",
@@ -536,6 +536,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
   },
   {
+    "title": "Devops monitoring in a box",
+    "techStack": [
+      "alertmanager",
+      "devops-monitoring",
+      "docker",
+      "docker-compose",
+      "grafana",
+      "grafana-dashboard"
+    ],
+    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
+    "link": {
+      "label": "github.com/devops-monitoring-in-a-box",
+      "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
+    },
+    "stars": 18,
+    "forks": 21,
+    "issues": 1,
+    "lastUpdated": "2026-10-09T09:24:16Z",
+    "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
+  },
+  {
     "title": "Zomato  Clone",
     "techStack": [
       "devsecops",
@@ -555,27 +576,6 @@ export const PROJECTS: Project[] = [
     "issues": 2,
     "lastUpdated": "2026-09-04T05:47:24Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
-  },
-  {
-    "title": "Devops monitoring in a box",
-    "techStack": [
-      "alertmanager",
-      "devops-monitoring",
-      "docker",
-      "docker-compose",
-      "grafana",
-      "grafana-dashboard"
-    ],
-    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
-    "link": {
-      "label": "github.com/devops-monitoring-in-a-box",
-      "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
-    },
-    "stars": 17,
-    "forks": 21,
-    "issues": 1,
-    "lastUpdated": "2026-09-29T18:12:33Z",
-    "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-09T05:11:54Z",
-    "lastCommit": "2c9066bd7b2475f8b632901d422e6a72037f6ebe"
+    "lastUpdated": "2026-10-09T05:19:10Z",
+    "lastCommit": "f2054fe30fada4d9ce03e0912f83c5cf09c86f23"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -691,7 +691,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy"
     },
     "stars": 11,
-    "forks": 23,
+    "forks": 24,
     "issues": 0,
     "lastUpdated": "2026-06-11T21:58:36Z",
     "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
@@ -753,10 +753,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 8,
+    "stars": 9,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-05T12:14:23Z",
+    "lastUpdated": "2026-10-09T09:24:31Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
@@ -863,6 +863,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "8fe2ab96143dd48d8d0659f487ccad940e6e9ce1"
   },
   {
+    "title": "Devops project generator",
+    "techStack": [
+      "devops",
+      "devops-gen",
+      "devops-project",
+      "devops-project-generator",
+      "project-gen",
+      "project-generator"
+    ],
+    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "link": {
+      "label": "github.com/devops-project-generator",
+      "href": "https://github.com/NotHarshhaa/devops-project-generator"
+    },
+    "stars": 7,
+    "forks": 10,
+    "issues": 0,
+    "lastUpdated": "2026-10-09T09:24:34Z",
+    "lastCommit": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b"
+  },
+  {
     "title": "Azure devops zero to hero",
     "techStack": [
       "azure-artifacts",
@@ -962,27 +983,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-09-30T17:51:00Z",
     "lastCommit": "462f4821383cdfb92e62603da264c94306b263cc"
-  },
-  {
-    "title": "Devops project generator",
-    "techStack": [
-      "devops",
-      "devops-gen",
-      "devops-project",
-      "devops-project-generator",
-      "project-gen",
-      "project-generator"
-    ],
-    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "link": {
-      "label": "github.com/devops-project-generator",
-      "href": "https://github.com/NotHarshhaa/devops-project-generator"
-    },
-    "stars": 6,
-    "forks": 10,
-    "issues": 0,
-    "lastUpdated": "2026-10-08T17:54:58Z",
-    "lastCommit": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b"
   },
   {
     "title": "Devops incident agent",
@@ -1096,6 +1096,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "be2441c97cfa3402899e4da57d99e24b886add9c"
   },
   {
+    "title": "Devops mcp",
+    "techStack": [
+      "argocd",
+      "devops",
+      "gitops",
+      "kubectl",
+      "kubernetes",
+      "mcp"
+    ],
+    "description": "Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
+    "link": {
+      "label": "github.com/devops-mcp",
+      "href": "https://github.com/NotHarshhaa/devops-mcp"
+    },
+    "stars": 4,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-10-09T09:24:11Z",
+    "lastCommit": "b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc"
+  },
+  {
     "title": "Status.prodevopsguytech.com",
     "techStack": [
       "JavaScript",
@@ -1200,27 +1221,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-09-14T18:12:41Z",
     "lastCommit": "f367a1c6d6a5f9af5978c0c87fd54e4076c721b9"
-  },
-  {
-    "title": "Devops mcp",
-    "techStack": [
-      "argocd",
-      "devops",
-      "gitops",
-      "kubectl",
-      "kubernetes",
-      "mcp"
-    ],
-    "description": "Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
-    "link": {
-      "label": "github.com/devops-mcp",
-      "href": "https://github.com/NotHarshhaa/devops-mcp"
-    },
-    "stars": 3,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-10-05T09:36:31Z",
-    "lastCommit": "b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc"
   },
   {
     "title": "Mlops project generator",

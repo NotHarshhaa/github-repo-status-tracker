@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5342,
-    "forks": 4838,
-    "watchers": 5342,
+    "stars": 5345,
+    "forks": 4842,
+    "watchers": 5345,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-09T00:40:06Z"
+    "raw_updated_at": "2026-10-09T12:49:29Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1242,
+    "stars": 1245,
     "forks": 917,
-    "watchers": 1242,
+    "watchers": 1245,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-08T17:33:59Z"
+    "raw_updated_at": "2026-10-09T11:47:35Z"
   },
   {
     "repo": "into-the-devops",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-07",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 628,
+    "stars": 630,
     "forks": 233,
-    "watchers": 628,
+    "watchers": 630,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-07T08:22:52Z"
+    "raw_updated_at": "2026-10-09T12:16:03Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -256,16 +256,16 @@
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 202,
+    "stars": 203,
     "forks": 212,
-    "watchers": 202,
+    "watchers": 203,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -280,7 +280,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-10-05T02:55:46Z"
+    "raw_updated_at": "2026-10-09T09:24:14Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -350,16 +350,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-06",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 149,
+    "stars": 150,
     "forks": 73,
-    "watchers": 149,
+    "watchers": 150,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-06T17:33:22Z"
+    "raw_updated_at": "2026-10-09T09:24:20Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -420,16 +420,16 @@
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
     "description": "A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience, build your portfolio, and prepare for certifications.",
-    "last_updated": "2026-10-07",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_sha": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_date": "2025-11-11",
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 114,
+    "stars": 115,
     "forks": 52,
-    "watchers": 114,
+    "watchers": 115,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -443,7 +443,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-10-07T08:15:21Z"
+    "raw_updated_at": "2026-10-09T10:58:43Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -669,21 +669,22 @@
     "repo": "From-Docker-to-Kubernetes",
     "url": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes",
     "description": "A hands-on learning repository to help you master containerization and orchestration — starting with Docker fundamentals and progressing to real-world Kubernetes deployments. Ideal for developers, DevOps engineers, and learners building modern cloud-native workflows.",
-    "last_updated": "2026-10-01",
-    "latest_commit": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110",
-    "commit_sha": "79fbf1f0128c7b2d4f09f9d31d8eed896219f110",
-    "commit_date": "2025-07-24",
-    "commit_message": "dockertok8s: feat: From Docker to Kubernetes v2.4.0 release",
+    "last_updated": "2026-10-09",
+    "latest_commit": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/80408e3d8f4838dfe2172a6d2ceab9e533c0680c",
+    "commit_sha": "80408e3d8f4838dfe2172a6d2ceab9e533c0680c",
+    "commit_date": "2026-10-09",
+    "commit_message": "dockertok8s: feat: Introduce new tools section with Dockerfile Generator and CLI Cheat Sheet",
     "author": "NotHarshhaa",
     "issues": 2,
-    "stars": 33,
+    "stars": 34,
     "forks": 34,
-    "watchers": 33,
+    "watchers": 34,
     "ci_cd_status": "none",
     "languages": [
+      "Vue",
       "TypeScript",
-      "JavaScript",
-      "CSS"
+      "CSS",
+      "JavaScript"
     ],
     "license": "No license",
     "topics": [
@@ -697,7 +698,7 @@
       "kubernetes-deployment",
       "kubernetes-tutorial"
     ],
-    "raw_updated_at": "2026-10-01T19:11:58Z"
+    "raw_updated_at": "2026-10-09T09:24:02Z"
   },
   {
     "repo": "AWS-DevOps_Real-Time_Deployment",
@@ -822,6 +823,45 @@
     "raw_updated_at": "2026-06-04T09:26:19Z"
   },
   {
+    "repo": "devops-monitoring-in-a-box",
+    "url": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box",
+    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
+    "last_updated": "2026-10-09",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
+    "commit_sha": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
+    "commit_date": "2026-09-29",
+    "commit_message": "devops-monitoring: docs: update README to reflect new features and enhancements",
+    "author": "NotHarshhaa",
+    "issues": 1,
+    "stars": 18,
+    "forks": 21,
+    "watchers": 18,
+    "ci_cd_status": "pass",
+    "languages": [
+      "TypeScript",
+      "Shell",
+      "PowerShell",
+      "CSS",
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "alertmanager",
+      "devops-monitoring",
+      "docker",
+      "docker-compose",
+      "grafana",
+      "grafana-dashboard",
+      "loki",
+      "monitoring",
+      "monitoring-automation",
+      "node-exporter",
+      "prometheus",
+      "prometheus-metrics"
+    ],
+    "raw_updated_at": "2026-10-09T09:24:16Z"
+  },
+  {
     "repo": "Zomato-Clone",
     "url": "https://github.com/NotHarshhaa/Zomato-Clone",
     "description": "This repository is a full-stack food delivery application inspired by Zomato. It includes a React.js frontend and integrates DevSecOps practices to ensure a secure and automated deployment pipeline.",
@@ -853,45 +893,6 @@
       "zomatoclone"
     ],
     "raw_updated_at": "2026-09-04T05:47:24Z"
-  },
-  {
-    "repo": "devops-monitoring-in-a-box",
-    "url": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box",
-    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
-    "last_updated": "2026-09-29",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
-    "commit_sha": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
-    "commit_date": "2026-09-29",
-    "commit_message": "devops-monitoring: docs: update README to reflect new features and enhancements",
-    "author": "NotHarshhaa",
-    "issues": 1,
-    "stars": 17,
-    "forks": 21,
-    "watchers": 17,
-    "ci_cd_status": "pass",
-    "languages": [
-      "TypeScript",
-      "Shell",
-      "PowerShell",
-      "CSS",
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "alertmanager",
-      "devops-monitoring",
-      "docker",
-      "docker-compose",
-      "grafana",
-      "grafana-dashboard",
-      "loki",
-      "monitoring",
-      "monitoring-automation",
-      "node-exporter",
-      "prometheus",
-      "prometheus-metrics"
-    ],
-    "raw_updated_at": "2026-09-29T18:12:33Z"
   },
   {
     "repo": "Deployment-of-super-Mario-on-Kubernetes-using-terraform",
@@ -1007,10 +1008,10 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-09",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2c9066bd7b2475f8b632901d422e6a72037f6ebe",
-    "commit_sha": "2c9066bd7b2475f8b632901d422e6a72037f6ebe",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f2054fe30fada4d9ce03e0912f83c5cf09c86f23",
+    "commit_sha": "f2054fe30fada4d9ce03e0912f83c5cf09c86f23",
     "commit_date": "2026-10-09",
-    "commit_message": "chore: update Git configuration in workflows and remove obsolete update.yml file",
+    "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 12,
@@ -1026,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-09T05:11:54Z"
+    "raw_updated_at": "2026-10-09T05:19:10Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1040,7 +1041,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 11,
-    "forks": 23,
+    "forks": 24,
     "watchers": 11,
     "ci_cd_status": "none",
     "languages": [
@@ -1124,16 +1125,16 @@
     "repo": "devops-skills",
     "url": "https://github.com/NotHarshhaa/devops-skills",
     "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_date": "2026-09-19",
     "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 8,
+    "stars": 9,
     "forks": 4,
-    "watchers": 8,
+    "watchers": 9,
     "ci_cd_status": "pass",
     "languages": [
       "JavaScript"
@@ -1148,7 +1149,7 @@
       "devops-skills",
       "skills"
     ],
-    "raw_updated_at": "2026-10-05T12:14:23Z"
+    "raw_updated_at": "2026-10-09T09:24:31Z"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -1301,6 +1302,39 @@
       "terraform"
     ],
     "raw_updated_at": "2026-09-03T14:32:55Z"
+  },
+  {
+    "repo": "devops-project-generator",
+    "url": "https://github.com/NotHarshhaa/devops-project-generator",
+    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "last_updated": "2026-10-09",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
+    "commit_sha": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
+    "commit_date": "2026-09-14",
+    "commit_message": "devops-gen: Enhance CLI with DevContainer and Git initialization options",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 7,
+    "forks": 10,
+    "watchers": 7,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Jinja",
+      "Shell",
+      "CSS"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "devops",
+      "devops-gen",
+      "devops-project",
+      "devops-project-generator",
+      "project-gen",
+      "project-generator"
+    ],
+    "raw_updated_at": "2026-10-09T09:24:34Z"
   },
   {
     "repo": "azure-devops-zero-to-hero",
@@ -1456,39 +1490,6 @@
     "raw_updated_at": "2026-09-30T17:51:00Z"
   },
   {
-    "repo": "devops-project-generator",
-    "url": "https://github.com/NotHarshhaa/devops-project-generator",
-    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "last_updated": "2026-10-08",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_sha": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_date": "2026-09-14",
-    "commit_message": "devops-gen: Enhance CLI with DevContainer and Git initialization options",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 6,
-    "forks": 10,
-    "watchers": 6,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "Jinja",
-      "Shell",
-      "CSS"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "devops",
-      "devops-gen",
-      "devops-project",
-      "devops-project-generator",
-      "project-gen",
-      "project-generator"
-    ],
-    "raw_updated_at": "2026-10-08T17:54:58Z"
-  },
-  {
     "repo": "devops-incident-agent",
     "url": "https://github.com/NotHarshhaa/devops-incident-agent",
     "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
@@ -1641,6 +1642,40 @@
     "raw_updated_at": "2026-09-29T09:10:14Z"
   },
   {
+    "repo": "devops-mcp",
+    "url": "https://github.com/NotHarshhaa/devops-mcp",
+    "description": "Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
+    "last_updated": "2026-10-09",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-mcp/commit/b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc",
+    "commit_sha": "b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc",
+    "commit_date": "2026-10-05",
+    "commit_message": "devops-mcp: Update environment configuration and README for PagerDuty integration",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 4,
+    "forks": 1,
+    "watchers": 4,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "argocd",
+      "devops",
+      "gitops",
+      "kubectl",
+      "kubernetes",
+      "mcp",
+      "model-context-protocol",
+      "pagerduty",
+      "platform-engineering",
+      "prometheus"
+    ],
+    "raw_updated_at": "2026-10-09T09:24:11Z"
+  },
+  {
     "repo": "status.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/status.prodevopsguytech.com",
     "description": "A modern, responsive status dashboard for monitoring the health and up-time of our web services and applications. ",
@@ -1786,40 +1821,6 @@
       "typescript"
     ],
     "raw_updated_at": "2026-09-14T18:12:41Z"
-  },
-  {
-    "repo": "devops-mcp",
-    "url": "https://github.com/NotHarshhaa/devops-mcp",
-    "description": "Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
-    "last_updated": "2026-10-05",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-mcp/commit/b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc",
-    "commit_sha": "b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc",
-    "commit_date": "2026-10-05",
-    "commit_message": "devops-mcp: Update environment configuration and README for PagerDuty integration",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 3,
-    "forks": 1,
-    "watchers": 3,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "argocd",
-      "devops",
-      "gitops",
-      "kubectl",
-      "kubernetes",
-      "mcp",
-      "model-context-protocol",
-      "pagerduty",
-      "platform-engineering",
-      "prometheus"
-    ],
-    "raw_updated_at": "2026-10-05T09:36:31Z"
   },
   {
     "repo": "mlops-project-generator",

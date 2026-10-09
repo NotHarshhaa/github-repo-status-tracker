@@ -1,34 +1,34 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-09%2005%3A19:04.142 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-09%2012%3A51:11.627 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,051** combined stars
+**87** repositories tracked · **11,067** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,051** stars · **9,175** forks · **73** open issues
+> **87** repositories · **11,067** stars · **9,180** forks · **73** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,342 | 4,838 | 30 | — | 2026-10-09 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,242 | 917 | 4 | — | 2026-10-08 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,345 | 4,842 | 30 | — | 2026-10-09 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,245 | 917 | 4 | — | 2026-10-09 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 915 | 543 | 0 | — | 2026-10-09 |
-| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 628 | 233 | 4 | — | 2026-10-07 |
+| 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 630 | 233 | 4 | — | 2026-10-09 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 524 | 394 | 1 | — | 2026-10-07 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 367 | 272 | 3 | — | 2026-10-08 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 241 | 162 | 4 | — | 2026-10-01 |
-| 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 202 | 212 | 0 | — | 2026-10-05 |
+| 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 203 | 212 | 0 | — | 2026-10-09 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 195 | 208 | 0 | — | 2026-09-28 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 166 | 122 | 0 | Fail | 2026-09-19 |
-| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 149 | 73 | 0 | — | 2026-10-06 |
+| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 150 | 73 | 0 | — | 2026-10-09 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 138 | 119 | 1 | Fail | 2026-09-22 |
-| 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 114 | 52 | 0 | — | 2026-10-07 |
+| 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 115 | 52 | 0 | — | 2026-10-09 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 92 | 61 | 0 | — | 2026-08-10 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 74 | 68 | 0 | — | 2026-09-06 |
 | 16 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 64 | 71 | 0 | — | 2026-08-27 |
@@ -36,46 +36,46 @@ Updates automatically every 6 hours via GitHub Actions.
 | 18 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 58 | 55 | 0 | — | 2026-08-10 |
 | 19 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 35 | 44 | 0 | — | 2026-10-04 |
 | 20 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 35 | 15 | 1 | — | 2026-10-08 |
-| 21 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 33 | 34 | 2 | — | 2026-10-01 |
+| 21 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 34 | 34 | 2 | — | 2026-10-09 |
 | 22 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 30 | 69 | 0 | — | 2026-09-03 |
 | 23 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 22 | 44 | 0 | — | 2026-07-16 |
 | 24 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 21 | 57 | 0 | — | 2026-09-14 |
 | 25 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 26 | 1 | — | 2026-06-04 |
-| 26 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 17 | 87 | 2 | — | 2026-09-04 |
-| 27 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 17 | 21 | 1 | Pass | 2026-09-29 |
+| 26 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 18 | 21 | 1 | Pass | 2026-10-09 |
+| 27 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 17 | 87 | 2 | — | 2026-09-04 |
 | 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 14 | 37 | 1 | — | 2026-09-04 |
 | 29 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 30 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 13 | 12 | 0 | — | 2026-10-02 |
 | 31 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
 | 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 12 | 18 | 0 | — | 2026-10-09 |
-| 33 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 23 | 0 | — | 2026-06-11 |
+| 33 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 24 | 0 | — | 2026-06-11 |
 | 34 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-09-30 |
 | 35 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 26 | 0 | — | 2026-04-26 |
-| 36 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 8 | 4 | 0 | Pass | 2026-10-05 |
+| 36 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 9 | 4 | 0 | Pass | 2026-10-09 |
 | 37 | [prodevopsguytech.com](https://github.com/NotHarshhaa/prodevopsguytech.com) | 7 | 3 | 0 | — | 2025-09-20 |
 | 38 | [cloud-native-monitoring-app](https://github.com/NotHarshhaa/cloud-native-monitoring-app) | 7 | 18 | 0 | — | 2025-04-15 |
 | 39 | [devops-environment-toolkit-beginners](https://github.com/NotHarshhaa/devops-environment-toolkit-beginners) | 7 | 5 | 0 | — | 2026-06-02 |
 | 40 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 7 | 13 | 0 | — | 2026-10-06 |
 | 41 | [aws-infra-generator](https://github.com/NotHarshhaa/aws-infra-generator) | 7 | 5 | 0 | — | 2026-09-03 |
-| 42 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 7 | 11 | 0 | — | 2026-09-15 |
-| 43 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 6 | 9 | 0 | — | 2026-09-07 |
-| 44 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-05-09 |
-| 45 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
-| 46 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 6 | 7 | 0 | — | 2026-09-30 |
-| 47 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 6 | 10 | 0 | — | 2026-10-08 |
+| 42 | [devops-project-generator](https://github.com/NotHarshhaa/devops-project-generator) | 7 | 10 | 0 | — | 2026-10-09 |
+| 43 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 7 | 11 | 0 | — | 2026-09-15 |
+| 44 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 6 | 9 | 0 | — | 2026-09-07 |
+| 45 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-05-09 |
+| 46 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
+| 47 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 6 | 7 | 0 | — | 2026-09-30 |
 | 48 | [devops-incident-agent](https://github.com/NotHarshhaa/devops-incident-agent) | 6 | 3 | 7 | Pass | 2026-10-01 |
 | 49 | [prodevopsguy.xyz](https://github.com/NotHarshhaa/prodevopsguy.xyz) | 5 | 2 | 1 | — | 2025-02-22 |
 | 50 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
 | 51 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
 | 52 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-06-30 |
 | 53 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 4 | 1 | 0 | Running | 2026-09-29 |
-| 54 | [status.prodevopsguytech.com](https://github.com/NotHarshhaa/status.prodevopsguytech.com) | 3 | 8 | 0 | Pass | 2026-10-08 |
-| 55 | [prodevopsguy.hashnode.dev](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev) | 3 | 10 | 0 | — | 2025-11-23 |
-| 56 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
-| 57 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
-| 58 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 3 | 7 | 0 | Fail | 2026-07-30 |
-| 59 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-09-14 |
-| 60 | [devops-mcp](https://github.com/NotHarshhaa/devops-mcp) | 3 | 1 | 0 | — | 2026-10-05 |
+| 54 | [devops-mcp](https://github.com/NotHarshhaa/devops-mcp) | 4 | 1 | 0 | — | 2026-10-09 |
+| 55 | [status.prodevopsguytech.com](https://github.com/NotHarshhaa/status.prodevopsguytech.com) | 3 | 8 | 0 | Pass | 2026-10-08 |
+| 56 | [prodevopsguy.hashnode.dev](https://github.com/NotHarshhaa/prodevopsguy.hashnode.dev) | 3 | 10 | 0 | — | 2025-11-23 |
+| 57 | [k8s-learning-platform](https://github.com/NotHarshhaa/k8s-learning-platform) | 3 | 4 | 0 | — | 2026-01-13 |
+| 58 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
+| 59 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 3 | 7 | 0 | Fail | 2026-07-30 |
+| 60 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-09-14 |
 | 61 | [mlops-project-generator](https://github.com/NotHarshhaa/mlops-project-generator) | 3 | 2 | 0 | Fail | 2026-09-01 |
 | 62 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 2 | 4 | 0 | — | 2026-09-27 |
 | 63 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 2 | 0 | 0 | Pass | 2026-05-15 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,342
-  &nbsp;·&nbsp; 🍴 4,838
+  &nbsp;·&nbsp; ⭐ 5,345
+  &nbsp;·&nbsp; 🍴 4,842
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -140,7 +140,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,242
+  &nbsp;·&nbsp; ⭐ 1,245
   &nbsp;·&nbsp; 🍴 917
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
@@ -157,7 +157,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993) |
 | **Commit date** | `2026-08-28` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-08` |
+| **Repo updated** | `2026-10-09` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws-interview-questions` · `azure-interview-questions` · `cicd` · `cloud-computing` · `devops` · `devops-interview-questions` |
@@ -196,7 +196,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-learning-path">kubernetes-learning-path</a></strong>
-  &nbsp;·&nbsp; ⭐ 628
+  &nbsp;·&nbsp; ⭐ 630
   &nbsp;·&nbsp; 🍴 233
   &nbsp;·&nbsp; CI —
   <br><sub>A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)</sub>
@@ -213,7 +213,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [K8S-Roadmap: feat: Add Kubernetes learning resources](https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd) |
 | **Commit date** | `2025-03-08` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-07` |
+| **Repo updated** | `2026-10-09` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `beginner` · `kubernetes` · `kubernetes-best-practices` · `kubernetes-deployment` · `kubernetes-roadmap` · `kubernetes-setup` |
@@ -308,7 +308,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Kubernetes">Kubernetes</a></strong>
-  &nbsp;·&nbsp; ⭐ 202
+  &nbsp;·&nbsp; ⭐ 203
   &nbsp;·&nbsp; 🍴 212
   &nbsp;·&nbsp; CI —
   <br><sub>📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to l...</sub>
@@ -325,7 +325,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: Update various resource configurations](https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58) |
 | **Commit date** | `2026-09-30` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-05` |
+| **Repo updated** | `2026-10-09` |
 | **License** | `No license` |
 | **Languages** | `Dockerfile` |
 | **Topics** | `kubernetes` · `kubernetes-deployment` · `kubernetes-learning` · `kubernetes-manifest-files` · `kubernetes-manifests` · `kubernetes-monitoring` |
@@ -392,7 +392,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 149
+  &nbsp;·&nbsp; ⭐ 150
   &nbsp;·&nbsp; 🍴 73
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -409,7 +409,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System](https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a) |
 | **Commit date** | `2026-09-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-06` |
+| **Repo updated** | `2026-10-09` |
 | **License** | `No license` |
 | **Languages** | `Python` · `HTML` |
 | **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
@@ -448,7 +448,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop">AWS-GCP-Azure-Cloud-Projects-Workshop</a></strong>
-  &nbsp;·&nbsp; ⭐ 114
+  &nbsp;·&nbsp; ⭐ 115
   &nbsp;·&nbsp; 🍴 52
   &nbsp;·&nbsp; CI —
   <br><sub>A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience,...</sub>
@@ -465,7 +465,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [aws-gcp-azure: README: Add banner image to README](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3) |
 | **Commit date** | `2025-11-11` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-07` |
+| **Repo updated** | `2026-10-09` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | `amazon-web-services` · `aws` · `azure` · `cloud-projects` · `google-cloud-platform` · `microsoft-azure` |
@@ -672,7 +672,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/From-Docker-to-Kubernetes">From-Docker-to-Kubernetes</a></strong>
-  &nbsp;·&nbsp; ⭐ 33
+  &nbsp;·&nbsp; ⭐ 34
   &nbsp;·&nbsp; 🍴 34
   &nbsp;·&nbsp; CI —
   <br><sub>A hands-on learning repository to help you master containerization and orchestration — starting with Docker fundamentals and progressing...</sub>
@@ -686,12 +686,12 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [dockertok8s: feat: From Docker to Kubernetes v2.4.0 release](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/79fbf1f0128c7b2d4f09f9d31d8eed896219f110) |
-| **Commit date** | `2025-07-24` |
+| **Latest commit** | [dockertok8s: feat: Introduce new tools section with Dockerfile Generator and CLI Cheat...](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/80408e3d8f4838dfe2172a6d2ceab9e533c0680c) |
+| **Commit date** | `2026-10-09` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-01` |
+| **Repo updated** | `2026-10-09` |
 | **License** | `No license` |
-| **Languages** | `TypeScript` · `JavaScript` · `CSS` |
+| **Languages** | `Vue` · `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `docker` · `docker-compose` · `docker-container` · `docker-kubernetes` · `docker-tutorial` · `kubernetes` |
 
 </details>
@@ -808,6 +808,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:devops-monitoring-in-a-box -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-monitoring-in-a-box">devops-monitoring-in-a-box</a></strong>
+  &nbsp;·&nbsp; ⭐ 18
+  &nbsp;·&nbsp; 🍴 21
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prom...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [devops-monitoring: docs: update README to reflect new features and enhancements](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf) |
+| **Commit date** | `2026-09-29` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-10-09` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `Shell` · `PowerShell` · `CSS` · `JavaScript` |
+| **Topics** | `alertmanager` · `devops-monitoring` · `docker` · `docker-compose` · `grafana` · `grafana-dashboard` |
+
+</details>
+
 <!-- repo:Zomato-Clone -->
 <details>
 <summary>
@@ -833,34 +861,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `JavaScript` · `SCSS` · `HTML` · `Dockerfile` |
 | **Topics** | `devsecops` · `devsecops-best-practices` · `devsecops-pipeline` · `reactjs` · `zomato-app` · `zomato-clone` |
-
-</details>
-
-<!-- repo:devops-monitoring-in-a-box -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/devops-monitoring-in-a-box">devops-monitoring-in-a-box</a></strong>
-  &nbsp;·&nbsp; ⭐ 17
-  &nbsp;·&nbsp; 🍴 21
-  &nbsp;·&nbsp; CI Pass
-  <br><sub>This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prom...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-monitoring-in-a-box?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [devops-monitoring: docs: update README to reflect new features and enhancements](https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf) |
-| **Commit date** | `2026-09-29` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-09-29` |
-| **License** | `MIT License` |
-| **Languages** | `TypeScript` · `Shell` · `PowerShell` · `CSS` · `JavaScript` |
-| **Topics** | `alertmanager` · `devops-monitoring` · `docker` · `docker-compose` · `grafana` · `grafana-dashboard` |
 
 </details>
 
@@ -994,7 +994,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update Git configuration in workflows and remove obsolete update.yml file](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2c9066bd7b2475f8b632901d422e6a72037f6ebe) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f2054fe30fada4d9ce03e0912f83c5cf09c86f23) |
 | **Commit date** | `2026-10-09` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-09` |
@@ -1009,7 +1009,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy">tf-ecr-ecs-gh-deploy</a></strong>
   &nbsp;·&nbsp; ⭐ 11
-  &nbsp;·&nbsp; 🍴 23
+  &nbsp;·&nbsp; 🍴 24
   &nbsp;·&nbsp; CI —
   <br><sub>This project automates the deployment of a Python application to AWS Elastic Container Service (ECS) using GitHub Actions, Docker, and Te...</sub>
 </summary>
@@ -1092,7 +1092,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/devops-skills">devops-skills</a></strong>
-  &nbsp;·&nbsp; ⭐ 8
+  &nbsp;·&nbsp; ⭐ 9
   &nbsp;·&nbsp; 🍴 4
   &nbsp;·&nbsp; CI Pass
   <br><sub>A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability,...</sub>
@@ -1109,7 +1109,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-r...](https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5) |
 | **Commit date** | `2026-09-19` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-05` |
+| **Repo updated** | `2026-10-09` |
 | **License** | `MIT License` |
 | **Languages** | `JavaScript` |
 | **Topics** | `agent-skill` · `agent-skills` · `agents` · `devops-agent-skills` · `devops-agents` · `devops-skills` |
@@ -1256,6 +1256,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:devops-project-generator -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-project-generator">devops-project-generator</a></strong>
+  &nbsp;·&nbsp; ⭐ 7
+  &nbsp;·&nbsp; 🍴 10
+  &nbsp;·&nbsp; CI —
+  <br><sub>A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [devops-gen: Enhance CLI with DevContainer and Git initialization options](https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b) |
+| **Commit date** | `2026-09-14` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-10-09` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `Python` · `Jinja` · `Shell` · `CSS` |
+| **Topics** | `devops` · `devops-gen` · `devops-project` · `devops-project-generator` · `project-gen` · `project-generator` |
+
+</details>
+
 <!-- repo:azure-devops-zero-to-hero -->
 <details>
 <summary>
@@ -1393,34 +1421,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `css` · `javascript` · `nodejs` · `tailwindcss` · `typescript` |
-
-</details>
-
-<!-- repo:devops-project-generator -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/devops-project-generator">devops-project-generator</a></strong>
-  &nbsp;·&nbsp; ⭐ 6
-  &nbsp;·&nbsp; 🍴 10
-  &nbsp;·&nbsp; CI —
-  <br><sub>A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-generator?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-generator?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-generator?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-generator?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [devops-gen: Enhance CLI with DevContainer and Git initialization options](https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b) |
-| **Commit date** | `2026-09-14` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-08` |
-| **License** | `MIT License` |
-| **Languages** | `TypeScript` · `Python` · `Jinja` · `Shell` · `CSS` |
-| **Topics** | `devops` · `devops-gen` · `devops-project` · `devops-project-generator` · `project-gen` · `project-generator` |
 
 </details>
 
@@ -1592,6 +1592,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:devops-mcp -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-mcp">devops-mcp</a></strong>
+  &nbsp;·&nbsp; ⭐ 4
+  &nbsp;·&nbsp; 🍴 1
+  &nbsp;·&nbsp; CI —
+  <br><sub>Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-mcp?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-mcp?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-mcp?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-mcp?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [devops-mcp: Update environment configuration and README for PagerDuty integration](https://github.com/NotHarshhaa/devops-mcp/commit/b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc) |
+| **Commit date** | `2026-10-05` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-10-09` |
+| **License** | `MIT License` |
+| **Languages** | `TypeScript` · `JavaScript` |
+| **Topics** | `argocd` · `devops` · `gitops` · `kubectl` · `kubernetes` · `mcp` |
+
+</details>
+
 <!-- repo:status.prodevopsguytech.com -->
 <details>
 <summary>
@@ -1757,34 +1785,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `cloud` · `devops` · `devops-community` · `nextjs14` · `shadn-ui` · `tailwindcss` |
-
-</details>
-
-<!-- repo:devops-mcp -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/devops-mcp">devops-mcp</a></strong>
-  &nbsp;·&nbsp; ⭐ 3
-  &nbsp;·&nbsp; 🍴 1
-  &nbsp;·&nbsp; CI —
-  <br><sub>Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-mcp?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-mcp?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-mcp?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-mcp?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [devops-mcp: Update environment configuration and README for PagerDuty integration](https://github.com/NotHarshhaa/devops-mcp/commit/b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc) |
-| **Commit date** | `2026-10-05` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-05` |
-| **License** | `MIT License` |
-| **Languages** | `TypeScript` · `JavaScript` |
-| **Topics** | `argocd` · `devops` · `gitops` · `kubectl` · `kubernetes` · `mcp` |
 
 </details>
 
