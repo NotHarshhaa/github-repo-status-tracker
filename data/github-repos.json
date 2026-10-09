@@ -3,7 +3,7 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5342,
-    "forks": 4837,
+    "forks": 4838,
     "watchers": 5342,
     "ci_cd_status": "none",
     "languages": [
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-08T19:50:04Z"
+    "raw_updated_at": "2026-10-09T00:40:06Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1242,
-    "forks": 916,
+    "forks": 917,
     "watchers": 1242,
     "ci_cd_status": "none",
     "languages": [],
@@ -82,7 +82,7 @@
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-06",
+    "last_updated": "2026-10-09",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-06T14:34:16Z"
+    "raw_updated_at": "2026-10-09T00:40:02Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -1006,12 +1006,12 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-08",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/957f062275cbd61faac4688958a092c184f51d73",
-    "commit_sha": "957f062275cbd61faac4688958a092c184f51d73",
-    "commit_date": "2026-10-08",
-    "commit_message": "chore: update repository status [skip ci]",
-    "author": "github-actions[bot]",
+    "last_updated": "2026-10-09",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2c9066bd7b2475f8b632901d422e6a72037f6ebe",
+    "commit_sha": "2c9066bd7b2475f8b632901d422e6a72037f6ebe",
+    "commit_date": "2026-10-09",
+    "commit_message": "chore: update Git configuration in workflows and remove obsolete update.yml file",
+    "author": "NotHarshhaa",
     "issues": 0,
     "stars": 12,
     "forks": 18,
@@ -1026,7 +1026,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-08T13:04:38Z"
+    "raw_updated_at": "2026-10-09T05:11:54Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
