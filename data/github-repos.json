@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-10",
+    "last_updated": "2026-10-11",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5352,
-    "forks": 4849,
-    "watchers": 5352,
+    "stars": 5353,
+    "forks": 4851,
+    "watchers": 5353,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-10T16:31:38Z"
+    "raw_updated_at": "2026-10-11T07:27:53Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1252,
-    "forks": 918,
+    "forks": 919,
     "watchers": 1252,
     "ci_cd_status": "none",
     "languages": [],
@@ -193,7 +193,7 @@
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 367,
-    "forks": 272,
+    "forks": 271,
     "watchers": 367,
     "ci_cd_status": "none",
     "languages": [
@@ -350,16 +350,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-09",
+    "last_updated": "2026-10-11",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 150,
+    "stars": 151,
     "forks": 73,
-    "watchers": 150,
+    "watchers": 151,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-09T09:24:20Z"
+    "raw_updated_at": "2026-10-11T07:45:11Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-10",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ee25140581a6892cff4a685c2d8c1355a99edba1",
-    "commit_sha": "ee25140581a6892cff4a685c2d8c1355a99edba1",
-    "commit_date": "2026-10-10",
+    "last_updated": "2026-10-11",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ecd143787e2c7b875478061d9c221733c6742f19",
+    "commit_sha": "ecd143787e2c7b875478061d9c221733c6742f19",
+    "commit_date": "2026-10-11",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-10T21:21:21Z"
+    "raw_updated_at": "2026-10-11T04:52:34Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
