@@ -34,9 +34,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5357,
-    "forks": 4852,
+    "forks": 4854,
     "issues": 30,
-    "lastUpdated": "2026-10-11T23:13:05Z",
+    "lastUpdated": "2026-10-12T13:25:59Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -369,10 +369,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-dashboard",
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
-    "stars": 59,
+    "stars": 60,
     "forks": 53,
     "issues": 0,
-    "lastUpdated": "2026-09-13T07:17:41Z",
+    "lastUpdated": "2026-10-12T09:46:47Z",
     "lastCommit": "76ce74c2cb8a22403c49a534468a790647ebce29"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-11T21:40:18Z",
-    "lastCommit": "34c0f25610dead3b9540ea90386f0b9a7e110daf"
+    "lastUpdated": "2026-10-12T05:07:20Z",
+    "lastCommit": "64091dd771e35f7207428c95084fb1b095bc610c"
   },
   {
     "title": "Tf ecr ecs gh deploy",

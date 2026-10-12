@@ -3,7 +3,7 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5357,
-    "forks": 4852,
+    "forks": 4854,
     "watchers": 5357,
     "ci_cd_status": "none",
     "languages": [
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-11T23:13:05Z"
+    "raw_updated_at": "2026-10-12T13:25:59Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -545,16 +545,16 @@
     "repo": "kubernetes-dashboard",
     "url": "https://github.com/NotHarshhaa/kubernetes-dashboard",
     "description": "This dashboard unifies multi-cluster fleet operations, real-time Metrics Server telemetry, AI/GPU accelerator observability, GitOps workflow safeguards (ArgoCD & Flux), next-gen Gateway API routing, and browser-native ANSI container terminal execution. Eliminate tool sprawl, prevent configuration drift, and manage mission-critical cloud-native work",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-10-12",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_sha": "76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_date": "2026-09-13",
     "commit_message": "Kubernetes-dashboard: update ESLint configuration and refine component imports",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 59,
+    "stars": 60,
     "forks": 53,
-    "watchers": 59,
+    "watchers": 60,
     "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
@@ -573,7 +573,7 @@
       "kubernetes-setup",
       "monitoring"
     ],
-    "raw_updated_at": "2026-09-13T07:17:41Z"
+    "raw_updated_at": "2026-10-12T09:46:47Z"
   },
   {
     "repo": "aws-billing-alert-terraform",
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-11",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/34c0f25610dead3b9540ea90386f0b9a7e110daf",
-    "commit_sha": "34c0f25610dead3b9540ea90386f0b9a7e110daf",
-    "commit_date": "2026-10-11",
+    "last_updated": "2026-10-12",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/64091dd771e35f7207428c95084fb1b095bc610c",
+    "commit_sha": "64091dd771e35f7207428c95084fb1b095bc610c",
+    "commit_date": "2026-10-12",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-11T21:40:18Z"
+    "raw_updated_at": "2026-10-12T05:07:20Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
