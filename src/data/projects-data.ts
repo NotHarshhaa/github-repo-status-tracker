@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5357,
-    "forks": 4857,
+    "stars": 5362,
+    "forks": 4858,
     "issues": 30,
-    "lastUpdated": "2026-10-12T17:11:26Z",
+    "lastUpdated": "2026-10-13T12:57:22Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1254,
-    "forks": 919,
+    "stars": 1260,
+    "forks": 920,
     "issues": 4,
-    "lastUpdated": "2026-10-12T20:07:12Z",
+    "lastUpdated": "2026-10-13T12:14:10Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 631,
+    "stars": 632,
     "forks": 233,
     "issues": 4,
-    "lastUpdated": "2026-10-11T16:29:24Z",
+    "lastUpdated": "2026-10-13T12:30:39Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 367,
+    "stars": 369,
     "forks": 272,
     "issues": 3,
-    "lastUpdated": "2026-10-08T00:29:37Z",
+    "lastUpdated": "2026-10-13T07:36:02Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-12T14:51:14Z",
-    "lastCommit": "cdb27ad33b9badd2dd594c8bb8908b10ba539e9e"
+    "lastUpdated": "2026-10-13T00:21:01Z",
+    "lastCommit": "742e49684b8ffe3151254de48fdbc5a433efc554"
   },
   {
     "title": "Tf ecr ecs gh deploy",
