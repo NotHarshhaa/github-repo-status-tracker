@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5365,
-    "forks": 4864,
+    "stars": 5367,
+    "forks": 4865,
     "issues": 30,
-    "lastUpdated": "2026-10-14T15:32:12Z",
+    "lastUpdated": "2026-10-14T18:18:44Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1260,
+    "stars": 1261,
     "forks": 923,
     "issues": 4,
-    "lastUpdated": "2026-10-13T12:14:10Z",
+    "lastUpdated": "2026-10-14T18:08:04Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-14T11:29:10Z",
-    "lastCommit": "2b1af7c46c1f54168022bfd47153123ad6ca1f5c"
+    "lastUpdated": "2026-10-14T16:50:11Z",
+    "lastCommit": "a04298b2394bf3581892bafbe3f6d9f81b9c829c"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -998,8 +998,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-09-30T17:51:00Z",
-    "lastCommit": "462f4821383cdfb92e62603da264c94306b263cc"
+    "lastUpdated": "2026-10-14T18:24:39Z",
+    "lastCommit": "9caae0b4cdca0fb24f4930bb7b6344ba4cd240e0"
   },
   {
     "title": "Prodevopsguy.xyz",

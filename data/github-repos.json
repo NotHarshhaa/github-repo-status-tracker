@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5365,
-    "forks": 4864,
-    "watchers": 5365,
+    "stars": 5367,
+    "forks": 4865,
+    "watchers": 5367,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-14T15:32:12Z"
+    "raw_updated_at": "2026-10-14T18:18:44Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-14",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1260,
+    "stars": 1261,
     "forks": 923,
-    "watchers": 1260,
+    "watchers": 1261,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-13T12:14:10Z"
+    "raw_updated_at": "2026-10-14T18:08:04Z"
   },
   {
     "repo": "into-the-devops",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-14",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2b1af7c46c1f54168022bfd47153123ad6ca1f5c",
-    "commit_sha": "2b1af7c46c1f54168022bfd47153123ad6ca1f5c",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a04298b2394bf3581892bafbe3f6d9f81b9c829c",
+    "commit_sha": "a04298b2394bf3581892bafbe3f6d9f81b9c829c",
     "commit_date": "2026-10-14",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-14T11:29:10Z"
+    "raw_updated_at": "2026-10-14T16:50:11Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1486,11 +1486,11 @@
     "repo": "personal-portfolio",
     "url": "https://github.com/NotHarshhaa/personal-portfolio",
     "description": "✨ My personal portfolio showcasing my work and skills.",
-    "last_updated": "2026-09-30",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-portfolio/commit/462f4821383cdfb92e62603da264c94306b263cc",
-    "commit_sha": "462f4821383cdfb92e62603da264c94306b263cc",
-    "commit_date": "2026-09-30",
-    "commit_message": "portfolio: feat: implement views counter and enhance Hero component",
+    "last_updated": "2026-10-14",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-portfolio/commit/9caae0b4cdca0fb24f4930bb7b6344ba4cd240e0",
+    "commit_sha": "9caae0b4cdca0fb24f4930bb7b6344ba4cd240e0",
+    "commit_date": "2026-10-14",
+    "commit_message": "portfolio: style: update global selection styles and avatar component",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 6,
@@ -1510,7 +1510,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-09-30T17:51:00Z"
+    "raw_updated_at": "2026-10-14T18:24:39Z"
   },
   {
     "repo": "prodevopsguy.xyz",
