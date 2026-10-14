@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-14",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5363,
+    "stars": 5365,
     "forks": 4860,
-    "watchers": 5363,
+    "watchers": 5365,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-13T15:46:21Z"
+    "raw_updated_at": "2026-10-14T00:55:01Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1260,
-    "forks": 920,
+    "forks": 921,
     "watchers": 1260,
     "ci_cd_status": "none",
     "languages": [],
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-14",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 633,
+    "stars": 636,
     "forks": 233,
-    "watchers": 633,
+    "watchers": 636,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,22 +149,22 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-13T15:15:04Z"
+    "raw_updated_at": "2026-10-14T02:54:48Z"
   },
   {
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-10-07",
+    "last_updated": "2026-10-14",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_sha": "dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_date": "2025-06-17",
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 524,
+    "stars": 525,
     "forks": 394,
-    "watchers": 524,
+    "watchers": 525,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-07T09:10:10Z"
+    "raw_updated_at": "2026-10-14T01:13:54Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-13",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/99c10350999c59d4e8b423218d379f11ea8baaf2",
-    "commit_sha": "99c10350999c59d4e8b423218d379f11ea8baaf2",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c7630f7aa7ed6d044a9d40901c169a2b3c20b3d4",
+    "commit_sha": "c7630f7aa7ed6d044a9d40901c169a2b3c20b3d4",
     "commit_date": "2026-10-13",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-13T13:51:12Z"
+    "raw_updated_at": "2026-10-13T22:26:16Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
