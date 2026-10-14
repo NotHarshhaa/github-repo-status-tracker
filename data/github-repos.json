@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5366,
-    "forks": 4862,
-    "watchers": 5366,
+    "stars": 5365,
+    "forks": 4864,
+    "watchers": 5365,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-14T09:52:56Z"
+    "raw_updated_at": "2026-10-14T15:32:12Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -133,9 +133,9 @@
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 638,
+    "stars": 641,
     "forks": 233,
-    "watchers": 638,
+    "watchers": 641,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-14T09:59:08Z"
+    "raw_updated_at": "2026-10-14T15:30:33Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -162,9 +162,9 @@
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 526,
+    "stars": 528,
     "forks": 395,
-    "watchers": 526,
+    "watchers": 528,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,13 +179,13 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-14T09:17:09Z"
+    "raw_updated_at": "2026-10-14T16:40:13Z"
   },
   {
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-14",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_date": "2026-08-30",
@@ -218,7 +218,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-13T07:36:02Z"
+    "raw_updated_at": "2026-10-14T16:34:54Z"
   },
   {
     "repo": "devops-tools",
@@ -256,16 +256,16 @@
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-10-09",
+    "last_updated": "2026-10-14",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 203,
+    "stars": 204,
     "forks": 212,
-    "watchers": 203,
+    "watchers": 204,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -280,7 +280,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-10-09T09:24:14Z"
+    "raw_updated_at": "2026-10-14T15:14:06Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -294,7 +294,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 195,
-    "forks": 208,
+    "forks": 209,
     "watchers": 195,
     "ci_cd_status": "none",
     "languages": [],
@@ -328,7 +328,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 166,
-    "forks": 122,
+    "forks": 123,
     "watchers": 166,
     "ci_cd_status": "fail",
     "languages": [],
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-14",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/0320ef0b626fed5e3c7f6222512fdecd9a918d85",
-    "commit_sha": "0320ef0b626fed5e3c7f6222512fdecd9a918d85",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2b1af7c46c1f54168022bfd47153123ad6ca1f5c",
+    "commit_sha": "2b1af7c46c1f54168022bfd47153123ad6ca1f5c",
     "commit_date": "2026-10-14",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-14T04:10:17Z"
+    "raw_updated_at": "2026-10-14T11:29:10Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",

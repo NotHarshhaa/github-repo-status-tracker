@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5366,
-    "forks": 4862,
+    "stars": 5365,
+    "forks": 4864,
     "issues": 30,
-    "lastUpdated": "2026-10-14T09:52:56Z",
+    "lastUpdated": "2026-10-14T15:32:12Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 638,
+    "stars": 641,
     "forks": 233,
     "issues": 4,
-    "lastUpdated": "2026-10-14T09:59:08Z",
+    "lastUpdated": "2026-10-14T15:30:33Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 526,
+    "stars": 528,
     "forks": 395,
     "issues": 1,
-    "lastUpdated": "2026-10-14T09:17:09Z",
+    "lastUpdated": "2026-10-14T16:40:13Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -141,7 +141,7 @@ export const PROJECTS: Project[] = [
     "stars": 369,
     "forks": 272,
     "issues": 3,
-    "lastUpdated": "2026-10-13T07:36:02Z",
+    "lastUpdated": "2026-10-14T16:34:54Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -180,10 +180,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 203,
+    "stars": 204,
     "forks": 212,
     "issues": 0,
-    "lastUpdated": "2026-10-09T09:24:14Z",
+    "lastUpdated": "2026-10-14T15:14:06Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -202,7 +202,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 195,
-    "forks": 208,
+    "forks": 209,
     "issues": 0,
     "lastUpdated": "2026-09-28T02:50:03Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
@@ -223,7 +223,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 166,
-    "forks": 122,
+    "forks": 123,
     "issues": 0,
     "lastUpdated": "2026-09-19T06:02:44Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-14T04:10:17Z",
-    "lastCommit": "0320ef0b626fed5e3c7f6222512fdecd9a918d85"
+    "lastUpdated": "2026-10-14T11:29:10Z",
+    "lastCommit": "2b1af7c46c1f54168022bfd47153123ad6ca1f5c"
   },
   {
     "title": "Tf ecr ecs gh deploy",
