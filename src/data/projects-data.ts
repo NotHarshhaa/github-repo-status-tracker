@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5365,
-    "forks": 4860,
+    "stars": 5366,
+    "forks": 4862,
     "issues": 30,
-    "lastUpdated": "2026-10-14T00:55:01Z",
+    "lastUpdated": "2026-10-14T09:52:56Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1260,
-    "forks": 921,
+    "forks": 923,
     "issues": 4,
     "lastUpdated": "2026-10-13T12:14:10Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 636,
+    "stars": 638,
     "forks": 233,
     "issues": 4,
-    "lastUpdated": "2026-10-14T02:54:48Z",
+    "lastUpdated": "2026-10-14T09:59:08Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 525,
-    "forks": 394,
+    "stars": 526,
+    "forks": 395,
     "issues": 1,
-    "lastUpdated": "2026-10-14T01:13:54Z",
+    "lastUpdated": "2026-10-14T09:17:09Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -244,7 +244,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 152,
-    "forks": 73,
+    "forks": 74,
     "issues": 0,
     "lastUpdated": "2026-10-13T14:25:06Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
@@ -426,7 +426,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 35,
-    "forks": 15,
+    "forks": 16,
     "issues": 1,
     "lastUpdated": "2026-10-08T00:31:18Z",
     "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-13T22:26:16Z",
-    "lastCommit": "c7630f7aa7ed6d044a9d40901c169a2b3c20b3d4"
+    "lastUpdated": "2026-10-14T04:10:17Z",
+    "lastCommit": "0320ef0b626fed5e3c7f6222512fdecd9a918d85"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -905,6 +905,23 @@ export const PROJECTS: Project[] = [
     "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
   },
   {
+    "title": "Devops incident agent",
+    "techStack": [
+      "Python",
+      "Dockerfile"
+    ],
+    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
+    "link": {
+      "label": "github.com/devops-incident-agent",
+      "href": "https://github.com/NotHarshhaa/devops-incident-agent"
+    },
+    "stars": 7,
+    "forks": 3,
+    "issues": 7,
+    "lastUpdated": "2026-10-14T06:38:27Z",
+    "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
+  },
+  {
     "title": "Projects.prodevopsguytech.com",
     "techStack": [
       "css",
@@ -983,23 +1000,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-09-30T17:51:00Z",
     "lastCommit": "462f4821383cdfb92e62603da264c94306b263cc"
-  },
-  {
-    "title": "Devops incident agent",
-    "techStack": [
-      "Python",
-      "Dockerfile"
-    ],
-    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
-    "link": {
-      "label": "github.com/devops-incident-agent",
-      "href": "https://github.com/NotHarshhaa/devops-incident-agent"
-    },
-    "stars": 6,
-    "forks": 3,
-    "issues": 7,
-    "lastUpdated": "2026-10-01T08:26:37Z",
-    "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
   },
   {
     "title": "Prodevopsguy.xyz",
@@ -1302,8 +1302,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-05T19:20:43Z",
-    "lastCommit": "dda5f0f64a3a88f27b7c2de052b1402158d515d2"
+    "lastUpdated": "2026-10-14T07:08:50Z",
+    "lastCommit": "6e594f3bfe4d5d77c8a2f7c270bb87a8fbf9859b"
   },
   {
     "title": "Internal developer platform cli",
@@ -1385,6 +1385,24 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-06-19T14:54:52Z",
     "lastCommit": "60a6f9cad9969651eb54b1598c68cb96a601d450"
+  },
+  {
+    "title": "Devops agent kit",
+    "techStack": [
+      "Python",
+      "Go",
+      "Makefile"
+    ],
+    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph) as submodules.",
+    "link": {
+      "label": "github.com/devops-agent-kit",
+      "href": "https://github.com/NotHarshhaa/devops-agent-kit"
+    },
+    "stars": 2,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-14T06:38:59Z",
+    "lastCommit": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6"
   },
   {
     "title": "Slimify",
@@ -1550,24 +1568,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-09-07T07:01:38Z",
     "lastCommit": "aa9f45b12925e41f0cfc023e1d1fa882e83ff8a8"
-  },
-  {
-    "title": "Devops agent kit",
-    "techStack": [
-      "Python",
-      "Go",
-      "Makefile"
-    ],
-    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph) as submodules.",
-    "link": {
-      "label": "github.com/devops-agent-kit",
-      "href": "https://github.com/NotHarshhaa/devops-agent-kit"
-    },
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-01T08:26:29Z",
-    "lastCommit": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6"
   },
   {
     "title": "Mainframe mcp server",

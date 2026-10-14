@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5365,
-    "forks": 4860,
-    "watchers": 5365,
+    "stars": 5366,
+    "forks": 4862,
+    "watchers": 5366,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-14T00:55:01Z"
+    "raw_updated_at": "2026-10-14T09:52:56Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1260,
-    "forks": 921,
+    "forks": 923,
     "watchers": 1260,
     "ci_cd_status": "none",
     "languages": [],
@@ -133,9 +133,9 @@
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 636,
+    "stars": 638,
     "forks": 233,
-    "watchers": 636,
+    "watchers": 638,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-14T02:54:48Z"
+    "raw_updated_at": "2026-10-14T09:59:08Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -162,9 +162,9 @@
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 525,
-    "forks": 394,
-    "watchers": 525,
+    "stars": 526,
+    "forks": 395,
+    "watchers": 526,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-14T01:13:54Z"
+    "raw_updated_at": "2026-10-14T09:17:09Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -358,7 +358,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 152,
-    "forks": 73,
+    "forks": 74,
     "watchers": 152,
     "ci_cd_status": "none",
     "languages": [
@@ -657,7 +657,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 35,
-    "forks": 15,
+    "forks": 16,
     "watchers": 35,
     "ci_cd_status": "none",
     "languages": [],
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-13",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c7630f7aa7ed6d044a9d40901c169a2b3c20b3d4",
-    "commit_sha": "c7630f7aa7ed6d044a9d40901c169a2b3c20b3d4",
-    "commit_date": "2026-10-13",
+    "last_updated": "2026-10-14",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/0320ef0b626fed5e3c7f6222512fdecd9a918d85",
+    "commit_sha": "0320ef0b626fed5e3c7f6222512fdecd9a918d85",
+    "commit_date": "2026-10-14",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-13T22:26:16Z"
+    "raw_updated_at": "2026-10-14T04:10:17Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1373,6 +1373,29 @@
     "raw_updated_at": "2026-09-15T09:04:38Z"
   },
   {
+    "repo": "devops-incident-agent",
+    "url": "https://github.com/NotHarshhaa/devops-incident-agent",
+    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
+    "last_updated": "2026-10-14",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-incident-agent/commit/ffc272d5d26758bc89dfff64a2ae878256230568",
+    "commit_sha": "ffc272d5d26758bc89dfff64a2ae878256230568",
+    "commit_date": "2026-07-12",
+    "commit_message": "ci: Bump docker/setup-buildx-action from 3 to 4 (#3)",
+    "author": "dependabot[bot]",
+    "issues": 7,
+    "stars": 7,
+    "forks": 3,
+    "watchers": 7,
+    "ci_cd_status": "pass",
+    "languages": [
+      "Python",
+      "Dockerfile"
+    ],
+    "license": "Apache License 2.0",
+    "topics": [],
+    "raw_updated_at": "2026-10-14T06:38:27Z"
+  },
+  {
     "repo": "projects.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/projects.prodevopsguytech.com",
     "description": "A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using Next.js and styled with Tailwind CSS, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on DevOps and Cloud concepts!",
@@ -1488,29 +1511,6 @@
       "typescript"
     ],
     "raw_updated_at": "2026-09-30T17:51:00Z"
-  },
-  {
-    "repo": "devops-incident-agent",
-    "url": "https://github.com/NotHarshhaa/devops-incident-agent",
-    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
-    "last_updated": "2026-10-01",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-incident-agent/commit/ffc272d5d26758bc89dfff64a2ae878256230568",
-    "commit_sha": "ffc272d5d26758bc89dfff64a2ae878256230568",
-    "commit_date": "2026-07-12",
-    "commit_message": "ci: Bump docker/setup-buildx-action from 3 to 4 (#3)",
-    "author": "dependabot[bot]",
-    "issues": 7,
-    "stars": 6,
-    "forks": 3,
-    "watchers": 6,
-    "ci_cd_status": "pass",
-    "languages": [
-      "Python",
-      "Dockerfile"
-    ],
-    "license": "Apache License 2.0",
-    "topics": [],
-    "raw_updated_at": "2026-10-01T08:26:37Z"
   },
   {
     "repo": "prodevopsguy.xyz",
@@ -1919,11 +1919,11 @@
     "repo": "personal-blog",
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
-    "last_updated": "2026-10-05",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/dda5f0f64a3a88f27b7c2de052b1402158d515d2",
-    "commit_sha": "dda5f0f64a3a88f27b7c2de052b1402158d515d2",
-    "commit_date": "2026-10-05",
-    "commit_message": "blog: refactor(editor, styles): streamline code block component and enhance styling",
+    "last_updated": "2026-10-14",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/6e594f3bfe4d5d77c8a2f7c270bb87a8fbf9859b",
+    "commit_sha": "6e594f3bfe4d5d77c8a2f7c270bb87a8fbf9859b",
+    "commit_date": "2026-10-14",
+    "commit_message": "blog: refactor(controls, post-card): enhance component styling and layout",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -1945,7 +1945,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-05T19:20:43Z"
+    "raw_updated_at": "2026-10-14T07:08:50Z"
   },
   {
     "repo": "internal-developer-platform-cli",
@@ -2068,6 +2068,30 @@
       "kubernetes-monitoring"
     ],
     "raw_updated_at": "2026-06-19T14:54:52Z"
+  },
+  {
+    "repo": "devops-agent-kit",
+    "url": "https://github.com/NotHarshhaa/devops-agent-kit",
+    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph) as submodules.",
+    "last_updated": "2026-10-14",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-agent-kit/commit/2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
+    "commit_sha": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
+    "commit_date": "2026-06-29",
+    "commit_message": "agent-kit: Improve project root detection and enhance error handling in tools",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 2,
+    "forks": 0,
+    "watchers": 2,
+    "ci_cd_status": "none",
+    "languages": [
+      "Python",
+      "Go",
+      "Makefile"
+    ],
+    "license": "GNU General Public License v3.0",
+    "topics": [],
+    "raw_updated_at": "2026-10-14T06:38:59Z"
   },
   {
     "repo": "slimify",
@@ -2291,30 +2315,6 @@
     "license": "MIT License",
     "topics": [],
     "raw_updated_at": "2026-09-07T07:01:38Z"
-  },
-  {
-    "repo": "devops-agent-kit",
-    "url": "https://github.com/NotHarshhaa/devops-agent-kit",
-    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph) as submodules.",
-    "last_updated": "2026-10-01",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-agent-kit/commit/2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
-    "commit_sha": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
-    "commit_date": "2026-06-29",
-    "commit_message": "agent-kit: Improve project root detection and enhance error handling in tools",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 1,
-    "forks": 0,
-    "watchers": 1,
-    "ci_cd_status": "none",
-    "languages": [
-      "Python",
-      "Go",
-      "Makefile"
-    ],
-    "license": "GNU General Public License v3.0",
-    "topics": [],
-    "raw_updated_at": "2026-10-01T08:26:29Z"
   },
   {
     "repo": "mainframe-mcp-server",
