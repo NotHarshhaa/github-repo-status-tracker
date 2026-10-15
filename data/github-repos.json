@@ -256,16 +256,16 @@
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-10-14",
+    "last_updated": "2026-10-15",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 204,
+    "stars": 205,
     "forks": 212,
-    "watchers": 204,
+    "watchers": 205,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -280,7 +280,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-10-14T15:14:06Z"
+    "raw_updated_at": "2026-10-15T15:55:20Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-15",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/da8aabc83536207894abefdea4ed232f41b4195d",
-    "commit_sha": "da8aabc83536207894abefdea4ed232f41b4195d",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a4289bb8ebf3941aa205b49b06aaf43b8d515560",
+    "commit_sha": "a4289bb8ebf3941aa205b49b06aaf43b8d515560",
     "commit_date": "2026-10-15",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-15T03:52:42Z"
+    "raw_updated_at": "2026-10-15T11:05:08Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",

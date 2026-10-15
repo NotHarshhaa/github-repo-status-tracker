@@ -180,10 +180,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 204,
+    "stars": 205,
     "forks": 212,
     "issues": 0,
-    "lastUpdated": "2026-10-14T15:14:06Z",
+    "lastUpdated": "2026-10-15T15:55:20Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-15T03:52:42Z",
-    "lastCommit": "da8aabc83536207894abefdea4ed232f41b4195d"
+    "lastUpdated": "2026-10-15T11:05:08Z",
+    "lastCommit": "a4289bb8ebf3941aa205b49b06aaf43b8d515560"
   },
   {
     "title": "Tf ecr ecs gh deploy",
