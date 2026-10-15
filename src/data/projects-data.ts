@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5369,
-    "forks": 4866,
+    "stars": 5370,
+    "forks": 4867,
     "issues": 30,
-    "lastUpdated": "2026-10-15T10:57:32Z",
+    "lastUpdated": "2026-10-15T16:41:31Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1263,
-    "forks": 924,
+    "stars": 1265,
+    "forks": 927,
     "issues": 4,
-    "lastUpdated": "2026-10-15T10:04:44Z",
+    "lastUpdated": "2026-10-15T19:08:22Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 529,
+    "stars": 530,
     "forks": 399,
     "issues": 1,
-    "lastUpdated": "2026-10-15T04:29:25Z",
+    "lastUpdated": "2026-10-15T16:40:30Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 369,
+    "stars": 370,
     "forks": 272,
     "issues": 3,
-    "lastUpdated": "2026-10-14T16:34:54Z",
+    "lastUpdated": "2026-10-15T18:13:38Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 153,
+    "stars": 154,
     "forks": 74,
     "issues": 0,
-    "lastUpdated": "2026-10-15T07:26:33Z",
+    "lastUpdated": "2026-10-15T17:01:48Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-15T11:05:08Z",
-    "lastCommit": "a4289bb8ebf3941aa205b49b06aaf43b8d515560"
+    "lastUpdated": "2026-10-15T16:35:43Z",
+    "lastCommit": "1afa3d27d459077d34bd453c0d8c6c081858d778"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -714,8 +714,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-09-30T18:09:26Z",
-    "lastCommit": "a9309dfe6a42b015e0ef2e2d72c099330f8a595c"
+    "lastUpdated": "2026-10-15T18:19:04Z",
+    "lastCommit": "415b8ff86a36d7cb92f9b4b149fafc3060ee36cf"
   },
   {
     "title": "Jenkins  Terraform  A W S  Infra",
@@ -1383,8 +1383,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-06-19T14:54:52Z",
-    "lastCommit": "60a6f9cad9969651eb54b1598c68cb96a601d450"
+    "lastUpdated": "2026-10-15T20:04:59Z",
+    "lastCommit": "74dcc6efc841bbea36b948e80390fe54c8771a47"
   },
   {
     "title": "Devops agent kit",

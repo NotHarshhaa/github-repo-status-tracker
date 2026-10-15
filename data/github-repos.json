@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5369,
-    "forks": 4866,
-    "watchers": 5369,
+    "stars": 5370,
+    "forks": 4867,
+    "watchers": 5370,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-15T10:57:32Z"
+    "raw_updated_at": "2026-10-15T16:41:31Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1263,
-    "forks": 924,
-    "watchers": 1263,
+    "stars": 1265,
+    "forks": 927,
+    "watchers": 1265,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-15T10:04:44Z"
+    "raw_updated_at": "2026-10-15T19:08:22Z"
   },
   {
     "repo": "into-the-devops",
@@ -162,9 +162,9 @@
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 529,
+    "stars": 530,
     "forks": 399,
-    "watchers": 529,
+    "watchers": 530,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,22 +179,22 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-15T04:29:25Z"
+    "raw_updated_at": "2026-10-15T16:40:30Z"
   },
   {
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-14",
+    "last_updated": "2026-10-15",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_date": "2026-08-30",
     "commit_message": "DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLab CI, and Jenkins",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 369,
+    "stars": 370,
     "forks": 272,
-    "watchers": 369,
+    "watchers": 370,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -218,7 +218,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-14T16:34:54Z"
+    "raw_updated_at": "2026-10-15T18:13:38Z"
   },
   {
     "repo": "devops-tools",
@@ -357,9 +357,9 @@
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 153,
+    "stars": 154,
     "forks": 74,
-    "watchers": 153,
+    "watchers": 154,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-15T07:26:33Z"
+    "raw_updated_at": "2026-10-15T17:01:48Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-15",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a4289bb8ebf3941aa205b49b06aaf43b8d515560",
-    "commit_sha": "a4289bb8ebf3941aa205b49b06aaf43b8d515560",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1afa3d27d459077d34bd453c0d8c6c081858d778",
+    "commit_sha": "1afa3d27d459077d34bd453c0d8c6c081858d778",
     "commit_date": "2026-10-15",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-15T11:05:08Z"
+    "raw_updated_at": "2026-10-15T16:35:43Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1064,11 +1064,11 @@
     "repo": "links-portfolio",
     "url": "https://github.com/NotHarshhaa/links-portfolio",
     "description": "✨ Links to my social media.",
-    "last_updated": "2026-09-30",
-    "latest_commit": "https://github.com/NotHarshhaa/links-portfolio/commit/a9309dfe6a42b015e0ef2e2d72c099330f8a595c",
-    "commit_sha": "a9309dfe6a42b015e0ef2e2d72c099330f8a595c",
-    "commit_date": "2026-09-30",
-    "commit_message": "link: style: enhance global styles with background gradient and fixed layout",
+    "last_updated": "2026-10-15",
+    "latest_commit": "https://github.com/NotHarshhaa/links-portfolio/commit/415b8ff86a36d7cb92f9b4b149fafc3060ee36cf",
+    "commit_sha": "415b8ff86a36d7cb92f9b4b149fafc3060ee36cf",
+    "commit_date": "2026-10-15",
+    "commit_message": "link: feat: add animated components and marquee functionality",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 11,
@@ -1090,7 +1090,7 @@
       "personal-website",
       "typescript"
     ],
-    "raw_updated_at": "2026-09-30T18:09:26Z"
+    "raw_updated_at": "2026-10-15T18:19:04Z"
   },
   {
     "repo": "Jenkins-Terraform-AWS-Infra",
@@ -2041,11 +2041,11 @@
     "repo": "kubeguardian",
     "url": "https://github.com/NotHarshhaa/kubeguardian",
     "description": "KubeGuardian is an open-source Kubernetes automation tool that continuously monitors cluster health, detects common failures, and automatically remediates issues — reducing downtime, pager alerts, and manual firefighting for DevOps & SRE teams.",
-    "last_updated": "2026-06-19",
-    "latest_commit": "https://github.com/NotHarshhaa/kubeguardian/commit/60a6f9cad9969651eb54b1598c68cb96a601d450",
-    "commit_sha": "60a6f9cad9969651eb54b1598c68cb96a601d450",
-    "commit_date": "2026-02-08",
-    "commit_message": "kube: Update dependencies and configuration for improved functionality",
+    "last_updated": "2026-10-15",
+    "latest_commit": "https://github.com/NotHarshhaa/kubeguardian/commit/74dcc6efc841bbea36b948e80390fe54c8771a47",
+    "commit_sha": "74dcc6efc841bbea36b948e80390fe54c8771a47",
+    "commit_date": "2026-10-15",
+    "commit_message": "kube: Add test scenarios for CrashLoopBackOff and resource stress testing",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -2067,7 +2067,7 @@
       "kubernetes-cluster",
       "kubernetes-monitoring"
     ],
-    "raw_updated_at": "2026-06-19T14:54:52Z"
+    "raw_updated_at": "2026-10-15T20:04:59Z"
   },
   {
     "repo": "devops-agent-kit",
