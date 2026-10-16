@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5370,
+    "stars": 5371,
     "forks": 4867,
-    "watchers": 5370,
+    "watchers": 5371,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-15T16:41:31Z"
+    "raw_updated_at": "2026-10-16T01:20:42Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1265,
+    "stars": 1266,
     "forks": 927,
-    "watchers": 1265,
+    "watchers": 1266,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-15T19:08:22Z"
+    "raw_updated_at": "2026-10-15T21:50:20Z"
   },
   {
     "repo": "into-the-devops",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-14",
+    "last_updated": "2026-10-15",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 641,
+    "stars": 642,
     "forks": 233,
-    "watchers": 641,
+    "watchers": 642,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-14T15:30:33Z"
+    "raw_updated_at": "2026-10-15T21:09:44Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -185,16 +185,16 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_date": "2026-08-30",
     "commit_message": "DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLab CI, and Jenkins",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 370,
+    "stars": 371,
     "forks": 272,
-    "watchers": 370,
+    "watchers": 371,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -218,7 +218,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-15T18:13:38Z"
+    "raw_updated_at": "2026-10-16T03:31:58Z"
   },
   {
     "repo": "devops-tools",
@@ -286,16 +286,16 @@
     "repo": "DevOps_Setup-Installations",
     "url": "https://github.com/NotHarshhaa/DevOps_Setup-Installations",
     "description": "Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools",
-    "last_updated": "2026-09-28",
+    "last_updated": "2026-10-16",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3",
     "commit_sha": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3",
     "commit_date": "2026-04-24",
     "commit_message": "DevOps-Guides: README: Update structure and content for improved navigation and clarity",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 195,
+    "stars": 196,
     "forks": 209,
-    "watchers": 195,
+    "watchers": 196,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -314,7 +314,7 @@
       "tools-and-automation",
       "tools-installer"
     ],
-    "raw_updated_at": "2026-09-28T02:50:03Z"
+    "raw_updated_at": "2026-10-16T03:02:48Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-15",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1afa3d27d459077d34bd453c0d8c6c081858d778",
-    "commit_sha": "1afa3d27d459077d34bd453c0d8c6c081858d778",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/199fda9c50dd983ab9ceb5701be653e6527f546e",
+    "commit_sha": "199fda9c50dd983ab9ceb5701be653e6527f546e",
     "commit_date": "2026-10-15",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-15T16:35:43Z"
+    "raw_updated_at": "2026-10-15T21:06:58Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",

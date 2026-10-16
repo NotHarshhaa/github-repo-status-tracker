@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5370,
+    "stars": 5371,
     "forks": 4867,
     "issues": 30,
-    "lastUpdated": "2026-10-15T16:41:31Z",
+    "lastUpdated": "2026-10-16T01:20:42Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1265,
+    "stars": 1266,
     "forks": 927,
     "issues": 4,
-    "lastUpdated": "2026-10-15T19:08:22Z",
+    "lastUpdated": "2026-10-15T21:50:20Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 641,
+    "stars": 642,
     "forks": 233,
     "issues": 4,
-    "lastUpdated": "2026-10-14T15:30:33Z",
+    "lastUpdated": "2026-10-15T21:09:44Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 370,
+    "stars": 371,
     "forks": 272,
     "issues": 3,
-    "lastUpdated": "2026-10-15T18:13:38Z",
+    "lastUpdated": "2026-10-16T03:31:58Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -201,10 +201,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 195,
+    "stars": 196,
     "forks": 209,
     "issues": 0,
-    "lastUpdated": "2026-09-28T02:50:03Z",
+    "lastUpdated": "2026-10-16T03:02:48Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-15T16:35:43Z",
-    "lastCommit": "1afa3d27d459077d34bd453c0d8c6c081858d778"
+    "lastUpdated": "2026-10-15T21:06:58Z",
+    "lastCommit": "199fda9c50dd983ab9ceb5701be653e6527f546e"
   },
   {
     "title": "Tf ecr ecs gh deploy",
