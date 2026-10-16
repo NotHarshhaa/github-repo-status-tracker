@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5371,
-    "forks": 4867,
+    "stars": 5374,
+    "forks": 4868,
     "issues": 30,
-    "lastUpdated": "2026-10-16T01:20:42Z",
+    "lastUpdated": "2026-10-16T10:37:42Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1266,
+    "stars": 1267,
     "forks": 927,
     "issues": 4,
-    "lastUpdated": "2026-10-15T21:50:20Z",
+    "lastUpdated": "2026-10-16T07:20:28Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 917,
+    "stars": 916,
     "forks": 543,
     "issues": 0,
-    "lastUpdated": "2026-10-15T09:46:59Z",
+    "lastUpdated": "2026-10-16T10:37:45Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 642,
+    "stars": 643,
     "forks": 233,
     "issues": 4,
-    "lastUpdated": "2026-10-15T21:09:44Z",
+    "lastUpdated": "2026-10-16T08:20:27Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-15T21:06:58Z",
-    "lastCommit": "199fda9c50dd983ab9ceb5701be653e6527f546e"
+    "lastUpdated": "2026-10-16T03:48:18Z",
+    "lastCommit": "a27bf9c94043b198ef7c402083b21d6ab8a48b00"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -1383,8 +1383,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-10-15T20:04:59Z",
-    "lastCommit": "74dcc6efc841bbea36b948e80390fe54c8771a47"
+    "lastUpdated": "2026-10-16T05:59:40Z",
+    "lastCommit": "dca4f7d86d5a3c5589fb9e3a09ee4fdf4fedcbac"
   },
   {
     "title": "Devops agent kit",

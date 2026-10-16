@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5371,
-    "forks": 4867,
-    "watchers": 5371,
+    "stars": 5374,
+    "forks": 4868,
+    "watchers": 5374,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-16T01:20:42Z"
+    "raw_updated_at": "2026-10-16T10:37:42Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1266,
+    "stars": 1267,
     "forks": 927,
-    "watchers": 1266,
+    "watchers": 1267,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-15T21:50:20Z"
+    "raw_updated_at": "2026-10-16T07:20:28Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 917,
+    "stars": 916,
     "forks": 543,
-    "watchers": 917,
+    "watchers": 916,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,22 +120,22 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-15T09:46:59Z"
+    "raw_updated_at": "2026-10-16T10:37:45Z"
   },
   {
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 642,
+    "stars": 643,
     "forks": 233,
-    "watchers": 642,
+    "watchers": 643,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-15T21:09:44Z"
+    "raw_updated_at": "2026-10-16T08:20:27Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-15",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/199fda9c50dd983ab9ceb5701be653e6527f546e",
-    "commit_sha": "199fda9c50dd983ab9ceb5701be653e6527f546e",
-    "commit_date": "2026-10-15",
+    "last_updated": "2026-10-16",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a27bf9c94043b198ef7c402083b21d6ab8a48b00",
+    "commit_sha": "a27bf9c94043b198ef7c402083b21d6ab8a48b00",
+    "commit_date": "2026-10-16",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-15T21:06:58Z"
+    "raw_updated_at": "2026-10-16T03:48:18Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -2041,11 +2041,11 @@
     "repo": "kubeguardian",
     "url": "https://github.com/NotHarshhaa/kubeguardian",
     "description": "KubeGuardian is an open-source Kubernetes automation tool that continuously monitors cluster health, detects common failures, and automatically remediates issues — reducing downtime, pager alerts, and manual firefighting for DevOps & SRE teams.",
-    "last_updated": "2026-10-15",
-    "latest_commit": "https://github.com/NotHarshhaa/kubeguardian/commit/74dcc6efc841bbea36b948e80390fe54c8771a47",
-    "commit_sha": "74dcc6efc841bbea36b948e80390fe54c8771a47",
-    "commit_date": "2026-10-15",
-    "commit_message": "kube: Add test scenarios for CrashLoopBackOff and resource stress testing",
+    "last_updated": "2026-10-16",
+    "latest_commit": "https://github.com/NotHarshhaa/kubeguardian/commit/dca4f7d86d5a3c5589fb9e3a09ee4fdf4fedcbac",
+    "commit_sha": "dca4f7d86d5a3c5589fb9e3a09ee4fdf4fedcbac",
+    "commit_date": "2026-10-16",
+    "commit_message": "kube: Bump Helm chart version to 2.0.0 for new release",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -2067,7 +2067,7 @@
       "kubernetes-cluster",
       "kubernetes-monitoring"
     ],
-    "raw_updated_at": "2026-10-15T20:04:59Z"
+    "raw_updated_at": "2026-10-16T05:59:40Z"
   },
   {
     "repo": "devops-agent-kit",
