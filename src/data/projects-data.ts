@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5375,
-    "forks": 4871,
+    "forks": 4872,
     "issues": 30,
     "lastUpdated": "2026-10-16T12:23:01Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-16T11:01:05Z",
-    "lastCommit": "a1a76ec9e30a59262b798be738591d7b5567fd90"
+    "lastUpdated": "2026-10-16T16:20:34Z",
+    "lastCommit": "c7e1a9bc4ff75a56217b895a3730db3efae04572"
   },
   {
     "title": "Tf ecr ecs gh deploy",
