@@ -201,10 +201,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 196,
+    "stars": 197,
     "forks": 209,
     "issues": 0,
-    "lastUpdated": "2026-10-16T03:02:48Z",
+    "lastUpdated": "2026-10-17T05:27:49Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -246,7 +246,7 @@ export const PROJECTS: Project[] = [
     "stars": 154,
     "forks": 74,
     "issues": 0,
-    "lastUpdated": "2026-10-15T17:01:48Z",
+    "lastUpdated": "2026-10-17T09:39:07Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-16T20:42:56Z",
-    "lastCommit": "f0338790e8a354511f43fa0a78f32c09e0a3b8c4"
+    "lastUpdated": "2026-10-17T03:38:16Z",
+    "lastCommit": "6fc706a0b4c238ab2b34fa3b69b1b10b9dcf0b53"
   },
   {
     "title": "Tf ecr ecs gh deploy",

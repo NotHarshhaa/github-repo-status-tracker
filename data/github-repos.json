@@ -286,16 +286,16 @@
     "repo": "DevOps_Setup-Installations",
     "url": "https://github.com/NotHarshhaa/DevOps_Setup-Installations",
     "description": "Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps_Setup-Installations/commit/e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3",
     "commit_sha": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3",
     "commit_date": "2026-04-24",
     "commit_message": "DevOps-Guides: README: Update structure and content for improved navigation and clarity",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 196,
+    "stars": 197,
     "forks": 209,
-    "watchers": 196,
+    "watchers": 197,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -314,7 +314,7 @@
       "tools-and-automation",
       "tools-installer"
     ],
-    "raw_updated_at": "2026-10-16T03:02:48Z"
+    "raw_updated_at": "2026-10-17T05:27:49Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -350,7 +350,7 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-17",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-15T17:01:48Z"
+    "raw_updated_at": "2026-10-17T09:39:07Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-16",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f0338790e8a354511f43fa0a78f32c09e0a3b8c4",
-    "commit_sha": "f0338790e8a354511f43fa0a78f32c09e0a3b8c4",
-    "commit_date": "2026-10-16",
+    "last_updated": "2026-10-17",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/6fc706a0b4c238ab2b34fa3b69b1b10b9dcf0b53",
+    "commit_sha": "6fc706a0b4c238ab2b34fa3b69b1b10b9dcf0b53",
+    "commit_date": "2026-10-17",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-16T20:42:56Z"
+    "raw_updated_at": "2026-10-17T03:38:16Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
