@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5375,
-    "forks": 4873,
+    "stars": 5377,
+    "forks": 4874,
     "issues": 30,
-    "lastUpdated": "2026-10-16T12:23:01Z",
+    "lastUpdated": "2026-10-17T14:50:42Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1267,
-    "forks": 927,
+    "forks": 928,
     "issues": 4,
     "lastUpdated": "2026-10-16T07:20:28Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -411,10 +411,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Cloud-Native-DevOps-Project",
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
-    "stars": 35,
+    "stars": 36,
     "forks": 44,
     "issues": 0,
-    "lastUpdated": "2026-10-04T00:58:39Z",
+    "lastUpdated": "2026-10-17T15:07:17Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-17T03:38:16Z",
-    "lastCommit": "6fc706a0b4c238ab2b34fa3b69b1b10b9dcf0b53"
+    "lastUpdated": "2026-10-17T10:21:57Z",
+    "lastCommit": "1c244489525987d9ee16ed53cd00a8c36bb1d6f0"
   },
   {
     "title": "Tf ecr ecs gh deploy",

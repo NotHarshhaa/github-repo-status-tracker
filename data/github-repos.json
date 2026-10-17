@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5375,
-    "forks": 4873,
-    "watchers": 5375,
+    "stars": 5377,
+    "forks": 4874,
+    "watchers": 5377,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-16T12:23:01Z"
+    "raw_updated_at": "2026-10-17T14:50:42Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1267,
-    "forks": 927,
+    "forks": 928,
     "watchers": 1267,
     "ci_cd_status": "none",
     "languages": [],
@@ -607,16 +607,16 @@
     "repo": "Cloud-Native-DevOps-Project",
     "url": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
     "description": "Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernetes – all on AWS! 💥",
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-17",
     "latest_commit": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b",
     "commit_sha": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b",
     "commit_date": "2025-07-13",
     "commit_message": "cloud-native-project: README: Update project banner",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 35,
+    "stars": 36,
     "forks": 44,
-    "watchers": 35,
+    "watchers": 36,
     "ci_cd_status": "none",
     "languages": [
       "HCL",
@@ -643,7 +643,7 @@
       "sonarqube",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-04T00:58:39Z"
+    "raw_updated_at": "2026-10-17T15:07:17Z"
   },
   {
     "repo": "ai-platform-engineering-handbook",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/6fc706a0b4c238ab2b34fa3b69b1b10b9dcf0b53",
-    "commit_sha": "6fc706a0b4c238ab2b34fa3b69b1b10b9dcf0b53",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1c244489525987d9ee16ed53cd00a8c36bb1d6f0",
+    "commit_sha": "1c244489525987d9ee16ed53cd00a8c36bb1d6f0",
     "commit_date": "2026-10-17",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-17T03:38:16Z"
+    "raw_updated_at": "2026-10-17T10:21:57Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
