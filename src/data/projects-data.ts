@@ -36,7 +36,7 @@ export const PROJECTS: Project[] = [
     "stars": 5377,
     "forks": 4874,
     "issues": 30,
-    "lastUpdated": "2026-10-17T14:50:42Z",
+    "lastUpdated": "2026-10-17T16:24:09Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 530,
+    "stars": 531,
     "forks": 399,
     "issues": 1,
-    "lastUpdated": "2026-10-15T16:40:30Z",
+    "lastUpdated": "2026-10-17T18:39:45Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -180,10 +180,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 205,
+    "stars": 206,
     "forks": 212,
     "issues": 0,
-    "lastUpdated": "2026-10-15T15:55:20Z",
+    "lastUpdated": "2026-10-17T15:59:20Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-17T10:21:57Z",
-    "lastCommit": "1c244489525987d9ee16ed53cd00a8c36bb1d6f0"
+    "lastUpdated": "2026-10-17T15:14:49Z",
+    "lastCommit": "fd55eac8ff05a6d9be81f973746d6878a77f4ff5"
   },
   {
     "title": "Tf ecr ecs gh deploy",
