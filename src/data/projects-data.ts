@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5377,
-    "forks": 4875,
+    "stars": 5379,
+    "forks": 4876,
     "issues": 30,
-    "lastUpdated": "2026-10-17T16:24:09Z",
+    "lastUpdated": "2026-10-18T04:20:10Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1268,
-    "forks": 928,
+    "forks": 929,
     "issues": 4,
     "lastUpdated": "2026-10-17T22:51:51Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 531,
+    "stars": 532,
     "forks": 399,
     "issues": 1,
-    "lastUpdated": "2026-10-17T18:39:45Z",
+    "lastUpdated": "2026-10-18T09:02:16Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-17T20:20:06Z",
-    "lastCommit": "8c47b9cc5c4cf4ba80c0a972abf81e025cc90798"
+    "lastUpdated": "2026-10-18T03:45:00Z",
+    "lastCommit": "84f1cc9063812b767b0ea4b3d5e3889843fa1f0b"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -1302,8 +1302,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-14T07:08:50Z",
-    "lastCommit": "6e594f3bfe4d5d77c8a2f7c270bb87a8fbf9859b"
+    "lastUpdated": "2026-10-18T06:10:45Z",
+    "lastCommit": "eb81c8d019e98721839cf7d52fda44430f063246"
   },
   {
     "title": "Internal developer platform cli",
