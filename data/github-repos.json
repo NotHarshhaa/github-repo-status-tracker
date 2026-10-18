@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5381,
-    "forks": 4877,
-    "watchers": 5381,
+    "stars": 5384,
+    "forks": 4880,
+    "watchers": 5384,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-18T15:05:42Z"
+    "raw_updated_at": "2026-10-18T20:17:31Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1269,
+    "stars": 1271,
     "forks": 929,
-    "watchers": 1269,
+    "watchers": 1271,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-18T15:25:10Z"
+    "raw_updated_at": "2026-10-18T19:27:14Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-18",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 916,
+    "stars": 917,
     "forks": 543,
-    "watchers": 916,
+    "watchers": 917,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-16T10:37:45Z"
+    "raw_updated_at": "2026-10-18T20:18:31Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -185,16 +185,16 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-18",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_date": "2026-08-30",
     "commit_message": "DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLab CI, and Jenkins",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 370,
+    "stars": 371,
     "forks": 273,
-    "watchers": 370,
+    "watchers": 371,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -218,7 +218,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-16T14:24:54Z"
+    "raw_updated_at": "2026-10-18T17:53:19Z"
   },
   {
     "repo": "devops-tools",
@@ -649,21 +649,21 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-18",
     "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f4680a501b8c58ba0382283f81b1ba5d3333fda1",
     "commit_sha": "f4680a501b8c58ba0382283f81b1ba5d3333fda1",
     "commit_date": "2026-09-26",
     "commit_message": "ai-platform-handbook: Enhance course index and content structure",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 35,
+    "stars": 36,
     "forks": 16,
-    "watchers": 35,
+    "watchers": 36,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-08T00:31:18Z"
+    "raw_updated_at": "2026-10-18T18:55:28Z"
   },
   {
     "repo": "From-Docker-to-Kubernetes",
@@ -704,16 +704,16 @@
     "repo": "AWS-DevOps_Real-Time_Deployment",
     "url": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment",
     "description": "🚀 Production-ready AWS DevOps CI/CD pipeline automating multi-environment deployments (Dev ➔ Staging ➔ Prod) using AWS CodePipeline, CodeBuild, CodeDeploy, and hardened Nginx.",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-10-18",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8",
     "commit_sha": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8",
     "commit_date": "2026-08-28",
     "commit_message": "AWS-DevOps: Version 2.1 updates for production readiness and security enhancements",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 30,
+    "stars": 31,
     "forks": 69,
-    "watchers": 30,
+    "watchers": 31,
     "ci_cd_status": "none",
     "languages": [
       "Shell",
@@ -734,7 +734,7 @@
       "multi-environment",
       "nginx"
     ],
-    "raw_updated_at": "2026-09-03T14:32:46Z"
+    "raw_updated_at": "2026-10-18T17:52:03Z"
   },
   {
     "repo": "Learning-Prometheus",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-18",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4b8842057e61436c6dbf097402c181deed807d49",
-    "commit_sha": "4b8842057e61436c6dbf097402c181deed807d49",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/70a7715676e76bba54ca672ed8e680c281b71860",
+    "commit_sha": "70a7715676e76bba54ca672ed8e680c281b71860",
     "commit_date": "2026-10-18",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-18T10:38:23Z"
+    "raw_updated_at": "2026-10-18T15:36:27Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1150,6 +1150,42 @@
       "skills"
     ],
     "raw_updated_at": "2026-10-09T09:24:31Z"
+  },
+  {
+    "repo": "azure-devops-zero-to-hero",
+    "url": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero",
+    "description": "Azure DevOps Zero to Hero — comprehensive guide to master Azure DevOps from fundamentals to advanced use. Learn Boards, Pipelines, Repos, Artifacts & Test Plans with practical, step-by-step content for developers and DevOps engineers",
+    "last_updated": "2026-10-18",
+    "latest_commit": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero/commit/9664378defd5705f45e56f27221fd9c9ca9052d7",
+    "commit_sha": "9664378defd5705f45e56f27221fd9c9ca9052d7",
+    "commit_date": "2026-08-06",
+    "commit_message": "feat: Update README files for Azure DevOps components with improved formatting, section headers, and additional content",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 8,
+    "forks": 11,
+    "watchers": 8,
+    "ci_cd_status": "none",
+    "languages": [],
+    "license": "MIT License",
+    "topics": [
+      "azure-artifacts",
+      "azure-boards",
+      "azure-devops",
+      "azure-pipelines",
+      "azure-repos",
+      "azure-test-plans",
+      "ci-cd",
+      "continuous-delivery",
+      "continuous-integration",
+      "devops",
+      "git",
+      "learning",
+      "microsoft-azure",
+      "tutorial",
+      "zero-to-hero"
+    ],
+    "raw_updated_at": "2026-10-18T17:55:07Z"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -1335,42 +1371,6 @@
       "project-generator"
     ],
     "raw_updated_at": "2026-10-09T09:24:34Z"
-  },
-  {
-    "repo": "azure-devops-zero-to-hero",
-    "url": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero",
-    "description": "Azure DevOps Zero to Hero — comprehensive guide to master Azure DevOps from fundamentals to advanced use. Learn Boards, Pipelines, Repos, Artifacts & Test Plans with practical, step-by-step content for developers and DevOps engineers",
-    "last_updated": "2026-09-15",
-    "latest_commit": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero/commit/9664378defd5705f45e56f27221fd9c9ca9052d7",
-    "commit_sha": "9664378defd5705f45e56f27221fd9c9ca9052d7",
-    "commit_date": "2026-08-06",
-    "commit_message": "feat: Update README files for Azure DevOps components with improved formatting, section headers, and additional content",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 7,
-    "forks": 11,
-    "watchers": 7,
-    "ci_cd_status": "none",
-    "languages": [],
-    "license": "MIT License",
-    "topics": [
-      "azure-artifacts",
-      "azure-boards",
-      "azure-devops",
-      "azure-pipelines",
-      "azure-repos",
-      "azure-test-plans",
-      "ci-cd",
-      "continuous-delivery",
-      "continuous-integration",
-      "devops",
-      "git",
-      "learning",
-      "microsoft-azure",
-      "tutorial",
-      "zero-to-hero"
-    ],
-    "raw_updated_at": "2026-09-15T09:04:38Z"
   },
   {
     "repo": "devops-incident-agent",

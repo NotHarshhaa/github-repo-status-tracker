@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5381,
-    "forks": 4877,
+    "stars": 5384,
+    "forks": 4880,
     "issues": 30,
-    "lastUpdated": "2026-10-18T15:05:42Z",
+    "lastUpdated": "2026-10-18T20:17:31Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1269,
+    "stars": 1271,
     "forks": 929,
     "issues": 4,
-    "lastUpdated": "2026-10-18T15:25:10Z",
+    "lastUpdated": "2026-10-18T19:27:14Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 916,
+    "stars": 917,
     "forks": 543,
     "issues": 0,
-    "lastUpdated": "2026-10-16T10:37:45Z",
+    "lastUpdated": "2026-10-18T20:18:31Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 370,
+    "stars": 371,
     "forks": 273,
     "issues": 3,
-    "lastUpdated": "2026-10-16T14:24:54Z",
+    "lastUpdated": "2026-10-18T17:53:19Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -425,10 +425,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 35,
+    "stars": 36,
     "forks": 16,
     "issues": 1,
-    "lastUpdated": "2026-10-08T00:31:18Z",
+    "lastUpdated": "2026-10-18T18:55:28Z",
     "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
   },
   {
@@ -467,10 +467,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-DevOps_Real-Time_Deployment",
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
-    "stars": 30,
+    "stars": 31,
     "forks": 69,
     "issues": 0,
-    "lastUpdated": "2026-09-03T14:32:46Z",
+    "lastUpdated": "2026-10-18T17:52:03Z",
     "lastCommit": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-18T10:38:23Z",
-    "lastCommit": "4b8842057e61436c6dbf097402c181deed807d49"
+    "lastUpdated": "2026-10-18T15:36:27Z",
+    "lastCommit": "70a7715676e76bba54ca672ed8e680c281b71860"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -758,6 +758,27 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-10-09T09:24:31Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
+  },
+  {
+    "title": "Azure devops zero to hero",
+    "techStack": [
+      "azure-artifacts",
+      "azure-boards",
+      "azure-devops",
+      "azure-pipelines",
+      "azure-repos",
+      "azure-test-plans"
+    ],
+    "description": "Azure DevOps Zero to Hero — comprehensive guide to master Azure DevOps from fundamentals to advanced use. Learn Boards, Pipelines, Repos, Artifacts & Test Plans with practical, step-by-step content...",
+    "link": {
+      "label": "github.com/azure-devops-zero-to-hero",
+      "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
+    },
+    "stars": 8,
+    "forks": 11,
+    "issues": 0,
+    "lastUpdated": "2026-10-18T17:55:07Z",
+    "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
   },
   {
     "title": "Prodevopsguytech.com",
@@ -882,27 +903,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-10-09T09:24:34Z",
     "lastCommit": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b"
-  },
-  {
-    "title": "Azure devops zero to hero",
-    "techStack": [
-      "azure-artifacts",
-      "azure-boards",
-      "azure-devops",
-      "azure-pipelines",
-      "azure-repos",
-      "azure-test-plans"
-    ],
-    "description": "Azure DevOps Zero to Hero — comprehensive guide to master Azure DevOps from fundamentals to advanced use. Learn Boards, Pipelines, Repos, Artifacts & Test Plans with practical, step-by-step content...",
-    "link": {
-      "label": "github.com/azure-devops-zero-to-hero",
-      "href": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero"
-    },
-    "stars": 7,
-    "forks": 11,
-    "issues": 0,
-    "lastUpdated": "2026-09-15T09:04:38Z",
-    "lastCommit": "9664378defd5705f45e56f27221fd9c9ca9052d7"
   },
   {
     "title": "Devops incident agent",
