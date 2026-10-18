@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5377,
-    "forks": 4874,
+    "forks": 4875,
     "watchers": 5377,
     "ci_cd_status": "none",
     "languages": [
@@ -49,16 +49,16 @@
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1267,
+    "stars": 1268,
     "forks": 928,
-    "watchers": 1267,
+    "watchers": 1268,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-16T07:20:28Z"
+    "raw_updated_at": "2026-10-17T22:51:51Z"
   },
   {
     "repo": "into-the-devops",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/fd55eac8ff05a6d9be81f973746d6878a77f4ff5",
-    "commit_sha": "fd55eac8ff05a6d9be81f973746d6878a77f4ff5",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8c47b9cc5c4cf4ba80c0a972abf81e025cc90798",
+    "commit_sha": "8c47b9cc5c4cf4ba80c0a972abf81e025cc90798",
     "commit_date": "2026-10-17",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-17T15:14:49Z"
+    "raw_updated_at": "2026-10-17T20:20:06Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
