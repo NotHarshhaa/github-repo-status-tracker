@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5379,
-    "forks": 4876,
-    "watchers": 5379,
+    "stars": 5381,
+    "forks": 4877,
+    "watchers": 5381,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-18T04:20:10Z"
+    "raw_updated_at": "2026-10-18T15:05:42Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-18",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1268,
+    "stars": 1269,
     "forks": 929,
-    "watchers": 1268,
+    "watchers": 1269,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-17T22:51:51Z"
+    "raw_updated_at": "2026-10-18T15:25:10Z"
   },
   {
     "repo": "into-the-devops",
@@ -162,9 +162,9 @@
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 532,
-    "forks": 399,
-    "watchers": 532,
+    "stars": 533,
+    "forks": 400,
+    "watchers": 533,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-18T09:02:16Z"
+    "raw_updated_at": "2026-10-18T14:40:46Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-18",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/84f1cc9063812b767b0ea4b3d5e3889843fa1f0b",
-    "commit_sha": "84f1cc9063812b767b0ea4b3d5e3889843fa1f0b",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4b8842057e61436c6dbf097402c181deed807d49",
+    "commit_sha": "4b8842057e61436c6dbf097402c181deed807d49",
     "commit_date": "2026-10-18",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-18T03:45:00Z"
+    "raw_updated_at": "2026-10-18T10:38:23Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
