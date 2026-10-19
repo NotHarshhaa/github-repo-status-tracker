@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5384,
-    "forks": 4880,
-    "watchers": 5384,
+    "stars": 5387,
+    "forks": 4881,
+    "watchers": 5387,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-18T20:17:31Z"
+    "raw_updated_at": "2026-10-19T07:27:56Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1273,
+    "stars": 1276,
     "forks": 929,
-    "watchers": 1273,
+    "watchers": 1276,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-18T22:37:18Z"
+    "raw_updated_at": "2026-10-19T07:45:47Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 917,
+    "stars": 918,
     "forks": 543,
-    "watchers": 917,
+    "watchers": 918,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,22 +120,22 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-18T20:18:31Z"
+    "raw_updated_at": "2026-10-19T04:14:28Z"
   },
   {
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 643,
+    "stars": 645,
     "forks": 234,
-    "watchers": 643,
+    "watchers": 645,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-16T08:20:27Z"
+    "raw_updated_at": "2026-10-19T10:54:57Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 533,
-    "forks": 400,
+    "forks": 401,
     "watchers": 533,
     "ci_cd_status": "none",
     "languages": [],
@@ -224,16 +224,16 @@
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-10-01",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e",
     "commit_sha": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e",
     "commit_date": "2025-12-18",
     "commit_message": "Merge pull request #3 from NotHarshhaa/vercel/react-server-components-cve-vu-1116yw",
     "author": "H A R S H H A A",
     "issues": 4,
-    "stars": 241,
+    "stars": 242,
     "forks": 162,
-    "watchers": 241,
+    "watchers": 242,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -250,22 +250,22 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-10-01T11:53:15Z"
+    "raw_updated_at": "2026-10-19T04:14:51Z"
   },
   {
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 206,
+    "stars": 207,
     "forks": 212,
-    "watchers": 206,
+    "watchers": 207,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -280,7 +280,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-10-17T15:59:20Z"
+    "raw_updated_at": "2026-10-19T04:15:24Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -350,16 +350,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 154,
+    "stars": 155,
     "forks": 74,
-    "watchers": 154,
+    "watchers": 155,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,22 +379,22 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-17T09:39:07Z"
+    "raw_updated_at": "2026-10-19T04:18:09Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
     "url": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
     "description": "A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.",
-    "last_updated": "2026-09-22",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e",
     "commit_sha": "c83c2739ba8385db73508b7a31852fc7aa64918e",
     "commit_date": "2026-02-14",
     "commit_message": "CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and EKS deployment",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 138,
+    "stars": 139,
     "forks": 119,
-    "watchers": 138,
+    "watchers": 139,
     "ci_cd_status": "fail",
     "languages": [
       "JavaScript",
@@ -414,7 +414,7 @@
       "jenkins",
       "nodejs"
     ],
-    "raw_updated_at": "2026-09-22T15:31:37Z"
+    "raw_updated_at": "2026-10-19T04:14:41Z"
   },
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
@@ -449,16 +449,16 @@
     "repo": "azure-all_in_one",
     "url": "https://github.com/NotHarshhaa/azure-all_in_one",
     "description": "𝘼 𝙘𝙪𝙧𝙖𝙩𝙚𝙙 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙖𝙬𝙚𝙨𝙤𝙢𝙚 𝘼𝙯𝙪𝙧𝙚 𝙚 𝙍𝙚𝙨𝙤𝙪𝙧𝙘𝙚, 𝙡𝙞𝙗𝙧𝙖𝙧𝙞𝙚𝙨, 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙧𝙚𝙥𝙤𝙨, 𝙜𝙪𝙞𝙙𝙚𝙨, 𝙗𝙡𝙤𝙜𝙨, 𝙖𝙣𝙙 𝙤𝙩𝙝𝙚𝙧 𝙧𝙚𝙨𝙤𝙪𝙧𝙘𝙚𝙨.",
-    "last_updated": "2026-08-10",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3",
     "commit_sha": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3",
     "commit_date": "2025-03-07",
     "commit_message": "Azure Guide: README: Update header banner",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 92,
+    "stars": 93,
     "forks": 61,
-    "watchers": 92,
+    "watchers": 93,
     "ci_cd_status": "none",
     "languages": [],
     "license": "GNU Affero General Public License v3.0",
@@ -475,7 +475,7 @@
       "azure-resources",
       "azure-storage"
     ],
-    "raw_updated_at": "2026-08-10T10:48:10Z"
+    "raw_updated_at": "2026-10-19T04:15:14Z"
   },
   {
     "repo": "eks-cluster-terraform",
@@ -510,11 +510,11 @@
     "repo": "DevOps-Tool-Installer",
     "url": "https://github.com/NotHarshhaa/DevOps-Tool-Installer",
     "description": "Automate installation/uninstallation of essential DevOps tools on Linux and Windows with a single script. Perfect for DevOps engineers and enthusiasts looking to streamline their setup process.",
-    "last_updated": "2026-08-27",
-    "latest_commit": "https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/b49b9dd35b4013740775bb3ce2b6c6c2e621c10f",
-    "commit_sha": "b49b9dd35b4013740775bb3ce2b6c6c2e621c10f",
-    "commit_date": "2026-07-04",
-    "commit_message": "DevOps-Tool-Installer: Upgrade to Version 3.5.0 with enhanced features and improvements",
+    "last_updated": "2026-10-19",
+    "latest_commit": "https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/e958464ecacb0bde6d3741faa37a9071c74fc486",
+    "commit_sha": "e958464ecacb0bde6d3741faa37a9071c74fc486",
+    "commit_date": "2026-10-19",
+    "commit_message": "DevOps-Tool-Installer: Introduce new features for enhanced usability and diagnostics",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 64,
@@ -539,22 +539,22 @@
       "terraform",
       "tools"
     ],
-    "raw_updated_at": "2026-08-27T03:13:03Z"
+    "raw_updated_at": "2026-10-19T08:34:51Z"
   },
   {
     "repo": "kubernetes-dashboard",
     "url": "https://github.com/NotHarshhaa/kubernetes-dashboard",
     "description": "This dashboard unifies multi-cluster fleet operations, real-time Metrics Server telemetry, AI/GPU accelerator observability, GitOps workflow safeguards (ArgoCD & Flux), next-gen Gateway API routing, and browser-native ANSI container terminal execution. Eliminate tool sprawl, prevent configuration drift, and manage mission-critical cloud-native work",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_sha": "76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_date": "2026-09-13",
     "commit_message": "Kubernetes-dashboard: update ESLint configuration and refine component imports",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 60,
+    "stars": 61,
     "forks": 53,
-    "watchers": 60,
+    "watchers": 61,
     "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
@@ -573,7 +573,7 @@
       "kubernetes-setup",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-12T09:46:47Z"
+    "raw_updated_at": "2026-10-19T04:15:40Z"
   },
   {
     "repo": "aws-billing-alert-terraform",
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-18",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/e068a49b0c8cf0b0da6c29cfd8dd362a00999fe7",
-    "commit_sha": "e068a49b0c8cf0b0da6c29cfd8dd362a00999fe7",
-    "commit_date": "2026-10-18",
+    "last_updated": "2026-10-19",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/257bb13e6247f13d3d50ee2cdaeb266b886d8b07",
+    "commit_sha": "257bb13e6247f13d3d50ee2cdaeb266b886d8b07",
+    "commit_date": "2026-10-19",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-18T20:19:28Z"
+    "raw_updated_at": "2026-10-19T03:54:25Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
