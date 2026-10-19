@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5387,
-    "forks": 4881,
+    "stars": 5389,
+    "forks": 4882,
     "issues": 30,
-    "lastUpdated": "2026-10-19T07:27:56Z",
+    "lastUpdated": "2026-10-19T16:47:21Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
     "stars": 645,
     "forks": 234,
     "issues": 4,
-    "lastUpdated": "2026-10-19T10:54:57Z",
+    "lastUpdated": "2026-10-19T20:44:24Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -118,9 +118,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 533,
-    "forks": 401,
+    "forks": 403,
     "issues": 1,
-    "lastUpdated": "2026-10-18T14:40:46Z",
+    "lastUpdated": "2026-10-19T20:46:14Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 371,
+    "stars": 372,
     "forks": 273,
     "issues": 3,
-    "lastUpdated": "2026-10-18T17:53:19Z",
+    "lastUpdated": "2026-10-19T21:28:33Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 155,
+    "stars": 156,
     "forks": 74,
     "issues": 0,
-    "lastUpdated": "2026-10-19T04:18:09Z",
+    "lastUpdated": "2026-10-19T18:35:58Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -515,6 +515,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "bd77ff8270a7ac5c75a126c8a05a4ff2f32e6563"
   },
   {
+    "title": "Devops monitoring in a box",
+    "techStack": [
+      "alertmanager",
+      "devops-monitoring",
+      "docker",
+      "docker-compose",
+      "grafana",
+      "grafana-dashboard"
+    ],
+    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
+    "link": {
+      "label": "github.com/devops-monitoring-in-a-box",
+      "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
+    },
+    "stars": 19,
+    "forks": 21,
+    "issues": 1,
+    "lastUpdated": "2026-10-19T15:45:06Z",
+    "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
+  },
+  {
     "title": "A W S  Terraform  Workshop",
     "techStack": [
       "automation",
@@ -534,27 +555,6 @@ export const PROJECTS: Project[] = [
     "issues": 1,
     "lastUpdated": "2026-06-04T09:26:19Z",
     "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
-  },
-  {
-    "title": "Devops monitoring in a box",
-    "techStack": [
-      "alertmanager",
-      "devops-monitoring",
-      "docker",
-      "docker-compose",
-      "grafana",
-      "grafana-dashboard"
-    ],
-    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
-    "link": {
-      "label": "github.com/devops-monitoring-in-a-box",
-      "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
-    },
-    "stars": 18,
-    "forks": 21,
-    "issues": 1,
-    "lastUpdated": "2026-10-09T09:24:16Z",
-    "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
   },
   {
     "title": "Zomato  Clone",
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-19T03:54:25Z",
-    "lastCommit": "257bb13e6247f13d3d50ee2cdaeb266b886d8b07"
+    "lastUpdated": "2026-10-19T12:35:54Z",
+    "lastCommit": "f13409f7ec7772c0236c5318e8ac12271ec521fe"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -1185,6 +1185,26 @@ export const PROJECTS: Project[] = [
     "lastCommit": "4d1f9a8bb77876cca4b5d05654dc198667cb18ed"
   },
   {
+    "title": "Terraform cost predictor",
+    "techStack": [
+      "TypeScript",
+      "Python",
+      "CSS",
+      "Dockerfile",
+      "JavaScript"
+    ],
+    "description": "Terraform Cost Predictor is an ML-powered tool that analyzes Terraform infrastructure configurations and predicts the estimated monthly cloud cost before deployment.",
+    "link": {
+      "label": "github.com/terraform-cost-predictor",
+      "href": "https://github.com/NotHarshhaa/terraform-cost-predictor"
+    },
+    "stars": 3,
+    "forks": 4,
+    "issues": 0,
+    "lastUpdated": "2026-10-19T18:37:24Z",
+    "lastCommit": "11e2a3a3bb760c0a5a78a817b292ef4cc3a91327"
+  },
+  {
     "title": "Cloud billing automation",
     "techStack": [
       "Python",
@@ -1223,6 +1243,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "f367a1c6d6a5f9af5978c0c87fd54e4076c721b9"
   },
   {
+    "title": "Mlflow k8s operator",
+    "techStack": [
+      "ai",
+      "data-scientist",
+      "kubernetes",
+      "kubernetes-operator",
+      "machine-learning",
+      "mlflow-tracking"
+    ],
+    "description": "A Kubernetes operator that auto-provisions MLflow tracking servers, model registries, and artifact stores as CRDs so data scientists never touch kubectl.",
+    "link": {
+      "label": "github.com/mlflow-k8s-operator",
+      "href": "https://github.com/NotHarshhaa/mlflow-k8s-operator"
+    },
+    "stars": 3,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-10-19T18:50:01Z",
+    "lastCommit": "9653fc237f4e1b472f15309d09bb46126e52ea97"
+  },
+  {
     "title": "Mlops project generator",
     "techStack": [
       "mlops",
@@ -1242,47 +1283,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-09-01T09:43:39Z",
     "lastCommit": "90cc314ec1cbeceda66b63d89f984f50eb183272"
-  },
-  {
-    "title": "Terraform cost predictor",
-    "techStack": [
-      "TypeScript",
-      "Python",
-      "CSS",
-      "Dockerfile",
-      "JavaScript"
-    ],
-    "description": "Terraform Cost Predictor is an ML-powered tool that analyzes Terraform infrastructure configurations and predicts the estimated monthly cloud cost before deployment.",
-    "link": {
-      "label": "github.com/terraform-cost-predictor",
-      "href": "https://github.com/NotHarshhaa/terraform-cost-predictor"
-    },
-    "stars": 2,
-    "forks": 4,
-    "issues": 0,
-    "lastUpdated": "2026-09-27T07:56:31Z",
-    "lastCommit": "11e2a3a3bb760c0a5a78a817b292ef4cc3a91327"
-  },
-  {
-    "title": "Mlflow k8s operator",
-    "techStack": [
-      "ai",
-      "data-scientist",
-      "kubernetes",
-      "kubernetes-operator",
-      "machine-learning",
-      "mlflow-tracking"
-    ],
-    "description": "A Kubernetes operator that auto-provisions MLflow tracking servers, model registries, and artifact stores as CRDs so data scientists never touch kubectl.",
-    "link": {
-      "label": "github.com/mlflow-k8s-operator",
-      "href": "https://github.com/NotHarshhaa/mlflow-k8s-operator"
-    },
-    "stars": 2,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-05-15T13:10:52Z",
-    "lastCommit": "9653fc237f4e1b472f15309d09bb46126e52ea97"
   },
   {
     "title": "Personal blog",

@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5387,
-    "forks": 4881,
-    "watchers": 5387,
+    "stars": 5389,
+    "forks": 4882,
+    "watchers": 5389,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-19T07:27:56Z"
+    "raw_updated_at": "2026-10-19T16:47:21Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -149,13 +149,13 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-19T10:54:57Z"
+    "raw_updated_at": "2026-10-19T20:44:24Z"
   },
   {
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_sha": "dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_date": "2025-06-17",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 533,
-    "forks": 401,
+    "forks": 403,
     "watchers": 533,
     "ci_cd_status": "none",
     "languages": [],
@@ -179,22 +179,22 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-18T14:40:46Z"
+    "raw_updated_at": "2026-10-19T20:46:14Z"
   },
   {
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-19",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_date": "2026-08-30",
     "commit_message": "DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLab CI, and Jenkins",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 371,
+    "stars": 372,
     "forks": 273,
-    "watchers": 371,
+    "watchers": 372,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -218,7 +218,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-18T17:53:19Z"
+    "raw_updated_at": "2026-10-19T21:28:33Z"
   },
   {
     "repo": "devops-tools",
@@ -357,9 +357,9 @@
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 155,
+    "stars": 156,
     "forks": 74,
-    "watchers": 155,
+    "watchers": 156,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-19T04:18:09Z"
+    "raw_updated_at": "2026-10-19T18:35:58Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -794,6 +794,45 @@
     "raw_updated_at": "2026-09-14T14:19:26Z"
   },
   {
+    "repo": "devops-monitoring-in-a-box",
+    "url": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box",
+    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
+    "last_updated": "2026-10-19",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
+    "commit_sha": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
+    "commit_date": "2026-09-29",
+    "commit_message": "devops-monitoring: docs: update README to reflect new features and enhancements",
+    "author": "NotHarshhaa",
+    "issues": 1,
+    "stars": 19,
+    "forks": 21,
+    "watchers": 19,
+    "ci_cd_status": "pass",
+    "languages": [
+      "TypeScript",
+      "Shell",
+      "PowerShell",
+      "CSS",
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "alertmanager",
+      "devops-monitoring",
+      "docker",
+      "docker-compose",
+      "grafana",
+      "grafana-dashboard",
+      "loki",
+      "monitoring",
+      "monitoring-automation",
+      "node-exporter",
+      "prometheus",
+      "prometheus-metrics"
+    ],
+    "raw_updated_at": "2026-10-19T15:45:06Z"
+  },
+  {
     "repo": "AWS-Terraform-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop",
     "description": "//  A beginner-friendly guide to setting up AWS infrastructure using Terraform! Learn how to automate and manage cloud resources with ease.  //",
@@ -821,45 +860,6 @@
       "terraform-workshop"
     ],
     "raw_updated_at": "2026-06-04T09:26:19Z"
-  },
-  {
-    "repo": "devops-monitoring-in-a-box",
-    "url": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box",
-    "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
-    "last_updated": "2026-10-09",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
-    "commit_sha": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
-    "commit_date": "2026-09-29",
-    "commit_message": "devops-monitoring: docs: update README to reflect new features and enhancements",
-    "author": "NotHarshhaa",
-    "issues": 1,
-    "stars": 18,
-    "forks": 21,
-    "watchers": 18,
-    "ci_cd_status": "pass",
-    "languages": [
-      "TypeScript",
-      "Shell",
-      "PowerShell",
-      "CSS",
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "alertmanager",
-      "devops-monitoring",
-      "docker",
-      "docker-compose",
-      "grafana",
-      "grafana-dashboard",
-      "loki",
-      "monitoring",
-      "monitoring-automation",
-      "node-exporter",
-      "prometheus",
-      "prometheus-metrics"
-    ],
-    "raw_updated_at": "2026-10-09T09:24:16Z"
   },
   {
     "repo": "Zomato-Clone",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-19",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/257bb13e6247f13d3d50ee2cdaeb266b886d8b07",
-    "commit_sha": "257bb13e6247f13d3d50ee2cdaeb266b886d8b07",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f13409f7ec7772c0236c5318e8ac12271ec521fe",
+    "commit_sha": "f13409f7ec7772c0236c5318e8ac12271ec521fe",
     "commit_date": "2026-10-19",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-19T03:54:25Z"
+    "raw_updated_at": "2026-10-19T12:35:54Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1768,6 +1768,32 @@
     "raw_updated_at": "2025-12-18T11:01:30Z"
   },
   {
+    "repo": "terraform-cost-predictor",
+    "url": "https://github.com/NotHarshhaa/terraform-cost-predictor",
+    "description": "Terraform Cost Predictor is an ML-powered tool that analyzes Terraform infrastructure configurations and predicts the estimated monthly cloud cost before deployment.",
+    "last_updated": "2026-10-19",
+    "latest_commit": "https://github.com/NotHarshhaa/terraform-cost-predictor/commit/11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
+    "commit_sha": "11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
+    "commit_date": "2026-09-27",
+    "commit_message": "tf-cost-ml: Enhance model training and frontend components for improved cost estimation",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 3,
+    "forks": 4,
+    "watchers": 3,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "CSS",
+      "Dockerfile",
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-10-19T18:37:24Z"
+  },
+  {
     "repo": "cloud-billing-automation",
     "url": "https://github.com/NotHarshhaa/cloud-billing-automation",
     "description": "A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using automated scripts, alerts, and infrastructure cost controls.",
@@ -1823,6 +1849,40 @@
     "raw_updated_at": "2026-09-14T18:12:41Z"
   },
   {
+    "repo": "mlflow-k8s-operator",
+    "url": "https://github.com/NotHarshhaa/mlflow-k8s-operator",
+    "description": "A Kubernetes operator that auto-provisions MLflow tracking servers, model registries, and artifact stores as CRDs so data scientists never touch kubectl.",
+    "last_updated": "2026-10-19",
+    "latest_commit": "https://github.com/NotHarshhaa/mlflow-k8s-operator/commit/9653fc237f4e1b472f15309d09bb46126e52ea97",
+    "commit_sha": "9653fc237f4e1b472f15309d09bb46126e52ea97",
+    "commit_date": "2026-05-01",
+    "commit_message": "mlflow-k8s: Drop docker sequential builds for multi-platform support",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 3,
+    "forks": 0,
+    "watchers": 3,
+    "ci_cd_status": "pass",
+    "languages": [
+      "Go",
+      "Makefile",
+      "Go Template",
+      "Dockerfile",
+      "PowerShell"
+    ],
+    "license": "Apache License 2.0",
+    "topics": [
+      "ai",
+      "data-scientist",
+      "kubernetes",
+      "kubernetes-operator",
+      "machine-learning",
+      "mlflow-tracking",
+      "mlops"
+    ],
+    "raw_updated_at": "2026-10-19T18:50:01Z"
+  },
+  {
     "repo": "mlops-project-generator",
     "url": "https://github.com/NotHarshhaa/mlops-project-generator",
     "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
@@ -1854,66 +1914,6 @@
       "tensorflow"
     ],
     "raw_updated_at": "2026-09-01T09:43:39Z"
-  },
-  {
-    "repo": "terraform-cost-predictor",
-    "url": "https://github.com/NotHarshhaa/terraform-cost-predictor",
-    "description": "Terraform Cost Predictor is an ML-powered tool that analyzes Terraform infrastructure configurations and predicts the estimated monthly cloud cost before deployment.",
-    "last_updated": "2026-09-27",
-    "latest_commit": "https://github.com/NotHarshhaa/terraform-cost-predictor/commit/11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
-    "commit_sha": "11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
-    "commit_date": "2026-09-27",
-    "commit_message": "tf-cost-ml: Enhance model training and frontend components for improved cost estimation",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 2,
-    "forks": 4,
-    "watchers": 2,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "CSS",
-      "Dockerfile",
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-09-27T07:56:31Z"
-  },
-  {
-    "repo": "mlflow-k8s-operator",
-    "url": "https://github.com/NotHarshhaa/mlflow-k8s-operator",
-    "description": "A Kubernetes operator that auto-provisions MLflow tracking servers, model registries, and artifact stores as CRDs so data scientists never touch kubectl.",
-    "last_updated": "2026-05-15",
-    "latest_commit": "https://github.com/NotHarshhaa/mlflow-k8s-operator/commit/9653fc237f4e1b472f15309d09bb46126e52ea97",
-    "commit_sha": "9653fc237f4e1b472f15309d09bb46126e52ea97",
-    "commit_date": "2026-05-01",
-    "commit_message": "mlflow-k8s: Drop docker sequential builds for multi-platform support",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 2,
-    "forks": 0,
-    "watchers": 2,
-    "ci_cd_status": "pass",
-    "languages": [
-      "Go",
-      "Makefile",
-      "Go Template",
-      "Dockerfile",
-      "PowerShell"
-    ],
-    "license": "Apache License 2.0",
-    "topics": [
-      "ai",
-      "data-scientist",
-      "kubernetes",
-      "kubernetes-operator",
-      "machine-learning",
-      "mlflow-tracking",
-      "mlops"
-    ],
-    "raw_updated_at": "2026-05-15T13:10:52Z"
   },
   {
     "repo": "personal-blog",
