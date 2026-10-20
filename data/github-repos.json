@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5391,
-    "forks": 4888,
-    "watchers": 5391,
+    "stars": 5392,
+    "forks": 4877,
+    "watchers": 5392,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-20T15:02:25Z"
+    "raw_updated_at": "2026-10-20T16:45:22Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1277,
+    "stars": 1278,
     "forks": 931,
-    "watchers": 1277,
+    "watchers": 1278,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-20T12:51:37Z"
+    "raw_updated_at": "2026-10-20T18:01:51Z"
   },
   {
     "repo": "into-the-devops",
@@ -358,7 +358,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 156,
-    "forks": 75,
+    "forks": 76,
     "watchers": 156,
     "ci_cd_status": "none",
     "languages": [
@@ -604,6 +604,26 @@
     "raw_updated_at": "2026-08-10T10:49:04Z"
   },
   {
+    "repo": "ai-platform-engineering-handbook",
+    "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
+    "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
+    "last_updated": "2026-10-20",
+    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f4680a501b8c58ba0382283f81b1ba5d3333fda1",
+    "commit_sha": "f4680a501b8c58ba0382283f81b1ba5d3333fda1",
+    "commit_date": "2026-09-26",
+    "commit_message": "ai-platform-handbook: Enhance course index and content structure",
+    "author": "NotHarshhaa",
+    "issues": 1,
+    "stars": 37,
+    "forks": 17,
+    "watchers": 37,
+    "ci_cd_status": "none",
+    "languages": [],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-10-20T18:48:36Z"
+  },
+  {
     "repo": "Cloud-Native-DevOps-Project",
     "url": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
     "description": "Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernetes – all on AWS! 💥",
@@ -644,26 +664,6 @@
       "terraform"
     ],
     "raw_updated_at": "2026-10-17T15:07:17Z"
-  },
-  {
-    "repo": "ai-platform-engineering-handbook",
-    "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
-    "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-10-18",
-    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f4680a501b8c58ba0382283f81b1ba5d3333fda1",
-    "commit_sha": "f4680a501b8c58ba0382283f81b1ba5d3333fda1",
-    "commit_date": "2026-09-26",
-    "commit_message": "ai-platform-handbook: Enhance course index and content structure",
-    "author": "NotHarshhaa",
-    "issues": 1,
-    "stars": 36,
-    "forks": 17,
-    "watchers": 36,
-    "ci_cd_status": "none",
-    "languages": [],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-10-18T18:55:28Z"
   },
   {
     "repo": "From-Docker-to-Kubernetes",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-20",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1ad9254fed3c24c554e0bf7720f6453ac8ca8678",
-    "commit_sha": "1ad9254fed3c24c554e0bf7720f6453ac8ca8678",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/fcca035e296f3222500f2b8f918e366b4e709fc1",
+    "commit_sha": "fcca035e296f3222500f2b8f918e366b4e709fc1",
     "commit_date": "2026-10-20",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-20T11:09:48Z"
+    "raw_updated_at": "2026-10-20T16:35:08Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",

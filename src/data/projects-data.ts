@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5391,
-    "forks": 4888,
+    "stars": 5392,
+    "forks": 4877,
     "issues": 30,
-    "lastUpdated": "2026-10-20T15:02:25Z",
+    "lastUpdated": "2026-10-20T16:45:22Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1277,
+    "stars": 1278,
     "forks": 931,
     "issues": 4,
-    "lastUpdated": "2026-10-20T12:51:37Z",
+    "lastUpdated": "2026-10-20T18:01:51Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -244,7 +244,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 156,
-    "forks": 75,
+    "forks": 76,
     "issues": 0,
     "lastUpdated": "2026-10-19T18:35:58Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
@@ -397,6 +397,20 @@ export const PROJECTS: Project[] = [
     "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
   },
   {
+    "title": "Ai platform engineering handbook",
+    "techStack": [],
+    "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
+    "link": {
+      "label": "github.com/ai-platform-engineering-handbook",
+      "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
+    },
+    "stars": 37,
+    "forks": 17,
+    "issues": 1,
+    "lastUpdated": "2026-10-20T18:48:36Z",
+    "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
+  },
+  {
     "title": "Cloud  Native  Dev Ops  Project",
     "techStack": [
       "aws",
@@ -416,20 +430,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-10-17T15:07:17Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
-  },
-  {
-    "title": "Ai platform engineering handbook",
-    "techStack": [],
-    "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "link": {
-      "label": "github.com/ai-platform-engineering-handbook",
-      "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
-    },
-    "stars": 36,
-    "forks": 17,
-    "issues": 1,
-    "lastUpdated": "2026-10-18T18:55:28Z",
-    "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
   },
   {
     "title": "From  Docker to  Kubernetes",
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-20T11:09:48Z",
-    "lastCommit": "1ad9254fed3c24c554e0bf7720f6453ac8ca8678"
+    "lastUpdated": "2026-10-20T16:35:08Z",
+    "lastCommit": "fcca035e296f3222500f2b8f918e366b4e709fc1"
   },
   {
     "title": "Tf ecr ecs gh deploy",
