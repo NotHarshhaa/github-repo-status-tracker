@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5390,
-    "forks": 4882,
+    "forks": 4887,
     "watchers": 5390,
     "ci_cd_status": "none",
     "languages": [
@@ -49,16 +49,16 @@
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1276,
-    "forks": 929,
-    "watchers": 1276,
+    "stars": 1277,
+    "forks": 930,
+    "watchers": 1277,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-19T07:45:47Z"
+    "raw_updated_at": "2026-10-20T04:37:08Z"
   },
   {
     "repo": "into-the-devops",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 645,
+    "stars": 646,
     "forks": 234,
-    "watchers": 645,
+    "watchers": 646,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-19T20:44:24Z"
+    "raw_updated_at": "2026-10-20T05:53:56Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 533,
-    "forks": 403,
+    "forks": 404,
     "watchers": 533,
     "ci_cd_status": "none",
     "languages": [],
@@ -193,7 +193,7 @@
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 373,
-    "forks": 273,
+    "forks": 274,
     "watchers": 373,
     "ci_cd_status": "none",
     "languages": [
@@ -230,9 +230,9 @@
     "commit_date": "2025-12-18",
     "commit_message": "Merge pull request #3 from NotHarshhaa/vercel/react-server-components-cve-vu-1116yw",
     "author": "H A R S H H A A",
-    "issues": 4,
+    "issues": 5,
     "stars": 242,
-    "forks": 162,
+    "forks": 163,
     "watchers": 242,
     "ci_cd_status": "none",
     "languages": [
@@ -264,7 +264,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 207,
-    "forks": 212,
+    "forks": 213,
     "watchers": 207,
     "ci_cd_status": "none",
     "languages": [
@@ -358,7 +358,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 156,
-    "forks": 74,
+    "forks": 75,
     "watchers": 156,
     "ci_cd_status": "none",
     "languages": [
@@ -657,7 +657,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 36,
-    "forks": 16,
+    "forks": 17,
     "watchers": 36,
     "ci_cd_status": "none",
     "languages": [],
@@ -677,7 +677,7 @@
     "author": "NotHarshhaa",
     "issues": 2,
     "stars": 34,
-    "forks": 34,
+    "forks": 35,
     "watchers": 34,
     "ci_cd_status": "none",
     "languages": [
@@ -805,7 +805,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 19,
-    "forks": 21,
+    "forks": 22,
     "watchers": 19,
     "ci_cd_status": "pass",
     "languages": [
@@ -906,7 +906,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 14,
-    "forks": 37,
+    "forks": 38,
     "watchers": 14,
     "ci_cd_status": "none",
     "languages": [
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-19",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/983599ed5e5c374c247096c66a491384db6bb5cd",
-    "commit_sha": "983599ed5e5c374c247096c66a491384db6bb5cd",
-    "commit_date": "2026-10-19",
+    "last_updated": "2026-10-20",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a6f48be0c7466e661192a7e72dc2559f0730a6a9",
+    "commit_sha": "a6f48be0c7466e661192a7e72dc2559f0730a6a9",
+    "commit_date": "2026-10-20",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-19T22:08:44Z"
+    "raw_updated_at": "2026-10-20T04:06:48Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1133,7 +1133,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 9,
-    "forks": 4,
+    "forks": 5,
     "watchers": 9,
     "ci_cd_status": "pass",
     "languages": [

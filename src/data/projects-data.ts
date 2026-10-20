@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5390,
-    "forks": 4882,
+    "forks": 4887,
     "issues": 30,
     "lastUpdated": "2026-10-20T02:26:21Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1276,
-    "forks": 929,
+    "stars": 1277,
+    "forks": 930,
     "issues": 4,
-    "lastUpdated": "2026-10-19T07:45:47Z",
+    "lastUpdated": "2026-10-20T04:37:08Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 645,
+    "stars": 646,
     "forks": 234,
     "issues": 4,
-    "lastUpdated": "2026-10-19T20:44:24Z",
+    "lastUpdated": "2026-10-20T05:53:56Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -118,7 +118,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 533,
-    "forks": 403,
+    "forks": 404,
     "issues": 1,
     "lastUpdated": "2026-10-19T20:46:14Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 373,
-    "forks": 273,
+    "forks": 274,
     "issues": 3,
     "lastUpdated": "2026-10-20T03:52:12Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
@@ -160,8 +160,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 242,
-    "forks": 162,
-    "issues": 4,
+    "forks": 163,
+    "issues": 5,
     "lastUpdated": "2026-10-19T04:14:51Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
@@ -181,7 +181,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
     "stars": 207,
-    "forks": 212,
+    "forks": 213,
     "issues": 0,
     "lastUpdated": "2026-10-19T04:15:24Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
@@ -244,7 +244,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 156,
-    "forks": 74,
+    "forks": 75,
     "issues": 0,
     "lastUpdated": "2026-10-19T18:35:58Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
@@ -426,7 +426,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 36,
-    "forks": 16,
+    "forks": 17,
     "issues": 1,
     "lastUpdated": "2026-10-18T18:55:28Z",
     "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
@@ -447,7 +447,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes"
     },
     "stars": 34,
-    "forks": 34,
+    "forks": 35,
     "issues": 2,
     "lastUpdated": "2026-10-09T09:24:02Z",
     "lastCommit": "80408e3d8f4838dfe2172a6d2ceab9e533c0680c"
@@ -530,7 +530,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
     "stars": 19,
-    "forks": 21,
+    "forks": 22,
     "issues": 1,
     "lastUpdated": "2026-10-19T15:45:06Z",
     "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
@@ -593,7 +593,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 14,
-    "forks": 37,
+    "forks": 38,
     "issues": 1,
     "lastUpdated": "2026-09-04T05:31:17Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 18,
     "issues": 0,
-    "lastUpdated": "2026-10-19T22:08:44Z",
-    "lastCommit": "983599ed5e5c374c247096c66a491384db6bb5cd"
+    "lastUpdated": "2026-10-20T04:06:48Z",
+    "lastCommit": "a6f48be0c7466e661192a7e72dc2559f0730a6a9"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -754,7 +754,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
     "stars": 9,
-    "forks": 4,
+    "forks": 5,
     "issues": 0,
     "lastUpdated": "2026-10-09T09:24:31Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
