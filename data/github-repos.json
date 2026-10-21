@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5394,
-    "forks": 4877,
-    "watchers": 5394,
+    "stars": 5398,
+    "forks": 4878,
+    "watchers": 5398,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-21T00:12:02Z"
+    "raw_updated_at": "2026-10-21T07:21:43Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1278,
+    "stars": 1280,
     "forks": 931,
-    "watchers": 1278,
+    "watchers": 1280,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-20T18:01:51Z"
+    "raw_updated_at": "2026-10-21T10:36:16Z"
   },
   {
     "repo": "into-the-devops",
@@ -155,16 +155,16 @@
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-21",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_sha": "dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_date": "2025-06-17",
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 533,
+    "stars": 534,
     "forks": 404,
-    "watchers": 533,
+    "watchers": 534,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-19T20:46:14Z"
+    "raw_updated_at": "2026-10-21T04:51:17Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -256,16 +256,16 @@
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-21",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 207,
+    "stars": 208,
     "forks": 213,
-    "watchers": 207,
+    "watchers": 208,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -280,7 +280,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-10-19T04:15:24Z"
+    "raw_updated_at": "2026-10-21T06:08:00Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -449,16 +449,16 @@
     "repo": "azure-all_in_one",
     "url": "https://github.com/NotHarshhaa/azure-all_in_one",
     "description": "𝘼 𝙘𝙪𝙧𝙖𝙩𝙚𝙙 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙖𝙬𝙚𝙨𝙤𝙢𝙚 𝘼𝙯𝙪𝙧𝙚 𝙚 𝙍𝙚𝙨𝙤𝙪𝙧𝙘𝙚, 𝙡𝙞𝙗𝙧𝙖𝙧𝙞𝙚𝙨, 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙧𝙚𝙥𝙤𝙨, 𝙜𝙪𝙞𝙙𝙚𝙨, 𝙗𝙡𝙤𝙜𝙨, 𝙖𝙣𝙙 𝙤𝙩𝙝𝙚𝙧 𝙧𝙚𝙨𝙤𝙪𝙧𝙘𝙚𝙨.",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-21",
     "latest_commit": "https://github.com/NotHarshhaa/azure-all_in_one/commit/c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3",
     "commit_sha": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3",
     "commit_date": "2025-03-07",
     "commit_message": "Azure Guide: README: Update header banner",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 93,
+    "stars": 94,
     "forks": 61,
-    "watchers": 93,
+    "watchers": 94,
     "ci_cd_status": "none",
     "languages": [],
     "license": "GNU Affero General Public License v3.0",
@@ -475,7 +475,7 @@
       "azure-resources",
       "azure-storage"
     ],
-    "raw_updated_at": "2026-10-19T04:15:14Z"
+    "raw_updated_at": "2026-10-21T08:30:05Z"
   },
   {
     "repo": "eks-cluster-terraform",
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-20",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f573a088582b662d8be4c22a3bcc515f098a382a",
-    "commit_sha": "f573a088582b662d8be4c22a3bcc515f098a382a",
-    "commit_date": "2026-10-20",
+    "last_updated": "2026-10-21",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/7655e993bb11e2ad3f4dca0668e08bc006ffc1b8",
+    "commit_sha": "7655e993bb11e2ad3f4dca0668e08bc006ffc1b8",
+    "commit_date": "2026-10-21",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-20T21:24:34Z"
+    "raw_updated_at": "2026-10-21T03:55:39Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1436,12 +1436,12 @@
     "repo": "devops-tools-setups-installations",
     "url": "https://github.com/NotHarshhaa/devops-tools-setups-installations",
     "description": "Master DevOps Tools Installation & Configuration — Your comprehensive guide to setting up a professional DevOps environment with step-by-step tutorials and best practices.",
-    "last_updated": "2026-05-09",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-tools-setups-installations/commit/b35a85123c3a5e8d219bee80742cb32cf0b4f446",
-    "commit_sha": "b35a85123c3a5e8d219bee80742cb32cf0b4f446",
-    "commit_date": "2025-12-18",
-    "commit_message": "Merge pull request #1 from NotHarshhaa/vercel/react-server-components-cve-vu-2esdl3",
-    "author": "H A R S H H A A",
+    "last_updated": "2026-10-21",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-tools-setups-installations/commit/334421799653adc3818c480837c2bfbc22fc4b73",
+    "commit_sha": "334421799653adc3818c480837c2bfbc22fc4b73",
+    "commit_date": "2026-10-21",
+    "commit_message": "tools-setup: docs: Update infrastructure guides with current versions and installation instructions",
+    "author": "NotHarshhaa",
     "issues": 0,
     "stars": 6,
     "forks": 10,
@@ -1455,7 +1455,7 @@
     ],
     "license": "No license",
     "topics": [],
-    "raw_updated_at": "2026-05-09T18:19:37Z"
+    "raw_updated_at": "2026-10-21T11:22:39Z"
   },
   {
     "repo": "interviews.prodevopsguytech.com",

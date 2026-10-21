@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5394,
-    "forks": 4877,
+    "stars": 5398,
+    "forks": 4878,
     "issues": 30,
-    "lastUpdated": "2026-10-21T00:12:02Z",
+    "lastUpdated": "2026-10-21T07:21:43Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1278,
+    "stars": 1280,
     "forks": 931,
     "issues": 4,
-    "lastUpdated": "2026-10-20T18:01:51Z",
+    "lastUpdated": "2026-10-21T10:36:16Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 533,
+    "stars": 534,
     "forks": 404,
     "issues": 1,
-    "lastUpdated": "2026-10-19T20:46:14Z",
+    "lastUpdated": "2026-10-21T04:51:17Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -180,10 +180,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 207,
+    "stars": 208,
     "forks": 213,
     "issues": 0,
-    "lastUpdated": "2026-10-19T04:15:24Z",
+    "lastUpdated": "2026-10-21T06:08:00Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -306,10 +306,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/azure-all_in_one",
       "href": "https://github.com/NotHarshhaa/azure-all_in_one"
     },
-    "stars": 93,
+    "stars": 94,
     "forks": 61,
     "issues": 0,
-    "lastUpdated": "2026-10-19T04:15:14Z",
+    "lastUpdated": "2026-10-21T08:30:05Z",
     "lastCommit": "c5d20e6f4d6006e8d87d54b0f9e264360e18c4c3"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-20T21:24:34Z",
-    "lastCommit": "f573a088582b662d8be4c22a3bcc515f098a382a"
+    "lastUpdated": "2026-10-21T03:55:39Z",
+    "lastCommit": "7655e993bb11e2ad3f4dca0668e08bc006ffc1b8"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -958,8 +958,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 10,
     "issues": 0,
-    "lastUpdated": "2026-05-09T18:19:37Z",
-    "lastCommit": "b35a85123c3a5e8d219bee80742cb32cf0b4f446"
+    "lastUpdated": "2026-10-21T11:22:39Z",
+    "lastCommit": "334421799653adc3818c480837c2bfbc22fc4b73"
   },
   {
     "title": "Interviews.prodevopsguytech.com",
