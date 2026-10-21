@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5392,
+    "stars": 5394,
     "forks": 4877,
-    "watchers": 5392,
+    "watchers": 5394,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-20T16:45:22Z"
+    "raw_updated_at": "2026-10-21T00:12:02Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-20",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/fcca035e296f3222500f2b8f918e366b4e709fc1",
-    "commit_sha": "fcca035e296f3222500f2b8f918e366b4e709fc1",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f573a088582b662d8be4c22a3bcc515f098a382a",
+    "commit_sha": "f573a088582b662d8be4c22a3bcc515f098a382a",
     "commit_date": "2026-10-20",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-20T16:35:08Z"
+    "raw_updated_at": "2026-10-20T21:24:34Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
