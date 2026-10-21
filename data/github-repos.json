@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5398,
-    "forks": 4878,
+    "forks": 4879,
     "watchers": 5398,
     "ci_cd_status": "none",
     "languages": [
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1280,
-    "forks": 931,
-    "watchers": 1280,
+    "stars": 1281,
+    "forks": 932,
+    "watchers": 1281,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-21T10:36:16Z"
+    "raw_updated_at": "2026-10-21T12:35:39Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-21",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 918,
+    "stars": 919,
     "forks": 543,
-    "watchers": 918,
+    "watchers": 919,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-19T04:14:28Z"
+    "raw_updated_at": "2026-10-21T14:02:14Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 534,
-    "forks": 404,
+    "forks": 405,
     "watchers": 534,
     "ci_cd_status": "none",
     "languages": [],
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-21",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/7655e993bb11e2ad3f4dca0668e08bc006ffc1b8",
-    "commit_sha": "7655e993bb11e2ad3f4dca0668e08bc006ffc1b8",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1d76cd6b281b5902b70f3cc361ddf0633c291471",
+    "commit_sha": "1d76cd6b281b5902b70f3cc361ddf0633c291471",
     "commit_date": "2026-10-21",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-21T03:55:39Z"
+    "raw_updated_at": "2026-10-21T11:25:34Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1437,10 +1437,10 @@
     "url": "https://github.com/NotHarshhaa/devops-tools-setups-installations",
     "description": "Master DevOps Tools Installation & Configuration — Your comprehensive guide to setting up a professional DevOps environment with step-by-step tutorials and best practices.",
     "last_updated": "2026-10-21",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-tools-setups-installations/commit/334421799653adc3818c480837c2bfbc22fc4b73",
-    "commit_sha": "334421799653adc3818c480837c2bfbc22fc4b73",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-tools-setups-installations/commit/fc220424a589a947d9197d8343b7e6b4c60022e9",
+    "commit_sha": "fc220424a589a947d9197d8343b7e6b4c60022e9",
     "commit_date": "2026-10-21",
-    "commit_message": "tools-setup: docs: Update infrastructure guides with current versions and installation instructions",
+    "commit_message": "tools-setup: docs: Introduce AI IDE Tools category with comprehensive installation guides",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 6,
@@ -1455,7 +1455,7 @@
     ],
     "license": "No license",
     "topics": [],
-    "raw_updated_at": "2026-10-21T11:22:39Z"
+    "raw_updated_at": "2026-10-21T13:31:37Z"
   },
   {
     "repo": "interviews.prodevopsguytech.com",
@@ -1619,27 +1619,27 @@
     "repo": "ai-question-paper-generator",
     "url": "https://github.com/NotHarshhaa/ai-question-paper-generator",
     "description": "An intelligent full-stack system that automatically generates DevOps and AWS certification & university-style question papers using NLP and Machine Learning techniques. Includes an interactive 2,500+ Question Bank, Platform Analytics Dashboard, Teacher Solution Key Mode, and Multi-Format Exporters.",
-    "last_updated": "2026-09-29",
-    "latest_commit": "https://github.com/NotHarshhaa/ai-question-paper-generator/commit/be2441c97cfa3402899e4da57d99e24b886add9c",
-    "commit_sha": "be2441c97cfa3402899e4da57d99e24b886add9c",
-    "commit_date": "2026-09-13",
-    "commit_message": "refactor: clean up imports and improve type definitions across components",
+    "last_updated": "2026-10-21",
+    "latest_commit": "https://github.com/NotHarshhaa/ai-question-paper-generator/commit/4982b524d0e8aa78691aa5a62384423890c3b163",
+    "commit_sha": "4982b524d0e8aa78691aa5a62384423890c3b163",
+    "commit_date": "2026-10-21",
+    "commit_message": "feat: enhance backend functionality with improved task management and environment configuration",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 4,
     "forks": 1,
     "watchers": 4,
-    "ci_cd_status": "running",
+    "ci_cd_status": "pass",
     "languages": [
-      "TypeScript",
       "Python",
+      "TypeScript",
       "Shell",
       "HCL",
       "CSS"
     ],
     "license": "GNU General Public License v3.0",
     "topics": [],
-    "raw_updated_at": "2026-09-29T09:10:14Z"
+    "raw_updated_at": "2026-10-21T14:41:19Z"
   },
   {
     "repo": "devops-mcp",
