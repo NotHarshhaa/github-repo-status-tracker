@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5400,
-    "forks": 4884,
+    "forks": 4885,
     "issues": 30,
     "lastUpdated": "2026-10-22T08:44:58Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -244,7 +244,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 156,
-    "forks": 76,
+    "forks": 77,
     "issues": 0,
     "lastUpdated": "2026-10-19T18:35:58Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
@@ -404,10 +404,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 37,
+    "stars": 38,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-10-20T18:48:36Z",
+    "lastUpdated": "2026-10-22T14:55:58Z",
     "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-22T03:55:35Z",
-    "lastCommit": "29acbe6241a3d1778cebc42ce75533735a91733d"
+    "lastUpdated": "2026-10-22T11:25:53Z",
+    "lastCommit": "29f594e7b3d641c92049331c2dfb5a8ed8fd9413"
   },
   {
     "title": "Tf ecr ecs gh deploy",

@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5400,
-    "forks": 4884,
+    "forks": 4885,
     "watchers": 5400,
     "ci_cd_status": "none",
     "languages": [
@@ -358,7 +358,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 156,
-    "forks": 76,
+    "forks": 77,
     "watchers": 156,
     "ci_cd_status": "none",
     "languages": [
@@ -607,21 +607,21 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-22",
     "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f4680a501b8c58ba0382283f81b1ba5d3333fda1",
     "commit_sha": "f4680a501b8c58ba0382283f81b1ba5d3333fda1",
     "commit_date": "2026-09-26",
     "commit_message": "ai-platform-handbook: Enhance course index and content structure",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 37,
+    "stars": 38,
     "forks": 17,
-    "watchers": 37,
+    "watchers": 38,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-20T18:48:36Z"
+    "raw_updated_at": "2026-10-22T14:55:58Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-22",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/29acbe6241a3d1778cebc42ce75533735a91733d",
-    "commit_sha": "29acbe6241a3d1778cebc42ce75533735a91733d",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/29f594e7b3d641c92049331c2dfb5a8ed8fd9413",
+    "commit_sha": "29f594e7b3d641c92049331c2dfb5a8ed8fd9413",
     "commit_date": "2026-10-22",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-22T03:55:35Z"
+    "raw_updated_at": "2026-10-22T11:25:53Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
