@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5402,
-    "forks": 4885,
-    "watchers": 5402,
+    "stars": 5404,
+    "forks": 4886,
+    "watchers": 5404,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-23T11:15:12Z"
+    "raw_updated_at": "2026-10-23T16:30:01Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-23",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 646,
-    "forks": 234,
-    "watchers": 646,
+    "stars": 647,
+    "forks": 235,
+    "watchers": 647,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-20T05:53:56Z"
+    "raw_updated_at": "2026-10-23T12:03:09Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -350,16 +350,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-23",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 156,
+    "stars": 157,
     "forks": 77,
-    "watchers": 156,
+    "watchers": 157,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-19T18:35:58Z"
+    "raw_updated_at": "2026-10-23T16:13:32Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -420,16 +420,16 @@
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
     "description": "A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience, build your portfolio, and prepare for certifications.",
-    "last_updated": "2026-10-09",
+    "last_updated": "2026-10-23",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_sha": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_date": "2025-11-11",
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 115,
+    "stars": 116,
     "forks": 52,
-    "watchers": 115,
+    "watchers": 116,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -443,7 +443,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-10-09T10:58:43Z"
+    "raw_updated_at": "2026-10-23T12:07:40Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-23",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/633c8d8201505436d00cefef78d7e9ae32b57c10",
-    "commit_sha": "633c8d8201505436d00cefef78d7e9ae32b57c10",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/e71fd948bff24da958ec75b80ada5d8505ae5f4a",
+    "commit_sha": "e71fd948bff24da958ec75b80ada5d8505ae5f4a",
     "commit_date": "2026-10-23",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-23T03:59:30Z"
+    "raw_updated_at": "2026-10-23T11:15:57Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",

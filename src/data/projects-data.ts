@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5402,
-    "forks": 4885,
+    "stars": 5404,
+    "forks": 4886,
     "issues": 30,
-    "lastUpdated": "2026-10-23T11:15:12Z",
+    "lastUpdated": "2026-10-23T16:30:01Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 646,
-    "forks": 234,
+    "stars": 647,
+    "forks": 235,
     "issues": 4,
-    "lastUpdated": "2026-10-20T05:53:56Z",
+    "lastUpdated": "2026-10-23T12:03:09Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 156,
+    "stars": 157,
     "forks": 77,
     "issues": 0,
-    "lastUpdated": "2026-10-19T18:35:58Z",
+    "lastUpdated": "2026-10-23T16:13:32Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 115,
+    "stars": 116,
     "forks": 52,
     "issues": 0,
-    "lastUpdated": "2026-10-09T10:58:43Z",
+    "lastUpdated": "2026-10-23T12:07:40Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-23T03:59:30Z",
-    "lastCommit": "633c8d8201505436d00cefef78d7e9ae32b57c10"
+    "lastUpdated": "2026-10-23T11:15:57Z",
+    "lastCommit": "e71fd948bff24da958ec75b80ada5d8505ae5f4a"
   },
   {
     "title": "Tf ecr ecs gh deploy",
