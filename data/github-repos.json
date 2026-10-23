@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-22",
+    "last_updated": "2026-10-23",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5400,
-    "forks": 4884,
-    "watchers": 5400,
+    "stars": 5401,
+    "forks": 4885,
+    "watchers": 5401,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-22T19:45:42Z"
+    "raw_updated_at": "2026-10-23T02:31:37Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-23",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1281,
-    "forks": 932,
-    "watchers": 1281,
+    "stars": 1282,
+    "forks": 931,
+    "watchers": 1282,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-21T12:35:39Z"
+    "raw_updated_at": "2026-10-23T03:38:54Z"
   },
   {
     "repo": "into-the-devops",
@@ -545,16 +545,16 @@
     "repo": "kubernetes-dashboard",
     "url": "https://github.com/NotHarshhaa/kubernetes-dashboard",
     "description": "This dashboard unifies multi-cluster fleet operations, real-time Metrics Server telemetry, AI/GPU accelerator observability, GitOps workflow safeguards (ArgoCD & Flux), next-gen Gateway API routing, and browser-native ANSI container terminal execution. Eliminate tool sprawl, prevent configuration drift, and manage mission-critical cloud-native work",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-23",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_sha": "76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_date": "2026-09-13",
     "commit_message": "Kubernetes-dashboard: update ESLint configuration and refine component imports",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 61,
+    "stars": 62,
     "forks": 53,
-    "watchers": 61,
+    "watchers": 62,
     "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
@@ -573,7 +573,7 @@
       "kubernetes-setup",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-19T04:15:40Z"
+    "raw_updated_at": "2026-10-23T00:39:04Z"
   },
   {
     "repo": "aws-billing-alert-terraform",
@@ -1008,8 +1008,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-22",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/e7e9bcdf12db75c80c5e32f31ae504fc388f03ef",
-    "commit_sha": "e7e9bcdf12db75c80c5e32f31ae504fc388f03ef",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/30d81e5018d5bb3ba895fedb0aa218a51dd8be1e",
+    "commit_sha": "30d81e5018d5bb3ba895fedb0aa218a51dd8be1e",
     "commit_date": "2026-10-22",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-22T16:52:59Z"
+    "raw_updated_at": "2026-10-22T21:20:35Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
