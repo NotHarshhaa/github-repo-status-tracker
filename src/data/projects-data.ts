@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5405,
-    "forks": 4887,
+    "stars": 5407,
+    "forks": 4889,
     "issues": 30,
-    "lastUpdated": "2026-10-23T19:19:43Z",
+    "lastUpdated": "2026-10-24T10:02:55Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1285,
-    "forks": 932,
+    "stars": 1286,
+    "forks": 933,
     "issues": 4,
-    "lastUpdated": "2026-10-23T21:34:12Z",
+    "lastUpdated": "2026-10-24T05:11:51Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -529,10 +529,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-monitoring-in-a-box",
       "href": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box"
     },
-    "stars": 19,
+    "stars": 20,
     "forks": 22,
     "issues": 1,
-    "lastUpdated": "2026-10-19T15:45:06Z",
+    "lastUpdated": "2026-10-24T07:38:57Z",
     "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-23T21:11:05Z",
-    "lastCommit": "851be941890e082d32d6c51b2fb8a4b4478fd247"
+    "lastUpdated": "2026-10-24T03:53:45Z",
+    "lastCommit": "b3c3245fa263464213902586af28ab339e8d31c9"
   },
   {
     "title": "Tf ecr ecs gh deploy",

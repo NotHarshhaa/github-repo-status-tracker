@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5405,
-    "forks": 4887,
-    "watchers": 5405,
+    "stars": 5407,
+    "forks": 4889,
+    "watchers": 5407,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-23T19:19:43Z"
+    "raw_updated_at": "2026-10-24T10:02:55Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1285,
-    "forks": 932,
-    "watchers": 1285,
+    "stars": 1286,
+    "forks": 933,
+    "watchers": 1286,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-23T21:34:12Z"
+    "raw_updated_at": "2026-10-24T05:11:51Z"
   },
   {
     "repo": "into-the-devops",
@@ -797,16 +797,16 @@
     "repo": "devops-monitoring-in-a-box",
     "url": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box",
     "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-24",
     "latest_commit": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
     "commit_sha": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
     "commit_date": "2026-09-29",
     "commit_message": "devops-monitoring: docs: update README to reflect new features and enhancements",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 19,
+    "stars": 20,
     "forks": 22,
-    "watchers": 19,
+    "watchers": 20,
     "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
@@ -830,7 +830,7 @@
       "prometheus",
       "prometheus-metrics"
     ],
-    "raw_updated_at": "2026-10-19T15:45:06Z"
+    "raw_updated_at": "2026-10-24T07:38:57Z"
   },
   {
     "repo": "AWS-Terraform-Workshop",
@@ -1007,10 +1007,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-23",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/851be941890e082d32d6c51b2fb8a4b4478fd247",
-    "commit_sha": "851be941890e082d32d6c51b2fb8a4b4478fd247",
-    "commit_date": "2026-10-23",
+    "last_updated": "2026-10-24",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b3c3245fa263464213902586af28ab339e8d31c9",
+    "commit_sha": "b3c3245fa263464213902586af28ab339e8d31c9",
+    "commit_date": "2026-10-24",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1027,7 +1027,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-23T21:11:05Z"
+    "raw_updated_at": "2026-10-24T03:53:45Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
