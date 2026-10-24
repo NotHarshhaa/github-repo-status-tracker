@@ -34,9 +34,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5407,
-    "forks": 4889,
+    "forks": 4888,
     "issues": 30,
-    "lastUpdated": "2026-10-24T10:02:55Z",
+    "lastUpdated": "2026-10-24T18:25:19Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1286,
+    "stars": 1287,
     "forks": 933,
     "issues": 4,
-    "lastUpdated": "2026-10-24T05:11:51Z",
+    "lastUpdated": "2026-10-24T20:10:26Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 373,
+    "stars": 374,
     "forks": 274,
     "issues": 3,
-    "lastUpdated": "2026-10-20T03:52:12Z",
+    "lastUpdated": "2026-10-24T20:22:21Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -636,6 +636,26 @@ export const PROJECTS: Project[] = [
     "lastCommit": "eacb3e89619766b51edd7794551d5d9dde39f472"
   },
   {
+    "title": "Github repo status tracker",
+    "techStack": [
+      "TypeScript",
+      "Python",
+      "Shell",
+      "JavaScript",
+      "CSS"
+    ],
+    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in th...",
+    "link": {
+      "label": "github.com/github-repo-status-tracker",
+      "href": "https://github.com/NotHarshhaa/github-repo-status-tracker"
+    },
+    "stars": 13,
+    "forks": 19,
+    "issues": 0,
+    "lastUpdated": "2026-10-24T18:55:22Z",
+    "lastCommit": "1c5cea3a384fac08cd7bc5fb6784bd50dd0663c8"
+  },
+  {
     "title": "Devops project templates",
     "techStack": [
       "HCL",
@@ -654,26 +674,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-08-27T03:14:23Z",
     "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
-  },
-  {
-    "title": "Github repo status tracker",
-    "techStack": [
-      "TypeScript",
-      "Python",
-      "Shell",
-      "JavaScript",
-      "CSS"
-    ],
-    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in th...",
-    "link": {
-      "label": "github.com/github-repo-status-tracker",
-      "href": "https://github.com/NotHarshhaa/github-repo-status-tracker"
-    },
-    "stars": 12,
-    "forks": 19,
-    "issues": 0,
-    "lastUpdated": "2026-10-24T10:34:37Z",
-    "lastCommit": "fd4b7c87bb574bce2ffdeddaa256d109db51ec9e"
   },
   {
     "title": "Tf ecr ecs gh deploy",
@@ -1113,8 +1113,8 @@ export const PROJECTS: Project[] = [
     "stars": 4,
     "forks": 1,
     "issues": 0,
-    "lastUpdated": "2026-10-09T09:24:11Z",
-    "lastCommit": "b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc"
+    "lastUpdated": "2026-10-24T19:17:23Z",
+    "lastCommit": "bbc0628051c59bf0f029f4e4c2b41e4ac5dfea45"
   },
   {
     "title": "Status.prodevopsguytech.com",
@@ -1526,7 +1526,7 @@ export const PROJECTS: Project[] = [
     "stars": 1,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-07T05:42:34Z",
+    "lastUpdated": "2026-10-24T18:19:11Z",
     "lastCommit": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f"
   },
   {

@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5407,
-    "forks": 4889,
+    "forks": 4888,
     "watchers": 5407,
     "ci_cd_status": "none",
     "languages": [
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-24T10:02:55Z"
+    "raw_updated_at": "2026-10-24T18:25:19Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1286,
+    "stars": 1287,
     "forks": 933,
-    "watchers": 1286,
+    "watchers": 1287,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-24T05:11:51Z"
+    "raw_updated_at": "2026-10-24T20:10:26Z"
   },
   {
     "repo": "into-the-devops",
@@ -185,16 +185,16 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-24",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_date": "2026-08-30",
     "commit_message": "DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLab CI, and Jenkins",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 373,
+    "stars": 374,
     "forks": 274,
-    "watchers": 373,
+    "watchers": 374,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -218,7 +218,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-20T03:52:12Z"
+    "raw_updated_at": "2026-10-24T20:22:21Z"
   },
   {
     "repo": "devops-tools",
@@ -978,6 +978,32 @@
     "raw_updated_at": "2026-10-02T22:09:28Z"
   },
   {
+    "repo": "github-repo-status-tracker",
+    "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
+    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
+    "last_updated": "2026-10-24",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1c5cea3a384fac08cd7bc5fb6784bd50dd0663c8",
+    "commit_sha": "1c5cea3a384fac08cd7bc5fb6784bd50dd0663c8",
+    "commit_date": "2026-10-24",
+    "commit_message": "chore: update repository status [skip ci]",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 13,
+    "forks": 19,
+    "watchers": 13,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Shell",
+      "JavaScript",
+      "CSS"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-10-24T18:55:22Z"
+  },
+  {
     "repo": "devops-project-templates",
     "url": "https://github.com/NotHarshhaa/devops-project-templates",
     "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
@@ -1002,32 +1028,6 @@
     "license": "MIT License",
     "topics": [],
     "raw_updated_at": "2026-08-27T03:14:23Z"
-  },
-  {
-    "repo": "github-repo-status-tracker",
-    "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
-    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-24",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/fd4b7c87bb574bce2ffdeddaa256d109db51ec9e",
-    "commit_sha": "fd4b7c87bb574bce2ffdeddaa256d109db51ec9e",
-    "commit_date": "2026-10-24",
-    "commit_message": "chore: update repository status [skip ci]",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 12,
-    "forks": 19,
-    "watchers": 12,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "Shell",
-      "JavaScript",
-      "CSS"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-10-24T10:34:37Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1645,11 +1645,11 @@
     "repo": "devops-mcp",
     "url": "https://github.com/NotHarshhaa/devops-mcp",
     "description": "Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
-    "last_updated": "2026-10-09",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-mcp/commit/b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc",
-    "commit_sha": "b3badd7157e7a8a5a43ddbb135faf31a6f1ea8fc",
-    "commit_date": "2026-10-05",
-    "commit_message": "devops-mcp: Update environment configuration and README for PagerDuty integration",
+    "last_updated": "2026-10-24",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-mcp/commit/bbc0628051c59bf0f029f4e4c2b41e4ac5dfea45",
+    "commit_sha": "bbc0628051c59bf0f029f4e4c2b41e4ac5dfea45",
+    "commit_date": "2026-10-24",
+    "commit_message": "devops-mcp: Enhance tool auditing and add new schemas for ArgoCD and Kubernetes",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 4,
@@ -1673,7 +1673,7 @@
       "platform-engineering",
       "prometheus"
     ],
-    "raw_updated_at": "2026-10-09T09:24:11Z"
+    "raw_updated_at": "2026-10-24T19:17:23Z"
   },
   {
     "repo": "status.prodevopsguytech.com",
@@ -2242,7 +2242,7 @@
     "repo": "terraview",
     "url": "https://github.com/NotHarshhaa/terraview",
     "description": "A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / active / inactive / not yet provisioned) — categorized by service type, cloud provider, module. ",
-    "last_updated": "2026-10-07",
+    "last_updated": "2026-10-24",
     "latest_commit": "https://github.com/NotHarshhaa/terraview/commit/5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
     "commit_sha": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
     "commit_date": "2026-08-01",
@@ -2262,7 +2262,7 @@
     ],
     "license": "Apache License 2.0",
     "topics": [],
-    "raw_updated_at": "2026-10-07T05:42:34Z"
+    "raw_updated_at": "2026-10-24T18:19:11Z"
   },
   {
     "repo": "reposage",
