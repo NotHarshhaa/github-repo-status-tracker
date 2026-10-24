@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1284,
+    "stars": 1285,
     "forks": 932,
     "issues": 4,
-    "lastUpdated": "2026-10-23T18:34:39Z",
+    "lastUpdated": "2026-10-23T21:34:12Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 12,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-23T16:44:17Z",
-    "lastCommit": "bfb34c9735e323ff63cba90ed1dcdedbf662405e"
+    "lastUpdated": "2026-10-23T21:11:05Z",
+    "lastCommit": "851be941890e082d32d6c51b2fb8a4b4478fd247"
   },
   {
     "title": "Tf ecr ecs gh deploy",
