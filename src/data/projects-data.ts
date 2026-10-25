@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5408,
-    "forks": 4890,
+    "stars": 5410,
+    "forks": 4891,
     "issues": 30,
-    "lastUpdated": "2026-10-25T08:37:20Z",
+    "lastUpdated": "2026-10-25T15:32:36Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-25T03:52:49Z",
-    "lastCommit": "d24a9fa31d5ec9c10d79be914661527a9eda19d2"
+    "lastUpdated": "2026-10-25T10:59:37Z",
+    "lastCommit": "7bb57949f1472aef64ef583dc6e77276d569c255"
   },
   {
     "title": "Devops project templates",
@@ -1587,8 +1587,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-25T10:48:36Z",
-    "lastCommit": "d44cf353a45ea50a07ae44f6511d06bfe51cb339"
+    "lastUpdated": "2026-10-25T11:03:36Z",
+    "lastCommit": "9fac22cad25ab8a45bf622037537508ba5d1d620"
   },
   {
     "title": "Devops atlasx",
