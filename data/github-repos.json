@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-25",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5407,
-    "forks": 4888,
-    "watchers": 5407,
+    "stars": 5408,
+    "forks": 4890,
+    "watchers": 5408,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,13 +43,13 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-24T18:25:19Z"
+    "raw_updated_at": "2026-10-25T08:37:20Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-25",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1287,
-    "forks": 933,
+    "forks": 934,
     "watchers": 1287,
     "ci_cd_status": "none",
     "languages": [],
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-24T20:10:26Z"
+    "raw_updated_at": "2026-10-25T06:44:26Z"
   },
   {
     "repo": "into-the-devops",
@@ -320,16 +320,16 @@
     "repo": "Certified_Kubernetes_Administrator",
     "url": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
     "description": "Master Kubernetes from scratch and become a Certified Kubernetes Administrator (CKA)! This repository is your one-stop resource to learn Kubernetes, Helm, Operators, Prometheus, and AWS EKS with hands-on examples.",
-    "last_updated": "2026-09-19",
+    "last_updated": "2026-10-25",
     "latest_commit": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a",
     "commit_sha": "0a7687b7f90931b824ea425b8b9d2372c683cd2a",
     "commit_date": "2026-04-26",
     "commit_message": "CKA: Update README for clarity and consistency",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 166,
+    "stars": 165,
     "forks": 123,
-    "watchers": 166,
+    "watchers": 165,
     "ci_cd_status": "fail",
     "languages": [],
     "license": "MIT License",
@@ -344,7 +344,7 @@
       "kubernetes-ckad",
       "prometheus"
     ],
-    "raw_updated_at": "2026-09-19T06:02:44Z"
+    "raw_updated_at": "2026-10-25T06:17:36Z"
   },
   {
     "repo": "AWS-Projects",
@@ -428,7 +428,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 116,
-    "forks": 52,
+    "forks": 53,
     "watchers": 116,
     "ci_cd_status": "none",
     "languages": [],
@@ -981,10 +981,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-24",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/153202e3834a2a3da0a3da9d48f9d8a49154e2d5",
-    "commit_sha": "153202e3834a2a3da0a3da9d48f9d8a49154e2d5",
-    "commit_date": "2026-10-24",
+    "last_updated": "2026-10-25",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/d24a9fa31d5ec9c10d79be914661527a9eda19d2",
+    "commit_sha": "d24a9fa31d5ec9c10d79be914661527a9eda19d2",
+    "commit_date": "2026-10-25",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-24T20:28:11Z"
+    "raw_updated_at": "2026-10-25T03:52:49Z"
   },
   {
     "repo": "devops-project-templates",
@@ -2320,11 +2320,11 @@
     "repo": "mainframe-mcp-server",
     "url": "https://github.com/NotHarshhaa/mainframe-mcp-server",
     "description": "An enterprise-grade Model Context Protocol (MCP) server for IBM z/OS environments. Bridges MCP-compatible AI agents with mainframe resources jobs, datasets, USS, and operational diagnostics using IBM Zowe SDK as the connectivity layer.",
-    "last_updated": "2026-06-10",
-    "latest_commit": "https://github.com/NotHarshhaa/mainframe-mcp-server/commit/a06137f34e7da50966b6dfcff1bac347bdda061b",
-    "commit_sha": "a06137f34e7da50966b6dfcff1bac347bdda061b",
-    "commit_date": "2026-06-08",
-    "commit_message": "mainframe-mcp: Bump server version to 2.5.0 and update related documentation",
+    "last_updated": "2026-10-25",
+    "latest_commit": "https://github.com/NotHarshhaa/mainframe-mcp-server/commit/d44cf353a45ea50a07ae44f6511d06bfe51cb339",
+    "commit_sha": "d44cf353a45ea50a07ae44f6511d06bfe51cb339",
+    "commit_date": "2026-10-25",
+    "commit_message": "mainframe-mcp: flatten release artifact roots so checksums find the files",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 0,
@@ -2334,6 +2334,7 @@
     "languages": [
       "TypeScript",
       "JavaScript",
+      "Go Template",
       "Dockerfile"
     ],
     "license": "MIT License",
@@ -2346,7 +2347,7 @@
       "mcp-client",
       "mcp-server"
     ],
-    "raw_updated_at": "2026-06-10T15:11:44Z"
+    "raw_updated_at": "2026-10-25T10:48:36Z"
   },
   {
     "repo": "devops-atlasx",

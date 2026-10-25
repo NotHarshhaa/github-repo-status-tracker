@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5407,
-    "forks": 4888,
+    "stars": 5408,
+    "forks": 4890,
     "issues": 30,
-    "lastUpdated": "2026-10-24T18:25:19Z",
+    "lastUpdated": "2026-10-25T08:37:20Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,9 +55,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1287,
-    "forks": 933,
+    "forks": 934,
     "issues": 4,
-    "lastUpdated": "2026-10-24T20:10:26Z",
+    "lastUpdated": "2026-10-25T06:44:26Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -222,10 +222,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 166,
+    "stars": 165,
     "forks": 123,
     "issues": 0,
-    "lastUpdated": "2026-09-19T06:02:44Z",
+    "lastUpdated": "2026-10-25T06:17:36Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
   },
   {
@@ -286,7 +286,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
     "stars": 116,
-    "forks": 52,
+    "forks": 53,
     "issues": 0,
     "lastUpdated": "2026-10-23T12:07:40Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-24T20:28:11Z",
-    "lastCommit": "153202e3834a2a3da0a3da9d48f9d8a49154e2d5"
+    "lastUpdated": "2026-10-25T03:52:49Z",
+    "lastCommit": "d24a9fa31d5ec9c10d79be914661527a9eda19d2"
   },
   {
     "title": "Devops project templates",
@@ -1587,8 +1587,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-06-10T15:11:44Z",
-    "lastCommit": "a06137f34e7da50966b6dfcff1bac347bdda061b"
+    "lastUpdated": "2026-10-25T10:48:36Z",
+    "lastCommit": "d44cf353a45ea50a07ae44f6511d06bfe51cb339"
   },
   {
     "title": "Devops atlasx",
