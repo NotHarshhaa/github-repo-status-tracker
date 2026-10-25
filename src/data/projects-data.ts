@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5410,
+    "stars": 5411,
     "forks": 4891,
     "issues": 30,
-    "lastUpdated": "2026-10-25T15:32:36Z",
+    "lastUpdated": "2026-10-25T18:57:55Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -57,7 +57,7 @@ export const PROJECTS: Project[] = [
     "stars": 1287,
     "forks": 934,
     "issues": 4,
-    "lastUpdated": "2026-10-25T06:44:26Z",
+    "lastUpdated": "2026-10-25T18:15:00Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 919,
+    "stars": 920,
     "forks": 543,
     "issues": 0,
-    "lastUpdated": "2026-10-22T19:45:42Z",
+    "lastUpdated": "2026-10-25T18:57:39Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-25T10:59:37Z",
-    "lastCommit": "7bb57949f1472aef64ef583dc6e77276d569c255"
+    "lastUpdated": "2026-10-25T15:48:15Z",
+    "lastCommit": "2608f6c4b9b77620bb22b9f3f6d9893b47d47bb3"
   },
   {
     "title": "Devops project templates",
