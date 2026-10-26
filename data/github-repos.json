@@ -49,16 +49,16 @@
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-26",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1287,
+    "stars": 1288,
     "forks": 934,
-    "watchers": 1287,
+    "watchers": 1288,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-25T18:15:00Z"
+    "raw_updated_at": "2026-10-26T00:58:09Z"
   },
   {
     "repo": "into-the-devops",
@@ -982,8 +982,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-25",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2608f6c4b9b77620bb22b9f3f6d9893b47d47bb3",
-    "commit_sha": "2608f6c4b9b77620bb22b9f3f6d9893b47d47bb3",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/36bb4cb97d313f7e96e5aa62d37659e4f23c5e8a",
+    "commit_sha": "36bb4cb97d313f7e96e5aa62d37659e4f23c5e8a",
     "commit_date": "2026-10-25",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-25T15:48:15Z"
+    "raw_updated_at": "2026-10-25T20:35:43Z"
   },
   {
     "repo": "devops-project-templates",

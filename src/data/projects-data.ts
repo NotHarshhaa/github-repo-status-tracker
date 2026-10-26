@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1287,
+    "stars": 1288,
     "forks": 934,
     "issues": 4,
-    "lastUpdated": "2026-10-25T18:15:00Z",
+    "lastUpdated": "2026-10-26T00:58:09Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-25T15:48:15Z",
-    "lastCommit": "2608f6c4b9b77620bb22b9f3f6d9893b47d47bb3"
+    "lastUpdated": "2026-10-25T20:35:43Z",
+    "lastCommit": "36bb4cb97d313f7e96e5aa62d37659e4f23c5e8a"
   },
   {
     "title": "Devops project templates",
