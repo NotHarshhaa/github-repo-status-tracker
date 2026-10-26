@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5412,
+    "stars": 5413,
     "forks": 4892,
     "issues": 30,
-    "lastUpdated": "2026-10-26T06:57:01Z",
+    "lastUpdated": "2026-10-26T21:24:56Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-26T03:56:42Z",
-    "lastCommit": "dbd469e8127e729569873cde31d25278532ed18c"
+    "lastUpdated": "2026-10-26T12:31:38Z",
+    "lastCommit": "cd9e5532085bc7fa1fd24a28c4cb4394a09bf962"
   },
   {
     "title": "Devops project templates",
