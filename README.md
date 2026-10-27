@@ -1,22 +1,22 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-27%2017%3A43:20.817 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-27%2021%3A57:40.878 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,264** combined stars
+**87** repositories tracked · **11,265** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,264** stars · **9,281** forks · **74** open issues
+> **87** repositories · **11,265** stars · **9,280** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,418 | 4,893 | 30 | — | 2026-10-27 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,418 | 4,892 | 30 | — | 2026-10-27 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,286 | 934 | 4 | — | 2026-10-27 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 921 | 543 | 0 | — | 2026-10-27 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 648 | 236 | 4 | — | 2026-10-26 |
@@ -26,7 +26,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 209 | 213 | 0 | — | 2026-10-27 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 197 | 209 | 0 | — | 2026-10-17 |
 | 10 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 165 | 123 | 0 | Fail | 2026-10-25 |
-| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 159 | 77 | 0 | — | 2026-10-27 |
+| 11 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 160 | 77 | 0 | — | 2026-10-27 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 139 | 119 | 1 | Fail | 2026-10-19 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 116 | 53 | 0 | — | 2026-10-23 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 94 | 61 | 0 | — | 2026-10-21 |
@@ -94,7 +94,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 76 | [terraview](https://github.com/NotHarshhaa/terraview) | 1 | 0 | 0 | Pass | 2026-10-24 |
 | 77 | [reposage](https://github.com/NotHarshhaa/reposage) | 1 | 0 | 0 | Pass | 2026-09-07 |
 | 78 | [promptdeck](https://github.com/NotHarshhaa/promptdeck) | 1 | 0 | 0 | — | 2026-09-07 |
-| 79 | [mainframe-mcp-server](https://github.com/NotHarshhaa/mainframe-mcp-server) | 0 | 0 | 0 | Pass | 2026-10-25 |
+| 79 | [mainframe-mcp-server](https://github.com/NotHarshhaa/mainframe-mcp-server) | 0 | 0 | 0 | Pass | 2026-10-27 |
 | 80 | [devops-atlasx](https://github.com/NotHarshhaa/devops-atlasx) | 0 | 0 | 0 | — | 2026-04-18 |
 | 81 | [itsmeharshhaa.site](https://github.com/NotHarshhaa/itsmeharshhaa.site) | 0 | 1 | 0 | — | 2025-04-12 |
 | 82 | [pod-why-dead](https://github.com/NotHarshhaa/pod-why-dead) | 0 | 0 | 0 | Pass | 2026-05-01 |
@@ -113,7 +113,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
   &nbsp;·&nbsp; ⭐ 5,418
-  &nbsp;·&nbsp; 🍴 4,893
+  &nbsp;·&nbsp; 🍴 4,892
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -392,7 +392,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 159
+  &nbsp;·&nbsp; ⭐ 160
   &nbsp;·&nbsp; 🍴 77
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -630,8 +630,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [ai-platform-handbook: Enhance course index and content structure](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f4680a501b8c58ba0382283f81b1ba5d3333fda1) |
-| **Commit date** | `2026-09-26` |
+| **Latest commit** | [ai-platform-handbook: Revise Week 16 content on AI Product Development, Building Enterp...](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/08e605c0e52ea088970ca904d8d293b76d0a028c) |
+| **Commit date** | `2026-10-27` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-27` |
 | **License** | `MIT License` |
@@ -966,7 +966,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ab98467828984b16b39e3f8296bea6a1c92a8537) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/5e98e580fc6efbe96f0ff9c999d2e0045ba2b6ad) |
 | **Commit date** | `2026-10-27` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-27` |
@@ -1890,7 +1890,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [blog: feat(newsletter): implement newsletter dispatch functionality and integrate email...](https://github.com/NotHarshhaa/personal-blog/commit/df32cb908b003491c43325f1242b90c4b91ddb18) |
+| **Latest commit** | [blog: refactor(admin, bookmarks, settings): replace FrameHeader with StripHeader for im...](https://github.com/NotHarshhaa/personal-blog/commit/6fecb5d87c151bd94c47b34e02e2d51c6628686f) |
 | **Commit date** | `2026-10-27` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-27` |
@@ -2310,10 +2310,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [mainframe-mcp: add Docker Hub repository overview](https://github.com/NotHarshhaa/mainframe-mcp-server/commit/9fac22cad25ab8a45bf622037537508ba5d1d620) |
-| **Commit date** | `2026-10-25` |
+| **Latest commit** | [mainframe-mcp: Implement incident management integration and internal documentation ret...](https://github.com/NotHarshhaa/mainframe-mcp-server/commit/74b14d7e78eaf21c408c430d1c8ad17194a1af6d) |
+| **Commit date** | `2026-10-27` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-25` |
+| **Repo updated** | `2026-10-27` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `JavaScript` · `Go Template` · `Dockerfile` |
 | **Topics** | `ibm` · `ibm-mainframe` · `mainframe` · `mainframe-mcp` · `mcp` · `mcp-client` |

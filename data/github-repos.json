@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5418,
-    "forks": 4893,
+    "forks": 4892,
     "watchers": 5418,
     "ci_cd_status": "none",
     "languages": [
@@ -357,9 +357,9 @@
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 159,
+    "stars": 160,
     "forks": 77,
-    "watchers": 159,
+    "watchers": 160,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-27T13:54:14Z"
+    "raw_updated_at": "2026-10-27T17:55:57Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -608,10 +608,10 @@
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
     "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f4680a501b8c58ba0382283f81b1ba5d3333fda1",
-    "commit_sha": "f4680a501b8c58ba0382283f81b1ba5d3333fda1",
-    "commit_date": "2026-09-26",
-    "commit_message": "ai-platform-handbook: Enhance course index and content structure",
+    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/08e605c0e52ea088970ca904d8d293b76d0a028c",
+    "commit_sha": "08e605c0e52ea088970ca904d8d293b76d0a028c",
+    "commit_date": "2026-10-27",
+    "commit_message": "ai-platform-handbook: Revise Week 16 content on AI Product Development, Building Enterprise AI Applications, and Production Deployment & Scaling",
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 39,
@@ -621,7 +621,7 @@
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-27T01:49:20Z"
+    "raw_updated_at": "2026-10-27T20:39:24Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -982,8 +982,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ab98467828984b16b39e3f8296bea6a1c92a8537",
-    "commit_sha": "ab98467828984b16b39e3f8296bea6a1c92a8537",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/5e98e580fc6efbe96f0ff9c999d2e0045ba2b6ad",
+    "commit_sha": "5e98e580fc6efbe96f0ff9c999d2e0045ba2b6ad",
     "commit_date": "2026-10-27",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-27T11:49:54Z"
+    "raw_updated_at": "2026-10-27T17:43:27Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1920,10 +1920,10 @@
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
     "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/df32cb908b003491c43325f1242b90c4b91ddb18",
-    "commit_sha": "df32cb908b003491c43325f1242b90c4b91ddb18",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/6fecb5d87c151bd94c47b34e02e2d51c6628686f",
+    "commit_sha": "6fecb5d87c151bd94c47b34e02e2d51c6628686f",
     "commit_date": "2026-10-27",
-    "commit_message": "blog: feat(newsletter): implement newsletter dispatch functionality and integrate email dispatch system",
+    "commit_message": "blog: refactor(admin, bookmarks, settings): replace FrameHeader with StripHeader for improved layout",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -1945,7 +1945,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-27T15:00:48Z"
+    "raw_updated_at": "2026-10-27T21:31:18Z"
   },
   {
     "repo": "internal-developer-platform-cli",
@@ -2320,11 +2320,11 @@
     "repo": "mainframe-mcp-server",
     "url": "https://github.com/NotHarshhaa/mainframe-mcp-server",
     "description": "An enterprise-grade Model Context Protocol (MCP) server for IBM z/OS environments. Bridges MCP-compatible AI agents with mainframe resources jobs, datasets, USS, and operational diagnostics using IBM Zowe SDK as the connectivity layer.",
-    "last_updated": "2026-10-25",
-    "latest_commit": "https://github.com/NotHarshhaa/mainframe-mcp-server/commit/9fac22cad25ab8a45bf622037537508ba5d1d620",
-    "commit_sha": "9fac22cad25ab8a45bf622037537508ba5d1d620",
-    "commit_date": "2026-10-25",
-    "commit_message": "mainframe-mcp: add Docker Hub repository overview",
+    "last_updated": "2026-10-27",
+    "latest_commit": "https://github.com/NotHarshhaa/mainframe-mcp-server/commit/74b14d7e78eaf21c408c430d1c8ad17194a1af6d",
+    "commit_sha": "74b14d7e78eaf21c408c430d1c8ad17194a1af6d",
+    "commit_date": "2026-10-27",
+    "commit_message": "mainframe-mcp: Implement incident management integration and internal documentation retrieval",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 0,
@@ -2347,7 +2347,7 @@
       "mcp-client",
       "mcp-server"
     ],
-    "raw_updated_at": "2026-10-25T11:03:36Z"
+    "raw_updated_at": "2026-10-27T20:47:37Z"
   },
   {
     "repo": "devops-atlasx",

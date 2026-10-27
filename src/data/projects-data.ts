@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5418,
-    "forks": 4893,
+    "forks": 4892,
     "issues": 30,
     "lastUpdated": "2026-10-27T12:44:12Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 159,
+    "stars": 160,
     "forks": 77,
     "issues": 0,
-    "lastUpdated": "2026-10-27T13:54:14Z",
+    "lastUpdated": "2026-10-27T17:55:57Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -407,8 +407,8 @@ export const PROJECTS: Project[] = [
     "stars": 39,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-10-27T01:49:20Z",
-    "lastCommit": "f4680a501b8c58ba0382283f81b1ba5d3333fda1"
+    "lastUpdated": "2026-10-27T20:39:24Z",
+    "lastCommit": "08e605c0e52ea088970ca904d8d293b76d0a028c"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-27T11:49:54Z",
-    "lastCommit": "ab98467828984b16b39e3f8296bea6a1c92a8537"
+    "lastUpdated": "2026-10-27T17:43:27Z",
+    "lastCommit": "5e98e580fc6efbe96f0ff9c999d2e0045ba2b6ad"
   },
   {
     "title": "Devops project templates",
@@ -1302,8 +1302,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-27T15:00:48Z",
-    "lastCommit": "df32cb908b003491c43325f1242b90c4b91ddb18"
+    "lastUpdated": "2026-10-27T21:31:18Z",
+    "lastCommit": "6fecb5d87c151bd94c47b34e02e2d51c6628686f"
   },
   {
     "title": "Internal developer platform cli",
@@ -1587,8 +1587,8 @@ export const PROJECTS: Project[] = [
     "stars": 0,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-25T11:03:36Z",
-    "lastCommit": "9fac22cad25ab8a45bf622037537508ba5d1d620"
+    "lastUpdated": "2026-10-27T20:47:37Z",
+    "lastCommit": "74b14d7e78eaf21c408c430d1c8ad17194a1af6d"
   },
   {
     "title": "Devops atlasx",
