@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5413,
+    "stars": 5414,
     "forks": 4892,
-    "watchers": 5413,
+    "watchers": 5414,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-26T21:24:56Z"
+    "raw_updated_at": "2026-10-27T02:09:45Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-26",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 647,
-    "forks": 235,
-    "watchers": 647,
+    "stars": 648,
+    "forks": 236,
+    "watchers": 648,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-23T12:03:09Z"
+    "raw_updated_at": "2026-10-26T23:30:09Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 534,
-    "forks": 404,
+    "forks": 405,
     "watchers": 534,
     "ci_cd_status": "none",
     "languages": [],
@@ -607,21 +607,21 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-10-22",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f4680a501b8c58ba0382283f81b1ba5d3333fda1",
     "commit_sha": "f4680a501b8c58ba0382283f81b1ba5d3333fda1",
     "commit_date": "2026-09-26",
     "commit_message": "ai-platform-handbook: Enhance course index and content structure",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 38,
+    "stars": 39,
     "forks": 17,
-    "watchers": 38,
+    "watchers": 39,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-22T14:55:58Z"
+    "raw_updated_at": "2026-10-27T01:49:20Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -982,8 +982,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-26",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/cd9e5532085bc7fa1fd24a28c4cb4394a09bf962",
-    "commit_sha": "cd9e5532085bc7fa1fd24a28c4cb4394a09bf962",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/0bec0880eab2281c1324369f1a92b4852cf0c2a6",
+    "commit_sha": "0bec0880eab2281c1324369f1a92b4852cf0c2a6",
     "commit_date": "2026-10-26",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-26T12:31:38Z"
+    "raw_updated_at": "2026-10-26T22:27:07Z"
   },
   {
     "repo": "devops-project-templates",
