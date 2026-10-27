@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5417,
-    "forks": 4892,
-    "watchers": 5417,
+    "stars": 5418,
+    "forks": 4893,
+    "watchers": 5418,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-27T11:40:20Z"
+    "raw_updated_at": "2026-10-27T12:44:12Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1288,
+    "stars": 1286,
     "forks": 934,
-    "watchers": 1288,
+    "watchers": 1286,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-27T09:25:40Z"
+    "raw_updated_at": "2026-10-27T17:19:38Z"
   },
   {
     "repo": "into-the-devops",
@@ -155,16 +155,16 @@
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_sha": "dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_date": "2025-06-17",
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 534,
+    "stars": 535,
     "forks": 404,
-    "watchers": 534,
+    "watchers": 535,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-21T04:51:17Z"
+    "raw_updated_at": "2026-10-27T13:54:43Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -224,16 +224,16 @@
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e",
     "commit_sha": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e",
     "commit_date": "2025-12-18",
     "commit_message": "Merge pull request #3 from NotHarshhaa/vercel/react-server-components-cve-vu-1116yw",
     "author": "H A R S H H A A",
     "issues": 5,
-    "stars": 243,
+    "stars": 244,
     "forks": 164,
-    "watchers": 243,
+    "watchers": 244,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -250,22 +250,22 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-10-21T23:18:47Z"
+    "raw_updated_at": "2026-10-27T13:24:14Z"
   },
   {
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 208,
+    "stars": 209,
     "forks": 213,
-    "watchers": 208,
+    "watchers": 209,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -280,7 +280,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-10-21T06:08:00Z"
+    "raw_updated_at": "2026-10-27T13:54:09Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -357,9 +357,9 @@
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 158,
+    "stars": 159,
     "forks": 77,
-    "watchers": 158,
+    "watchers": 159,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-27T09:41:01Z"
+    "raw_updated_at": "2026-10-27T13:54:14Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -982,8 +982,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2d475397a2b0dd8638425bca8f2950bfc7bad57c",
-    "commit_sha": "2d475397a2b0dd8638425bca8f2950bfc7bad57c",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ab98467828984b16b39e3f8296bea6a1c92a8537",
+    "commit_sha": "ab98467828984b16b39e3f8296bea6a1c92a8537",
     "commit_date": "2026-10-27",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-27T04:18:34Z"
+    "raw_updated_at": "2026-10-27T11:49:54Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1125,16 +1125,16 @@
     "repo": "devops-skills",
     "url": "https://github.com/NotHarshhaa/devops-skills",
     "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-10-09",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_date": "2026-09-19",
     "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 9,
+    "stars": 10,
     "forks": 6,
-    "watchers": 9,
+    "watchers": 10,
     "ci_cd_status": "pass",
     "languages": [
       "JavaScript"
@@ -1149,7 +1149,7 @@
       "devops-skills",
       "skills"
     ],
-    "raw_updated_at": "2026-10-09T09:24:31Z"
+    "raw_updated_at": "2026-10-27T13:54:21Z"
   },
   {
     "repo": "azure-devops-zero-to-hero",
@@ -1920,10 +1920,10 @@
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
     "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/aab7904a36caad3cb96f43b5b233bba7bb7ab1a3",
-    "commit_sha": "aab7904a36caad3cb96f43b5b233bba7bb7ab1a3",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/df32cb908b003491c43325f1242b90c4b91ddb18",
+    "commit_sha": "df32cb908b003491c43325f1242b90c4b91ddb18",
     "commit_date": "2026-10-27",
-    "commit_message": "blog: refactor(docker-compose, config, actions): update dependencies and streamline code",
+    "commit_message": "blog: feat(newsletter): implement newsletter dispatch functionality and integrate email dispatch system",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -1945,7 +1945,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-27T11:28:10Z"
+    "raw_updated_at": "2026-10-27T15:00:48Z"
   },
   {
     "repo": "internal-developer-platform-cli",

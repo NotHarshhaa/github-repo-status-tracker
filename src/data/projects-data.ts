@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5417,
-    "forks": 4892,
+    "stars": 5418,
+    "forks": 4893,
     "issues": 30,
-    "lastUpdated": "2026-10-27T11:40:20Z",
+    "lastUpdated": "2026-10-27T12:44:12Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1288,
+    "stars": 1286,
     "forks": 934,
     "issues": 4,
-    "lastUpdated": "2026-10-27T09:25:40Z",
+    "lastUpdated": "2026-10-27T17:19:38Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 534,
+    "stars": 535,
     "forks": 404,
     "issues": 1,
-    "lastUpdated": "2026-10-21T04:51:17Z",
+    "lastUpdated": "2026-10-27T13:54:43Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -159,10 +159,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 243,
+    "stars": 244,
     "forks": 164,
     "issues": 5,
-    "lastUpdated": "2026-10-21T23:18:47Z",
+    "lastUpdated": "2026-10-27T13:24:14Z",
     "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
   },
   {
@@ -180,10 +180,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 208,
+    "stars": 209,
     "forks": 213,
     "issues": 0,
-    "lastUpdated": "2026-10-21T06:08:00Z",
+    "lastUpdated": "2026-10-27T13:54:09Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 158,
+    "stars": 159,
     "forks": 77,
     "issues": 0,
-    "lastUpdated": "2026-10-27T09:41:01Z",
+    "lastUpdated": "2026-10-27T13:54:14Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-27T04:18:34Z",
-    "lastCommit": "2d475397a2b0dd8638425bca8f2950bfc7bad57c"
+    "lastUpdated": "2026-10-27T11:49:54Z",
+    "lastCommit": "ab98467828984b16b39e3f8296bea6a1c92a8537"
   },
   {
     "title": "Devops project templates",
@@ -753,10 +753,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 9,
+    "stars": 10,
     "forks": 6,
     "issues": 0,
-    "lastUpdated": "2026-10-09T09:24:31Z",
+    "lastUpdated": "2026-10-27T13:54:21Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
@@ -1302,8 +1302,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-27T11:28:10Z",
-    "lastCommit": "aab7904a36caad3cb96f43b5b233bba7bb7ab1a3"
+    "lastUpdated": "2026-10-27T15:00:48Z",
+    "lastCommit": "df32cb908b003491c43325f1242b90c4b91ddb18"
   },
   {
     "title": "Internal developer platform cli",
