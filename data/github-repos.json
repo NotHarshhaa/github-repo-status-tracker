@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5414,
+    "stars": 5417,
     "forks": 4892,
-    "watchers": 5414,
+    "watchers": 5417,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,13 +43,13 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-27T02:09:45Z"
+    "raw_updated_at": "2026-10-27T11:40:20Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-26T00:58:09Z"
+    "raw_updated_at": "2026-10-27T09:25:40Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 920,
+    "stars": 921,
     "forks": 543,
-    "watchers": 920,
+    "watchers": 921,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-25T18:57:39Z"
+    "raw_updated_at": "2026-10-27T10:51:15Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 534,
-    "forks": 405,
+    "forks": 404,
     "watchers": 534,
     "ci_cd_status": "none",
     "languages": [],
@@ -350,16 +350,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-27",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 157,
+    "stars": 158,
     "forks": 77,
-    "watchers": 157,
+    "watchers": 158,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-23T16:13:32Z"
+    "raw_updated_at": "2026-10-27T09:41:01Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -981,10 +981,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-26",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/0bec0880eab2281c1324369f1a92b4852cf0c2a6",
-    "commit_sha": "0bec0880eab2281c1324369f1a92b4852cf0c2a6",
-    "commit_date": "2026-10-26",
+    "last_updated": "2026-10-27",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2d475397a2b0dd8638425bca8f2950bfc7bad57c",
+    "commit_sha": "2d475397a2b0dd8638425bca8f2950bfc7bad57c",
+    "commit_date": "2026-10-27",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-26T22:27:07Z"
+    "raw_updated_at": "2026-10-27T04:18:34Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1919,11 +1919,11 @@
     "repo": "personal-blog",
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
-    "last_updated": "2026-10-18",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/eb81c8d019e98721839cf7d52fda44430f063246",
-    "commit_sha": "eb81c8d019e98721839cf7d52fda44430f063246",
-    "commit_date": "2026-10-18",
-    "commit_message": "blog: feat(utils): enhance view count calculation with performance archetypes",
+    "last_updated": "2026-10-27",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/aab7904a36caad3cb96f43b5b233bba7bb7ab1a3",
+    "commit_sha": "aab7904a36caad3cb96f43b5b233bba7bb7ab1a3",
+    "commit_date": "2026-10-27",
+    "commit_message": "blog: refactor(docker-compose, config, actions): update dependencies and streamline code",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -1945,7 +1945,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-18T06:10:45Z"
+    "raw_updated_at": "2026-10-27T11:28:10Z"
   },
   {
     "repo": "internal-developer-platform-cli",
