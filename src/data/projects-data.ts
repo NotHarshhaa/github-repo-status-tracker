@@ -78,7 +78,7 @@ export const PROJECTS: Project[] = [
     "stars": 921,
     "forks": 543,
     "issues": 0,
-    "lastUpdated": "2026-10-27T10:51:15Z",
+    "lastUpdated": "2026-10-27T22:53:26Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-27T17:43:27Z",
-    "lastCommit": "5e98e580fc6efbe96f0ff9c999d2e0045ba2b6ad"
+    "lastUpdated": "2026-10-27T21:57:46Z",
+    "lastCommit": "d57fe825d4bd634768f0a3f24cfcfa59c7aeedb2"
   },
   {
     "title": "Devops project templates",
@@ -718,6 +718,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "415b8ff86a36d7cb92f9b4b149fafc3060ee36cf"
   },
   {
+    "title": "Devops skills",
+    "techStack": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills"
+    ],
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "link": {
+      "label": "github.com/devops-skills",
+      "href": "https://github.com/NotHarshhaa/devops-skills"
+    },
+    "stars": 11,
+    "forks": 6,
+    "issues": 0,
+    "lastUpdated": "2026-10-28T02:16:16Z",
+    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
+  },
+  {
     "title": "Jenkins  Terraform  A W S  Infra",
     "techStack": [
       "aws",
@@ -737,27 +758,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-04-26T11:51:26Z",
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
-  },
-  {
-    "title": "Devops skills",
-    "techStack": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills"
-    ],
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "link": {
-      "label": "github.com/devops-skills",
-      "href": "https://github.com/NotHarshhaa/devops-skills"
-    },
-    "stars": 10,
-    "forks": 6,
-    "issues": 0,
-    "lastUpdated": "2026-10-27T13:54:21Z",
-    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
     "title": "Azure devops zero to hero",

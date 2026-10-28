@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-27T10:51:15Z"
+    "raw_updated_at": "2026-10-27T22:53:26Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -982,8 +982,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/5e98e580fc6efbe96f0ff9c999d2e0045ba2b6ad",
-    "commit_sha": "5e98e580fc6efbe96f0ff9c999d2e0045ba2b6ad",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/d57fe825d4bd634768f0a3f24cfcfa59c7aeedb2",
+    "commit_sha": "d57fe825d4bd634768f0a3f24cfcfa59c7aeedb2",
     "commit_date": "2026-10-27",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-27T17:43:27Z"
+    "raw_updated_at": "2026-10-27T21:57:46Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1093,6 +1093,36 @@
     "raw_updated_at": "2026-10-15T18:19:04Z"
   },
   {
+    "repo": "devops-skills",
+    "url": "https://github.com/NotHarshhaa/devops-skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_date": "2026-09-19",
+    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 11,
+    "forks": 6,
+    "watchers": 11,
+    "ci_cd_status": "pass",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills",
+      "skills"
+    ],
+    "raw_updated_at": "2026-10-28T02:16:16Z"
+  },
+  {
     "repo": "Jenkins-Terraform-AWS-Infra",
     "url": "https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra",
     "description": "Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Security Groups, EC2 instances, and Jenkins integration for Infrastructure as Code (IaC) deployment.",
@@ -1120,36 +1150,6 @@
       "terraform-cloud"
     ],
     "raw_updated_at": "2026-04-26T11:51:26Z"
-  },
-  {
-    "repo": "devops-skills",
-    "url": "https://github.com/NotHarshhaa/devops-skills",
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_date": "2026-09-19",
-    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 10,
-    "forks": 6,
-    "watchers": 10,
-    "ci_cd_status": "pass",
-    "languages": [
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills",
-      "skills"
-    ],
-    "raw_updated_at": "2026-10-27T13:54:21Z"
   },
   {
     "repo": "azure-devops-zero-to-hero",
