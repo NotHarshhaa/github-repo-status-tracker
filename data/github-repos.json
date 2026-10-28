@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5418,
-    "forks": 4894,
-    "watchers": 5418,
+    "stars": 5421,
+    "forks": 4895,
+    "watchers": 5421,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-27T12:44:12Z"
+    "raw_updated_at": "2026-10-28T17:59:21Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1288,
-    "forks": 934,
-    "watchers": 1288,
+    "stars": 1290,
+    "forks": 935,
+    "watchers": 1290,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-28T10:22:35Z"
+    "raw_updated_at": "2026-10-28T19:22:30Z"
   },
   {
     "repo": "into-the-devops",
@@ -256,16 +256,16 @@
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 209,
+    "stars": 210,
     "forks": 213,
-    "watchers": 209,
+    "watchers": 210,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -280,7 +280,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-10-27T13:54:09Z"
+    "raw_updated_at": "2026-10-28T19:21:57Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -294,7 +294,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 197,
-    "forks": 209,
+    "forks": 210,
     "watchers": 197,
     "ci_cd_status": "none",
     "languages": [],
@@ -357,9 +357,9 @@
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 161,
+    "stars": 162,
     "forks": 77,
-    "watchers": 161,
+    "watchers": 162,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-28T07:33:03Z"
+    "raw_updated_at": "2026-10-28T19:22:03Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -545,16 +545,16 @@
     "repo": "kubernetes-dashboard",
     "url": "https://github.com/NotHarshhaa/kubernetes-dashboard",
     "description": "This dashboard unifies multi-cluster fleet operations, real-time Metrics Server telemetry, AI/GPU accelerator observability, GitOps workflow safeguards (ArgoCD & Flux), next-gen Gateway API routing, and browser-native ANSI container terminal execution. Eliminate tool sprawl, prevent configuration drift, and manage mission-critical cloud-native work",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_sha": "76ce74c2cb8a22403c49a534468a790647ebce29",
     "commit_date": "2026-09-13",
     "commit_message": "Kubernetes-dashboard: update ESLint configuration and refine component imports",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 62,
+    "stars": 63,
     "forks": 53,
-    "watchers": 62,
+    "watchers": 63,
     "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
@@ -573,7 +573,7 @@
       "kubernetes-setup",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-23T00:39:04Z"
+    "raw_updated_at": "2026-10-28T19:22:22Z"
   },
   {
     "repo": "aws-billing-alert-terraform",
@@ -614,29 +614,29 @@
     "commit_message": "ai-platform-handbook: Revise Week 16 content on AI Product Development, Building Enterprise AI Applications, and Production Deployment & Scaling",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 41,
+    "stars": 42,
     "forks": 17,
-    "watchers": 41,
+    "watchers": 42,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-28T11:49:26Z"
+    "raw_updated_at": "2026-10-28T18:05:48Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
     "url": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
     "description": "Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernetes – all on AWS! 💥",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b",
     "commit_sha": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b",
     "commit_date": "2025-07-13",
     "commit_message": "cloud-native-project: README: Update project banner",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 36,
+    "stars": 37,
     "forks": 44,
-    "watchers": 36,
+    "watchers": 37,
     "ci_cd_status": "none",
     "languages": [
       "HCL",
@@ -663,22 +663,22 @@
       "sonarqube",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-17T15:07:17Z"
+    "raw_updated_at": "2026-10-28T18:12:38Z"
   },
   {
     "repo": "From-Docker-to-Kubernetes",
     "url": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes",
     "description": "A hands-on learning repository to help you master containerization and orchestration — starting with Docker fundamentals and progressing to real-world Kubernetes deployments. Ideal for developers, DevOps engineers, and learners building modern cloud-native workflows.",
-    "last_updated": "2026-10-09",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/From-Docker-to-Kubernetes/commit/80408e3d8f4838dfe2172a6d2ceab9e533c0680c",
     "commit_sha": "80408e3d8f4838dfe2172a6d2ceab9e533c0680c",
     "commit_date": "2026-10-09",
     "commit_message": "dockertok8s: feat: Introduce new tools section with Dockerfile Generator and CLI Cheat Sheet",
     "author": "NotHarshhaa",
     "issues": 2,
-    "stars": 34,
+    "stars": 35,
     "forks": 35,
-    "watchers": 34,
+    "watchers": 35,
     "ci_cd_status": "none",
     "languages": [
       "Vue",
@@ -698,22 +698,22 @@
       "kubernetes-deployment",
       "kubernetes-tutorial"
     ],
-    "raw_updated_at": "2026-10-09T09:24:02Z"
+    "raw_updated_at": "2026-10-28T19:21:52Z"
   },
   {
     "repo": "AWS-DevOps_Real-Time_Deployment",
     "url": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment",
     "description": "🚀 Production-ready AWS DevOps CI/CD pipeline automating multi-environment deployments (Dev ➔ Staging ➔ Prod) using AWS CodePipeline, CodeBuild, CodeDeploy, and hardened Nginx.",
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8",
     "commit_sha": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8",
     "commit_date": "2026-08-28",
     "commit_message": "AWS-DevOps: Version 2.1 updates for production readiness and security enhancements",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 31,
+    "stars": 32,
     "forks": 68,
-    "watchers": 31,
+    "watchers": 32,
     "ci_cd_status": "none",
     "languages": [
       "Shell",
@@ -734,7 +734,7 @@
       "multi-environment",
       "nginx"
     ],
-    "raw_updated_at": "2026-10-18T17:52:03Z"
+    "raw_updated_at": "2026-10-28T19:22:29Z"
   },
   {
     "repo": "Learning-Prometheus",
@@ -797,16 +797,16 @@
     "repo": "devops-monitoring-in-a-box",
     "url": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box",
     "description": "This project provides a ready-to-use advanced monitoring platform for DevOps engineers and beginners. With just one command, you get Prometheus, Grafana, Loki, Alertmanager, Node Exporter",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/devops-monitoring-in-a-box/commit/f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
     "commit_sha": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf",
     "commit_date": "2026-09-29",
     "commit_message": "devops-monitoring: docs: update README to reflect new features and enhancements",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 20,
+    "stars": 21,
     "forks": 22,
-    "watchers": 20,
+    "watchers": 21,
     "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
@@ -830,7 +830,7 @@
       "prometheus",
       "prometheus-metrics"
     ],
-    "raw_updated_at": "2026-10-24T07:38:57Z"
+    "raw_updated_at": "2026-10-28T19:22:00Z"
   },
   {
     "repo": "AWS-Terraform-Workshop",
@@ -924,6 +924,38 @@
     "raw_updated_at": "2026-09-04T05:31:17Z"
   },
   {
+    "repo": "cv-portfolio",
+    "url": "https://github.com/NotHarshhaa/cv-portfolio",
+    "description": "A modern, responsive, and print-ready CV portfolio showcasing hands-on expertise across Platform Engineering, DevOps, AI Infrastructure, GenAI, AI Agents, MCP, LLMOps, and AI Product Development.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/cv-portfolio/commit/eacb3e89619766b51edd7794551d5d9dde39f472",
+    "commit_sha": "eacb3e89619766b51edd7794551d5d9dde39f472",
+    "commit_date": "2026-09-30",
+    "commit_message": "cv: feat: add views tracking and enhance page layout with new components",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 14,
+    "forks": 12,
+    "watchers": 14,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "CSS",
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "cv",
+      "javascript",
+      "nextjs",
+      "personal-cv",
+      "tailwindcss",
+      "typescript",
+      "vercel"
+    ],
+    "raw_updated_at": "2026-10-28T19:21:56Z"
+  },
+  {
     "repo": "awesome-devops-cloud",
     "url": "https://github.com/NotHarshhaa/awesome-devops-cloud",
     "description": "A curated list for DevOps and Cloud Engineering. Explore the most useful tools, platforms, utilities, and guides — beautifully categorized and easily searchable in one place.",
@@ -946,44 +978,12 @@
     "raw_updated_at": "2026-08-13T13:46:23Z"
   },
   {
-    "repo": "cv-portfolio",
-    "url": "https://github.com/NotHarshhaa/cv-portfolio",
-    "description": "A modern, responsive, and print-ready CV portfolio showcasing hands-on expertise across Platform Engineering, DevOps, AI Infrastructure, GenAI, AI Agents, MCP, LLMOps, and AI Product Development.",
-    "last_updated": "2026-10-02",
-    "latest_commit": "https://github.com/NotHarshhaa/cv-portfolio/commit/eacb3e89619766b51edd7794551d5d9dde39f472",
-    "commit_sha": "eacb3e89619766b51edd7794551d5d9dde39f472",
-    "commit_date": "2026-09-30",
-    "commit_message": "cv: feat: add views tracking and enhance page layout with new components",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 13,
-    "forks": 12,
-    "watchers": 13,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "cv",
-      "javascript",
-      "nextjs",
-      "personal-cv",
-      "tailwindcss",
-      "typescript",
-      "vercel"
-    ],
-    "raw_updated_at": "2026-10-02T22:09:28Z"
-  },
-  {
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/6199bfbe2600718cfc31cb189b5f7dd2024d08f0",
-    "commit_sha": "6199bfbe2600718cfc31cb189b5f7dd2024d08f0",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/97f31f0414fd2b4f35ee8d32b6b5b64f70def7ac",
+    "commit_sha": "97f31f0414fd2b4f35ee8d32b6b5b64f70def7ac",
     "commit_date": "2026-10-28",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-28T04:48:09Z"
+    "raw_updated_at": "2026-10-28T12:24:21Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1028,6 +1028,36 @@
     "license": "MIT License",
     "topics": [],
     "raw_updated_at": "2026-08-27T03:14:23Z"
+  },
+  {
+    "repo": "devops-skills",
+    "url": "https://github.com/NotHarshhaa/devops-skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_date": "2026-09-19",
+    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 12,
+    "forks": 6,
+    "watchers": 12,
+    "ci_cd_status": "pass",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills",
+      "skills"
+    ],
+    "raw_updated_at": "2026-10-28T19:22:09Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
@@ -1093,36 +1123,6 @@
     "raw_updated_at": "2026-10-15T18:19:04Z"
   },
   {
-    "repo": "devops-skills",
-    "url": "https://github.com/NotHarshhaa/devops-skills",
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_date": "2026-09-19",
-    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 11,
-    "forks": 6,
-    "watchers": 11,
-    "ci_cd_status": "pass",
-    "languages": [
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills",
-      "skills"
-    ],
-    "raw_updated_at": "2026-10-28T02:16:16Z"
-  },
-  {
     "repo": "Jenkins-Terraform-AWS-Infra",
     "url": "https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra",
     "description": "Terraform scripts to automate the provisioning of AWS infrastructure, including VPC, Subnets, Security Groups, EC2 instances, and Jenkins integration for Infrastructure as Code (IaC) deployment.",
@@ -1155,16 +1155,16 @@
     "repo": "azure-devops-zero-to-hero",
     "url": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero",
     "description": "Azure DevOps Zero to Hero — comprehensive guide to master Azure DevOps from fundamentals to advanced use. Learn Boards, Pipelines, Repos, Artifacts & Test Plans with practical, step-by-step content for developers and DevOps engineers",
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero/commit/9664378defd5705f45e56f27221fd9c9ca9052d7",
     "commit_sha": "9664378defd5705f45e56f27221fd9c9ca9052d7",
     "commit_date": "2026-08-06",
     "commit_message": "feat: Update README files for Azure DevOps components with improved formatting, section headers, and additional content",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 8,
+    "stars": 9,
     "forks": 11,
-    "watchers": 8,
+    "watchers": 9,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -1185,7 +1185,96 @@
       "tutorial",
       "zero-to-hero"
     ],
-    "raw_updated_at": "2026-10-18T17:55:07Z"
+    "raw_updated_at": "2026-10-28T19:22:43Z"
+  },
+  {
+    "repo": "aws-infra-generator",
+    "url": "https://github.com/NotHarshhaa/aws-infra-generator",
+    "description": "A platform engineering tool that generates production-ready AWS infrastructure templates using Terraform or CloudFormation based on user-selected services.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/aws-infra-generator/commit/8fe2ab96143dd48d8d0659f487ccad940e6e9ce1",
+    "commit_sha": "8fe2ab96143dd48d8d0659f487ccad940e6e9ce1",
+    "commit_date": "2026-08-24",
+    "commit_message": "aws-infra: Revamp landing page components and enhance global styles",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 8,
+    "forks": 5,
+    "watchers": 8,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "CSS",
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "aws",
+      "aws-infra",
+      "aws-infra-gen",
+      "aws-infrastructure-automation",
+      "cloudformation",
+      "infra-gen",
+      "infra-terraform",
+      "terraform"
+    ],
+    "raw_updated_at": "2026-10-28T19:22:36Z"
+  },
+  {
+    "repo": "devops-project-generator",
+    "url": "https://github.com/NotHarshhaa/devops-project-generator",
+    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
+    "commit_sha": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
+    "commit_date": "2026-09-14",
+    "commit_message": "devops-gen: Enhance CLI with DevContainer and Git initialization options",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 8,
+    "forks": 10,
+    "watchers": 8,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Jinja",
+      "Shell",
+      "CSS"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "devops",
+      "devops-gen",
+      "devops-project",
+      "devops-project-generator",
+      "project-gen",
+      "project-generator"
+    ],
+    "raw_updated_at": "2026-10-28T19:22:18Z"
+  },
+  {
+    "repo": "devops-incident-agent",
+    "url": "https://github.com/NotHarshhaa/devops-incident-agent",
+    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-incident-agent/commit/ffc272d5d26758bc89dfff64a2ae878256230568",
+    "commit_sha": "ffc272d5d26758bc89dfff64a2ae878256230568",
+    "commit_date": "2026-07-12",
+    "commit_message": "ci: Bump docker/setup-buildx-action from 3 to 4 (#3)",
+    "author": "dependabot[bot]",
+    "issues": 7,
+    "stars": 8,
+    "forks": 4,
+    "watchers": 8,
+    "ci_cd_status": "pass",
+    "languages": [
+      "Python",
+      "Dockerfile"
+    ],
+    "license": "Apache License 2.0",
+    "topics": [],
+    "raw_updated_at": "2026-10-28T19:22:48Z"
   },
   {
     "repo": "prodevopsguytech.com",
@@ -1305,95 +1394,6 @@
     "license": "No license",
     "topics": [],
     "raw_updated_at": "2026-10-06T17:41:13Z"
-  },
-  {
-    "repo": "aws-infra-generator",
-    "url": "https://github.com/NotHarshhaa/aws-infra-generator",
-    "description": "A platform engineering tool that generates production-ready AWS infrastructure templates using Terraform or CloudFormation based on user-selected services.",
-    "last_updated": "2026-09-03",
-    "latest_commit": "https://github.com/NotHarshhaa/aws-infra-generator/commit/8fe2ab96143dd48d8d0659f487ccad940e6e9ce1",
-    "commit_sha": "8fe2ab96143dd48d8d0659f487ccad940e6e9ce1",
-    "commit_date": "2026-08-24",
-    "commit_message": "aws-infra: Revamp landing page components and enhance global styles",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 7,
-    "forks": 5,
-    "watchers": 7,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "aws",
-      "aws-infra",
-      "aws-infra-gen",
-      "aws-infrastructure-automation",
-      "cloudformation",
-      "infra-gen",
-      "infra-terraform",
-      "terraform"
-    ],
-    "raw_updated_at": "2026-09-03T14:32:55Z"
-  },
-  {
-    "repo": "devops-project-generator",
-    "url": "https://github.com/NotHarshhaa/devops-project-generator",
-    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "last_updated": "2026-10-09",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_sha": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_date": "2026-09-14",
-    "commit_message": "devops-gen: Enhance CLI with DevContainer and Git initialization options",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 7,
-    "forks": 10,
-    "watchers": 7,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "Jinja",
-      "Shell",
-      "CSS"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "devops",
-      "devops-gen",
-      "devops-project",
-      "devops-project-generator",
-      "project-gen",
-      "project-generator"
-    ],
-    "raw_updated_at": "2026-10-09T09:24:34Z"
-  },
-  {
-    "repo": "devops-incident-agent",
-    "url": "https://github.com/NotHarshhaa/devops-incident-agent",
-    "description": "An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines to identify root causes and recommend fixes.",
-    "last_updated": "2026-10-14",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-incident-agent/commit/ffc272d5d26758bc89dfff64a2ae878256230568",
-    "commit_sha": "ffc272d5d26758bc89dfff64a2ae878256230568",
-    "commit_date": "2026-07-12",
-    "commit_message": "ci: Bump docker/setup-buildx-action from 3 to 4 (#3)",
-    "author": "dependabot[bot]",
-    "issues": 7,
-    "stars": 7,
-    "forks": 4,
-    "watchers": 7,
-    "ci_cd_status": "pass",
-    "languages": [
-      "Python",
-      "Dockerfile"
-    ],
-    "license": "Apache License 2.0",
-    "topics": [],
-    "raw_updated_at": "2026-10-14T06:38:27Z"
   },
   {
     "repo": "projects.prodevopsguytech.com",
@@ -1616,6 +1616,55 @@
     "raw_updated_at": "2026-06-30T23:07:05Z"
   },
   {
+    "repo": "terraform-cost-predictor",
+    "url": "https://github.com/NotHarshhaa/terraform-cost-predictor",
+    "description": "Terraform Cost Predictor is an ML-powered tool that analyzes Terraform infrastructure configurations and predicts the estimated monthly cloud cost before deployment.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/terraform-cost-predictor/commit/11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
+    "commit_sha": "11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
+    "commit_date": "2026-09-27",
+    "commit_message": "tf-cost-ml: Enhance model training and frontend components for improved cost estimation",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 4,
+    "forks": 4,
+    "watchers": 4,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "CSS",
+      "Dockerfile",
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-10-28T19:22:06Z"
+  },
+  {
+    "repo": "cloud-billing-automation",
+    "url": "https://github.com/NotHarshhaa/cloud-billing-automation",
+    "description": "A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using automated scripts, alerts, and infrastructure cost controls.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/cloud-billing-automation/commit/a63df46cd7a3dda1db69cd0218bd86a2b3da9530",
+    "commit_sha": "a63df46cd7a3dda1db69cd0218bd86a2b3da9530",
+    "commit_date": "2026-05-01",
+    "commit_message": "cloud-billing-cli: Release version 0.6.0 with security enhancements and improvements",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 4,
+    "forks": 7,
+    "watchers": 4,
+    "ci_cd_status": "fail",
+    "languages": [
+      "Python",
+      "Batchfile"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-10-28T19:23:02Z"
+  },
+  {
     "repo": "ai-question-paper-generator",
     "url": "https://github.com/NotHarshhaa/ai-question-paper-generator",
     "description": "An intelligent full-stack system that automatically generates DevOps and AWS certification & university-style question papers using NLP and Machine Learning techniques. Includes an interactive 2,500+ Question Bank, Platform Analytics Dashboard, Teacher Solution Key Mode, and Multi-Format Exporters.",
@@ -1676,14 +1725,47 @@
     "raw_updated_at": "2026-10-24T19:17:23Z"
   },
   {
+    "repo": "mlops-project-generator",
+    "url": "https://github.com/NotHarshhaa/mlops-project-generator",
+    "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/mlops-project-generator/commit/90cc314ec1cbeceda66b63d89f984f50eb183272",
+    "commit_sha": "90cc314ec1cbeceda66b63d89f984f50eb183272",
+    "commit_date": "2026-08-27",
+    "commit_message": "MLOps-Gen: Update file preview and project configuration features",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 4,
+    "forks": 2,
+    "watchers": 4,
+    "ci_cd_status": "fail",
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Jinja",
+      "CSS",
+      "Makefile"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "mlops",
+      "mlops-project",
+      "mlops-template",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "raw_updated_at": "2026-10-28T19:22:34Z"
+  },
+  {
     "repo": "status.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/status.prodevopsguytech.com",
     "description": "A modern, responsive status dashboard for monitoring the health and up-time of our web services and applications. ",
-    "last_updated": "2026-10-08",
-    "latest_commit": "https://github.com/NotHarshhaa/status.prodevopsguytech.com/commit/43a24c497ac6f858ad45911803ac837c765c1010",
-    "commit_sha": "43a24c497ac6f858ad45911803ac837c765c1010",
-    "commit_date": "2026-10-08",
-    "commit_message": "status: Enhance site monitoring features and UI components",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/status.prodevopsguytech.com/commit/873e1f328a102be8319f72ae3ca9689e07164885",
+    "commit_sha": "873e1f328a102be8319f72ae3ca9689e07164885",
+    "commit_date": "2026-10-28",
+    "commit_message": "status: style: Enhance UI components for improved accessibility and visual consistency",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 3,
@@ -1696,7 +1778,7 @@
     ],
     "license": "No license",
     "topics": [],
-    "raw_updated_at": "2026-10-08T17:50:51Z"
+    "raw_updated_at": "2026-10-28T18:11:26Z"
   },
   {
     "repo": "prodevopsguy.hashnode.dev",
@@ -1768,55 +1850,6 @@
     "raw_updated_at": "2025-12-18T11:01:30Z"
   },
   {
-    "repo": "terraform-cost-predictor",
-    "url": "https://github.com/NotHarshhaa/terraform-cost-predictor",
-    "description": "Terraform Cost Predictor is an ML-powered tool that analyzes Terraform infrastructure configurations and predicts the estimated monthly cloud cost before deployment.",
-    "last_updated": "2026-10-19",
-    "latest_commit": "https://github.com/NotHarshhaa/terraform-cost-predictor/commit/11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
-    "commit_sha": "11e2a3a3bb760c0a5a78a817b292ef4cc3a91327",
-    "commit_date": "2026-09-27",
-    "commit_message": "tf-cost-ml: Enhance model training and frontend components for improved cost estimation",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 3,
-    "forks": 4,
-    "watchers": 3,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "CSS",
-      "Dockerfile",
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-10-19T18:37:24Z"
-  },
-  {
-    "repo": "cloud-billing-automation",
-    "url": "https://github.com/NotHarshhaa/cloud-billing-automation",
-    "description": "A DevOps-focused cloud billing automation tool that enables Cloud and DevOps Engineers to monitor, govern, and optimize cloud costs using automated scripts, alerts, and infrastructure cost controls.",
-    "last_updated": "2026-07-30",
-    "latest_commit": "https://github.com/NotHarshhaa/cloud-billing-automation/commit/a63df46cd7a3dda1db69cd0218bd86a2b3da9530",
-    "commit_sha": "a63df46cd7a3dda1db69cd0218bd86a2b3da9530",
-    "commit_date": "2026-05-01",
-    "commit_message": "cloud-billing-cli: Release version 0.6.0 with security enhancements and improvements",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 3,
-    "forks": 7,
-    "watchers": 3,
-    "ci_cd_status": "fail",
-    "languages": [
-      "Python",
-      "Batchfile"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-07-30T11:52:38Z"
-  },
-  {
     "repo": "prodevopsguytech-v2",
     "url": "https://github.com/NotHarshhaa/prodevopsguytech-v2",
     "description": "Home of ProDevOpsGuy Tech Community Website",
@@ -1883,37 +1916,28 @@
     "raw_updated_at": "2026-10-19T18:50:01Z"
   },
   {
-    "repo": "mlops-project-generator",
-    "url": "https://github.com/NotHarshhaa/mlops-project-generator",
-    "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
-    "last_updated": "2026-09-01",
-    "latest_commit": "https://github.com/NotHarshhaa/mlops-project-generator/commit/90cc314ec1cbeceda66b63d89f984f50eb183272",
-    "commit_sha": "90cc314ec1cbeceda66b63d89f984f50eb183272",
-    "commit_date": "2026-08-27",
-    "commit_message": "MLOps-Gen: Update file preview and project configuration features",
+    "repo": "devops-agent-kit",
+    "url": "https://github.com/NotHarshhaa/devops-agent-kit",
+    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph) as submodules.",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-agent-kit/commit/2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
+    "commit_sha": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
+    "commit_date": "2026-06-29",
+    "commit_message": "agent-kit: Improve project root detection and enhance error handling in tools",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 3,
-    "forks": 2,
+    "forks": 0,
     "watchers": 3,
-    "ci_cd_status": "fail",
+    "ci_cd_status": "none",
     "languages": [
       "Python",
-      "TypeScript",
-      "Jinja",
-      "CSS",
+      "Go",
       "Makefile"
     ],
-    "license": "MIT License",
-    "topics": [
-      "mlops",
-      "mlops-project",
-      "mlops-template",
-      "pytorch",
-      "scikit-learn",
-      "tensorflow"
-    ],
-    "raw_updated_at": "2026-09-01T09:43:39Z"
+    "license": "GNU General Public License v3.0",
+    "topics": [],
+    "raw_updated_at": "2026-10-28T19:22:53Z"
   },
   {
     "repo": "personal-blog",
@@ -2070,28 +2094,30 @@
     "raw_updated_at": "2026-10-16T05:59:40Z"
   },
   {
-    "repo": "devops-agent-kit",
-    "url": "https://github.com/NotHarshhaa/devops-agent-kit",
-    "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph) as submodules.",
-    "last_updated": "2026-10-14",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-agent-kit/commit/2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
-    "commit_sha": "2cff1a866e33865e04b34cfe4a9ca29b625c31d6",
-    "commit_date": "2026-06-29",
-    "commit_message": "agent-kit: Improve project root detection and enhance error handling in tools",
+    "repo": "terraview",
+    "url": "https://github.com/NotHarshhaa/terraview",
+    "description": "A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / active / inactive / not yet provisioned) — categorized by service type, cloud provider, module. ",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/terraview/commit/5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
+    "commit_sha": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
+    "commit_date": "2026-08-01",
+    "commit_message": "terraview: Update resource filtering and testing capabilities",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
     "forks": 0,
     "watchers": 2,
-    "ci_cd_status": "none",
+    "ci_cd_status": "pass",
     "languages": [
-      "Python",
+      "TypeScript",
       "Go",
+      "CSS",
+      "Dockerfile",
       "Makefile"
     ],
-    "license": "GNU General Public License v3.0",
+    "license": "Apache License 2.0",
     "topics": [],
-    "raw_updated_at": "2026-10-14T06:38:59Z"
+    "raw_updated_at": "2026-10-28T19:22:42Z"
   },
   {
     "repo": "slimify",
@@ -2237,32 +2263,6 @@
     "license": "MIT License",
     "topics": [],
     "raw_updated_at": "2026-04-20T11:21:20Z"
-  },
-  {
-    "repo": "terraview",
-    "url": "https://github.com/NotHarshhaa/terraview",
-    "description": "A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / active / inactive / not yet provisioned) — categorized by service type, cloud provider, module. ",
-    "last_updated": "2026-10-24",
-    "latest_commit": "https://github.com/NotHarshhaa/terraview/commit/5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
-    "commit_sha": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
-    "commit_date": "2026-08-01",
-    "commit_message": "terraview: Update resource filtering and testing capabilities",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 1,
-    "forks": 0,
-    "watchers": 1,
-    "ci_cd_status": "pass",
-    "languages": [
-      "TypeScript",
-      "Go",
-      "CSS",
-      "Dockerfile",
-      "Makefile"
-    ],
-    "license": "Apache License 2.0",
-    "topics": [],
-    "raw_updated_at": "2026-10-24T18:19:11Z"
   },
   {
     "repo": "reposage",
