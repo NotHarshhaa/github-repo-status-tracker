@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5418,
-    "forks": 4892,
+    "forks": 4894,
     "issues": 30,
     "lastUpdated": "2026-10-27T12:44:12Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1286,
+    "stars": 1288,
     "forks": 934,
     "issues": 4,
-    "lastUpdated": "2026-10-27T17:19:38Z",
+    "lastUpdated": "2026-10-28T10:22:35Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 374,
+    "stars": 375,
     "forks": 274,
     "issues": 3,
-    "lastUpdated": "2026-10-24T20:22:21Z",
+    "lastUpdated": "2026-10-28T10:40:29Z",
     "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 160,
+    "stars": 161,
     "forks": 77,
     "issues": 0,
-    "lastUpdated": "2026-10-27T17:55:57Z",
+    "lastUpdated": "2026-10-28T07:33:03Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -404,10 +404,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 39,
+    "stars": 41,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-10-27T20:39:24Z",
+    "lastUpdated": "2026-10-28T11:49:26Z",
     "lastCommit": "08e605c0e52ea088970ca904d8d293b76d0a028c"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-27T21:57:46Z",
-    "lastCommit": "d57fe825d4bd634768f0a3f24cfcfa59c7aeedb2"
+    "lastUpdated": "2026-10-28T04:48:09Z",
+    "lastCommit": "6199bfbe2600718cfc31cb189b5f7dd2024d08f0"
   },
   {
     "title": "Devops project templates",
@@ -1302,8 +1302,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-27T21:31:18Z",
-    "lastCommit": "6fecb5d87c151bd94c47b34e02e2d51c6628686f"
+    "lastUpdated": "2026-10-28T07:37:49Z",
+    "lastCommit": "1606a2d459be4883da97d4e416a5003a25000028"
   },
   {
     "title": "Internal developer platform cli",

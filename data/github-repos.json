@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5418,
-    "forks": 4892,
+    "forks": 4894,
     "watchers": 5418,
     "ci_cd_status": "none",
     "languages": [
@@ -49,16 +49,16 @@
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1286,
+    "stars": 1288,
     "forks": 934,
-    "watchers": 1286,
+    "watchers": 1288,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-27T17:19:38Z"
+    "raw_updated_at": "2026-10-28T10:22:35Z"
   },
   {
     "repo": "into-the-devops",
@@ -185,16 +185,16 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
     "commit_date": "2026-08-30",
     "commit_message": "DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLab CI, and Jenkins",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 374,
+    "stars": 375,
     "forks": 274,
-    "watchers": 374,
+    "watchers": 375,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -218,7 +218,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-24T20:22:21Z"
+    "raw_updated_at": "2026-10-28T10:40:29Z"
   },
   {
     "repo": "devops-tools",
@@ -350,16 +350,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 160,
+    "stars": 161,
     "forks": 77,
-    "watchers": 160,
+    "watchers": 161,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -379,7 +379,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-10-27T17:55:57Z"
+    "raw_updated_at": "2026-10-28T07:33:03Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -607,21 +607,21 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-28",
     "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/08e605c0e52ea088970ca904d8d293b76d0a028c",
     "commit_sha": "08e605c0e52ea088970ca904d8d293b76d0a028c",
     "commit_date": "2026-10-27",
     "commit_message": "ai-platform-handbook: Revise Week 16 content on AI Product Development, Building Enterprise AI Applications, and Production Deployment & Scaling",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 39,
+    "stars": 41,
     "forks": 17,
-    "watchers": 39,
+    "watchers": 41,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-27T20:39:24Z"
+    "raw_updated_at": "2026-10-28T11:49:26Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -981,10 +981,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/d57fe825d4bd634768f0a3f24cfcfa59c7aeedb2",
-    "commit_sha": "d57fe825d4bd634768f0a3f24cfcfa59c7aeedb2",
-    "commit_date": "2026-10-27",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/6199bfbe2600718cfc31cb189b5f7dd2024d08f0",
+    "commit_sha": "6199bfbe2600718cfc31cb189b5f7dd2024d08f0",
+    "commit_date": "2026-10-28",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-27T21:57:46Z"
+    "raw_updated_at": "2026-10-28T04:48:09Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1919,11 +1919,11 @@
     "repo": "personal-blog",
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
-    "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/6fecb5d87c151bd94c47b34e02e2d51c6628686f",
-    "commit_sha": "6fecb5d87c151bd94c47b34e02e2d51c6628686f",
-    "commit_date": "2026-10-27",
-    "commit_message": "blog: refactor(admin, bookmarks, settings): replace FrameHeader with StripHeader for improved layout",
+    "last_updated": "2026-10-28",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/1606a2d459be4883da97d4e416a5003a25000028",
+    "commit_sha": "1606a2d459be4883da97d4e416a5003a25000028",
+    "commit_date": "2026-10-28",
+    "commit_message": "blog: refactor(hacktron-hero): integrate StripHeader and enhance layout",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -1945,7 +1945,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-27T21:31:18Z"
+    "raw_updated_at": "2026-10-28T07:37:49Z"
   },
   {
     "repo": "internal-developer-platform-cli",
