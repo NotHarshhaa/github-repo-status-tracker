@@ -1,27 +1,27 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-29%2012%3A33:56.026 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-29%2022%3A35:13.574 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,301** combined stars
+**87** repositories tracked · **11,303** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,301** stars · **9,287** forks · **74** open issues
+> **87** repositories · **11,303** stars · **9,289** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,424 | 4,895 | 30 | — | 2026-10-29 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,290 | 936 | 4 | — | 2026-10-29 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,427 | 4,895 | 30 | — | 2026-10-29 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,289 | 938 | 4 | — | 2026-10-29 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 921 | 543 | 0 | — | 2026-10-27 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 649 | 236 | 4 | — | 2026-10-29 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 535 | 404 | 1 | — | 2026-10-27 |
-| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 375 | 274 | 3 | — | 2026-10-28 |
+| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 375 | 274 | 3 | — | 2026-10-29 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 244 | 164 | 5 | — | 2026-10-27 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 210 | 213 | 0 | — | 2026-10-28 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 197 | 210 | 0 | — | 2026-10-17 |
@@ -44,13 +44,13 @@ Updates automatically every 6 hours via GitHub Actions.
 | 26 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 26 | 1 | — | 2026-06-04 |
 | 27 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 17 | 87 | 2 | — | 2026-09-04 |
 | 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 14 | 38 | 1 | — | 2026-09-04 |
-| 29 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 14 | 12 | 0 | — | 2026-10-28 |
+| 29 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 14 | 12 | 0 | — | 2026-10-29 |
 | 30 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 31 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 13 | 19 | 0 | — | 2026-10-29 |
 | 32 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 12 | 5 | 0 | Fail | 2026-08-27 |
 | 33 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 12 | 6 | 0 | Pass | 2026-10-28 |
 | 34 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 24 | 0 | — | 2026-06-11 |
-| 35 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-10-15 |
+| 35 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-10-29 |
 | 36 | [Jenkins-Terraform-AWS-Infra](https://github.com/NotHarshhaa/Jenkins-Terraform-AWS-Infra) | 10 | 26 | 0 | — | 2026-04-26 |
 | 37 | [azure-devops-zero-to-hero](https://github.com/NotHarshhaa/azure-devops-zero-to-hero) | 9 | 11 | 0 | — | 2026-10-28 |
 | 38 | [aws-infra-generator](https://github.com/NotHarshhaa/aws-infra-generator) | 8 | 5 | 0 | — | 2026-10-28 |
@@ -63,11 +63,11 @@ Updates automatically every 6 hours via GitHub Actions.
 | 45 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 6 | 9 | 0 | — | 2026-09-07 |
 | 46 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-10-21 |
 | 47 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
-| 48 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 6 | 7 | 0 | — | 2026-10-14 |
+| 48 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 6 | 7 | 0 | — | 2026-10-29 |
 | 49 | [prodevopsguy.xyz](https://github.com/NotHarshhaa/prodevopsguy.xyz) | 5 | 2 | 1 | — | 2025-02-22 |
 | 50 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
 | 51 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
-| 52 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-06-30 |
+| 52 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-10-29 |
 | 53 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 4 | 4 | 0 | — | 2026-10-28 |
 | 54 | [cloud-billing-automation](https://github.com/NotHarshhaa/cloud-billing-automation) | 4 | 7 | 0 | Fail | 2026-10-28 |
 | 55 | [ai-question-paper-generator](https://github.com/NotHarshhaa/ai-question-paper-generator) | 4 | 1 | 0 | Pass | 2026-10-21 |
@@ -80,7 +80,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 62 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-09-14 |
 | 63 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 3 | 0 | 0 | Pass | 2026-10-19 |
 | 64 | [devops-agent-kit](https://github.com/NotHarshhaa/devops-agent-kit) | 3 | 0 | 0 | — | 2026-10-28 |
-| 65 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-10-28 |
+| 65 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-10-29 |
 | 66 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 2 | 2 | 0 | — | 2026-08-28 |
 | 67 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 2 | 0 | 0 | — | 2026-07-06 |
 | 68 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 2 | 0 | 0 | Pass | 2026-08-27 |
@@ -112,7 +112,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,424
+  &nbsp;·&nbsp; ⭐ 5,427
   &nbsp;·&nbsp; 🍴 4,895
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
@@ -140,8 +140,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,290
-  &nbsp;·&nbsp; 🍴 936
+  &nbsp;·&nbsp; ⭐ 1,289
+  &nbsp;·&nbsp; 🍴 938
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
 </summary>
@@ -266,12 +266,12 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLa...](https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66) |
-| **Commit date** | `2026-08-30` |
+| **Latest commit** | [DevOps-Cheatsheet: chore: Remove obsolete configuration and assets](https://github.com/NotHarshhaa/devops-cheatsheet/commit/e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0) |
+| **Commit date** | `2026-10-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-28` |
+| **Repo updated** | `2026-10-29` |
 | **License** | `GNU General Public License v2.0` |
-| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
+| **Languages** | _None detected_ |
 | **Topics** | `automation` · `aws` · `azure` · `cheatsheet` · `cicd` · `cloud` |
 
 </details>
@@ -910,10 +910,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [cv: feat: add views tracking and enhance page layout with new components](https://github.com/NotHarshhaa/cv-portfolio/commit/eacb3e89619766b51edd7794551d5d9dde39f472) |
-| **Commit date** | `2026-09-30` |
+| **Latest commit** | [cv: feat: implement Portfolio AI Agent with enhanced chat functionality](https://github.com/NotHarshhaa/cv-portfolio/commit/1b453975176b5d48a1d1fb9a50b5bfbd039bd718) |
+| **Commit date** | `2026-10-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-28` |
+| **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `cv` · `javascript` · `nextjs` · `personal-cv` · `tailwindcss` · `typescript` |
@@ -966,7 +966,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c26be5a56d447c5d2b769de0abf264675c61526a) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/46fa71443d61f88aa9a72c7be4739143af7f7260) |
 | **Commit date** | `2026-10-29` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-29` |
@@ -1078,10 +1078,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [link: feat: add animated components and marquee functionality](https://github.com/NotHarshhaa/links-portfolio/commit/415b8ff86a36d7cb92f9b4b149fafc3060ee36cf) |
-| **Commit date** | `2026-10-15` |
+| **Latest commit** | [link: feat: enhance HomePage and CommandPalette with new features and components](https://github.com/NotHarshhaa/links-portfolio/commit/83ec4bac229581657090f3ed9961ebe63dafdf97) |
+| **Commit date** | `2026-10-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-15` |
+| **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `css` · `javascript` · `links` · `nextjs` · `personal-site` · `personal-website` |
@@ -1442,10 +1442,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [portfolio: style: update global selection styles and avatar component](https://github.com/NotHarshhaa/personal-portfolio/commit/9caae0b4cdca0fb24f4930bb7b6344ba4cd240e0) |
-| **Commit date** | `2026-10-14` |
+| **Latest commit** | [portfolio: feat: enhance Footer and Header components with new features and styling](https://github.com/NotHarshhaa/personal-portfolio/commit/eb358704d6215aaa7e12dfb581ca9f3803977016) |
+| **Commit date** | `2026-10-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-14` |
+| **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `css` · `javascript` · `nodejs` · `tailwindcss` · `typescript` |
@@ -1554,12 +1554,12 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [Initial commit](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/bbbbbb4721e7e3dbe971bd03edad3aaf7455369f) |
-| **Commit date** | `2025-12-08` |
-| **Author** | `H A R S H H A A` |
-| **Repo updated** | `2026-06-30` |
+| **Latest commit** | [feat: Implement Cyber HUD design overhaul and enhance UI components](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/18e3a23e9951dd0a33b2def42a77dc17f5951a0f) |
+| **Commit date** | `2026-10-29` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |
-| **Languages** | _None detected_ |
+| **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | _None_ |
 
 </details>
@@ -1918,10 +1918,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [blog: refactor(hacktron-hero): integrate StripHeader and enhance layout](https://github.com/NotHarshhaa/personal-blog/commit/1606a2d459be4883da97d4e416a5003a25000028) |
-| **Commit date** | `2026-10-28` |
+| **Latest commit** | [blog: feat(audio-dispatch-player): enhance voice selection and preferences for speech s...](https://github.com/NotHarshhaa/personal-blog/commit/f3f3b793f951fd9fb1d5536f1c3be258a3a0619a) |
+| **Commit date** | `2026-10-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-28` |
+| **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `blog` · `devops-blogs` · `javascript` · `nextjs` · `personal-blog` · `tailwindcss` |

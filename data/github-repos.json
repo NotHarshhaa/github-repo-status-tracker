@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5424,
+    "stars": 5427,
     "forks": 4895,
-    "watchers": 5424,
+    "watchers": 5427,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-29T10:18:40Z"
+    "raw_updated_at": "2026-10-29T22:19:20Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1290,
-    "forks": 936,
-    "watchers": 1290,
+    "stars": 1289,
+    "forks": 938,
+    "watchers": 1289,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-29T08:29:42Z"
+    "raw_updated_at": "2026-10-29T18:25:02Z"
   },
   {
     "repo": "into-the-devops",
@@ -185,22 +185,18 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/7b41362c58712bb1b094d8175444b39bf84ade66",
-    "commit_sha": "7b41362c58712bb1b094d8175444b39bf84ade66",
-    "commit_date": "2026-08-30",
-    "commit_message": "DevOps-Cheatsheet: feat: Revise CI/CD documentation for CircleCI, GitHub Actions, GitLab CI, and Jenkins",
+    "last_updated": "2026-10-29",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
+    "commit_sha": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
+    "commit_date": "2026-10-29",
+    "commit_message": "DevOps-Cheatsheet: chore: Remove obsolete configuration and assets",
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 375,
     "forks": 274,
     "watchers": 375,
     "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
+    "languages": [],
     "license": "GNU General Public License v2.0",
     "topics": [
       "automation",
@@ -218,7 +214,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-28T10:40:29Z"
+    "raw_updated_at": "2026-10-29T19:17:25Z"
   },
   {
     "repo": "devops-tools",
@@ -927,11 +923,11 @@
     "repo": "cv-portfolio",
     "url": "https://github.com/NotHarshhaa/cv-portfolio",
     "description": "A modern, responsive, and print-ready CV portfolio showcasing hands-on expertise across Platform Engineering, DevOps, AI Infrastructure, GenAI, AI Agents, MCP, LLMOps, and AI Product Development.",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/cv-portfolio/commit/eacb3e89619766b51edd7794551d5d9dde39f472",
-    "commit_sha": "eacb3e89619766b51edd7794551d5d9dde39f472",
-    "commit_date": "2026-09-30",
-    "commit_message": "cv: feat: add views tracking and enhance page layout with new components",
+    "last_updated": "2026-10-29",
+    "latest_commit": "https://github.com/NotHarshhaa/cv-portfolio/commit/1b453975176b5d48a1d1fb9a50b5bfbd039bd718",
+    "commit_sha": "1b453975176b5d48a1d1fb9a50b5bfbd039bd718",
+    "commit_date": "2026-10-29",
+    "commit_message": "cv: feat: implement Portfolio AI Agent with enhanced chat functionality",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 14,
@@ -953,7 +949,7 @@
       "typescript",
       "vercel"
     ],
-    "raw_updated_at": "2026-10-28T19:21:56Z"
+    "raw_updated_at": "2026-10-29T16:04:36Z"
   },
   {
     "repo": "awesome-devops-cloud",
@@ -982,8 +978,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-29",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c26be5a56d447c5d2b769de0abf264675c61526a",
-    "commit_sha": "c26be5a56d447c5d2b769de0abf264675c61526a",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/46fa71443d61f88aa9a72c7be4739143af7f7260",
+    "commit_sha": "46fa71443d61f88aa9a72c7be4739143af7f7260",
     "commit_date": "2026-10-29",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-29T04:59:02Z"
+    "raw_updated_at": "2026-10-29T12:34:02Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1094,11 +1090,11 @@
     "repo": "links-portfolio",
     "url": "https://github.com/NotHarshhaa/links-portfolio",
     "description": "✨ Links to my social media.",
-    "last_updated": "2026-10-15",
-    "latest_commit": "https://github.com/NotHarshhaa/links-portfolio/commit/415b8ff86a36d7cb92f9b4b149fafc3060ee36cf",
-    "commit_sha": "415b8ff86a36d7cb92f9b4b149fafc3060ee36cf",
-    "commit_date": "2026-10-15",
-    "commit_message": "link: feat: add animated components and marquee functionality",
+    "last_updated": "2026-10-29",
+    "latest_commit": "https://github.com/NotHarshhaa/links-portfolio/commit/83ec4bac229581657090f3ed9961ebe63dafdf97",
+    "commit_sha": "83ec4bac229581657090f3ed9961ebe63dafdf97",
+    "commit_date": "2026-10-29",
+    "commit_message": "link: feat: enhance HomePage and CommandPalette with new features and components",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 11,
@@ -1120,7 +1116,7 @@
       "personal-website",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-15T18:19:04Z"
+    "raw_updated_at": "2026-10-29T15:09:26Z"
   },
   {
     "repo": "Jenkins-Terraform-AWS-Infra",
@@ -1486,11 +1482,11 @@
     "repo": "personal-portfolio",
     "url": "https://github.com/NotHarshhaa/personal-portfolio",
     "description": "✨ My personal portfolio showcasing my work and skills.",
-    "last_updated": "2026-10-14",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-portfolio/commit/9caae0b4cdca0fb24f4930bb7b6344ba4cd240e0",
-    "commit_sha": "9caae0b4cdca0fb24f4930bb7b6344ba4cd240e0",
-    "commit_date": "2026-10-14",
-    "commit_message": "portfolio: style: update global selection styles and avatar component",
+    "last_updated": "2026-10-29",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-portfolio/commit/eb358704d6215aaa7e12dfb581ca9f3803977016",
+    "commit_sha": "eb358704d6215aaa7e12dfb581ca9f3803977016",
+    "commit_date": "2026-10-29",
+    "commit_message": "portfolio: feat: enhance Footer and Header components with new features and styling",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 6,
@@ -1510,7 +1506,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-14T18:24:39Z"
+    "raw_updated_at": "2026-10-29T13:13:47Z"
   },
   {
     "repo": "prodevopsguy.xyz",
@@ -1599,21 +1595,25 @@
     "repo": "cheatsheet.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com",
     "description": "Welcome to the DevOps Tools Cheatsheet Collection (UI-BASED) – your go-to resource for mastering DevOps tools and technologies!",
-    "last_updated": "2026-06-30",
-    "latest_commit": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/bbbbbb4721e7e3dbe971bd03edad3aaf7455369f",
-    "commit_sha": "bbbbbb4721e7e3dbe971bd03edad3aaf7455369f",
-    "commit_date": "2025-12-08",
-    "commit_message": "Initial commit",
-    "author": "H A R S H H A A",
+    "last_updated": "2026-10-29",
+    "latest_commit": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/18e3a23e9951dd0a33b2def42a77dc17f5951a0f",
+    "commit_sha": "18e3a23e9951dd0a33b2def42a77dc17f5951a0f",
+    "commit_date": "2026-10-29",
+    "commit_message": "feat: Implement Cyber HUD design overhaul and enhance UI components",
+    "author": "NotHarshhaa",
     "issues": 0,
     "stars": 4,
     "forks": 0,
     "watchers": 4,
     "ci_cd_status": "none",
-    "languages": [],
+    "languages": [
+      "TypeScript",
+      "CSS",
+      "JavaScript"
+    ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-06-30T23:07:05Z"
+    "raw_updated_at": "2026-10-29T20:47:16Z"
   },
   {
     "repo": "terraform-cost-predictor",
@@ -1943,11 +1943,11 @@
     "repo": "personal-blog",
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/1606a2d459be4883da97d4e416a5003a25000028",
-    "commit_sha": "1606a2d459be4883da97d4e416a5003a25000028",
-    "commit_date": "2026-10-28",
-    "commit_message": "blog: refactor(hacktron-hero): integrate StripHeader and enhance layout",
+    "last_updated": "2026-10-29",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/f3f3b793f951fd9fb1d5536f1c3be258a3a0619a",
+    "commit_sha": "f3f3b793f951fd9fb1d5536f1c3be258a3a0619a",
+    "commit_date": "2026-10-29",
+    "commit_message": "blog: feat(audio-dispatch-player): enhance voice selection and preferences for speech synthesis",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
@@ -1969,7 +1969,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-28T07:37:49Z"
+    "raw_updated_at": "2026-10-29T17:47:46Z"
   },
   {
     "repo": "internal-developer-platform-cli",

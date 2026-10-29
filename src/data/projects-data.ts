@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5424,
+    "stars": 5427,
     "forks": 4895,
     "issues": 30,
-    "lastUpdated": "2026-10-29T10:18:40Z",
+    "lastUpdated": "2026-10-29T22:19:20Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1290,
-    "forks": 936,
+    "stars": 1289,
+    "forks": 938,
     "issues": 4,
-    "lastUpdated": "2026-10-29T08:29:42Z",
+    "lastUpdated": "2026-10-29T18:25:02Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -141,8 +141,8 @@ export const PROJECTS: Project[] = [
     "stars": 375,
     "forks": 274,
     "issues": 3,
-    "lastUpdated": "2026-10-28T10:40:29Z",
-    "lastCommit": "7b41362c58712bb1b094d8175444b39bf84ade66"
+    "lastUpdated": "2026-10-29T19:17:25Z",
+    "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
   },
   {
     "title": "Devops tools",
@@ -616,8 +616,8 @@ export const PROJECTS: Project[] = [
     "stars": 14,
     "forks": 12,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:21:56Z",
-    "lastCommit": "eacb3e89619766b51edd7794551d5d9dde39f472"
+    "lastUpdated": "2026-10-29T16:04:36Z",
+    "lastCommit": "1b453975176b5d48a1d1fb9a50b5bfbd039bd718"
   },
   {
     "title": "Awesome devops cloud",
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-29T04:59:02Z",
-    "lastCommit": "c26be5a56d447c5d2b769de0abf264675c61526a"
+    "lastUpdated": "2026-10-29T12:34:02Z",
+    "lastCommit": "46fa71443d61f88aa9a72c7be4739143af7f7260"
   },
   {
     "title": "Devops project templates",
@@ -735,8 +735,8 @@ export const PROJECTS: Project[] = [
     "stars": 11,
     "forks": 9,
     "issues": 0,
-    "lastUpdated": "2026-10-15T18:19:04Z",
-    "lastCommit": "415b8ff86a36d7cb92f9b4b149fafc3060ee36cf"
+    "lastUpdated": "2026-10-29T15:09:26Z",
+    "lastCommit": "83ec4bac229581657090f3ed9961ebe63dafdf97"
   },
   {
     "title": "Jenkins  Terraform  A W S  Infra",
@@ -998,8 +998,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-10-14T18:24:39Z",
-    "lastCommit": "9caae0b4cdca0fb24f4930bb7b6344ba4cd240e0"
+    "lastUpdated": "2026-10-29T13:13:47Z",
+    "lastCommit": "eb358704d6215aaa7e12dfb581ca9f3803977016"
   },
   {
     "title": "Prodevopsguy.xyz",
@@ -1063,7 +1063,11 @@ export const PROJECTS: Project[] = [
   },
   {
     "title": "Cheatsheet.prodevopsguytech.com",
-    "techStack": [],
+    "techStack": [
+      "TypeScript",
+      "CSS",
+      "JavaScript"
+    ],
     "description": "Welcome to the DevOps Tools Cheatsheet Collection (UI-BASED) – your go-to resource for mastering DevOps tools and technologies!",
     "link": {
       "label": "github.com/cheatsheet.prodevopsguytech.com",
@@ -1072,8 +1076,8 @@ export const PROJECTS: Project[] = [
     "stars": 4,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-06-30T23:07:05Z",
-    "lastCommit": "bbbbbb4721e7e3dbe971bd03edad3aaf7455369f"
+    "lastUpdated": "2026-10-29T20:47:16Z",
+    "lastCommit": "18e3a23e9951dd0a33b2def42a77dc17f5951a0f"
   },
   {
     "title": "Terraform cost predictor",
@@ -1320,8 +1324,8 @@ export const PROJECTS: Project[] = [
     "stars": 2,
     "forks": 4,
     "issues": 0,
-    "lastUpdated": "2026-10-28T07:37:49Z",
-    "lastCommit": "1606a2d459be4883da97d4e416a5003a25000028"
+    "lastUpdated": "2026-10-29T17:47:46Z",
+    "lastCommit": "f3f3b793f951fd9fb1d5536f1c3be258a3a0619a"
   },
   {
     "title": "Internal developer platform cli",
