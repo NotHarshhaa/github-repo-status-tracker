@@ -36,7 +36,7 @@ export const PROJECTS: Project[] = [
     "stars": 5421,
     "forks": 4895,
     "issues": 30,
-    "lastUpdated": "2026-10-28T17:59:21Z",
+    "lastUpdated": "2026-10-29T00:23:04Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-28T12:24:21Z",
-    "lastCommit": "97f31f0414fd2b4f35ee8d32b6b5b64f70def7ac"
+    "lastUpdated": "2026-10-28T22:22:04Z",
+    "lastCommit": "1132b6777edfbdbd8b387644fd8d14ac43244aaf"
   },
   {
     "title": "Devops project templates",

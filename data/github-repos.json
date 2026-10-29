@@ -3,7 +3,7 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-28",
+    "last_updated": "2026-10-29",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-28T17:59:21Z"
+    "raw_updated_at": "2026-10-29T00:23:04Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -982,8 +982,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/97f31f0414fd2b4f35ee8d32b6b5b64f70def7ac",
-    "commit_sha": "97f31f0414fd2b4f35ee8d32b6b5b64f70def7ac",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/1132b6777edfbdbd8b387644fd8d14ac43244aaf",
+    "commit_sha": "1132b6777edfbdbd8b387644fd8d14ac43244aaf",
     "commit_date": "2026-10-28",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1001,7 +1001,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-28T12:24:21Z"
+    "raw_updated_at": "2026-10-28T22:22:04Z"
   },
   {
     "repo": "devops-project-templates",
