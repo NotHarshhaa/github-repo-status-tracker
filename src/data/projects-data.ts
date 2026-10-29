@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5421,
+    "stars": 5424,
     "forks": 4895,
     "issues": 30,
-    "lastUpdated": "2026-10-29T00:23:04Z",
+    "lastUpdated": "2026-10-29T10:18:40Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,9 +55,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1290,
-    "forks": 935,
+    "forks": 936,
     "issues": 4,
-    "lastUpdated": "2026-10-28T19:22:30Z",
+    "lastUpdated": "2026-10-29T08:29:42Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 648,
+    "stars": 649,
     "forks": 236,
     "issues": 4,
-    "lastUpdated": "2026-10-26T23:30:09Z",
+    "lastUpdated": "2026-10-29T11:59:48Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 162,
+    "stars": 163,
     "forks": 77,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:03Z",
+    "lastUpdated": "2026-10-29T11:13:15Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -286,7 +286,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
     "stars": 116,
-    "forks": 53,
+    "forks": 54,
     "issues": 0,
     "lastUpdated": "2026-10-23T12:07:40Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-28T22:22:04Z",
-    "lastCommit": "1132b6777edfbdbd8b387644fd8d14ac43244aaf"
+    "lastUpdated": "2026-10-29T04:59:02Z",
+    "lastCommit": "c26be5a56d447c5d2b769de0abf264675c61526a"
   },
   {
     "title": "Devops project templates",
