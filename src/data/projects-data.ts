@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5427,
-    "forks": 4895,
+    "stars": 5428,
+    "forks": 4896,
     "issues": 30,
-    "lastUpdated": "2026-10-29T22:47:20Z",
+    "lastUpdated": "2026-10-30T05:37:27Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -118,7 +118,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 535,
-    "forks": 404,
+    "forks": 405,
     "issues": 1,
     "lastUpdated": "2026-10-27T13:54:43Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 116,
+    "stars": 117,
     "forks": 54,
     "issues": 0,
-    "lastUpdated": "2026-10-23T12:07:40Z",
+    "lastUpdated": "2026-10-30T10:08:01Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-29T22:35:20Z",
-    "lastCommit": "419a1805f3b3f614fc929c95179ac8a53c07d66c"
+    "lastUpdated": "2026-10-30T04:59:06Z",
+    "lastCommit": "4f946cdc184f76563cd74e67ef2643ca68e688ac"
   },
   {
     "title": "Devops project templates",
@@ -1064,6 +1064,7 @@ export const PROJECTS: Project[] = [
   {
     "title": "Cheatsheet.prodevopsguytech.com",
     "techStack": [
+      "MDX",
       "TypeScript",
       "CSS",
       "JavaScript"
@@ -1076,8 +1077,8 @@ export const PROJECTS: Project[] = [
     "stars": 4,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-29T20:47:16Z",
-    "lastCommit": "18e3a23e9951dd0a33b2def42a77dc17f5951a0f"
+    "lastUpdated": "2026-10-30T12:10:24Z",
+    "lastCommit": "3519cdd9f8c3d0fa7b24d59c73a08e0ee6a401d5"
   },
   {
     "title": "Terraform cost predictor",

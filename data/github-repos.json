@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-29",
+    "last_updated": "2026-10-30",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5427,
-    "forks": 4895,
-    "watchers": 5427,
+    "stars": 5428,
+    "forks": 4896,
+    "watchers": 5428,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-29T22:47:20Z"
+    "raw_updated_at": "2026-10-30T05:37:27Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 535,
-    "forks": 404,
+    "forks": 405,
     "watchers": 535,
     "ci_cd_status": "none",
     "languages": [],
@@ -416,16 +416,16 @@
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
     "description": "A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience, build your portfolio, and prepare for certifications.",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-30",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_sha": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_date": "2025-11-11",
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 116,
+    "stars": 117,
     "forks": 54,
-    "watchers": 116,
+    "watchers": 117,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-10-23T12:07:40Z"
+    "raw_updated_at": "2026-10-30T10:08:01Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -977,10 +977,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-29",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/419a1805f3b3f614fc929c95179ac8a53c07d66c",
-    "commit_sha": "419a1805f3b3f614fc929c95179ac8a53c07d66c",
-    "commit_date": "2026-10-29",
+    "last_updated": "2026-10-30",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4f946cdc184f76563cd74e67ef2643ca68e688ac",
+    "commit_sha": "4f946cdc184f76563cd74e67ef2643ca68e688ac",
+    "commit_date": "2026-10-30",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-29T22:35:20Z"
+    "raw_updated_at": "2026-10-30T04:59:06Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1595,11 +1595,11 @@
     "repo": "cheatsheet.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com",
     "description": "Welcome to the DevOps Tools Cheatsheet Collection (UI-BASED) – your go-to resource for mastering DevOps tools and technologies!",
-    "last_updated": "2026-10-29",
-    "latest_commit": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/18e3a23e9951dd0a33b2def42a77dc17f5951a0f",
-    "commit_sha": "18e3a23e9951dd0a33b2def42a77dc17f5951a0f",
-    "commit_date": "2026-10-29",
-    "commit_message": "feat: Implement Cyber HUD design overhaul and enhance UI components",
+    "last_updated": "2026-10-30",
+    "latest_commit": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/3519cdd9f8c3d0fa7b24d59c73a08e0ee6a401d5",
+    "commit_sha": "3519cdd9f8c3d0fa7b24d59c73a08e0ee6a401d5",
+    "commit_date": "2026-10-30",
+    "commit_message": "feat: Revamp About Page with enhanced content and layout",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 4,
@@ -1607,13 +1607,14 @@
     "watchers": 4,
     "ci_cd_status": "none",
     "languages": [
+      "MDX",
       "TypeScript",
       "CSS",
       "JavaScript"
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-29T20:47:16Z"
+    "raw_updated_at": "2026-10-30T12:10:24Z"
   },
   {
     "repo": "terraform-cost-predictor",
