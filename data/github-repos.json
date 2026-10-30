@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5428,
+    "stars": 5430,
     "forks": 4896,
-    "watchers": 5428,
+    "watchers": 5430,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-30T05:37:27Z"
+    "raw_updated_at": "2026-10-30T16:06:16Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-29",
+    "last_updated": "2026-10-30",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1289,
+    "stars": 1291,
     "forks": 938,
-    "watchers": 1289,
+    "watchers": 1291,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-29T18:25:02Z"
+    "raw_updated_at": "2026-10-30T19:43:48Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-30",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 921,
+    "stars": 922,
     "forks": 543,
-    "watchers": 921,
+    "watchers": 922,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-27T22:53:26Z"
+    "raw_updated_at": "2026-10-30T16:06:16Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -155,16 +155,16 @@
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-30",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_sha": "dee8ff4607954972994dedc5689390ffd8ad01b7",
     "commit_date": "2025-06-17",
     "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 535,
+    "stars": 536,
     "forks": 405,
-    "watchers": 535,
+    "watchers": 536,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-27T13:54:43Z"
+    "raw_updated_at": "2026-10-30T19:10:05Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -978,8 +978,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-30",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4f946cdc184f76563cd74e67ef2643ca68e688ac",
-    "commit_sha": "4f946cdc184f76563cd74e67ef2643ca68e688ac",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/754f1f342d9254300674d652fc79da50adc63899",
+    "commit_sha": "754f1f342d9254300674d652fc79da50adc63899",
     "commit_date": "2026-10-30",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-30T04:59:06Z"
+    "raw_updated_at": "2026-10-30T12:25:01Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1596,10 +1596,10 @@
     "url": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com",
     "description": "Welcome to the DevOps Tools Cheatsheet Collection (UI-BASED) – your go-to resource for mastering DevOps tools and technologies!",
     "last_updated": "2026-10-30",
-    "latest_commit": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/3519cdd9f8c3d0fa7b24d59c73a08e0ee6a401d5",
-    "commit_sha": "3519cdd9f8c3d0fa7b24d59c73a08e0ee6a401d5",
+    "latest_commit": "https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/846e39430f2e48d3508c861a3f30b1eff3f7c3f0",
+    "commit_sha": "846e39430f2e48d3508c861a3f30b1eff3f7c3f0",
     "commit_date": "2026-10-30",
-    "commit_message": "feat: Revamp About Page with enhanced content and layout",
+    "commit_message": "fix(fonts): remove Space_Grotesk from next/font/google to resolve Turbopack build failure",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 4,
@@ -1614,7 +1614,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-30T12:10:24Z"
+    "raw_updated_at": "2026-10-30T12:37:23Z"
   },
   {
     "repo": "terraform-cost-predictor",

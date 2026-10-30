@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5428,
+    "stars": 5430,
     "forks": 4896,
     "issues": 30,
-    "lastUpdated": "2026-10-30T05:37:27Z",
+    "lastUpdated": "2026-10-30T16:06:16Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1289,
+    "stars": 1291,
     "forks": 938,
     "issues": 4,
-    "lastUpdated": "2026-10-29T18:25:02Z",
+    "lastUpdated": "2026-10-30T19:43:48Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 921,
+    "stars": 922,
     "forks": 543,
     "issues": 0,
-    "lastUpdated": "2026-10-27T22:53:26Z",
+    "lastUpdated": "2026-10-30T16:06:16Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 535,
+    "stars": 536,
     "forks": 405,
     "issues": 1,
-    "lastUpdated": "2026-10-27T13:54:43Z",
+    "lastUpdated": "2026-10-30T19:10:05Z",
     "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-30T04:59:06Z",
-    "lastCommit": "4f946cdc184f76563cd74e67ef2643ca68e688ac"
+    "lastUpdated": "2026-10-30T12:25:01Z",
+    "lastCommit": "754f1f342d9254300674d652fc79da50adc63899"
   },
   {
     "title": "Devops project templates",
@@ -1077,8 +1077,8 @@ export const PROJECTS: Project[] = [
     "stars": 4,
     "forks": 0,
     "issues": 0,
-    "lastUpdated": "2026-10-30T12:10:24Z",
-    "lastCommit": "3519cdd9f8c3d0fa7b24d59c73a08e0ee6a401d5"
+    "lastUpdated": "2026-10-30T12:37:23Z",
+    "lastCommit": "846e39430f2e48d3508c861a3f30b1eff3f7c3f0"
   },
   {
     "title": "Terraform cost predictor",

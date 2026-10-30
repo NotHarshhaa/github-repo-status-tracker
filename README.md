@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-30%2012%3A24:55.682 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-30%2022%3A04:10.435 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,305** combined stars
+**87** repositories tracked · **11,311** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,305** stars · **9,291** forks · **74** open issues
+> **87** repositories · **11,311** stars · **9,291** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,428 | 4,896 | 30 | — | 2026-10-30 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,289 | 938 | 4 | — | 2026-10-29 |
-| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 921 | 543 | 0 | — | 2026-10-27 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,430 | 4,896 | 30 | — | 2026-10-30 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,291 | 938 | 4 | — | 2026-10-30 |
+| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 922 | 543 | 0 | — | 2026-10-30 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 649 | 236 | 4 | — | 2026-10-29 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 535 | 405 | 1 | — | 2026-10-27 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 536 | 405 | 1 | — | 2026-10-30 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 375 | 274 | 3 | — | 2026-10-29 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 244 | 164 | 5 | — | 2026-10-27 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 210 | 213 | 0 | — | 2026-10-28 |
@@ -112,7 +112,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,428
+  &nbsp;·&nbsp; ⭐ 5,430
   &nbsp;·&nbsp; 🍴 4,896
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
@@ -140,7 +140,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,289
+  &nbsp;·&nbsp; ⭐ 1,291
   &nbsp;·&nbsp; 🍴 938
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
@@ -157,7 +157,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity...](https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993) |
 | **Commit date** | `2026-08-28` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-29` |
+| **Repo updated** | `2026-10-30` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `aws-interview-questions` · `azure-interview-questions` · `cicd` · `cloud-computing` · `devops` · `devops-interview-questions` |
@@ -168,7 +168,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/into-the-devops">into-the-devops</a></strong>
-  &nbsp;·&nbsp; ⭐ 921
+  &nbsp;·&nbsp; ⭐ 922
   &nbsp;·&nbsp; 🍴 543
   &nbsp;·&nbsp; CI —
   <br><sub>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elasti...</sub>
@@ -185,7 +185,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) |
 | **Commit date** | `2025-06-22` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-27` |
+| **Repo updated** | `2026-10-30` |
 | **License** | `No license` |
 | **Languages** | `Python` · `Shell` · `HCL` |
 | **Topics** | `ansible` · `aws` · `azure` · `coding` · `containers` · `devops` |
@@ -224,7 +224,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 535
+  &nbsp;·&nbsp; ⭐ 536
   &nbsp;·&nbsp; 🍴 405
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
@@ -241,7 +241,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: README: Update README.md to enhance structure and clarity, including a new...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7) |
 | **Commit date** | `2025-06-17` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-27` |
+| **Repo updated** | `2026-10-30` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `devops` · `devopsproject` · `kubernetes` · `kubernetes-cluster` · `kubernetes-deployment` · `kubernetes-learning` |
@@ -966,7 +966,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4f946cdc184f76563cd74e67ef2643ca68e688ac) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/754f1f342d9254300674d652fc79da50adc63899) |
 | **Commit date** | `2026-10-30` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-30` |
@@ -1554,7 +1554,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [feat: Revamp About Page with enhanced content and layout](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/3519cdd9f8c3d0fa7b24d59c73a08e0ee6a401d5) |
+| **Latest commit** | [fix(fonts): remove Space_Grotesk from next/font/google to resolve Turbopack build failure](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com/commit/846e39430f2e48d3508c861a3f30b1eff3f7c3f0) |
 | **Commit date** | `2026-10-30` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-30` |
