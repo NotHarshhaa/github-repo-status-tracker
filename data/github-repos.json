@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5430,
+    "stars": 5431,
     "forks": 4896,
-    "watchers": 5430,
+    "watchers": 5431,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-30T16:06:16Z"
+    "raw_updated_at": "2026-10-30T23:28:22Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -381,16 +381,16 @@
     "repo": "CI-CD_EKS-GitHub_Actions",
     "url": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
     "description": "A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-31",
     "latest_commit": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e",
     "commit_sha": "c83c2739ba8385db73508b7a31852fc7aa64918e",
     "commit_date": "2026-02-14",
     "commit_message": "CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and EKS deployment",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 139,
+    "stars": 140,
     "forks": 119,
-    "watchers": 139,
+    "watchers": 140,
     "ci_cd_status": "fail",
     "languages": [
       "JavaScript",
@@ -410,7 +410,7 @@
       "jenkins",
       "nodejs"
     ],
-    "raw_updated_at": "2026-10-19T04:14:41Z"
+    "raw_updated_at": "2026-10-31T00:25:05Z"
   },
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
@@ -978,8 +978,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-30",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/754f1f342d9254300674d652fc79da50adc63899",
-    "commit_sha": "754f1f342d9254300674d652fc79da50adc63899",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c74bad9f5be9dcb97003deb0fee07225694b72f1",
+    "commit_sha": "c74bad9f5be9dcb97003deb0fee07225694b72f1",
     "commit_date": "2026-10-30",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-30T12:25:01Z"
+    "raw_updated_at": "2026-10-30T22:04:17Z"
   },
   {
     "repo": "devops-project-templates",
