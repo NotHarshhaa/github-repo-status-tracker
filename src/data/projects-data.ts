@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5431,
-    "forks": 4896,
+    "stars": 5433,
+    "forks": 4898,
     "issues": 30,
-    "lastUpdated": "2026-10-30T23:28:22Z",
+    "lastUpdated": "2026-10-31T10:23:05Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1291,
+    "stars": 1293,
     "forks": 938,
     "issues": 4,
-    "lastUpdated": "2026-10-30T19:43:48Z",
+    "lastUpdated": "2026-10-31T08:33:21Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 649,
+    "stars": 650,
     "forks": 236,
     "issues": 4,
-    "lastUpdated": "2026-10-29T11:59:48Z",
+    "lastUpdated": "2026-10-31T11:02:05Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 375,
+    "stars": 376,
     "forks": 274,
     "issues": 3,
-    "lastUpdated": "2026-10-29T19:17:25Z",
+    "lastUpdated": "2026-10-31T06:33:05Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
   },
   {
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 163,
+    "stars": 165,
     "forks": 77,
     "issues": 0,
-    "lastUpdated": "2026-10-29T11:13:15Z",
+    "lastUpdated": "2026-10-31T10:58:30Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 19,
     "issues": 0,
-    "lastUpdated": "2026-10-30T22:04:17Z",
-    "lastCommit": "c74bad9f5be9dcb97003deb0fee07225694b72f1"
+    "lastUpdated": "2026-10-31T04:45:27Z",
+    "lastCommit": "561a5960ab81950aa4d3932123ccc6e976908ac4"
   },
   {
     "title": "Devops project templates",
@@ -998,8 +998,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-10-29T13:13:47Z",
-    "lastCommit": "eb358704d6215aaa7e12dfb581ca9f3803977016"
+    "lastUpdated": "2026-10-31T07:38:56Z",
+    "lastCommit": "d560ee8c184092b7d5d360f6b60f5701892b4715"
   },
   {
     "title": "Prodevopsguy.xyz",
