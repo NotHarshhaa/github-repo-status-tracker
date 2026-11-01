@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5436,
-    "forks": 4903,
-    "watchers": 5436,
+    "stars": 5442,
+    "forks": 4906,
+    "watchers": 5442,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-01T03:31:39Z"
+    "raw_updated_at": "2026-11-01T12:01:24Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1299,
-    "forks": 941,
-    "watchers": 1299,
+    "stars": 1300,
+    "forks": 942,
+    "watchers": 1300,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-01T00:20:16Z"
+    "raw_updated_at": "2026-11-01T07:27:52Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-11-01",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 922,
+    "stars": 923,
     "forks": 543,
-    "watchers": 922,
+    "watchers": 923,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-30T16:06:16Z"
+    "raw_updated_at": "2026-11-01T06:35:57Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -185,16 +185,16 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
     "commit_sha": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
     "commit_date": "2026-10-29",
     "commit_message": "DevOps-Cheatsheet: chore: Remove obsolete configuration and assets",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 376,
+    "stars": 377,
     "forks": 274,
-    "watchers": 376,
+    "watchers": 377,
     "ci_cd_status": "none",
     "languages": [],
     "license": "GNU General Public License v2.0",
@@ -214,7 +214,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-31T06:33:05Z"
+    "raw_updated_at": "2026-11-01T11:14:41Z"
   },
   {
     "repo": "devops-tools",
@@ -423,9 +423,9 @@
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 119,
+    "stars": 120,
     "forks": 54,
-    "watchers": 119,
+    "watchers": 120,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-11-01T04:43:51Z"
+    "raw_updated_at": "2026-11-01T06:07:36Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -977,10 +977,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-10-31",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a6dfaa6485c84607c00e77ea0ad859b28c3cb3f5",
-    "commit_sha": "a6dfaa6485c84607c00e77ea0ad859b28c3cb3f5",
-    "commit_date": "2026-10-31",
+    "last_updated": "2026-11-01",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/598968bcf268134057cb7c827aa0bd5781e4542e",
+    "commit_sha": "598968bcf268134057cb7c827aa0bd5781e4542e",
+    "commit_date": "2026-11-01",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-31T21:13:51Z"
+    "raw_updated_at": "2026-11-01T05:07:51Z"
   },
   {
     "repo": "devops-project-templates",
