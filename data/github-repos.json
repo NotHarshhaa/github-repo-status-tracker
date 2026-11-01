@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5434,
-    "forks": 4901,
-    "watchers": 5434,
+    "stars": 5436,
+    "forks": 4903,
+    "watchers": 5436,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-31T20:03:45Z"
+    "raw_updated_at": "2026-11-01T03:31:39Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1298,
-    "forks": 940,
-    "watchers": 1298,
+    "stars": 1299,
+    "forks": 941,
+    "watchers": 1299,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-10-31T20:13:05Z"
+    "raw_updated_at": "2026-11-01T00:20:16Z"
   },
   {
     "repo": "into-the-devops",
@@ -416,16 +416,16 @@
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
     "description": "A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience, build your portfolio, and prepare for certifications.",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-11-01",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_sha": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_date": "2025-11-11",
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 117,
+    "stars": 119,
     "forks": 54,
-    "watchers": 117,
+    "watchers": 119,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-10-30T10:08:01Z"
+    "raw_updated_at": "2026-11-01T04:43:51Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -978,8 +978,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-10-31",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8d7f8caaf55203e23dd59fc816296535a4067d5d",
-    "commit_sha": "8d7f8caaf55203e23dd59fc816296535a4067d5d",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a6dfaa6485c84607c00e77ea0ad859b28c3cb3f5",
+    "commit_sha": "a6dfaa6485c84607c00e77ea0ad859b28c3cb3f5",
     "commit_date": "2026-10-31",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-31T17:02:07Z"
+    "raw_updated_at": "2026-10-31T21:13:51Z"
   },
   {
     "repo": "devops-project-templates",

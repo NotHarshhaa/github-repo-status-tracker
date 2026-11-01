@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5434,
-    "forks": 4901,
+    "stars": 5436,
+    "forks": 4903,
     "issues": 30,
-    "lastUpdated": "2026-10-31T20:03:45Z",
+    "lastUpdated": "2026-11-01T03:31:39Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1298,
-    "forks": 940,
+    "stars": 1299,
+    "forks": 941,
     "issues": 4,
-    "lastUpdated": "2026-10-31T20:13:05Z",
+    "lastUpdated": "2026-11-01T00:20:16Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 117,
+    "stars": 119,
     "forks": 54,
     "issues": 0,
-    "lastUpdated": "2026-10-30T10:08:01Z",
+    "lastUpdated": "2026-11-01T04:43:51Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-10-31T17:02:07Z",
-    "lastCommit": "8d7f8caaf55203e23dd59fc816296535a4067d5d"
+    "lastUpdated": "2026-10-31T21:13:51Z",
+    "lastCommit": "a6dfaa6485c84607c00e77ea0ad859b28c3cb3f5"
   },
   {
     "title": "Devops project templates",
