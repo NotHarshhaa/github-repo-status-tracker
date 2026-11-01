@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5442,
-    "forks": 4906,
-    "watchers": 5442,
+    "stars": 5446,
+    "forks": 4910,
+    "watchers": 5446,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-01T12:01:24Z"
+    "raw_updated_at": "2026-11-01T20:37:52Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1300,
+    "stars": 1302,
     "forks": 942,
-    "watchers": 1300,
+    "watchers": 1302,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-01T07:27:52Z"
+    "raw_updated_at": "2026-11-01T17:36:11Z"
   },
   {
     "repo": "into-the-devops",
@@ -155,11 +155,11 @@
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-10-30",
-    "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/dee8ff4607954972994dedc5689390ffd8ad01b7",
-    "commit_sha": "dee8ff4607954972994dedc5689390ffd8ad01b7",
-    "commit_date": "2025-06-17",
-    "commit_message": "Kubernetes: README: Update README.md to enhance structure and clarity, including a new title, improved formatting, and expanded sections for prerequisites, setup, learning paths, and additional resources for Kubernetes projects.",
+    "last_updated": "2026-11-01",
+    "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
+    "commit_sha": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
+    "commit_date": "2026-11-01",
+    "commit_message": "Kubernetes: README update: Enhance the structure and content of README.md by adding a new \"What's Inside\" section, improving prerequisites descriptions, and including detailed installation instructions for essential tools. Additionally, introduce new guides and resources for better navigation and learning paths in Kubernetes.",
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 536,
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-10-30T19:10:05Z"
+    "raw_updated_at": "2026-11-01T17:33:40Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -220,16 +220,16 @@
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-10-27",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e",
-    "commit_sha": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e",
-    "commit_date": "2025-12-18",
-    "commit_message": "Merge pull request #3 from NotHarshhaa/vercel/react-server-components-cve-vu-1116yw",
-    "author": "H A R S H H A A",
+    "last_updated": "2026-11-01",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/ab9029e797100fc2f81b2c11b7fb376a79a07c48",
+    "commit_sha": "ab9029e797100fc2f81b2c11b7fb376a79a07c48",
+    "commit_date": "2026-11-01",
+    "commit_message": "DevOps-Tools: Update project configuration and dependencies for improved performance and security",
+    "author": "NotHarshhaa",
     "issues": 5,
-    "stars": 244,
+    "stars": 245,
     "forks": 164,
-    "watchers": 244,
+    "watchers": 245,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -246,7 +246,7 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-10-27T13:24:14Z"
+    "raw_updated_at": "2026-11-01T20:43:49Z"
   },
   {
     "repo": "Kubernetes",
@@ -313,6 +313,41 @@
     "raw_updated_at": "2026-10-17T05:27:49Z"
   },
   {
+    "repo": "AWS-Projects",
+    "url": "https://github.com/NotHarshhaa/AWS-Projects",
+    "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
+    "last_updated": "2026-11-01",
+    "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
+    "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
+    "commit_date": "2026-09-29",
+    "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 166,
+    "forks": 77,
+    "watchers": 166,
+    "ci_cd_status": "none",
+    "languages": [
+      "Python",
+      "HTML"
+    ],
+    "license": "No license",
+    "topics": [
+      "aws",
+      "aws-apigateway",
+      "aws-cli",
+      "aws-cloud",
+      "aws-cloudformation",
+      "aws-ec2",
+      "aws-lambda",
+      "aws-projects",
+      "aws-s3",
+      "projects",
+      "real-time-project"
+    ],
+    "raw_updated_at": "2026-11-01T18:06:50Z"
+  },
+  {
     "repo": "Certified_Kubernetes_Administrator",
     "url": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator",
     "description": "Master Kubernetes from scratch and become a Certified Kubernetes Administrator (CKA)! This repository is your one-stop resource to learn Kubernetes, Helm, Operators, Prometheus, and AWS EKS with hands-on examples.",
@@ -341,41 +376,6 @@
       "prometheus"
     ],
     "raw_updated_at": "2026-10-25T06:17:36Z"
-  },
-  {
-    "repo": "AWS-Projects",
-    "url": "https://github.com/NotHarshhaa/AWS-Projects",
-    "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-10-31",
-    "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
-    "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
-    "commit_date": "2026-09-29",
-    "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 165,
-    "forks": 77,
-    "watchers": 165,
-    "ci_cd_status": "none",
-    "languages": [
-      "Python",
-      "HTML"
-    ],
-    "license": "No license",
-    "topics": [
-      "aws",
-      "aws-apigateway",
-      "aws-cli",
-      "aws-cloud",
-      "aws-cloudformation",
-      "aws-ec2",
-      "aws-lambda",
-      "aws-projects",
-      "aws-s3",
-      "projects",
-      "real-time-project"
-    ],
-    "raw_updated_at": "2026-10-31T10:58:30Z"
   },
   {
     "repo": "CI-CD_EKS-GitHub_Actions",
@@ -423,9 +423,9 @@
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 120,
-    "forks": 54,
-    "watchers": 120,
+    "stars": 126,
+    "forks": 55,
+    "watchers": 126,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-11-01T06:07:36Z"
+    "raw_updated_at": "2026-11-01T20:51:29Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -603,21 +603,21 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/08e605c0e52ea088970ca904d8d293b76d0a028c",
-    "commit_sha": "08e605c0e52ea088970ca904d8d293b76d0a028c",
-    "commit_date": "2026-10-27",
-    "commit_message": "ai-platform-handbook: Revise Week 16 content on AI Product Development, Building Enterprise AI Applications, and Production Deployment & Scaling",
+    "last_updated": "2026-11-01",
+    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/49f43792ce017b4792d1057b9eada130f3dd9db8",
+    "commit_sha": "49f43792ce017b4792d1057b9eada130f3dd9db8",
+    "commit_date": "2026-11-01",
+    "commit_message": "ai-platform-handbook: Revise Week 13 content on Distributed AI Infrastructure, GPU Computing Fundamentals, and Production AI Serving",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 42,
+    "stars": 43,
     "forks": 17,
-    "watchers": 42,
+    "watchers": 43,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-10-28T18:05:48Z"
+    "raw_updated_at": "2026-11-01T18:53:37Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -978,8 +978,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-01",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/598968bcf268134057cb7c827aa0bd5781e4542e",
-    "commit_sha": "598968bcf268134057cb7c827aa0bd5781e4542e",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/74dff88d2bfd3de80c10c4305900962dbaa144ac",
+    "commit_sha": "74dff88d2bfd3de80c10c4305900962dbaa144ac",
     "commit_date": "2026-11-01",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-01T05:07:51Z"
+    "raw_updated_at": "2026-11-01T12:54:45Z"
   },
   {
     "repo": "devops-project-templates",

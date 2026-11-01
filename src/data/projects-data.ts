@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5442,
-    "forks": 4906,
+    "stars": 5446,
+    "forks": 4910,
     "issues": 30,
-    "lastUpdated": "2026-11-01T12:01:24Z",
+    "lastUpdated": "2026-11-01T20:37:52Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1300,
+    "stars": 1302,
     "forks": 942,
     "issues": 4,
-    "lastUpdated": "2026-11-01T07:27:52Z",
+    "lastUpdated": "2026-11-01T17:36:11Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -120,8 +120,8 @@ export const PROJECTS: Project[] = [
     "stars": 536,
     "forks": 405,
     "issues": 1,
-    "lastUpdated": "2026-10-30T19:10:05Z",
-    "lastCommit": "dee8ff4607954972994dedc5689390ffd8ad01b7"
+    "lastUpdated": "2026-11-01T17:33:40Z",
+    "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
   },
   {
     "title": "Devops cheatsheet",
@@ -159,11 +159,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 244,
+    "stars": 245,
     "forks": 164,
     "issues": 5,
-    "lastUpdated": "2026-10-27T13:24:14Z",
-    "lastCommit": "cd2efbc8b4fb93c9f5d2bc4894f268dd8970883e"
+    "lastUpdated": "2026-11-01T20:43:49Z",
+    "lastCommit": "ab9029e797100fc2f81b2c11b7fb376a79a07c48"
   },
   {
     "title": "Kubernetes",
@@ -208,6 +208,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
+    "title": "A W S  Projects",
+    "techStack": [
+      "aws",
+      "aws-apigateway",
+      "aws-cli",
+      "aws-cloud",
+      "aws-cloudformation",
+      "aws-ec2"
+    ],
+    "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with...",
+    "link": {
+      "label": "github.com/AWS-Projects",
+      "href": "https://github.com/NotHarshhaa/AWS-Projects"
+    },
+    "stars": 166,
+    "forks": 77,
+    "issues": 0,
+    "lastUpdated": "2026-11-01T18:06:50Z",
+    "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
+  },
+  {
     "title": "Certified  Kubernetes  Administrator",
     "techStack": [
       "cka",
@@ -227,27 +248,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-10-25T06:17:36Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
-  },
-  {
-    "title": "A W S  Projects",
-    "techStack": [
-      "aws",
-      "aws-apigateway",
-      "aws-cli",
-      "aws-cloud",
-      "aws-cloudformation",
-      "aws-ec2"
-    ],
-    "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with...",
-    "link": {
-      "label": "github.com/AWS-Projects",
-      "href": "https://github.com/NotHarshhaa/AWS-Projects"
-    },
-    "stars": 165,
-    "forks": 77,
-    "issues": 0,
-    "lastUpdated": "2026-10-31T10:58:30Z",
-    "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
     "title": "C I  C D  E K S  Git Hub  Actions",
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 120,
-    "forks": 54,
+    "stars": 126,
+    "forks": 55,
     "issues": 0,
-    "lastUpdated": "2026-11-01T06:07:36Z",
+    "lastUpdated": "2026-11-01T20:51:29Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -404,11 +404,11 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 42,
+    "stars": 43,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-10-28T18:05:48Z",
-    "lastCommit": "08e605c0e52ea088970ca904d8d293b76d0a028c"
+    "lastUpdated": "2026-11-01T18:53:37Z",
+    "lastCommit": "49f43792ce017b4792d1057b9eada130f3dd9db8"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-01T05:07:51Z",
-    "lastCommit": "598968bcf268134057cb7c827aa0bd5781e4542e"
+    "lastUpdated": "2026-11-01T12:54:45Z",
+    "lastCommit": "74dff88d2bfd3de80c10c4305900962dbaa144ac"
   },
   {
     "title": "Devops project templates",
