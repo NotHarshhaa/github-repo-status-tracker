@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5451,
-    "forks": 4910,
-    "watchers": 5451,
+    "stars": 5456,
+    "forks": 4914,
+    "watchers": 5456,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-02T04:45:51Z"
+    "raw_updated_at": "2026-11-02T14:25:41Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -82,16 +82,16 @@
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-11-01",
+    "last_updated": "2026-11-02",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 923,
+    "stars": 924,
     "forks": 543,
-    "watchers": 923,
+    "watchers": 924,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-01T06:35:57Z"
+    "raw_updated_at": "2026-11-02T14:40:31Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -316,16 +316,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-01",
+    "last_updated": "2026-11-02",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 166,
+    "stars": 167,
     "forks": 77,
-    "watchers": 166,
+    "watchers": 167,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -345,7 +345,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-11-01T18:06:50Z"
+    "raw_updated_at": "2026-11-02T14:14:38Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -977,10 +977,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-01",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/61d23d13166b2a1654e139efc9b8e132308a257e",
-    "commit_sha": "61d23d13166b2a1654e139efc9b8e132308a257e",
-    "commit_date": "2026-11-01",
+    "last_updated": "2026-11-02",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/aef70b25759e1c82aac2f94e70f5e5aecebd40c7",
+    "commit_sha": "aef70b25759e1c82aac2f94e70f5e5aecebd40c7",
+    "commit_date": "2026-11-02",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-01T21:50:47Z"
+    "raw_updated_at": "2026-11-02T05:08:45Z"
   },
   {
     "repo": "devops-project-templates",
