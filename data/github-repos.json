@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5462,
-    "forks": 4921,
-    "watchers": 5462,
+    "stars": 5479,
+    "forks": 4929,
+    "watchers": 5479,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-03T11:23:02Z"
+    "raw_updated_at": "2026-11-03T22:59:39Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1303,
+    "stars": 1304,
     "forks": 945,
-    "watchers": 1303,
+    "watchers": 1304,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-03T13:00:04Z"
+    "raw_updated_at": "2026-11-03T14:09:26Z"
   },
   {
     "repo": "into-the-devops",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 537,
-    "forks": 405,
+    "forks": 406,
     "watchers": 537,
     "ci_cd_status": "none",
     "languages": [],
@@ -193,7 +193,7 @@
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 378,
-    "forks": 274,
+    "forks": 275,
     "watchers": 378,
     "ci_cd_status": "none",
     "languages": [],
@@ -416,16 +416,16 @@
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
     "description": "A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience, build your portfolio, and prepare for certifications.",
-    "last_updated": "2026-11-02",
+    "last_updated": "2026-11-03",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_sha": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_date": "2025-11-11",
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 133,
-    "forks": 57,
-    "watchers": 133,
+    "stars": 135,
+    "forks": 58,
+    "watchers": 135,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-11-02T16:53:12Z"
+    "raw_updated_at": "2026-11-03T15:45:05Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -603,11 +603,11 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-11-01",
-    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/49f43792ce017b4792d1057b9eada130f3dd9db8",
-    "commit_sha": "49f43792ce017b4792d1057b9eada130f3dd9db8",
-    "commit_date": "2026-11-01",
-    "commit_message": "ai-platform-handbook: Revise Week 13 content on Distributed AI Infrastructure, GPU Computing Fundamentals, and Production AI Serving",
+    "last_updated": "2026-11-03",
+    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/a56de303d1dbca1dfedebd320e39baa1982886f3",
+    "commit_sha": "a56de303d1dbca1dfedebd320e39baa1982886f3",
+    "commit_date": "2026-11-03",
+    "commit_message": "ai-platform-handbook: Enhance course navigation and progress tracking features",
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 43,
@@ -617,7 +617,7 @@
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-01T18:53:37Z"
+    "raw_updated_at": "2026-11-03T19:25:29Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -978,8 +978,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-03",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/60017d80a117db57f26adb969223f16ab9241c49",
-    "commit_sha": "60017d80a117db57f26adb969223f16ab9241c49",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f21344fb06a720446db8a550903abb0feb77d4de",
+    "commit_sha": "f21344fb06a720446db8a550903abb0feb77d4de",
     "commit_date": "2026-11-03",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-03T00:45:53Z"
+    "raw_updated_at": "2026-11-03T13:52:14Z"
   },
   {
     "repo": "devops-project-templates",
@@ -1378,7 +1378,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 7,
-    "forks": 13,
+    "forks": 14,
     "watchers": 7,
     "ci_cd_status": "none",
     "languages": [

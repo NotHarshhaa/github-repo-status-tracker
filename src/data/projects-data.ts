@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5462,
-    "forks": 4921,
+    "stars": 5479,
+    "forks": 4929,
     "issues": 30,
-    "lastUpdated": "2026-11-03T11:23:02Z",
+    "lastUpdated": "2026-11-03T22:59:39Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1303,
+    "stars": 1304,
     "forks": 945,
     "issues": 4,
-    "lastUpdated": "2026-11-03T13:00:04Z",
+    "lastUpdated": "2026-11-03T14:09:26Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -118,7 +118,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 537,
-    "forks": 405,
+    "forks": 406,
     "issues": 1,
     "lastUpdated": "2026-11-03T05:37:31Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 378,
-    "forks": 274,
+    "forks": 275,
     "issues": 3,
     "lastUpdated": "2026-11-03T05:41:13Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 133,
-    "forks": 57,
+    "stars": 135,
+    "forks": 58,
     "issues": 0,
-    "lastUpdated": "2026-11-02T16:53:12Z",
+    "lastUpdated": "2026-11-03T15:45:05Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -407,8 +407,8 @@ export const PROJECTS: Project[] = [
     "stars": 43,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-11-01T18:53:37Z",
-    "lastCommit": "49f43792ce017b4792d1057b9eada130f3dd9db8"
+    "lastUpdated": "2026-11-03T19:25:29Z",
+    "lastCommit": "a56de303d1dbca1dfedebd320e39baa1982886f3"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -652,8 +652,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-03T00:45:53Z",
-    "lastCommit": "60017d80a117db57f26adb969223f16ab9241c49"
+    "lastUpdated": "2026-11-03T13:52:14Z",
+    "lastCommit": "f21344fb06a720446db8a550903abb0feb77d4de"
   },
   {
     "title": "Devops project templates",
@@ -916,7 +916,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/uber-clone"
     },
     "stars": 7,
-    "forks": 13,
+    "forks": 14,
     "issues": 0,
     "lastUpdated": "2026-10-06T17:41:13Z",
     "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
