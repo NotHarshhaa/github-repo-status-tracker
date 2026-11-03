@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5456,
-    "forks": 4914,
-    "watchers": 5456,
+    "stars": 5458,
+    "forks": 4918,
+    "watchers": 5458,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-02T14:25:41Z"
+    "raw_updated_at": "2026-11-02T23:36:22Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-02",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 650,
+    "stars": 649,
     "forks": 236,
-    "watchers": 650,
+    "watchers": 649,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-10-31T11:02:05Z"
+    "raw_updated_at": "2026-11-02T20:12:04Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -220,11 +220,11 @@
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-11-01",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/ab9029e797100fc2f81b2c11b7fb376a79a07c48",
-    "commit_sha": "ab9029e797100fc2f81b2c11b7fb376a79a07c48",
-    "commit_date": "2026-11-01",
-    "commit_message": "DevOps-Tools: Update project configuration and dependencies for improved performance and security",
+    "last_updated": "2026-11-02",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
+    "commit_sha": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
+    "commit_date": "2026-11-02",
+    "commit_message": "DevOps-Tools: Expand README with new tools and categories for enhanced resource coverage",
     "author": "NotHarshhaa",
     "issues": 5,
     "stars": 245,
@@ -246,7 +246,7 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-11-01T20:43:49Z"
+    "raw_updated_at": "2026-11-02T18:12:25Z"
   },
   {
     "repo": "Kubernetes",
@@ -323,9 +323,9 @@
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 167,
+    "stars": 168,
     "forks": 77,
-    "watchers": 167,
+    "watchers": 168,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -345,7 +345,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-11-02T14:14:38Z"
+    "raw_updated_at": "2026-11-02T23:44:38Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -423,9 +423,9 @@
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 131,
-    "forks": 56,
-    "watchers": 131,
+    "stars": 133,
+    "forks": 57,
+    "watchers": 133,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-11-02T03:29:51Z"
+    "raw_updated_at": "2026-11-02T16:53:12Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -978,8 +978,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-02",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/aef70b25759e1c82aac2f94e70f5e5aecebd40c7",
-    "commit_sha": "aef70b25759e1c82aac2f94e70f5e5aecebd40c7",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/0768b34463657c94f52ab4e93ecc0eaa7edebfda",
+    "commit_sha": "0768b34463657c94f52ab4e93ecc0eaa7edebfda",
     "commit_date": "2026-11-02",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -997,7 +997,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-02T05:08:45Z"
+    "raw_updated_at": "2026-11-02T15:08:20Z"
   },
   {
     "repo": "devops-project-templates",
