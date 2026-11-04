@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5504,
-    "forks": 4933,
+    "stars": 5524,
+    "forks": 4940,
     "issues": 30,
-    "lastUpdated": "2026-11-04T05:21:00Z",
+    "lastUpdated": "2026-11-04T13:14:07Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1304,
-    "forks": 945,
+    "forks": 946,
     "issues": 4,
     "lastUpdated": "2026-11-03T14:09:26Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -407,8 +407,8 @@ export const PROJECTS: Project[] = [
     "stars": 43,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-11-03T19:25:29Z",
-    "lastCommit": "a56de303d1dbca1dfedebd320e39baa1982886f3"
+    "lastUpdated": "2026-11-04T13:56:43Z",
+    "lastCommit": "a15277214ee54afd0221c17e4259eef3c9ecae85"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -636,6 +636,26 @@ export const PROJECTS: Project[] = [
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
   {
+    "title": "Devops project templates",
+    "techStack": [
+      "HCL",
+      "Shell",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
+    "link": {
+      "label": "github.com/devops-project-templates",
+      "href": "https://github.com/NotHarshhaa/devops-project-templates"
+    },
+    "stars": 13,
+    "forks": 5,
+    "issues": 0,
+    "lastUpdated": "2026-11-04T13:29:44Z",
+    "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
+  },
+  {
     "title": "Github repo status tracker",
     "techStack": [
       "TypeScript",
@@ -652,28 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-03T23:01:17Z",
-    "lastCommit": "37800167a739d636063a07d025605a9a9898d5d9"
-  },
-  {
-    "title": "Devops project templates",
-    "techStack": [
-      "HCL",
-      "Shell",
-      "JavaScript",
-      "CSS",
-      "HTML"
-    ],
-    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
-    "link": {
-      "label": "github.com/devops-project-templates",
-      "href": "https://github.com/NotHarshhaa/devops-project-templates"
-    },
-    "stars": 12,
-    "forks": 5,
-    "issues": 0,
-    "lastUpdated": "2026-08-27T03:14:23Z",
-    "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
+    "lastUpdated": "2026-11-04T05:29:45Z",
+    "lastCommit": "9b2b40358cb3bea1cf99404c84377b66966b5ace"
   },
   {
     "title": "Devops skills",
@@ -690,10 +690,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 12,
+    "stars": 13,
     "forks": 6,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:09Z",
+    "lastUpdated": "2026-11-04T11:07:44Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {

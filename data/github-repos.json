@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5504,
-    "forks": 4933,
-    "watchers": 5504,
+    "stars": 5524,
+    "forks": 4940,
+    "watchers": 5524,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-04T05:21:00Z"
+    "raw_updated_at": "2026-11-04T13:14:07Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1304,
-    "forks": 945,
+    "forks": 946,
     "watchers": 1304,
     "ci_cd_status": "none",
     "languages": [],
@@ -361,7 +361,7 @@
     "stars": 165,
     "forks": 123,
     "watchers": 165,
-    "ci_cd_status": "fail",
+    "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [
@@ -603,11 +603,11 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-11-03",
-    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/a56de303d1dbca1dfedebd320e39baa1982886f3",
-    "commit_sha": "a56de303d1dbca1dfedebd320e39baa1982886f3",
-    "commit_date": "2026-11-03",
-    "commit_message": "ai-platform-handbook: Enhance course navigation and progress tracking features",
+    "last_updated": "2026-11-04",
+    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/a15277214ee54afd0221c17e4259eef3c9ecae85",
+    "commit_sha": "a15277214ee54afd0221c17e4259eef3c9ecae85",
+    "commit_date": "2026-11-04",
+    "commit_message": "ai-platform-handbook: Refactor sidebar toggle functionality and enhance progress tracking styles",
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 43,
@@ -617,7 +617,7 @@
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-03T19:25:29Z"
+    "raw_updated_at": "2026-11-04T13:56:43Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -974,13 +974,39 @@
     "raw_updated_at": "2026-08-13T13:46:23Z"
   },
   {
+    "repo": "devops-project-templates",
+    "url": "https://github.com/NotHarshhaa/devops-project-templates",
+    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
+    "last_updated": "2026-11-04",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679",
+    "commit_sha": "6a322f381ee00547ce805cefbe44570763122679",
+    "commit_date": "2026-04-10",
+    "commit_message": "devops-templates: Refactor Dockerfiles and nginx configurations for improved security",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 13,
+    "forks": 5,
+    "watchers": 13,
+    "ci_cd_status": "fail",
+    "languages": [
+      "HCL",
+      "Shell",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-11-04T13:29:44Z"
+  },
+  {
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-03",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/37800167a739d636063a07d025605a9a9898d5d9",
-    "commit_sha": "37800167a739d636063a07d025605a9a9898d5d9",
-    "commit_date": "2026-11-03",
+    "last_updated": "2026-11-04",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/9b2b40358cb3bea1cf99404c84377b66966b5ace",
+    "commit_sha": "9b2b40358cb3bea1cf99404c84377b66966b5ace",
+    "commit_date": "2026-11-04",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -997,48 +1023,22 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-03T23:01:17Z"
-  },
-  {
-    "repo": "devops-project-templates",
-    "url": "https://github.com/NotHarshhaa/devops-project-templates",
-    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
-    "last_updated": "2026-08-27",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679",
-    "commit_sha": "6a322f381ee00547ce805cefbe44570763122679",
-    "commit_date": "2026-04-10",
-    "commit_message": "devops-templates: Refactor Dockerfiles and nginx configurations for improved security",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 12,
-    "forks": 5,
-    "watchers": 12,
-    "ci_cd_status": "fail",
-    "languages": [
-      "HCL",
-      "Shell",
-      "JavaScript",
-      "CSS",
-      "HTML"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-08-27T03:14:23Z"
+    "raw_updated_at": "2026-11-04T05:29:45Z"
   },
   {
     "repo": "devops-skills",
     "url": "https://github.com/NotHarshhaa/devops-skills",
     "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-10-28",
+    "last_updated": "2026-11-04",
     "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_date": "2026-09-19",
     "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 12,
+    "stars": 13,
     "forks": 6,
-    "watchers": 12,
+    "watchers": 13,
     "ci_cd_status": "pass",
     "languages": [
       "JavaScript"
@@ -1053,7 +1053,7 @@
       "devops-skills",
       "skills"
     ],
-    "raw_updated_at": "2026-10-28T19:22:09Z"
+    "raw_updated_at": "2026-11-04T11:07:44Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",
