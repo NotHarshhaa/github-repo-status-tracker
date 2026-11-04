@@ -1,23 +1,23 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-04%2013%3A59:20.716 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-04%2023%3A25:28.132 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,453** combined stars
+**87** repositories tracked · **11,461** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,453** stars · **9,353** forks · **74** open issues
+> **87** repositories · **11,461** stars · **9,358** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,524 | 4,940 | 30 | — | 2026-11-04 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,304 | 946 | 4 | — | 2026-11-03 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,531 | 4,944 | 30 | — | 2026-11-04 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,304 | 947 | 4 | — | 2026-11-03 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 924 | 544 | 0 | — | 2026-11-02 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 649 | 236 | 4 | — | 2026-11-02 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 537 | 406 | 1 | — | 2026-11-03 |
@@ -65,7 +65,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 47 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
 | 48 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 6 | 7 | 0 | — | 2026-10-31 |
 | 49 | [prodevopsguy.xyz](https://github.com/NotHarshhaa/prodevopsguy.xyz) | 5 | 2 | 1 | — | 2025-02-22 |
-| 50 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 4 | 2 | 0 | — | 2026-02-22 |
+| 50 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 5 | 2 | 0 | — | 2026-11-04 |
 | 51 | [DevOps-Engineering](https://github.com/NotHarshhaa/DevOps-Engineering) | 4 | 9 | 0 | — | 2025-12-18 |
 | 52 | [cheatsheet.prodevopsguytech.com](https://github.com/NotHarshhaa/cheatsheet.prodevopsguytech.com) | 4 | 0 | 0 | — | 2026-10-30 |
 | 53 | [terraform-cost-predictor](https://github.com/NotHarshhaa/terraform-cost-predictor) | 4 | 4 | 0 | — | 2026-10-28 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,524
-  &nbsp;·&nbsp; 🍴 4,940
+  &nbsp;·&nbsp; ⭐ 5,531
+  &nbsp;·&nbsp; 🍴 4,944
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -141,7 +141,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
   &nbsp;·&nbsp; ⭐ 1,304
-  &nbsp;·&nbsp; 🍴 946
+  &nbsp;·&nbsp; 🍴 947
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
 </summary>
@@ -630,7 +630,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [ai-platform-handbook: Refactor sidebar toggle functionality and enhance progress tracki...](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/a15277214ee54afd0221c17e4259eef3c9ecae85) |
+| **Latest commit** | [ai-platform-handbook: Update PostCSS configuration to include additional dynamic classes](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f1076f6659970da8d114cbbab62c4689e3405308) |
 | **Commit date** | `2026-11-04` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-04` |
@@ -994,7 +994,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/9b2b40358cb3bea1cf99404c84377b66966b5ace) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3c4ce90ed74ffc213371cbc866a587dd9b778c27) |
 | **Commit date** | `2026-11-04` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-04` |
@@ -1484,7 +1484,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/jobs.prodevopsguytech.com">jobs.prodevopsguytech.com</a></strong>
-  &nbsp;·&nbsp; ⭐ 4
+  &nbsp;·&nbsp; ⭐ 5
   &nbsp;·&nbsp; 🍴 2
   &nbsp;·&nbsp; CI —
   <br><sub>Find your dream DevOps, SRE, Platform Engineering, and Cloud jobs — all in one place. No ads. No fees. Just high-quality job listings upd...</sub>
@@ -1501,7 +1501,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [jobs: fix: adjust navbar dimensions and icon sizes for mobile mode](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com/commit/1ec416a57a8e06739aecf4c504308bf6b369f880) |
 | **Commit date** | `2025-07-01` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-02-22` |
+| **Repo updated** | `2026-11-04` |
 | **License** | `No license` |
 | **Languages** | `TypeScript` · `CSS` · `JavaScript` |
 | **Topics** | `devopsjobs` · `job-board` · `job-portal` · `jobs-search` · `jobsearch` · `nextjs14` |

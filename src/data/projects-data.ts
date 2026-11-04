@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5524,
-    "forks": 4940,
+    "stars": 5531,
+    "forks": 4944,
     "issues": 30,
-    "lastUpdated": "2026-11-04T13:14:07Z",
+    "lastUpdated": "2026-11-04T21:47:51Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1304,
-    "forks": 946,
+    "forks": 947,
     "issues": 4,
     "lastUpdated": "2026-11-03T14:09:26Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -407,8 +407,8 @@ export const PROJECTS: Project[] = [
     "stars": 43,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-11-04T13:56:43Z",
-    "lastCommit": "a15277214ee54afd0221c17e4259eef3c9ecae85"
+    "lastUpdated": "2026-11-04T18:20:19Z",
+    "lastCommit": "f1076f6659970da8d114cbbab62c4689e3405308"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-04T05:29:45Z",
-    "lastCommit": "9b2b40358cb3bea1cf99404c84377b66966b5ace"
+    "lastUpdated": "2026-11-04T13:59:28Z",
+    "lastCommit": "3c4ce90ed74ffc213371cbc866a587dd9b778c27"
   },
   {
     "title": "Devops skills",
@@ -1036,10 +1036,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/jobs.prodevopsguytech.com",
       "href": "https://github.com/NotHarshhaa/jobs.prodevopsguytech.com"
     },
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-02-22T15:07:20Z",
+    "lastUpdated": "2026-11-04T20:36:47Z",
     "lastCommit": "1ec416a57a8e06739aecf4c504308bf6b369f880"
   },
   {
