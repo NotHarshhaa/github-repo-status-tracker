@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5531,
-    "forks": 4944,
+    "stars": 5535,
+    "forks": 4945,
     "issues": 30,
-    "lastUpdated": "2026-11-04T21:47:51Z",
+    "lastUpdated": "2026-11-05T05:08:50Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1304,
+    "stars": 1305,
     "forks": 947,
     "issues": 4,
-    "lastUpdated": "2026-11-03T14:09:26Z",
+    "lastUpdated": "2026-11-05T03:30:14Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -244,7 +244,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
     "stars": 165,
-    "forks": 123,
+    "forks": 124,
     "issues": 0,
     "lastUpdated": "2026-10-25T06:17:36Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
@@ -404,10 +404,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 43,
+    "stars": 44,
     "forks": 17,
     "issues": 1,
-    "lastUpdated": "2026-11-04T18:20:19Z",
+    "lastUpdated": "2026-11-05T03:55:32Z",
     "lastCommit": "f1076f6659970da8d114cbbab62c4689e3405308"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-04T13:59:28Z",
-    "lastCommit": "3c4ce90ed74ffc213371cbc866a587dd9b778c27"
+    "lastUpdated": "2026-11-04T23:25:34Z",
+    "lastCommit": "a0f7e9edf87eab0788869e61a032ea9096aa941c"
   },
   {
     "title": "Devops skills",

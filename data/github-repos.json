@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-04",
+    "last_updated": "2026-11-05",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5531,
-    "forks": 4944,
-    "watchers": 5531,
+    "stars": 5535,
+    "forks": 4945,
+    "watchers": 5535,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-04T21:47:51Z"
+    "raw_updated_at": "2026-11-05T05:08:50Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-05",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1304,
+    "stars": 1305,
     "forks": 947,
-    "watchers": 1304,
+    "watchers": 1305,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-03T14:09:26Z"
+    "raw_updated_at": "2026-11-05T03:30:14Z"
   },
   {
     "repo": "into-the-devops",
@@ -359,7 +359,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 165,
-    "forks": 123,
+    "forks": 124,
     "watchers": 165,
     "ci_cd_status": "none",
     "languages": [],
@@ -603,21 +603,21 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-11-04",
+    "last_updated": "2026-11-05",
     "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/f1076f6659970da8d114cbbab62c4689e3405308",
     "commit_sha": "f1076f6659970da8d114cbbab62c4689e3405308",
     "commit_date": "2026-11-04",
     "commit_message": "ai-platform-handbook: Update PostCSS configuration to include additional dynamic classes",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 43,
+    "stars": 44,
     "forks": 17,
-    "watchers": 43,
+    "watchers": 44,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-04T18:20:19Z"
+    "raw_updated_at": "2026-11-05T03:55:32Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -1004,8 +1004,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-04",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3c4ce90ed74ffc213371cbc866a587dd9b778c27",
-    "commit_sha": "3c4ce90ed74ffc213371cbc866a587dd9b778c27",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/a0f7e9edf87eab0788869e61a032ea9096aa941c",
+    "commit_sha": "a0f7e9edf87eab0788869e61a032ea9096aa941c",
     "commit_date": "2026-11-04",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-04T13:59:28Z"
+    "raw_updated_at": "2026-11-04T23:25:34Z"
   },
   {
     "repo": "devops-skills",
