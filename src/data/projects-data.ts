@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5539,
-    "forks": 4947,
+    "stars": 5540,
+    "forks": 4951,
     "issues": 30,
-    "lastUpdated": "2026-11-05T10:13:46Z",
+    "lastUpdated": "2026-11-05T14:47:31Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -159,10 +159,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 245,
+    "stars": 246,
     "forks": 164,
     "issues": 5,
-    "lastUpdated": "2026-11-02T18:12:25Z",
+    "lastUpdated": "2026-11-05T20:36:40Z",
     "lastCommit": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-05T05:50:37Z",
-    "lastCommit": "ff8405f937bb7f98eb522bda1b0538ea821be866"
+    "lastUpdated": "2026-11-05T14:20:46Z",
+    "lastCommit": "67bcaa05ff8c059ca0c1ae1849360880a3dd3764"
   },
   {
     "title": "Devops skills",
