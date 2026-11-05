@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5535,
-    "forks": 4945,
+    "stars": 5539,
+    "forks": 4947,
     "issues": 30,
-    "lastUpdated": "2026-11-05T05:08:50Z",
+    "lastUpdated": "2026-11-05T10:13:46Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -76,7 +76,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 924,
-    "forks": 544,
+    "forks": 545,
     "issues": 0,
     "lastUpdated": "2026-11-02T14:40:31Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -118,7 +118,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 537,
-    "forks": 406,
+    "forks": 407,
     "issues": 1,
     "lastUpdated": "2026-11-03T05:37:31Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
@@ -405,10 +405,10 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 44,
-    "forks": 17,
+    "forks": 18,
     "issues": 1,
-    "lastUpdated": "2026-11-05T03:55:32Z",
-    "lastCommit": "f1076f6659970da8d114cbbab62c4689e3405308"
+    "lastUpdated": "2026-11-05T10:36:25Z",
+    "lastCommit": "a168292520cb4b3c3e16b430b3c8b88b65d31777"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-04T23:25:34Z",
-    "lastCommit": "a0f7e9edf87eab0788869e61a032ea9096aa941c"
+    "lastUpdated": "2026-11-05T05:50:37Z",
+    "lastCommit": "ff8405f937bb7f98eb522bda1b0538ea821be866"
   },
   {
     "title": "Devops skills",
