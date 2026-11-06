@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5544,
-    "forks": 4952,
+    "stars": 5547,
+    "forks": 4953,
     "issues": 30,
-    "lastUpdated": "2026-11-06T05:39:26Z",
+    "lastUpdated": "2026-11-06T13:08:58Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1305,
-    "forks": 948,
+    "stars": 1307,
+    "forks": 949,
     "issues": 4,
-    "lastUpdated": "2026-11-05T03:30:14Z",
+    "lastUpdated": "2026-11-06T11:21:38Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -76,7 +76,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 924,
-    "forks": 545,
+    "forks": 546,
     "issues": 0,
     "lastUpdated": "2026-11-02T14:40:31Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -97,7 +97,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 649,
-    "forks": 236,
+    "forks": 237,
     "issues": 4,
     "lastUpdated": "2026-11-02T20:12:04Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -223,7 +223,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
     "stars": 168,
-    "forks": 77,
+    "forks": 78,
     "issues": 0,
     "lastUpdated": "2026-11-02T23:44:38Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
@@ -407,8 +407,8 @@ export const PROJECTS: Project[] = [
     "stars": 44,
     "forks": 18,
     "issues": 1,
-    "lastUpdated": "2026-11-05T10:36:25Z",
-    "lastCommit": "a168292520cb4b3c3e16b430b3c8b88b65d31777"
+    "lastUpdated": "2026-11-06T12:40:58Z",
+    "lastCommit": "4488e7f514553a0ab61089cb6a388332970acc75"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -572,7 +572,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Zomato-Clone"
     },
     "stars": 17,
-    "forks": 87,
+    "forks": 88,
     "issues": 2,
     "lastUpdated": "2026-09-04T05:47:24Z",
     "lastCommit": "823466a188d4853ca15308d6194a49d04582b685"
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-05T23:26:55Z",
-    "lastCommit": "ac56a38f08467c821078458f0c9e7b7dd72b25f1"
+    "lastUpdated": "2026-11-06T05:46:44Z",
+    "lastCommit": "b7aaa57a5a0aa976be3835cca39b205a49ae323b"
   },
   {
     "title": "Devops skills",

@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5544,
-    "forks": 4952,
-    "watchers": 5544,
+    "stars": 5547,
+    "forks": 4953,
+    "watchers": 5547,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-06T05:39:26Z"
+    "raw_updated_at": "2026-11-06T13:08:58Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-05",
+    "last_updated": "2026-11-06",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1305,
-    "forks": 948,
-    "watchers": 1305,
+    "stars": 1307,
+    "forks": 949,
+    "watchers": 1307,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-05T03:30:14Z"
+    "raw_updated_at": "2026-11-06T11:21:38Z"
   },
   {
     "repo": "into-the-devops",
@@ -90,7 +90,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 924,
-    "forks": 545,
+    "forks": 546,
     "watchers": 924,
     "ci_cd_status": "none",
     "languages": [
@@ -134,7 +134,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 649,
-    "forks": 236,
+    "forks": 237,
     "watchers": 649,
     "ci_cd_status": "none",
     "languages": [],
@@ -324,7 +324,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 168,
-    "forks": 77,
+    "forks": 78,
     "watchers": 168,
     "ci_cd_status": "none",
     "languages": [
@@ -603,11 +603,11 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-11-05",
-    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/a168292520cb4b3c3e16b430b3c8b88b65d31777",
-    "commit_sha": "a168292520cb4b3c3e16b430b3c8b88b65d31777",
-    "commit_date": "2026-11-05",
-    "commit_message": "ai-platform-handbook: Revise AI communication and infrastructure sections",
+    "last_updated": "2026-11-06",
+    "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/4488e7f514553a0ab61089cb6a388332970acc75",
+    "commit_sha": "4488e7f514553a0ab61089cb6a388332970acc75",
+    "commit_date": "2026-11-06",
+    "commit_message": "ai-platform-handbook: Add new sections on enterprise AI agents and platform architecture",
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 44,
@@ -617,7 +617,7 @@
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-05T10:36:25Z"
+    "raw_updated_at": "2026-11-06T12:40:58Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -869,7 +869,7 @@
     "author": "NotHarshhaa",
     "issues": 2,
     "stars": 17,
-    "forks": 87,
+    "forks": 88,
     "watchers": 17,
     "ci_cd_status": "none",
     "languages": [
@@ -1003,10 +1003,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-05",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ac56a38f08467c821078458f0c9e7b7dd72b25f1",
-    "commit_sha": "ac56a38f08467c821078458f0c9e7b7dd72b25f1",
-    "commit_date": "2026-11-05",
+    "last_updated": "2026-11-06",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b7aaa57a5a0aa976be3835cca39b205a49ae323b",
+    "commit_sha": "b7aaa57a5a0aa976be3835cca39b205a49ae323b",
+    "commit_date": "2026-11-06",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-05T23:26:55Z"
+    "raw_updated_at": "2026-11-06T05:46:44Z"
   },
   {
     "repo": "devops-skills",
