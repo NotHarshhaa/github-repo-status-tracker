@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5547,
-    "forks": 4953,
-    "watchers": 5547,
+    "stars": 5548,
+    "forks": 4955,
+    "watchers": 5548,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-06T13:08:58Z"
+    "raw_updated_at": "2026-11-06T21:00:34Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1307,
+    "stars": 1310,
     "forks": 949,
-    "watchers": 1307,
+    "watchers": 1310,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-06T11:21:38Z"
+    "raw_updated_at": "2026-11-06T20:13:18Z"
   },
   {
     "repo": "into-the-devops",
@@ -381,11 +381,11 @@
     "repo": "CI-CD_EKS-GitHub_Actions",
     "url": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
     "description": "A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.",
-    "last_updated": "2026-10-31",
-    "latest_commit": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/c83c2739ba8385db73508b7a31852fc7aa64918e",
-    "commit_sha": "c83c2739ba8385db73508b7a31852fc7aa64918e",
-    "commit_date": "2026-02-14",
-    "commit_message": "CI-CD EKS: Implement Production CD Pipeline with Docker, ECR, and EKS deployment",
+    "last_updated": "2026-11-06",
+    "latest_commit": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
+    "commit_sha": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
+    "commit_date": "2026-11-06",
+    "commit_message": "CI-CD EKS: Update configurations for improved development and deployment",
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 140,
@@ -410,7 +410,7 @@
       "jenkins",
       "nodejs"
     ],
-    "raw_updated_at": "2026-10-31T00:25:05Z"
+    "raw_updated_at": "2026-11-06T16:16:28Z"
   },
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
@@ -1004,8 +1004,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-06",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b7aaa57a5a0aa976be3835cca39b205a49ae323b",
-    "commit_sha": "b7aaa57a5a0aa976be3835cca39b205a49ae323b",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/604538fc02089b79768584fd3e336a3bf5d313b9",
+    "commit_sha": "604538fc02089b79768584fd3e336a3bf5d313b9",
     "commit_date": "2026-11-06",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-06T05:46:44Z"
+    "raw_updated_at": "2026-11-06T13:57:09Z"
   },
   {
     "repo": "devops-skills",

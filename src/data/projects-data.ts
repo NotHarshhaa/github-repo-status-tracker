@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5547,
-    "forks": 4953,
+    "stars": 5548,
+    "forks": 4955,
     "issues": 30,
-    "lastUpdated": "2026-11-06T13:08:58Z",
+    "lastUpdated": "2026-11-06T21:00:34Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1307,
+    "stars": 1310,
     "forks": 949,
     "issues": 4,
-    "lastUpdated": "2026-11-06T11:21:38Z",
+    "lastUpdated": "2026-11-06T20:13:18Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -267,8 +267,8 @@ export const PROJECTS: Project[] = [
     "stars": 140,
     "forks": 119,
     "issues": 1,
-    "lastUpdated": "2026-10-31T00:25:05Z",
-    "lastCommit": "c83c2739ba8385db73508b7a31852fc7aa64918e"
+    "lastUpdated": "2026-11-06T16:16:28Z",
+    "lastCommit": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df"
   },
   {
     "title": "A W S  G C P  Azure  Cloud  Projects  Workshop",
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-06T05:46:44Z",
-    "lastCommit": "b7aaa57a5a0aa976be3835cca39b205a49ae323b"
+    "lastUpdated": "2026-11-06T13:57:09Z",
+    "lastCommit": "604538fc02089b79768584fd3e336a3bf5d313b9"
   },
   {
     "title": "Devops skills",
