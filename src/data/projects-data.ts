@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5552,
-    "forks": 4958,
+    "stars": 5556,
+    "forks": 4961,
     "issues": 30,
-    "lastUpdated": "2026-11-07T09:02:33Z",
+    "lastUpdated": "2026-11-07T18:43:06Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1312,
+    "stars": 1313,
     "forks": 949,
     "issues": 4,
-    "lastUpdated": "2026-11-07T06:48:19Z",
+    "lastUpdated": "2026-11-07T12:56:08Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -404,10 +404,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 44,
+    "stars": 43,
     "forks": 18,
     "issues": 1,
-    "lastUpdated": "2026-11-06T12:40:58Z",
+    "lastUpdated": "2026-11-07T15:34:48Z",
     "lastCommit": "4488e7f514553a0ab61089cb6a388332970acc75"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-07T05:16:35Z",
-    "lastCommit": "db068c637d0382f19948c78dcc79f3c14b85ff82"
+    "lastUpdated": "2026-11-07T12:41:59Z",
+    "lastCommit": "e7fa1515f40520184f653e722374c6fb17852939"
   },
   {
     "title": "Devops skills",
@@ -964,8 +964,8 @@ export const PROJECTS: Project[] = [
   {
     "title": "Interviews.prodevopsguytech.com",
     "techStack": [
-      "TypeScript",
       "MDX",
+      "TypeScript",
       "CSS",
       "JavaScript"
     ],
@@ -977,8 +977,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-11-07T12:39:13Z",
-    "lastCommit": "eba0f417b020a6bc02eb85fc2b753434bcee2acb"
+    "lastUpdated": "2026-11-07T16:48:28Z",
+    "lastCommit": "2fa2a3b2576c45258773402a073fba74462750a5"
   },
   {
     "title": "Personal portfolio",
