@@ -1,26 +1,26 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-07%2005%3A16:29.823 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-07%2012%3A41:54.006 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,489** combined stars
+**87** repositories tracked · **11,494** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,489** stars · **9,382** forks · **74** open issues
+> **87** repositories · **11,494** stars · **9,382** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,550 | 4,958 | 30 | — | 2026-11-07 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,311 | 949 | 4 | — | 2026-11-07 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,552 | 4,958 | 30 | — | 2026-11-07 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,312 | 949 | 4 | — | 2026-11-07 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 924 | 546 | 0 | — | 2026-11-02 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 649 | 237 | 4 | — | 2026-11-02 |
-| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 537 | 406 | 1 | — | 2026-11-03 |
+| 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 538 | 406 | 1 | — | 2026-11-07 |
 | 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 378 | 275 | 3 | — | 2026-11-03 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 246 | 164 | 5 | — | 2026-11-05 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 211 | 213 | 0 | — | 2026-11-03 |
@@ -47,7 +47,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 29 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 14 | 12 | 0 | — | 2026-10-29 |
 | 30 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 31 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 13 | 5 | 0 | Fail | 2026-11-04 |
-| 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 13 | 20 | 0 | — | 2026-11-06 |
+| 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 13 | 20 | 0 | — | 2026-11-07 |
 | 33 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 13 | 6 | 0 | Pass | 2026-11-04 |
 | 34 | [tf-ecr-ecs-gh-deploy](https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy) | 11 | 24 | 0 | — | 2026-06-11 |
 | 35 | [links-portfolio](https://github.com/NotHarshhaa/links-portfolio) | 11 | 9 | 0 | — | 2026-10-29 |
@@ -62,7 +62,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 44 | [uber-clone](https://github.com/NotHarshhaa/uber-clone) | 7 | 14 | 0 | — | 2026-10-06 |
 | 45 | [projects.prodevopsguytech.com](https://github.com/NotHarshhaa/projects.prodevopsguytech.com) | 6 | 9 | 0 | — | 2026-09-07 |
 | 46 | [devops-tools-setups-installations](https://github.com/NotHarshhaa/devops-tools-setups-installations) | 6 | 10 | 0 | — | 2026-10-21 |
-| 47 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-06-13 |
+| 47 | [interviews.prodevopsguytech.com](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com) | 6 | 3 | 0 | — | 2026-11-07 |
 | 48 | [personal-portfolio](https://github.com/NotHarshhaa/personal-portfolio) | 6 | 7 | 0 | — | 2026-10-31 |
 | 49 | [prodevopsguy.xyz](https://github.com/NotHarshhaa/prodevopsguy.xyz) | 5 | 2 | 1 | — | 2025-02-22 |
 | 50 | [jobs.prodevopsguytech.com](https://github.com/NotHarshhaa/jobs.prodevopsguytech.com) | 5 | 2 | 0 | — | 2026-11-04 |
@@ -79,13 +79,13 @@ Updates automatically every 6 hours via GitHub Actions.
 | 61 | [home-of-best-devops-resources](https://github.com/NotHarshhaa/home-of-best-devops-resources) | 3 | 3 | 0 | — | 2025-12-18 |
 | 62 | [prodevopsguytech-v2](https://github.com/NotHarshhaa/prodevopsguytech-v2) | 3 | 3 | 0 | — | 2026-09-14 |
 | 63 | [mlflow-k8s-operator](https://github.com/NotHarshhaa/mlflow-k8s-operator) | 3 | 0 | 0 | Pass | 2026-10-19 |
-| 64 | [devops-agent-kit](https://github.com/NotHarshhaa/devops-agent-kit) | 3 | 0 | 0 | — | 2026-10-28 |
-| 65 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-10-29 |
-| 66 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 2 | 2 | 0 | — | 2026-08-28 |
-| 67 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 2 | 0 | 0 | — | 2026-07-06 |
-| 68 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 2 | 0 | 0 | Pass | 2026-08-27 |
-| 69 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 2 | 2 | 0 | Pass | 2026-10-16 |
-| 70 | [terraview](https://github.com/NotHarshhaa/terraview) | 2 | 0 | 0 | Pass | 2026-10-28 |
+| 64 | [terraview](https://github.com/NotHarshhaa/terraview) | 3 | 0 | 0 | Pass | 2026-11-07 |
+| 65 | [devops-agent-kit](https://github.com/NotHarshhaa/devops-agent-kit) | 3 | 0 | 0 | — | 2026-10-28 |
+| 66 | [personal-blog](https://github.com/NotHarshhaa/personal-blog) | 2 | 4 | 0 | — | 2026-10-29 |
+| 67 | [internal-developer-platform-cli](https://github.com/NotHarshhaa/internal-developer-platform-cli) | 2 | 2 | 0 | — | 2026-08-28 |
+| 68 | [kube-ctx-manager](https://github.com/NotHarshhaa/kube-ctx-manager) | 2 | 0 | 0 | — | 2026-07-06 |
+| 69 | [jenkins-plus](https://github.com/NotHarshhaa/jenkins-plus) | 2 | 0 | 0 | Pass | 2026-08-27 |
+| 70 | [kubeguardian](https://github.com/NotHarshhaa/kubeguardian) | 2 | 2 | 0 | Pass | 2026-10-16 |
 | 71 | [slimify](https://github.com/NotHarshhaa/slimify) | 2 | 2 | 0 | Pass | 2026-08-20 |
 | 72 | [pipeline-forge](https://github.com/NotHarshhaa/pipeline-forge) | 1 | 1 | 0 | — | 2026-08-20 |
 | 73 | [shadcn-docs-nuxt-starter](https://github.com/NotHarshhaa/shadcn-docs-nuxt-starter) | 1 | 1 | 0 | — | 2025-05-31 |
@@ -112,7 +112,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,550
+  &nbsp;·&nbsp; ⭐ 5,552
   &nbsp;·&nbsp; 🍴 4,958
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
@@ -140,7 +140,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,311
+  &nbsp;·&nbsp; ⭐ 1,312
   &nbsp;·&nbsp; 🍴 949
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
@@ -224,7 +224,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/kubernetes-projects-learning">kubernetes-projects-learning</a></strong>
-  &nbsp;·&nbsp; ⭐ 537
+  &nbsp;·&nbsp; ⭐ 538
   &nbsp;·&nbsp; 🍴 406
   &nbsp;·&nbsp; CI —
   <br><sub>A repo to help you Practise Kubernetes from the ground up by doing practical Realtime projects and teach you how to use Kubernetes to dep...</sub>
@@ -241,7 +241,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [Kubernetes: README update: Enhance the structure and content of README.md by adding a n...](https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6) |
 | **Commit date** | `2026-11-01` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-03` |
+| **Repo updated** | `2026-11-07` |
 | **License** | `No license` |
 | **Languages** | _None detected_ |
 | **Topics** | `devops` · `devopsproject` · `kubernetes` · `kubernetes-cluster` · `kubernetes-deployment` · `kubernetes-learning` |
@@ -994,10 +994,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b92923941e28186cb3cb2604fed887d1e7c3296a) |
-| **Commit date** | `2026-11-06` |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/db068c637d0382f19948c78dcc79f3c14b85ff82) |
+| **Commit date** | `2026-11-07` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-06` |
+| **Repo updated** | `2026-11-07` |
 | **License** | `MIT License` |
 | **Languages** | `TypeScript` · `Python` · `Shell` · `JavaScript` · `CSS` |
 | **Topics** | _None_ |
@@ -1414,10 +1414,10 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [interview-hub: feat: enhance animations and styles across components, including CTA, Fe...](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/fd5d26969e6907f9b1aae0e57a738946870e88b8) |
-| **Commit date** | `2025-08-11` |
+| **Latest commit** | [interview-hub: feat: add eslint-config-next dependency](https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/eba0f417b020a6bc02eb85fc2b753434bcee2acb) |
+| **Commit date** | `2026-11-07` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-06-13` |
+| **Repo updated** | `2026-11-07` |
 | **License** | `No license` |
 | **Languages** | `TypeScript` · `MDX` · `CSS` · `JavaScript` |
 | **Topics** | _None_ |
@@ -1872,6 +1872,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:terraview -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/terraview">terraview</a></strong>
+  &nbsp;·&nbsp; ⭐ 3
+  &nbsp;·&nbsp; 🍴 0
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / a...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/terraview?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/terraview?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/terraview?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/terraview?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [terraview: Update resource filtering and testing capabilities](https://github.com/NotHarshhaa/terraview/commit/5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f) |
+| **Commit date** | `2026-08-01` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-11-07` |
+| **License** | `Apache License 2.0` |
+| **Languages** | `TypeScript` · `Go` · `CSS` · `Dockerfile` · `Makefile` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:devops-agent-kit -->
 <details>
 <summary>
@@ -2037,34 +2065,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `MIT License` |
 | **Languages** | `Go` · `Shell` · `Go Template` · `Makefile` · `Dockerfile` |
 | **Topics** | `kubeguard` · `kubeguardian` · `kubernetes` · `kubernetes-cluster` · `kubernetes-monitoring` |
-
-</details>
-
-<!-- repo:terraview -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/terraview">terraview</a></strong>
-  &nbsp;·&nbsp; ⭐ 2
-  &nbsp;·&nbsp; 🍴 0
-  &nbsp;·&nbsp; CI Pass
-  <br><sub>A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / a...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/terraview?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/terraview?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/terraview?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/terraview?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [terraview: Update resource filtering and testing capabilities](https://github.com/NotHarshhaa/terraview/commit/5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f) |
-| **Commit date** | `2026-08-01` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-28` |
-| **License** | `Apache License 2.0` |
-| **Languages** | `TypeScript` · `Go` · `CSS` · `Dockerfile` · `Makefile` |
-| **Topics** | _None_ |
 
 </details>
 

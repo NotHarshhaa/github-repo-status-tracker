@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5550,
+    "stars": 5552,
     "forks": 4958,
-    "watchers": 5550,
+    "watchers": 5552,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-07T03:04:46Z"
+    "raw_updated_at": "2026-11-07T09:02:33Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1311,
+    "stars": 1312,
     "forks": 949,
-    "watchers": 1311,
+    "watchers": 1312,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-07T03:14:17Z"
+    "raw_updated_at": "2026-11-07T06:48:19Z"
   },
   {
     "repo": "into-the-devops",
@@ -155,16 +155,16 @@
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-07",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_sha": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_date": "2026-11-01",
     "commit_message": "Kubernetes: README update: Enhance the structure and content of README.md by adding a new \"What's Inside\" section, improving prerequisites descriptions, and including detailed installation instructions for essential tools. Additionally, introduce new guides and resources for better navigation and learning paths in Kubernetes.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 537,
+    "stars": 538,
     "forks": 406,
-    "watchers": 537,
+    "watchers": 538,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-11-03T05:37:31Z"
+    "raw_updated_at": "2026-11-07T10:53:53Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -1003,10 +1003,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-06",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b92923941e28186cb3cb2604fed887d1e7c3296a",
-    "commit_sha": "b92923941e28186cb3cb2604fed887d1e7c3296a",
-    "commit_date": "2026-11-06",
+    "last_updated": "2026-11-07",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/db068c637d0382f19948c78dcc79f3c14b85ff82",
+    "commit_sha": "db068c637d0382f19948c78dcc79f3c14b85ff82",
+    "commit_date": "2026-11-07",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-06T22:53:12Z"
+    "raw_updated_at": "2026-11-07T05:16:35Z"
   },
   {
     "repo": "devops-skills",
@@ -1457,11 +1457,11 @@
     "repo": "interviews.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com",
     "description": "This project powers a modern web UI designed to help DevOps professionals prepare for interviews with curated, categorized, and regularly updated questions.",
-    "last_updated": "2026-06-13",
-    "latest_commit": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/fd5d26969e6907f9b1aae0e57a738946870e88b8",
-    "commit_sha": "fd5d26969e6907f9b1aae0e57a738946870e88b8",
-    "commit_date": "2025-08-11",
-    "commit_message": "interview-hub: feat: enhance animations and styles across components, including CTA, FeaturesSection, and HeroSection for improved user experience",
+    "last_updated": "2026-11-07",
+    "latest_commit": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/eba0f417b020a6bc02eb85fc2b753434bcee2acb",
+    "commit_sha": "eba0f417b020a6bc02eb85fc2b753434bcee2acb",
+    "commit_date": "2026-11-07",
+    "commit_message": "interview-hub: feat: add eslint-config-next dependency",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 6,
@@ -1476,7 +1476,7 @@
     ],
     "license": "No license",
     "topics": [],
-    "raw_updated_at": "2026-06-13T10:42:49Z"
+    "raw_updated_at": "2026-11-07T12:39:13Z"
   },
   {
     "repo": "personal-portfolio",
@@ -1917,6 +1917,32 @@
     "raw_updated_at": "2026-10-19T18:50:01Z"
   },
   {
+    "repo": "terraview",
+    "url": "https://github.com/NotHarshhaa/terraview",
+    "description": "A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / active / inactive / not yet provisioned) — categorized by service type, cloud provider, module. ",
+    "last_updated": "2026-11-07",
+    "latest_commit": "https://github.com/NotHarshhaa/terraview/commit/5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
+    "commit_sha": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
+    "commit_date": "2026-08-01",
+    "commit_message": "terraview: Update resource filtering and testing capabilities",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 3,
+    "forks": 0,
+    "watchers": 3,
+    "ci_cd_status": "pass",
+    "languages": [
+      "TypeScript",
+      "Go",
+      "CSS",
+      "Dockerfile",
+      "Makefile"
+    ],
+    "license": "Apache License 2.0",
+    "topics": [],
+    "raw_updated_at": "2026-11-07T11:43:05Z"
+  },
+  {
     "repo": "devops-agent-kit",
     "url": "https://github.com/NotHarshhaa/devops-agent-kit",
     "description": "Bring AI-powered reasoning to your Kubernetes, ArgoCD, and Prometheus workflows with a Go CLI, pluggable tool bindings, and dual agent brains (AutoGen + LangGraph) as submodules.",
@@ -2093,32 +2119,6 @@
       "kubernetes-monitoring"
     ],
     "raw_updated_at": "2026-10-16T05:59:40Z"
-  },
-  {
-    "repo": "terraview",
-    "url": "https://github.com/NotHarshhaa/terraview",
-    "description": "A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / active / inactive / not yet provisioned) — categorized by service type, cloud provider, module. ",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/terraview/commit/5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
-    "commit_sha": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f",
-    "commit_date": "2026-08-01",
-    "commit_message": "terraview: Update resource filtering and testing capabilities",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 2,
-    "forks": 0,
-    "watchers": 2,
-    "ci_cd_status": "pass",
-    "languages": [
-      "TypeScript",
-      "Go",
-      "CSS",
-      "Dockerfile",
-      "Makefile"
-    ],
-    "license": "Apache License 2.0",
-    "topics": [],
-    "raw_updated_at": "2026-10-28T19:22:42Z"
   },
   {
     "repo": "slimify",

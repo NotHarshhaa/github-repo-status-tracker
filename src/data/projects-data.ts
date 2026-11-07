@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5550,
+    "stars": 5552,
     "forks": 4958,
     "issues": 30,
-    "lastUpdated": "2026-11-07T03:04:46Z",
+    "lastUpdated": "2026-11-07T09:02:33Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1311,
+    "stars": 1312,
     "forks": 949,
     "issues": 4,
-    "lastUpdated": "2026-11-07T03:14:17Z",
+    "lastUpdated": "2026-11-07T06:48:19Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 537,
+    "stars": 538,
     "forks": 406,
     "issues": 1,
-    "lastUpdated": "2026-11-03T05:37:31Z",
+    "lastUpdated": "2026-11-07T10:53:53Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-06T22:53:12Z",
-    "lastCommit": "b92923941e28186cb3cb2604fed887d1e7c3296a"
+    "lastUpdated": "2026-11-07T05:16:35Z",
+    "lastCommit": "db068c637d0382f19948c78dcc79f3c14b85ff82"
   },
   {
     "title": "Devops skills",
@@ -977,8 +977,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-06-13T10:42:49Z",
-    "lastCommit": "fd5d26969e6907f9b1aae0e57a738946870e88b8"
+    "lastUpdated": "2026-11-07T12:39:13Z",
+    "lastCommit": "eba0f417b020a6bc02eb85fc2b753434bcee2acb"
   },
   {
     "title": "Personal portfolio",
@@ -1290,6 +1290,26 @@ export const PROJECTS: Project[] = [
     "lastCommit": "9653fc237f4e1b472f15309d09bb46126e52ea97"
   },
   {
+    "title": "Terraview",
+    "techStack": [
+      "TypeScript",
+      "Go",
+      "CSS",
+      "Dockerfile",
+      "Makefile"
+    ],
+    "description": "A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / active / inactive / not yet provisioned) — categorized by ser...",
+    "link": {
+      "label": "github.com/terraview",
+      "href": "https://github.com/NotHarshhaa/terraview"
+    },
+    "stars": 3,
+    "forks": 0,
+    "issues": 0,
+    "lastUpdated": "2026-11-07T11:43:05Z",
+    "lastCommit": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f"
+  },
+  {
     "title": "Devops agent kit",
     "techStack": [
       "Python",
@@ -1408,26 +1428,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-10-16T05:59:40Z",
     "lastCommit": "dca4f7d86d5a3c5589fb9e3a09ee4fdf4fedcbac"
-  },
-  {
-    "title": "Terraview",
-    "techStack": [
-      "TypeScript",
-      "Go",
-      "CSS",
-      "Dockerfile",
-      "Makefile"
-    ],
-    "description": "A lightweight, self-hostable, git-native web UI you just drop into any Terraform repo that shows a live resource status grid (created / active / inactive / not yet provisioned) — categorized by ser...",
-    "link": {
-      "label": "github.com/terraview",
-      "href": "https://github.com/NotHarshhaa/terraview"
-    },
-    "stars": 2,
-    "forks": 0,
-    "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:42Z",
-    "lastCommit": "5a8d975a7340da923b8c2bfe6e82c2a4c0bf768f"
   },
   {
     "title": "Slimify",
