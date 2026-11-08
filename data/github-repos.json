@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5557,
-    "forks": 4962,
-    "watchers": 5557,
+    "stars": 5559,
+    "forks": 4965,
+    "watchers": 5559,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-08T01:40:02Z"
+    "raw_updated_at": "2026-11-08T12:31:19Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-11-02",
+    "last_updated": "2026-11-08",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 649,
+    "stars": 648,
     "forks": 237,
-    "watchers": 649,
+    "watchers": 648,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-11-02T20:12:04Z"
+    "raw_updated_at": "2026-11-08T07:29:34Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -193,7 +193,7 @@
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 378,
-    "forks": 275,
+    "forks": 276,
     "watchers": 378,
     "ci_cd_status": "none",
     "languages": [],
@@ -228,7 +228,7 @@
     "author": "NotHarshhaa",
     "issues": 5,
     "stars": 246,
-    "forks": 164,
+    "forks": 165,
     "watchers": 246,
     "ci_cd_status": "none",
     "languages": [
@@ -252,16 +252,16 @@
     "repo": "Kubernetes",
     "url": "https://github.com/NotHarshhaa/Kubernetes",
     "description": "📌 Master Kubernetes in One Place! From basic deployments to advanced real-time applications, this repository is a one-stop solution to learn, deploy, and manage applications in Kubernetes like a pro!  ",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-08",
     "latest_commit": "https://github.com/NotHarshhaa/Kubernetes/commit/45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_sha": "45b236f64db0c06a4c4b395111a50f6330a43b58",
     "commit_date": "2026-09-30",
     "commit_message": "Kubernetes: Update various resource configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 211,
+    "stars": 212,
     "forks": 213,
-    "watchers": 211,
+    "watchers": 212,
     "ci_cd_status": "none",
     "languages": [
       "Dockerfile"
@@ -276,7 +276,7 @@
       "kubernetes-monitoring",
       "kubernetes-operator"
     ],
-    "raw_updated_at": "2026-11-03T05:42:40Z"
+    "raw_updated_at": "2026-11-08T09:03:20Z"
   },
   {
     "repo": "DevOps_Setup-Installations",
@@ -1003,10 +1003,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-07",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/6b4eb94fe3395898e303180141c5c261918028e4",
-    "commit_sha": "6b4eb94fe3395898e303180141c5c261918028e4",
-    "commit_date": "2026-11-07",
+    "last_updated": "2026-11-08",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ea25185ded4960bb9d69c484602c5b47d06e514d",
+    "commit_sha": "ea25185ded4960bb9d69c484602c5b47d06e514d",
+    "commit_date": "2026-11-08",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-07T21:37:35Z"
+    "raw_updated_at": "2026-11-08T05:13:58Z"
   },
   {
     "repo": "devops-skills",
@@ -1457,11 +1457,11 @@
     "repo": "interviews.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com",
     "description": "This project powers a modern web UI designed to help DevOps professionals prepare for interviews with curated, categorized, and regularly updated questions.",
-    "last_updated": "2026-11-07",
-    "latest_commit": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/2fa2a3b2576c45258773402a073fba74462750a5",
-    "commit_sha": "2fa2a3b2576c45258773402a073fba74462750a5",
-    "commit_date": "2026-11-07",
-    "commit_message": "interview-hub: feat: enhance networking and security documentation with detailed explanations and practical insights",
+    "last_updated": "2026-11-08",
+    "latest_commit": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/99a59679aa43230c27d6ccea525211d622fda964",
+    "commit_sha": "99a59679aa43230c27d6ccea525211d622fda964",
+    "commit_date": "2026-11-08",
+    "commit_message": "interview-hub: feat: add comprehensive README for DevOps Interview Hub",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 6,
@@ -1476,7 +1476,7 @@
     ],
     "license": "No license",
     "topics": [],
-    "raw_updated_at": "2026-11-07T16:48:28Z"
+    "raw_updated_at": "2026-11-08T11:33:01Z"
   },
   {
     "repo": "personal-portfolio",

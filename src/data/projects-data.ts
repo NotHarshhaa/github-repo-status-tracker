@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5557,
-    "forks": 4962,
+    "stars": 5559,
+    "forks": 4965,
     "issues": 30,
-    "lastUpdated": "2026-11-08T01:40:02Z",
+    "lastUpdated": "2026-11-08T12:31:19Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 649,
+    "stars": 648,
     "forks": 237,
     "issues": 4,
-    "lastUpdated": "2026-11-02T20:12:04Z",
+    "lastUpdated": "2026-11-08T07:29:34Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 378,
-    "forks": 275,
+    "forks": 276,
     "issues": 3,
     "lastUpdated": "2026-11-03T05:41:13Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
@@ -160,7 +160,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 246,
-    "forks": 164,
+    "forks": 165,
     "issues": 5,
     "lastUpdated": "2026-11-05T20:36:40Z",
     "lastCommit": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92"
@@ -180,10 +180,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Kubernetes",
       "href": "https://github.com/NotHarshhaa/Kubernetes"
     },
-    "stars": 211,
+    "stars": 212,
     "forks": 213,
     "issues": 0,
-    "lastUpdated": "2026-11-03T05:42:40Z",
+    "lastUpdated": "2026-11-08T09:03:20Z",
     "lastCommit": "45b236f64db0c06a4c4b395111a50f6330a43b58"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-07T21:37:35Z",
-    "lastCommit": "6b4eb94fe3395898e303180141c5c261918028e4"
+    "lastUpdated": "2026-11-08T05:13:58Z",
+    "lastCommit": "ea25185ded4960bb9d69c484602c5b47d06e514d"
   },
   {
     "title": "Devops skills",
@@ -977,8 +977,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 3,
     "issues": 0,
-    "lastUpdated": "2026-11-07T16:48:28Z",
-    "lastCommit": "2fa2a3b2576c45258773402a073fba74462750a5"
+    "lastUpdated": "2026-11-08T11:33:01Z",
+    "lastCommit": "99a59679aa43230c27d6ccea525211d622fda964"
   },
   {
     "title": "Personal portfolio",
