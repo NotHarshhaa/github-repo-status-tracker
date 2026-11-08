@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1312,
+    "stars": 1314,
     "forks": 949,
     "issues": 4,
-    "lastUpdated": "2026-11-08T02:09:13Z",
+    "lastUpdated": "2026-11-08T21:37:35Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 538,
+    "stars": 539,
     "forks": 406,
     "issues": 1,
-    "lastUpdated": "2026-11-07T10:53:53Z",
+    "lastUpdated": "2026-11-08T13:38:56Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
   },
   {
@@ -330,8 +330,8 @@ export const PROJECTS: Project[] = [
     "stars": 74,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-09-06T16:03:25Z",
-    "lastCommit": "85af1d99301781702234e86fabf16213bbdeddf1"
+    "lastUpdated": "2026-11-08T16:12:08Z",
+    "lastCommit": "8cee130086cde25ad260ef8fb17818ceec4ddcd9"
   },
   {
     "title": "Dev Ops  Tool  Installer",
@@ -372,8 +372,8 @@ export const PROJECTS: Project[] = [
     "stars": 63,
     "forks": 53,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:22Z",
-    "lastCommit": "76ce74c2cb8a22403c49a534468a790647ebce29"
+    "lastUpdated": "2026-11-08T18:46:59Z",
+    "lastCommit": "8d226dbe7c6363511dfbb79e6ba12eab864e8020"
   },
   {
     "title": "Aws billing alert terraform",
@@ -599,6 +599,26 @@ export const PROJECTS: Project[] = [
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
   },
   {
+    "title": "Devops project templates",
+    "techStack": [
+      "HCL",
+      "Shell",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
+    "link": {
+      "label": "github.com/devops-project-templates",
+      "href": "https://github.com/NotHarshhaa/devops-project-templates"
+    },
+    "stars": 14,
+    "forks": 5,
+    "issues": 0,
+    "lastUpdated": "2026-11-08T14:41:27Z",
+    "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
+  },
+  {
     "title": "Cv portfolio",
     "techStack": [
       "cv",
@@ -636,26 +656,6 @@ export const PROJECTS: Project[] = [
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
   {
-    "title": "Devops project templates",
-    "techStack": [
-      "HCL",
-      "Shell",
-      "JavaScript",
-      "CSS",
-      "HTML"
-    ],
-    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
-    "link": {
-      "label": "github.com/devops-project-templates",
-      "href": "https://github.com/NotHarshhaa/devops-project-templates"
-    },
-    "stars": 13,
-    "forks": 5,
-    "issues": 0,
-    "lastUpdated": "2026-11-04T13:29:44Z",
-    "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
-  },
-  {
     "title": "Github repo status tracker",
     "techStack": [
       "TypeScript",
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-08T05:13:58Z",
-    "lastCommit": "ea25185ded4960bb9d69c484602c5b47d06e514d"
+    "lastUpdated": "2026-11-08T12:58:45Z",
+    "lastCommit": "05b11f2cef63f59a984f10d39eb7068546aa9b64"
   },
   {
     "title": "Devops skills",

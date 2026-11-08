@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1312,
+    "stars": 1314,
     "forks": 949,
-    "watchers": 1312,
+    "watchers": 1314,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-08T02:09:13Z"
+    "raw_updated_at": "2026-11-08T21:37:35Z"
   },
   {
     "repo": "into-the-devops",
@@ -155,16 +155,16 @@
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-11-07",
+    "last_updated": "2026-11-08",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_sha": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_date": "2026-11-01",
     "commit_message": "Kubernetes: README update: Enhance the structure and content of README.md by adding a new \"What's Inside\" section, improving prerequisites descriptions, and including detailed installation instructions for essential tools. Additionally, introduce new guides and resources for better navigation and learning paths in Kubernetes.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 538,
+    "stars": 539,
     "forks": 406,
-    "watchers": 538,
+    "watchers": 539,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-11-07T10:53:53Z"
+    "raw_updated_at": "2026-11-08T13:38:56Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -477,11 +477,11 @@
     "repo": "eks-cluster-terraform",
     "url": "https://github.com/NotHarshhaa/eks-cluster-terraform",
     "description": "This project uses Terraform to provision an Amazon EKS Cluster on AWS. By leveraging Infrastructure as Code (IaC), we automate the deployment of Kubernetes clusters with modular and reusable Terraform configurations.",
-    "last_updated": "2026-09-06",
-    "latest_commit": "https://github.com/NotHarshhaa/eks-cluster-terraform/commit/85af1d99301781702234e86fabf16213bbdeddf1",
-    "commit_sha": "85af1d99301781702234e86fabf16213bbdeddf1",
-    "commit_date": "2025-03-28",
-    "commit_message": "Terraform: Update Kubernetes deployment configuration and enhance .gitignore for better resource management",
+    "last_updated": "2026-11-08",
+    "latest_commit": "https://github.com/NotHarshhaa/eks-cluster-terraform/commit/8cee130086cde25ad260ef8fb17818ceec4ddcd9",
+    "commit_sha": "8cee130086cde25ad260ef8fb17818ceec4ddcd9",
+    "commit_date": "2026-11-08",
+    "commit_message": "Terraform: Update .gitignore, add .terraform.lock.hcl, and enhance Kubernetes deployment with improved configurations",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 74,
@@ -500,7 +500,7 @@
       "terraform",
       "terraform-modules"
     ],
-    "raw_updated_at": "2026-09-06T16:03:25Z"
+    "raw_updated_at": "2026-11-08T16:12:08Z"
   },
   {
     "repo": "DevOps-Tool-Installer",
@@ -541,17 +541,17 @@
     "repo": "kubernetes-dashboard",
     "url": "https://github.com/NotHarshhaa/kubernetes-dashboard",
     "description": "This dashboard unifies multi-cluster fleet operations, real-time Metrics Server telemetry, AI/GPU accelerator observability, GitOps workflow safeguards (ArgoCD & Flux), next-gen Gateway API routing, and browser-native ANSI container terminal execution. Eliminate tool sprawl, prevent configuration drift, and manage mission-critical cloud-native work",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/76ce74c2cb8a22403c49a534468a790647ebce29",
-    "commit_sha": "76ce74c2cb8a22403c49a534468a790647ebce29",
-    "commit_date": "2026-09-13",
-    "commit_message": "Kubernetes-dashboard: update ESLint configuration and refine component imports",
+    "last_updated": "2026-11-08",
+    "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/8d226dbe7c6363511dfbb79e6ba12eab864e8020",
+    "commit_sha": "8d226dbe7c6363511dfbb79e6ba12eab864e8020",
+    "commit_date": "2026-11-08",
+    "commit_message": "Kubernetes-dashboard: update project configuration and enhance documentation",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 63,
     "forks": 53,
     "watchers": 63,
-    "ci_cd_status": "pass",
+    "ci_cd_status": "fail",
     "languages": [
       "TypeScript",
       "CSS",
@@ -569,7 +569,7 @@
       "kubernetes-setup",
       "monitoring"
     ],
-    "raw_updated_at": "2026-10-28T19:22:22Z"
+    "raw_updated_at": "2026-11-08T18:46:59Z"
   },
   {
     "repo": "aws-billing-alert-terraform",
@@ -920,6 +920,32 @@
     "raw_updated_at": "2026-09-04T05:31:17Z"
   },
   {
+    "repo": "devops-project-templates",
+    "url": "https://github.com/NotHarshhaa/devops-project-templates",
+    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
+    "last_updated": "2026-11-08",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679",
+    "commit_sha": "6a322f381ee00547ce805cefbe44570763122679",
+    "commit_date": "2026-04-10",
+    "commit_message": "devops-templates: Refactor Dockerfiles and nginx configurations for improved security",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 14,
+    "forks": 5,
+    "watchers": 14,
+    "ci_cd_status": "fail",
+    "languages": [
+      "HCL",
+      "Shell",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-11-08T14:41:27Z"
+  },
+  {
     "repo": "cv-portfolio",
     "url": "https://github.com/NotHarshhaa/cv-portfolio",
     "description": "A modern, responsive, and print-ready CV portfolio showcasing hands-on expertise across Platform Engineering, DevOps, AI Infrastructure, GenAI, AI Agents, MCP, LLMOps, and AI Product Development.",
@@ -974,38 +1000,12 @@
     "raw_updated_at": "2026-08-13T13:46:23Z"
   },
   {
-    "repo": "devops-project-templates",
-    "url": "https://github.com/NotHarshhaa/devops-project-templates",
-    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
-    "last_updated": "2026-11-04",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679",
-    "commit_sha": "6a322f381ee00547ce805cefbe44570763122679",
-    "commit_date": "2026-04-10",
-    "commit_message": "devops-templates: Refactor Dockerfiles and nginx configurations for improved security",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 13,
-    "forks": 5,
-    "watchers": 13,
-    "ci_cd_status": "fail",
-    "languages": [
-      "HCL",
-      "Shell",
-      "JavaScript",
-      "CSS",
-      "HTML"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-11-04T13:29:44Z"
-  },
-  {
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-08",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ea25185ded4960bb9d69c484602c5b47d06e514d",
-    "commit_sha": "ea25185ded4960bb9d69c484602c5b47d06e514d",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/05b11f2cef63f59a984f10d39eb7068546aa9b64",
+    "commit_sha": "05b11f2cef63f59a984f10d39eb7068546aa9b64",
     "commit_date": "2026-11-08",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-08T05:13:58Z"
+    "raw_updated_at": "2026-11-08T12:58:45Z"
   },
   {
     "repo": "devops-skills",
