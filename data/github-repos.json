@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5559,
+    "stars": 5561,
     "forks": 4965,
-    "watchers": 5559,
+    "watchers": 5561,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-08T12:31:19Z"
+    "raw_updated_at": "2026-11-09T02:46:22Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -1004,8 +1004,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-08",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/05b11f2cef63f59a984f10d39eb7068546aa9b64",
-    "commit_sha": "05b11f2cef63f59a984f10d39eb7068546aa9b64",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/11e5a6f47d38018d7c379242f77e9084069270c1",
+    "commit_sha": "11e5a6f47d38018d7c379242f77e9084069270c1",
     "commit_date": "2026-11-08",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-08T12:58:45Z"
+    "raw_updated_at": "2026-11-08T21:51:27Z"
   },
   {
     "repo": "devops-skills",
