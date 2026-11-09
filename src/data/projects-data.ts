@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5561,
-    "forks": 4965,
+    "stars": 5566,
+    "forks": 4967,
     "issues": 30,
-    "lastUpdated": "2026-11-09T02:46:22Z",
+    "lastUpdated": "2026-11-09T15:16:14Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -57,7 +57,7 @@ export const PROJECTS: Project[] = [
     "stars": 1314,
     "forks": 949,
     "issues": 4,
-    "lastUpdated": "2026-11-08T21:37:35Z",
+    "lastUpdated": "2026-11-09T14:10:38Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -159,10 +159,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 246,
+    "stars": 247,
     "forks": 165,
     "issues": 5,
-    "lastUpdated": "2026-11-05T20:36:40Z",
+    "lastUpdated": "2026-11-09T09:56:35Z",
     "lastCommit": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92"
   },
   {
@@ -372,8 +372,8 @@ export const PROJECTS: Project[] = [
     "stars": 63,
     "forks": 53,
     "issues": 0,
-    "lastUpdated": "2026-11-08T18:46:59Z",
-    "lastCommit": "8d226dbe7c6363511dfbb79e6ba12eab864e8020"
+    "lastUpdated": "2026-11-09T11:42:44Z",
+    "lastCommit": "14db0e6188e73851faa51989b4a9066cac605dd8"
   },
   {
     "title": "Aws billing alert terraform",
@@ -404,10 +404,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 43,
+    "stars": 44,
     "forks": 18,
     "issues": 1,
-    "lastUpdated": "2026-11-07T15:34:48Z",
+    "lastUpdated": "2026-11-09T07:17:25Z",
     "lastCommit": "4488e7f514553a0ab61089cb6a388332970acc75"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-08T21:51:27Z",
-    "lastCommit": "11e5a6f47d38018d7c379242f77e9084069270c1"
+    "lastUpdated": "2026-11-09T05:25:38Z",
+    "lastCommit": "3404ed56966c55f1778f37f4ace5d807b9587a97"
   },
   {
     "title": "Devops skills",

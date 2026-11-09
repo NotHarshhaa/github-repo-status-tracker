@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5561,
-    "forks": 4965,
-    "watchers": 5561,
+    "stars": 5566,
+    "forks": 4967,
+    "watchers": 5566,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,13 +43,13 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-09T02:46:22Z"
+    "raw_updated_at": "2026-11-09T15:16:14Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-08T21:37:35Z"
+    "raw_updated_at": "2026-11-09T14:10:38Z"
   },
   {
     "repo": "into-the-devops",
@@ -220,16 +220,16 @@
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-11-05",
+    "last_updated": "2026-11-09",
     "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_sha": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_date": "2026-11-02",
     "commit_message": "DevOps-Tools: Expand README with new tools and categories for enhanced resource coverage",
     "author": "NotHarshhaa",
     "issues": 5,
-    "stars": 246,
+    "stars": 247,
     "forks": 165,
-    "watchers": 246,
+    "watchers": 247,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -246,7 +246,7 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-11-05T20:36:40Z"
+    "raw_updated_at": "2026-11-09T09:56:35Z"
   },
   {
     "repo": "Kubernetes",
@@ -541,17 +541,17 @@
     "repo": "kubernetes-dashboard",
     "url": "https://github.com/NotHarshhaa/kubernetes-dashboard",
     "description": "This dashboard unifies multi-cluster fleet operations, real-time Metrics Server telemetry, AI/GPU accelerator observability, GitOps workflow safeguards (ArgoCD & Flux), next-gen Gateway API routing, and browser-native ANSI container terminal execution. Eliminate tool sprawl, prevent configuration drift, and manage mission-critical cloud-native work",
-    "last_updated": "2026-11-08",
-    "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/8d226dbe7c6363511dfbb79e6ba12eab864e8020",
-    "commit_sha": "8d226dbe7c6363511dfbb79e6ba12eab864e8020",
-    "commit_date": "2026-11-08",
-    "commit_message": "Kubernetes-dashboard: update project configuration and enhance documentation",
-    "author": "NotHarshhaa",
+    "last_updated": "2026-11-09",
+    "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/14db0e6188e73851faa51989b4a9066cac605dd8",
+    "commit_sha": "14db0e6188e73851faa51989b4a9066cac605dd8",
+    "commit_date": "2026-11-09",
+    "commit_message": "fix: potential fix for code scanning alert no. 129: Server-side request forgery",
+    "author": "𝙃 𝘼 𝙍 𝙎 𝙃 𝙃 𝘼 𝘼",
     "issues": 0,
     "stars": 63,
     "forks": 53,
     "watchers": 63,
-    "ci_cd_status": "fail",
+    "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
       "CSS",
@@ -569,7 +569,7 @@
       "kubernetes-setup",
       "monitoring"
     ],
-    "raw_updated_at": "2026-11-08T18:46:59Z"
+    "raw_updated_at": "2026-11-09T11:42:44Z"
   },
   {
     "repo": "aws-billing-alert-terraform",
@@ -603,21 +603,21 @@
     "repo": "ai-platform-engineering-handbook",
     "url": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook",
     "description": "Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, and cloud-native architecture patterns.",
-    "last_updated": "2026-11-07",
+    "last_updated": "2026-11-09",
     "latest_commit": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/4488e7f514553a0ab61089cb6a388332970acc75",
     "commit_sha": "4488e7f514553a0ab61089cb6a388332970acc75",
     "commit_date": "2026-11-06",
     "commit_message": "ai-platform-handbook: Add new sections on enterprise AI agents and platform architecture",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 43,
+    "stars": 44,
     "forks": 18,
-    "watchers": 43,
+    "watchers": 44,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-07T15:34:48Z"
+    "raw_updated_at": "2026-11-09T07:17:25Z"
   },
   {
     "repo": "Cloud-Native-DevOps-Project",
@@ -1003,10 +1003,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-08",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/11e5a6f47d38018d7c379242f77e9084069270c1",
-    "commit_sha": "11e5a6f47d38018d7c379242f77e9084069270c1",
-    "commit_date": "2026-11-08",
+    "last_updated": "2026-11-09",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3404ed56966c55f1778f37f4ace5d807b9587a97",
+    "commit_sha": "3404ed56966c55f1778f37f4ace5d807b9587a97",
+    "commit_date": "2026-11-09",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-08T21:51:27Z"
+    "raw_updated_at": "2026-11-09T05:25:38Z"
   },
   {
     "repo": "devops-skills",
