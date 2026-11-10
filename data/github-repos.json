@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5566,
-    "forks": 4967,
-    "watchers": 5566,
+    "stars": 5567,
+    "forks": 4968,
+    "watchers": 5567,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-09T15:16:14Z"
+    "raw_updated_at": "2026-11-09T20:37:37Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1314,
-    "forks": 949,
+    "forks": 950,
     "watchers": 1314,
     "ci_cd_status": "none",
     "languages": [],
@@ -316,16 +316,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-02",
+    "last_updated": "2026-11-09",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 168,
+    "stars": 169,
     "forks": 78,
-    "watchers": 168,
+    "watchers": 169,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -345,7 +345,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-11-02T23:44:38Z"
+    "raw_updated_at": "2026-11-09T16:53:55Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -891,6 +891,32 @@
     "raw_updated_at": "2026-09-04T05:47:24Z"
   },
   {
+    "repo": "devops-project-templates",
+    "url": "https://github.com/NotHarshhaa/devops-project-templates",
+    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
+    "last_updated": "2026-11-10",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679",
+    "commit_sha": "6a322f381ee00547ce805cefbe44570763122679",
+    "commit_date": "2026-04-10",
+    "commit_message": "devops-templates: Refactor Dockerfiles and nginx configurations for improved security",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 15,
+    "forks": 5,
+    "watchers": 15,
+    "ci_cd_status": "fail",
+    "languages": [
+      "HCL",
+      "Shell",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-11-10T01:10:00Z"
+  },
+  {
     "repo": "Deployment-of-super-Mario-on-Kubernetes-using-terraform",
     "url": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform",
     "description": "Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Amazon EKS (Elastic Kubernetes Service) using Terraform and manage infrastructure with AWS resources.",
@@ -918,32 +944,6 @@
       "terraform-modules"
     ],
     "raw_updated_at": "2026-09-04T05:31:17Z"
-  },
-  {
-    "repo": "devops-project-templates",
-    "url": "https://github.com/NotHarshhaa/devops-project-templates",
-    "description": "A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.",
-    "last_updated": "2026-11-08",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679",
-    "commit_sha": "6a322f381ee00547ce805cefbe44570763122679",
-    "commit_date": "2026-04-10",
-    "commit_message": "devops-templates: Refactor Dockerfiles and nginx configurations for improved security",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 14,
-    "forks": 5,
-    "watchers": 14,
-    "ci_cd_status": "fail",
-    "languages": [
-      "HCL",
-      "Shell",
-      "JavaScript",
-      "CSS",
-      "HTML"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-11-08T14:41:27Z"
   },
   {
     "repo": "cv-portfolio",
@@ -1004,8 +1004,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-09",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3404ed56966c55f1778f37f4ace5d807b9587a97",
-    "commit_sha": "3404ed56966c55f1778f37f4ace5d807b9587a97",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/222af1727b61fd90a7f2006a9cd36d77c5fa6539",
+    "commit_sha": "222af1727b61fd90a7f2006a9cd36d77c5fa6539",
     "commit_date": "2026-11-09",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-09T05:25:38Z"
+    "raw_updated_at": "2026-11-09T15:39:04Z"
   },
   {
     "repo": "devops-skills",

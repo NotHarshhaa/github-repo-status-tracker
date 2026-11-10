@@ -1,23 +1,23 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-09%2015%3A38:58.444 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-10%2001%3A19:43.005 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,513** combined stars
+**87** repositories tracked · **11,516** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,513** stars · **9,393** forks · **74** open issues
+> **87** repositories · **11,516** stars · **9,395** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,566 | 4,967 | 30 | — | 2026-11-09 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,314 | 949 | 4 | — | 2026-11-09 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,567 | 4,968 | 30 | — | 2026-11-09 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,314 | 950 | 4 | — | 2026-11-09 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 924 | 546 | 0 | — | 2026-11-02 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 648 | 237 | 4 | — | 2026-11-08 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 539 | 406 | 1 | — | 2026-11-08 |
@@ -25,7 +25,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 247 | 165 | 5 | — | 2026-11-09 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 212 | 213 | 0 | — | 2026-11-08 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 197 | 210 | 0 | — | 2026-10-17 |
-| 10 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 168 | 78 | 0 | — | 2026-11-02 |
+| 10 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 169 | 78 | 0 | — | 2026-11-09 |
 | 11 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 165 | 124 | 0 | — | 2026-10-25 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 140 | 119 | 1 | Fail | 2026-11-06 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 135 | 59 | 0 | — | 2026-11-03 |
@@ -43,8 +43,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 25 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 21 | 23 | 1 | Pass | 2026-10-28 |
 | 26 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 26 | 1 | — | 2026-06-04 |
 | 27 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 17 | 88 | 2 | — | 2026-09-04 |
-| 28 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 14 | 38 | 1 | — | 2026-09-04 |
-| 29 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 14 | 5 | 0 | Fail | 2026-11-08 |
+| 28 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 15 | 5 | 0 | Fail | 2026-11-10 |
+| 29 | [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform) | 14 | 38 | 1 | — | 2026-09-04 |
 | 30 | [cv-portfolio](https://github.com/NotHarshhaa/cv-portfolio) | 14 | 12 | 0 | — | 2026-10-29 |
 | 31 | [awesome-devops-cloud](https://github.com/NotHarshhaa/awesome-devops-cloud) | 14 | 19 | 8 | — | 2026-08-13 |
 | 32 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 13 | 20 | 0 | — | 2026-11-09 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,566
-  &nbsp;·&nbsp; 🍴 4,967
+  &nbsp;·&nbsp; ⭐ 5,567
+  &nbsp;·&nbsp; 🍴 4,968
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -141,7 +141,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
   &nbsp;·&nbsp; ⭐ 1,314
-  &nbsp;·&nbsp; 🍴 949
+  &nbsp;·&nbsp; 🍴 950
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
 </summary>
@@ -364,7 +364,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-Projects">AWS-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 168
+  &nbsp;·&nbsp; ⭐ 169
   &nbsp;·&nbsp; 🍴 78
   &nbsp;·&nbsp; CI —
   <br><sub>Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containe...</sub>
@@ -381,7 +381,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System](https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a) |
 | **Commit date** | `2026-09-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-02` |
+| **Repo updated** | `2026-11-09` |
 | **License** | `No license` |
 | **Languages** | `Python` · `HTML` |
 | **Topics** | `aws` · `aws-apigateway` · `aws-cli` · `aws-cloud` · `aws-cloudformation` · `aws-ec2` |
@@ -864,6 +864,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:devops-project-templates -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-project-templates">devops-project-templates</a></strong>
+  &nbsp;·&nbsp; ⭐ 15
+  &nbsp;·&nbsp; 🍴 5
+  &nbsp;·&nbsp; CI Fail
+  <br><sub>A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [devops-templates: Refactor Dockerfiles and nginx configurations for improved security](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) |
+| **Commit date** | `2026-04-10` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-11-10` |
+| **License** | `MIT License` |
+| **Languages** | `HCL` · `Shell` · `JavaScript` · `CSS` · `HTML` |
+| **Topics** | _None_ |
+
+</details>
+
 <!-- repo:Deployment-of-super-Mario-on-Kubernetes-using-terraform -->
 <details>
 <summary>
@@ -889,34 +917,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `No license` |
 | **Languages** | `HCL` |
 | **Topics** | `aws` · `aws-ec2` · `eks` · `supermario` · `terraform` · `terraform-modules` |
-
-</details>
-
-<!-- repo:devops-project-templates -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/devops-project-templates">devops-project-templates</a></strong>
-  &nbsp;·&nbsp; ⭐ 14
-  &nbsp;·&nbsp; 🍴 5
-  &nbsp;·&nbsp; CI Fail
-  <br><sub>A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-project-templates?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-project-templates?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-project-templates?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-project-templates?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [devops-templates: Refactor Dockerfiles and nginx configurations for improved security](https://github.com/NotHarshhaa/devops-project-templates/commit/6a322f381ee00547ce805cefbe44570763122679) |
-| **Commit date** | `2026-04-10` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-08` |
-| **License** | `MIT License` |
-| **Languages** | `HCL` · `Shell` · `JavaScript` · `CSS` · `HTML` |
-| **Topics** | _None_ |
 
 </details>
 
@@ -994,7 +994,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/3404ed56966c55f1778f37f4ace5d807b9587a97) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/222af1727b61fd90a7f2006a9cd36d77c5fa6539) |
 | **Commit date** | `2026-11-09` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-09` |
