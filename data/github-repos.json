@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-11",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5573,
-    "forks": 4969,
-    "watchers": 5573,
+    "stars": 5574,
+    "forks": 4972,
+    "watchers": 5574,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-10T22:41:36Z"
+    "raw_updated_at": "2026-11-11T04:17:00Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -185,16 +185,16 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-11",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
     "commit_sha": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
     "commit_date": "2026-10-29",
     "commit_message": "DevOps-Cheatsheet: chore: Remove obsolete configuration and assets",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 378,
+    "stars": 379,
     "forks": 276,
-    "watchers": 378,
+    "watchers": 379,
     "ci_cd_status": "none",
     "languages": [],
     "license": "GNU General Public License v2.0",
@@ -214,7 +214,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-11-03T05:41:13Z"
+    "raw_updated_at": "2026-11-11T04:21:37Z"
   },
   {
     "repo": "devops-tools",
@@ -1004,8 +1004,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-10",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8767c069d5ac05d7da8545d4645831e33fcbb357",
-    "commit_sha": "8767c069d5ac05d7da8545d4645831e33fcbb357",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ebf8115e9f12318d4a257e5e279bd913b57701a3",
+    "commit_sha": "ebf8115e9f12318d4a257e5e279bd913b57701a3",
     "commit_date": "2026-11-10",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-10T14:34:41Z"
+    "raw_updated_at": "2026-11-10T23:59:27Z"
   },
   {
     "repo": "devops-skills",
