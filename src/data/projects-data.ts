@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5574,
-    "forks": 4972,
+    "stars": 5575,
+    "forks": 4971,
     "issues": 30,
-    "lastUpdated": "2026-11-11T04:17:00Z",
+    "lastUpdated": "2026-11-11T09:36:22Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1315,
-    "forks": 951,
+    "forks": 953,
     "issues": 4,
     "lastUpdated": "2026-11-10T13:15:46Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -467,10 +467,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-DevOps_Real-Time_Deployment",
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
-    "stars": 32,
+    "stars": 33,
     "forks": 68,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:29Z",
+    "lastUpdated": "2026-11-11T09:20:59Z",
     "lastCommit": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8"
   },
   {
@@ -613,7 +613,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform"
     },
     "stars": 14,
-    "forks": 38,
+    "forks": 37,
     "issues": 1,
     "lastUpdated": "2026-09-04T05:31:17Z",
     "lastCommit": "882896355b69b1f3a94deed097829db93756f1ae"
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-10T23:59:27Z",
-    "lastCommit": "ebf8115e9f12318d4a257e5e279bd913b57701a3"
+    "lastUpdated": "2026-11-11T06:23:41Z",
+    "lastCommit": "8059c063c8defeb2f97627c5b0ea0a5def660ab6"
   },
   {
     "title": "Devops skills",
@@ -820,7 +820,7 @@ export const PROJECTS: Project[] = [
     "forks": 10,
     "issues": 0,
     "lastUpdated": "2026-10-28T19:22:18Z",
-    "lastCommit": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b"
+    "lastCommit": "0242476ab91a38f86cc1b4a90c29b2c458a2c0b5"
   },
   {
     "title": "Devops incident agent",
@@ -1176,8 +1176,8 @@ export const PROJECTS: Project[] = [
     "stars": 4,
     "forks": 2,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:34Z",
-    "lastCommit": "90cc314ec1cbeceda66b63d89f984f50eb183272"
+    "lastUpdated": "2026-11-11T13:31:07Z",
+    "lastCommit": "e740ecd845db39da345c9b0db937d0161c6701aa"
   },
   {
     "title": "Status.prodevopsguytech.com",

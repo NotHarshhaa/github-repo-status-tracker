@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5574,
-    "forks": 4972,
-    "watchers": 5574,
+    "stars": 5575,
+    "forks": 4971,
+    "watchers": 5575,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-11T04:17:00Z"
+    "raw_updated_at": "2026-11-11T09:36:22Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -57,7 +57,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 1315,
-    "forks": 951,
+    "forks": 953,
     "watchers": 1315,
     "ci_cd_status": "none",
     "languages": [],
@@ -700,16 +700,16 @@
     "repo": "AWS-DevOps_Real-Time_Deployment",
     "url": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment",
     "description": "🚀 Production-ready AWS DevOps CI/CD pipeline automating multi-environment deployments (Dev ➔ Staging ➔ Prod) using AWS CodePipeline, CodeBuild, CodeDeploy, and hardened Nginx.",
-    "last_updated": "2026-10-28",
+    "last_updated": "2026-11-11",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment/commit/8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8",
     "commit_sha": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8",
     "commit_date": "2026-08-28",
     "commit_message": "AWS-DevOps: Version 2.1 updates for production readiness and security enhancements",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 32,
+    "stars": 33,
     "forks": 68,
-    "watchers": 32,
+    "watchers": 33,
     "ci_cd_status": "none",
     "languages": [
       "Shell",
@@ -730,7 +730,7 @@
       "multi-environment",
       "nginx"
     ],
-    "raw_updated_at": "2026-10-28T19:22:29Z"
+    "raw_updated_at": "2026-11-11T09:20:59Z"
   },
   {
     "repo": "Learning-Prometheus",
@@ -928,7 +928,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 14,
-    "forks": 38,
+    "forks": 37,
     "watchers": 14,
     "ci_cd_status": "none",
     "languages": [
@@ -1003,10 +1003,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-10",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ebf8115e9f12318d4a257e5e279bd913b57701a3",
-    "commit_sha": "ebf8115e9f12318d4a257e5e279bd913b57701a3",
-    "commit_date": "2026-11-10",
+    "last_updated": "2026-11-11",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8059c063c8defeb2f97627c5b0ea0a5def660ab6",
+    "commit_sha": "8059c063c8defeb2f97627c5b0ea0a5def660ab6",
+    "commit_date": "2026-11-11",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-10T23:59:27Z"
+    "raw_updated_at": "2026-11-11T06:23:41Z"
   },
   {
     "repo": "devops-skills",
@@ -1221,10 +1221,10 @@
     "url": "https://github.com/NotHarshhaa/devops-project-generator",
     "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
     "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_sha": "2ffa5d1b23d5bc4493a8f12eb76551b97dd31d4b",
-    "commit_date": "2026-09-14",
-    "commit_message": "devops-gen: Enhance CLI with DevContainer and Git initialization options",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/0242476ab91a38f86cc1b4a90c29b2c458a2c0b5",
+    "commit_sha": "0242476ab91a38f86cc1b4a90c29b2c458a2c0b5",
+    "commit_date": "2026-11-11",
+    "commit_message": "devops-gen: Update global styles and layout for improved UI consistency",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 8,
@@ -1729,11 +1729,11 @@
     "repo": "mlops-project-generator",
     "url": "https://github.com/NotHarshhaa/mlops-project-generator",
     "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/mlops-project-generator/commit/90cc314ec1cbeceda66b63d89f984f50eb183272",
-    "commit_sha": "90cc314ec1cbeceda66b63d89f984f50eb183272",
-    "commit_date": "2026-08-27",
-    "commit_message": "MLOps-Gen: Update file preview and project configuration features",
+    "last_updated": "2026-11-11",
+    "latest_commit": "https://github.com/NotHarshhaa/mlops-project-generator/commit/e740ecd845db39da345c9b0db937d0161c6701aa",
+    "commit_sha": "e740ecd845db39da345c9b0db937d0161c6701aa",
+    "commit_date": "2026-11-11",
+    "commit_message": "MLOps-Gen: Enhance MLOpsForm and feedback components with new features and optimizations",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 4,
@@ -1756,7 +1756,7 @@
       "scikit-learn",
       "tensorflow"
     ],
-    "raw_updated_at": "2026-10-28T19:22:34Z"
+    "raw_updated_at": "2026-11-11T13:31:07Z"
   },
   {
     "repo": "status.prodevopsguytech.com",
