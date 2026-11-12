@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5578,
-    "forks": 4973,
-    "watchers": 5578,
+    "stars": 5580,
+    "forks": 4974,
+    "watchers": 5580,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-12T11:37:24Z"
+    "raw_updated_at": "2026-11-12T18:45:04Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1318,
+    "stars": 1319,
     "forks": 954,
-    "watchers": 1318,
+    "watchers": 1319,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-12T12:49:49Z"
+    "raw_updated_at": "2026-11-12T16:54:39Z"
   },
   {
     "repo": "into-the-devops",
@@ -316,16 +316,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-09",
+    "last_updated": "2026-11-12",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 169,
+    "stars": 170,
     "forks": 78,
-    "watchers": 169,
+    "watchers": 170,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -345,7 +345,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-11-09T16:53:55Z"
+    "raw_updated_at": "2026-11-12T17:14:45Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -1004,8 +1004,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-12",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/65e3a0e511c4fede7ab2cb81901b8eda0d75f1d2",
-    "commit_sha": "65e3a0e511c4fede7ab2cb81901b8eda0d75f1d2",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/cc388fb0280a209b7169e77b2fa76080d36b4cfc",
+    "commit_sha": "cc388fb0280a209b7169e77b2fa76080d36b4cfc",
     "commit_date": "2026-11-12",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-12T01:16:21Z"
+    "raw_updated_at": "2026-11-12T15:52:33Z"
   },
   {
     "repo": "devops-skills",
