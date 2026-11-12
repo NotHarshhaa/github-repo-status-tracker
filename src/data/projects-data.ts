@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5575,
-    "forks": 4971,
+    "forks": 4972,
     "issues": 30,
     "lastUpdated": "2026-11-11T09:36:22Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1315,
+    "stars": 1317,
     "forks": 953,
     "issues": 4,
-    "lastUpdated": "2026-11-10T13:15:46Z",
+    "lastUpdated": "2026-11-11T21:52:50Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 379,
+    "stars": 380,
     "forks": 276,
     "issues": 3,
-    "lastUpdated": "2026-11-11T04:21:37Z",
+    "lastUpdated": "2026-11-11T20:30:53Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
   },
   {
@@ -159,10 +159,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-tools",
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
-    "stars": 247,
+    "stars": 248,
     "forks": 165,
     "issues": 5,
-    "lastUpdated": "2026-11-09T09:56:35Z",
+    "lastUpdated": "2026-11-11T20:32:24Z",
     "lastCommit": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92"
   },
   {
@@ -348,10 +348,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Tool-Installer",
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
-    "stars": 64,
+    "stars": 65,
     "forks": 71,
     "issues": 0,
-    "lastUpdated": "2026-11-03T07:42:32Z",
+    "lastUpdated": "2026-11-11T20:29:24Z",
     "lastCommit": "e958464ecacb0bde6d3741faa37a9071c74fc486"
   },
   {
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-11T06:23:41Z",
-    "lastCommit": "8059c063c8defeb2f97627c5b0ea0a5def660ab6"
+    "lastUpdated": "2026-11-11T14:49:10Z",
+    "lastCommit": "aa165e5d08106eff2f96f7635d9e0dab81df3491"
   },
   {
     "title": "Devops skills",
@@ -798,8 +798,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 5,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:36Z",
-    "lastCommit": "8fe2ab96143dd48d8d0659f487ccad940e6e9ce1"
+    "lastUpdated": "2026-11-11T16:35:05Z",
+    "lastCommit": "d70306428ac14e9c088d530c5fc3f2ace939ba9a"
   },
   {
     "title": "Devops project generator",
@@ -819,8 +819,8 @@ export const PROJECTS: Project[] = [
     "stars": 8,
     "forks": 10,
     "issues": 0,
-    "lastUpdated": "2026-10-28T19:22:18Z",
-    "lastCommit": "0242476ab91a38f86cc1b4a90c29b2c458a2c0b5"
+    "lastUpdated": "2026-11-11T15:49:22Z",
+    "lastCommit": "da9b3b007c801f0fddfdf9d89ec51dcd50f27925"
   },
   {
     "title": "Devops incident agent",

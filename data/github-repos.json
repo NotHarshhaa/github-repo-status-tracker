@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5575,
-    "forks": 4971,
+    "forks": 4972,
     "watchers": 5575,
     "ci_cd_status": "none",
     "languages": [
@@ -49,16 +49,16 @@
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-11",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1315,
+    "stars": 1317,
     "forks": 953,
-    "watchers": 1315,
+    "watchers": 1317,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-10T13:15:46Z"
+    "raw_updated_at": "2026-11-11T21:52:50Z"
   },
   {
     "repo": "into-the-devops",
@@ -192,9 +192,9 @@
     "commit_message": "DevOps-Cheatsheet: chore: Remove obsolete configuration and assets",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 379,
+    "stars": 380,
     "forks": 276,
-    "watchers": 379,
+    "watchers": 380,
     "ci_cd_status": "none",
     "languages": [],
     "license": "GNU General Public License v2.0",
@@ -214,22 +214,22 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-11-11T04:21:37Z"
+    "raw_updated_at": "2026-11-11T20:30:53Z"
   },
   {
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-11-09",
+    "last_updated": "2026-11-11",
     "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_sha": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_date": "2026-11-02",
     "commit_message": "DevOps-Tools: Expand README with new tools and categories for enhanced resource coverage",
     "author": "NotHarshhaa",
     "issues": 5,
-    "stars": 247,
+    "stars": 248,
     "forks": 165,
-    "watchers": 247,
+    "watchers": 248,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -246,7 +246,7 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-11-09T09:56:35Z"
+    "raw_updated_at": "2026-11-11T20:32:24Z"
   },
   {
     "repo": "Kubernetes",
@@ -506,16 +506,16 @@
     "repo": "DevOps-Tool-Installer",
     "url": "https://github.com/NotHarshhaa/DevOps-Tool-Installer",
     "description": "Automate installation/uninstallation of essential DevOps tools on Linux and Windows with a single script. Perfect for DevOps engineers and enthusiasts looking to streamline their setup process.",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-11",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/e958464ecacb0bde6d3741faa37a9071c74fc486",
     "commit_sha": "e958464ecacb0bde6d3741faa37a9071c74fc486",
     "commit_date": "2026-10-19",
     "commit_message": "DevOps-Tool-Installer: Introduce new features for enhanced usability and diagnostics",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 64,
+    "stars": 65,
     "forks": 71,
-    "watchers": 64,
+    "watchers": 65,
     "ci_cd_status": "none",
     "languages": [
       "Shell",
@@ -535,7 +535,7 @@
       "terraform",
       "tools"
     ],
-    "raw_updated_at": "2026-11-03T07:42:32Z"
+    "raw_updated_at": "2026-11-11T20:29:24Z"
   },
   {
     "repo": "kubernetes-dashboard",
@@ -1004,8 +1004,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-11",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8059c063c8defeb2f97627c5b0ea0a5def660ab6",
-    "commit_sha": "8059c063c8defeb2f97627c5b0ea0a5def660ab6",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/aa165e5d08106eff2f96f7635d9e0dab81df3491",
+    "commit_sha": "aa165e5d08106eff2f96f7635d9e0dab81df3491",
     "commit_date": "2026-11-11",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-11T06:23:41Z"
+    "raw_updated_at": "2026-11-11T14:49:10Z"
   },
   {
     "repo": "devops-skills",
@@ -1187,11 +1187,11 @@
     "repo": "aws-infra-generator",
     "url": "https://github.com/NotHarshhaa/aws-infra-generator",
     "description": "A platform engineering tool that generates production-ready AWS infrastructure templates using Terraform or CloudFormation based on user-selected services.",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/aws-infra-generator/commit/8fe2ab96143dd48d8d0659f487ccad940e6e9ce1",
-    "commit_sha": "8fe2ab96143dd48d8d0659f487ccad940e6e9ce1",
-    "commit_date": "2026-08-24",
-    "commit_message": "aws-infra: Revamp landing page components and enhance global styles",
+    "last_updated": "2026-11-11",
+    "latest_commit": "https://github.com/NotHarshhaa/aws-infra-generator/commit/d70306428ac14e9c088d530c5fc3f2ace939ba9a",
+    "commit_sha": "d70306428ac14e9c088d530c5fc3f2ace939ba9a",
+    "commit_date": "2026-11-11",
+    "commit_message": "aws-infra: Enhance service configurator with new project settings and optimization features",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 8,
@@ -1214,17 +1214,17 @@
       "infra-terraform",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-28T19:22:36Z"
+    "raw_updated_at": "2026-11-11T16:35:05Z"
   },
   {
     "repo": "devops-project-generator",
     "url": "https://github.com/NotHarshhaa/devops-project-generator",
     "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "last_updated": "2026-10-28",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/0242476ab91a38f86cc1b4a90c29b2c458a2c0b5",
-    "commit_sha": "0242476ab91a38f86cc1b4a90c29b2c458a2c0b5",
+    "last_updated": "2026-11-11",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/da9b3b007c801f0fddfdf9d89ec51dcd50f27925",
+    "commit_sha": "da9b3b007c801f0fddfdf9d89ec51dcd50f27925",
     "commit_date": "2026-11-11",
-    "commit_message": "devops-gen: Update global styles and layout for improved UI consistency",
+    "commit_message": "devops-gen: Add new icons and manifest for enhanced branding and user experience",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 8,
@@ -1247,7 +1247,7 @@
       "project-gen",
       "project-generator"
     ],
-    "raw_updated_at": "2026-10-28T19:22:18Z"
+    "raw_updated_at": "2026-11-11T15:49:22Z"
   },
   {
     "repo": "devops-incident-agent",
