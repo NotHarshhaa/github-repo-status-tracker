@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5575,
-    "forks": 4972,
+    "stars": 5578,
+    "forks": 4973,
     "issues": 30,
-    "lastUpdated": "2026-11-11T09:36:22Z",
+    "lastUpdated": "2026-11-12T11:37:24Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1317,
-    "forks": 953,
+    "stars": 1318,
+    "forks": 954,
     "issues": 4,
-    "lastUpdated": "2026-11-11T21:52:50Z",
+    "lastUpdated": "2026-11-12T12:49:49Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 925,
+    "stars": 926,
     "forks": 546,
     "issues": 0,
-    "lastUpdated": "2026-11-10T05:37:16Z",
+    "lastUpdated": "2026-11-12T11:37:20Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -97,7 +97,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
     "stars": 648,
-    "forks": 237,
+    "forks": 238,
     "issues": 4,
     "lastUpdated": "2026-11-08T07:29:34Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 135,
+    "stars": 136,
     "forks": 59,
     "issues": 0,
-    "lastUpdated": "2026-11-03T15:45:05Z",
+    "lastUpdated": "2026-11-12T14:38:07Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -650,8 +650,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/awesome-devops-cloud"
     },
     "stars": 14,
-    "forks": 19,
-    "issues": 8,
+    "forks": 20,
+    "issues": 9,
     "lastUpdated": "2026-08-13T13:46:23Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
@@ -672,8 +672,8 @@ export const PROJECTS: Project[] = [
     "stars": 13,
     "forks": 20,
     "issues": 0,
-    "lastUpdated": "2026-11-11T14:49:10Z",
-    "lastCommit": "aa165e5d08106eff2f96f7635d9e0dab81df3491"
+    "lastUpdated": "2026-11-12T01:16:21Z",
+    "lastCommit": "65e3a0e511c4fede7ab2cb81901b8eda0d75f1d2"
   },
   {
     "title": "Devops skills",
@@ -998,8 +998,8 @@ export const PROJECTS: Project[] = [
     "stars": 6,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-10-31T07:38:56Z",
-    "lastCommit": "d560ee8c184092b7d5d360f6b60f5701892b4715"
+    "lastUpdated": "2026-11-12T11:18:54Z",
+    "lastCommit": "40750df65cc7c91fa3214575039f6c558fac85b3"
   },
   {
     "title": "Prodevopsguy.xyz",

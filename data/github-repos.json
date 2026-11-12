@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-12",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5575,
-    "forks": 4972,
-    "watchers": 5575,
+    "stars": 5578,
+    "forks": 4973,
+    "watchers": 5578,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-11T09:36:22Z"
+    "raw_updated_at": "2026-11-12T11:37:24Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-12",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1317,
-    "forks": 953,
-    "watchers": 1317,
+    "stars": 1318,
+    "forks": 954,
+    "watchers": 1318,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,22 +76,22 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-11T21:52:50Z"
+    "raw_updated_at": "2026-11-12T12:49:49Z"
   },
   {
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-12",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 925,
+    "stars": 926,
     "forks": 546,
-    "watchers": 925,
+    "watchers": 926,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-10T05:37:16Z"
+    "raw_updated_at": "2026-11-12T11:37:20Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -134,7 +134,7 @@
     "author": "NotHarshhaa",
     "issues": 4,
     "stars": 648,
-    "forks": 237,
+    "forks": 238,
     "watchers": 648,
     "ci_cd_status": "none",
     "languages": [],
@@ -416,16 +416,16 @@
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
     "description": "A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience, build your portfolio, and prepare for certifications.",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-12",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_sha": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_date": "2025-11-11",
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 135,
+    "stars": 136,
     "forks": 59,
-    "watchers": 135,
+    "watchers": 136,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-11-03T15:45:05Z"
+    "raw_updated_at": "2026-11-12T14:38:07Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -987,9 +987,9 @@
     "commit_date": "2025-07-22",
     "commit_message": "awesome-devops-cloud: README: Expand tool listings and enhance contribution guidelines",
     "author": "NotHarshhaa",
-    "issues": 8,
+    "issues": 9,
     "stars": 14,
-    "forks": 19,
+    "forks": 20,
     "watchers": 14,
     "ci_cd_status": "none",
     "languages": [
@@ -1003,10 +1003,10 @@
     "repo": "github-repo-status-tracker",
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-11",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/aa165e5d08106eff2f96f7635d9e0dab81df3491",
-    "commit_sha": "aa165e5d08106eff2f96f7635d9e0dab81df3491",
-    "commit_date": "2026-11-11",
+    "last_updated": "2026-11-12",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/65e3a0e511c4fede7ab2cb81901b8eda0d75f1d2",
+    "commit_sha": "65e3a0e511c4fede7ab2cb81901b8eda0d75f1d2",
+    "commit_date": "2026-11-12",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1023,7 +1023,7 @@
     ],
     "license": "MIT License",
     "topics": [],
-    "raw_updated_at": "2026-11-11T14:49:10Z"
+    "raw_updated_at": "2026-11-12T01:16:21Z"
   },
   {
     "repo": "devops-skills",
@@ -1482,11 +1482,11 @@
     "repo": "personal-portfolio",
     "url": "https://github.com/NotHarshhaa/personal-portfolio",
     "description": "✨ My personal portfolio showcasing my work and skills.",
-    "last_updated": "2026-10-31",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-portfolio/commit/d560ee8c184092b7d5d360f6b60f5701892b4715",
-    "commit_sha": "d560ee8c184092b7d5d360f6b60f5701892b4715",
-    "commit_date": "2026-10-31",
-    "commit_message": "portfolio: refactor: restructure AI Agent Modal components for improved functionality and organization",
+    "last_updated": "2026-11-12",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-portfolio/commit/40750df65cc7c91fa3214575039f6c558fac85b3",
+    "commit_sha": "40750df65cc7c91fa3214575039f6c558fac85b3",
+    "commit_date": "2026-11-12",
+    "commit_message": "portfolio: feat: enhance GitHub API integration and add border beam animation",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 6,
@@ -1506,7 +1506,7 @@
       "tailwindcss",
       "typescript"
     ],
-    "raw_updated_at": "2026-10-31T07:38:56Z"
+    "raw_updated_at": "2026-11-12T11:18:54Z"
   },
   {
     "repo": "prodevopsguy.xyz",
