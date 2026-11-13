@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5580,
-    "forks": 4975,
+    "stars": 5582,
+    "forks": 4977,
     "issues": 30,
-    "lastUpdated": "2026-11-12T18:45:04Z",
+    "lastUpdated": "2026-11-13T14:03:29Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
     "stars": 1319,
-    "forks": 954,
+    "forks": 955,
     "issues": 4,
     "lastUpdated": "2026-11-12T16:54:39Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
@@ -76,7 +76,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 926,
-    "forks": 546,
+    "forks": 545,
     "issues": 0,
     "lastUpdated": "2026-11-12T11:37:20Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -201,10 +201,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps_Setup-Installations",
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
-    "stars": 197,
+    "stars": 198,
     "forks": 210,
     "issues": 0,
-    "lastUpdated": "2026-10-17T05:27:49Z",
+    "lastUpdated": "2026-11-13T10:31:20Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
   },
   {
@@ -222,10 +222,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 170,
-    "forks": 78,
+    "stars": 171,
+    "forks": 79,
     "issues": 0,
-    "lastUpdated": "2026-11-12T17:14:45Z",
+    "lastUpdated": "2026-11-13T10:28:17Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -637,7 +637,7 @@ export const PROJECTS: Project[] = [
     "forks": 12,
     "issues": 0,
     "lastUpdated": "2026-10-29T16:04:36Z",
-    "lastCommit": "1b453975176b5d48a1d1fb9a50b5bfbd039bd718"
+    "lastCommit": "00b5293dc4774dc6ed89980628a1f4b2d539a19b"
   },
   {
     "title": "Awesome devops cloud",
@@ -673,7 +673,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-12T15:52:33Z",
-    "lastCommit": "6abc976b860fe353d60b8f3178dd006b86806650"
+    "lastCommit": "1bf97a2e4c8a5e3c6505b5e1546795217f3f60f4"
   },
   {
     "title": "Devops skills",
