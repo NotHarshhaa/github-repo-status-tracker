@@ -1,22 +1,22 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-13%2023%3A23:32.110 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-14%2005%3A37:53.248 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,554** combined stars
+**87** repositories tracked · **11,555** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,554** stars · **9,412** forks · **75** open issues
+> **87** repositories · **11,555** stars · **9,413** forks · **75** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,587 | 4,978 | 30 | — | 2026-11-13 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,587 | 4,979 | 30 | — | 2026-11-13 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,319 | 955 | 4 | — | 2026-11-12 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 926 | 545 | 0 | — | 2026-11-12 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 649 | 238 | 4 | — | 2026-11-13 |
@@ -26,7 +26,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 212 | 213 | 0 | — | 2026-11-08 |
 | 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 198 | 210 | 0 | — | 2026-11-13 |
 | 10 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 171 | 79 | 0 | — | 2026-11-13 |
-| 11 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 165 | 124 | 0 | — | 2026-10-25 |
+| 11 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 166 | 124 | 0 | — | 2026-11-14 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 140 | 119 | 1 | Fail | 2026-11-06 |
 | 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 136 | 59 | 0 | — | 2026-11-12 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 94 | 61 | 0 | — | 2026-10-21 |
@@ -113,7 +113,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
   &nbsp;·&nbsp; ⭐ 5,587
-  &nbsp;·&nbsp; 🍴 4,978
+  &nbsp;·&nbsp; 🍴 4,979
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -392,7 +392,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator">Certified_Kubernetes_Administrator</a></strong>
-  &nbsp;·&nbsp; ⭐ 165
+  &nbsp;·&nbsp; ⭐ 166
   &nbsp;·&nbsp; 🍴 124
   &nbsp;·&nbsp; CI —
   <br><sub>Master Kubernetes from scratch and become a Certified Kubernetes Administrator (CKA)! This repository is your one-stop resource to learn...</sub>
@@ -409,7 +409,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [CKA: Update README for clarity and consistency](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/commit/0a7687b7f90931b824ea425b8b9d2372c683cd2a) |
 | **Commit date** | `2026-04-26` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-10-25` |
+| **Repo updated** | `2026-11-14` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | `cka` · `ckad` · `ckad-exercises` · `helm` · `k8s` · `kubernetes` |
@@ -994,7 +994,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/72d63cc002bf6f5e7d13e784a77578ba342d9213) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/548115a0580bf0bece3b5fe5bae6f60abfcd6a2a) |
 | **Commit date** | `2026-11-13` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-13` |

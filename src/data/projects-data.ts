@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5587,
-    "forks": 4978,
+    "forks": 4979,
     "issues": 30,
     "lastUpdated": "2026-11-13T21:44:03Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -243,10 +243,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Certified_Kubernetes_Administrator",
       "href": "https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator"
     },
-    "stars": 165,
+    "stars": 166,
     "forks": 124,
     "issues": 0,
-    "lastUpdated": "2026-10-25T06:17:36Z",
+    "lastUpdated": "2026-11-14T03:03:28Z",
     "lastCommit": "0a7687b7f90931b824ea425b8b9d2372c683cd2a"
   },
   {
@@ -673,7 +673,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-13T18:25:44Z",
-    "lastCommit": "72d63cc002bf6f5e7d13e784a77578ba342d9213"
+    "lastCommit": "548115a0580bf0bece3b5fe5bae6f60abfcd6a2a"
   },
   {
     "title": "Devops skills",
