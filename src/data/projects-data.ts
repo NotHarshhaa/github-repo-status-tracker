@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5587,
-    "forks": 4979,
+    "stars": 5589,
+    "forks": 4982,
     "issues": 30,
-    "lastUpdated": "2026-11-13T21:44:03Z",
+    "lastUpdated": "2026-11-14T12:10:39Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -405,8 +405,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 44,
-    "forks": 19,
-    "issues": 1,
+    "forks": 18,
+    "issues": 0,
     "lastUpdated": "2026-11-09T07:17:25Z",
     "lastCommit": "4488e7f514553a0ab61089cb6a388332970acc75"
   },
@@ -673,7 +673,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-13T18:25:44Z",
-    "lastCommit": "548115a0580bf0bece3b5fe5bae6f60abfcd6a2a"
+    "lastCommit": "e8aa25db193c4ccd9f1a1e06f3e01cc6e356f407"
   },
   {
     "title": "Devops skills",
@@ -690,10 +690,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 13,
-    "forks": 6,
+    "stars": 14,
+    "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-11-04T11:07:44Z",
+    "lastUpdated": "2026-11-14T09:34:31Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
@@ -736,7 +736,7 @@ export const PROJECTS: Project[] = [
     "forks": 9,
     "issues": 0,
     "lastUpdated": "2026-10-29T15:09:26Z",
-    "lastCommit": "83ec4bac229581657090f3ed9961ebe63dafdf97"
+    "lastCommit": "ca926abc80214faff87bb492e7068f0d4f18fac9"
   },
   {
     "title": "Jenkins  Terraform  A W S  Infra",
