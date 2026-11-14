@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5589,
-    "forks": 4982,
+    "stars": 5592,
+    "forks": 4983,
     "issues": 30,
-    "lastUpdated": "2026-11-14T12:10:39Z",
+    "lastUpdated": "2026-11-14T21:36:40Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 380,
+    "stars": 382,
     "forks": 276,
     "issues": 3,
-    "lastUpdated": "2026-11-11T20:30:53Z",
+    "lastUpdated": "2026-11-14T21:33:57Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
   },
   {
@@ -673,7 +673,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-13T18:25:44Z",
-    "lastCommit": "e8aa25db193c4ccd9f1a1e06f3e01cc6e356f407"
+    "lastCommit": "aa39803e9aa93957073fb6b24f6933095e40b8c7"
   },
   {
     "title": "Devops skills",
@@ -736,7 +736,7 @@ export const PROJECTS: Project[] = [
     "forks": 9,
     "issues": 0,
     "lastUpdated": "2026-10-29T15:09:26Z",
-    "lastCommit": "ca926abc80214faff87bb492e7068f0d4f18fac9"
+    "lastCommit": "e53a8a09547ccc61105e2e4343ee0d5e6cca5e2d"
   },
   {
     "title": "Jenkins  Terraform  A W S  Infra",
