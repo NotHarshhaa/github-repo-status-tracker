@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-15%2005%3A35:24.171 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-15%2013%3A40:43.982 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
@@ -10,13 +10,13 @@ Updates automatically every 6 hours via GitHub Actions.
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,565** stars · **9,419** forks · **74** open issues
+> **87** repositories · **11,565** stars · **9,421** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,593 | 4,983 | 30 | — | 2026-11-15 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,593 | 4,984 | 30 | — | 2026-11-15 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,320 | 956 | 4 | — | 2026-11-15 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 926 | 545 | 0 | — | 2026-11-12 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 649 | 238 | 4 | — | 2026-11-13 |
@@ -37,7 +37,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | 19 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 44 | 18 | 0 | — | 2026-11-09 |
 | 20 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 37 | 44 | 0 | — | 2026-10-28 |
 | 21 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 35 | 35 | 2 | — | 2026-10-28 |
-| 22 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 33 | 68 | 0 | — | 2026-11-11 |
+| 22 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 33 | 69 | 0 | — | 2026-11-11 |
 | 23 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 22 | 44 | 0 | — | 2026-07-16 |
 | 24 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 21 | 57 | 0 | — | 2026-09-14 |
 | 25 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 21 | 23 | 1 | Pass | 2026-10-28 |
@@ -113,7 +113,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
   &nbsp;·&nbsp; ⭐ 5,593
-  &nbsp;·&nbsp; 🍴 4,983
+  &nbsp;·&nbsp; 🍴 4,984
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -701,7 +701,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment">AWS-DevOps_Real-Time_Deployment</a></strong>
   &nbsp;·&nbsp; ⭐ 33
-  &nbsp;·&nbsp; 🍴 68
+  &nbsp;·&nbsp; 🍴 69
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Production-ready AWS DevOps CI/CD pipeline automating multi-environment deployments (Dev ➔ Staging ➔ Prod) using AWS CodePipeline, Cod...</sub>
 </summary>
@@ -994,8 +994,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2a3315878ddadd3c377cfa9ab0e2b02193095f24) |
-| **Commit date** | `2026-11-14` |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c5fb08392984f09382f7929f2b4bda14263bcaee) |
+| **Commit date** | `2026-11-15` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-13` |
 | **License** | `MIT License` |
@@ -1946,8 +1946,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [blog: feat(audio-dispatch-player): enhance voice selection and preferences for speech s...](https://github.com/NotHarshhaa/personal-blog/commit/f3f3b793f951fd9fb1d5536f1c3be258a3a0619a) |
-| **Commit date** | `2026-10-29` |
+| **Latest commit** | [blog: refactor(posts, actions, components): enhance post management and image handling](https://github.com/NotHarshhaa/personal-blog/commit/9780014b92c701ae875aac588e4728cc93062195) |
+| **Commit date** | `2026-11-15` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |

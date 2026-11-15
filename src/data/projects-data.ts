@@ -34,9 +34,9 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5593,
-    "forks": 4983,
+    "forks": 4984,
     "issues": 30,
-    "lastUpdated": "2026-11-15T00:34:09Z",
+    "lastUpdated": "2026-11-15T12:08:12Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -468,7 +468,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment"
     },
     "stars": 33,
-    "forks": 68,
+    "forks": 69,
     "issues": 0,
     "lastUpdated": "2026-11-11T09:20:59Z",
     "lastCommit": "8e46b103e4c3722786a9a042eb4c1c8e6a13a4a8"
@@ -673,7 +673,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-13T18:25:44Z",
-    "lastCommit": "2a3315878ddadd3c377cfa9ab0e2b02193095f24"
+    "lastCommit": "c5fb08392984f09382f7929f2b4bda14263bcaee"
   },
   {
     "title": "Devops skills",
@@ -1346,7 +1346,7 @@ export const PROJECTS: Project[] = [
     "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-10-29T17:47:46Z",
-    "lastCommit": "f3f3b793f951fd9fb1d5536f1c3be258a3a0619a"
+    "lastCommit": "9780014b92c701ae875aac588e4728cc93062195"
   },
   {
     "title": "Internal developer platform cli",

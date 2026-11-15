@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5593,
-    "forks": 4983,
+    "forks": 4984,
     "watchers": 5593,
     "ci_cd_status": "none",
     "languages": [
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-15T00:34:09Z"
+    "raw_updated_at": "2026-11-15T12:08:12Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -708,7 +708,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 33,
-    "forks": 68,
+    "forks": 69,
     "watchers": 33,
     "ci_cd_status": "none",
     "languages": [
@@ -1004,9 +1004,9 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-13",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/2a3315878ddadd3c377cfa9ab0e2b02193095f24",
-    "commit_sha": "2a3315878ddadd3c377cfa9ab0e2b02193095f24",
-    "commit_date": "2026-11-14",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/c5fb08392984f09382f7929f2b4bda14263bcaee",
+    "commit_sha": "c5fb08392984f09382f7929f2b4bda14263bcaee",
+    "commit_date": "2026-11-15",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1971,10 +1971,10 @@
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
     "last_updated": "2026-10-29",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/f3f3b793f951fd9fb1d5536f1c3be258a3a0619a",
-    "commit_sha": "f3f3b793f951fd9fb1d5536f1c3be258a3a0619a",
-    "commit_date": "2026-10-29",
-    "commit_message": "blog: feat(audio-dispatch-player): enhance voice selection and preferences for speech synthesis",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/9780014b92c701ae875aac588e4728cc93062195",
+    "commit_sha": "9780014b92c701ae875aac588e4728cc93062195",
+    "commit_date": "2026-11-15",
+    "commit_message": "blog: refactor(posts, actions, components): enhance post management and image handling",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,
