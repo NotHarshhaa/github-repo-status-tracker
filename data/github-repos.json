@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5596,
-    "forks": 4987,
-    "watchers": 5596,
+    "stars": 5599,
+    "forks": 4988,
+    "watchers": 5599,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-16T02:59:40Z"
+    "raw_updated_at": "2026-11-16T09:48:23Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-15",
+    "last_updated": "2026-11-16",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1320,
+    "stars": 1321,
     "forks": 957,
-    "watchers": 1320,
+    "watchers": 1321,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-15T03:37:52Z"
+    "raw_updated_at": "2026-11-16T06:12:33Z"
   },
   {
     "repo": "into-the-devops",
@@ -155,16 +155,16 @@
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-16",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_sha": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_date": "2026-11-01",
     "commit_message": "Kubernetes: README update: Enhance the structure and content of README.md by adding a new \"What's Inside\" section, improving prerequisites descriptions, and including detailed installation instructions for essential tools. Additionally, introduce new guides and resources for better navigation and learning paths in Kubernetes.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 539,
+    "stars": 540,
     "forks": 406,
-    "watchers": 539,
+    "watchers": 540,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-11-08T13:38:56Z"
+    "raw_updated_at": "2026-11-16T11:51:47Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -193,7 +193,7 @@
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 382,
-    "forks": 277,
+    "forks": 278,
     "watchers": 382,
     "ci_cd_status": "none",
     "languages": [],
@@ -381,16 +381,16 @@
     "repo": "CI-CD_EKS-GitHub_Actions",
     "url": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
     "description": "A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-16",
     "latest_commit": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
     "commit_sha": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
     "commit_date": "2026-11-06",
     "commit_message": "CI-CD EKS: Update configurations for improved development and deployment",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 140,
+    "stars": 141,
     "forks": 119,
-    "watchers": 140,
+    "watchers": 141,
     "ci_cd_status": "fail",
     "languages": [
       "JavaScript",
@@ -410,7 +410,7 @@
       "jenkins",
       "nodejs"
     ],
-    "raw_updated_at": "2026-11-06T16:16:28Z"
+    "raw_updated_at": "2026-11-16T14:41:26Z"
   },
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
@@ -609,7 +609,7 @@
     "commit_date": "2026-11-06",
     "commit_message": "ai-platform-handbook: Add new sections on enterprise AI agents and platform architecture",
     "author": "NotHarshhaa",
-    "issues": 0,
+    "issues": 1,
     "stars": 44,
     "forks": 18,
     "watchers": 44,
@@ -1004,9 +1004,9 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-13",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/872eea8dfed56607caa7f89ca5a9f78973adbaba",
-    "commit_sha": "872eea8dfed56607caa7f89ca5a9f78973adbaba",
-    "commit_date": "2026-11-15",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/13cbcb9266e992f70dd7dba5f2e612a81679713d",
+    "commit_sha": "13cbcb9266e992f70dd7dba5f2e612a81679713d",
+    "commit_date": "2026-11-16",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,

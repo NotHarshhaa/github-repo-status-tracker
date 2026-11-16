@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5596,
-    "forks": 4987,
+    "stars": 5599,
+    "forks": 4988,
     "issues": 30,
-    "lastUpdated": "2026-11-16T02:59:40Z",
+    "lastUpdated": "2026-11-16T09:48:23Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1320,
+    "stars": 1321,
     "forks": 957,
     "issues": 4,
-    "lastUpdated": "2026-11-15T03:37:52Z",
+    "lastUpdated": "2026-11-16T06:12:33Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 539,
+    "stars": 540,
     "forks": 406,
     "issues": 1,
-    "lastUpdated": "2026-11-08T13:38:56Z",
+    "lastUpdated": "2026-11-16T11:51:47Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
   },
   {
@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 382,
-    "forks": 277,
+    "forks": 278,
     "issues": 3,
     "lastUpdated": "2026-11-14T21:33:57Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
@@ -264,10 +264,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 140,
+    "stars": 141,
     "forks": 119,
     "issues": 1,
-    "lastUpdated": "2026-11-06T16:16:28Z",
+    "lastUpdated": "2026-11-16T14:41:26Z",
     "lastCommit": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df"
   },
   {
@@ -406,7 +406,7 @@ export const PROJECTS: Project[] = [
     },
     "stars": 44,
     "forks": 18,
-    "issues": 0,
+    "issues": 1,
     "lastUpdated": "2026-11-09T07:17:25Z",
     "lastCommit": "4488e7f514553a0ab61089cb6a388332970acc75"
   },
@@ -673,7 +673,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-13T18:25:44Z",
-    "lastCommit": "872eea8dfed56607caa7f89ca5a9f78973adbaba"
+    "lastCommit": "13cbcb9266e992f70dd7dba5f2e612a81679713d"
   },
   {
     "title": "Devops skills",
