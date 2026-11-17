@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5599,
-    "forks": 4988,
+    "stars": 5601,
+    "forks": 4990,
     "issues": 30,
-    "lastUpdated": "2026-11-16T09:48:23Z",
+    "lastUpdated": "2026-11-16T18:40:32Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -405,7 +405,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 44,
-    "forks": 18,
+    "forks": 19,
     "issues": 1,
     "lastUpdated": "2026-11-09T07:17:25Z",
     "lastCommit": "4488e7f514553a0ab61089cb6a388332970acc75"
@@ -673,7 +673,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-13T18:25:44Z",
-    "lastCommit": "13cbcb9266e992f70dd7dba5f2e612a81679713d"
+    "lastCommit": "f065c3c932459d07e8c49a99d56795e201e59431"
   },
   {
     "title": "Devops skills",
