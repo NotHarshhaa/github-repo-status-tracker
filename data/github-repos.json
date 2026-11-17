@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-16",
+    "last_updated": "2026-11-17",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5601,
-    "forks": 4990,
-    "watchers": 5601,
+    "stars": 5599,
+    "forks": 4994,
+    "watchers": 5599,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,13 +43,13 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-16T18:40:32Z"
+    "raw_updated_at": "2026-11-17T15:06:58Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-16",
+    "last_updated": "2026-11-17",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-16T06:12:33Z"
+    "raw_updated_at": "2026-11-17T14:57:28Z"
   },
   {
     "repo": "into-the-devops",
@@ -381,16 +381,16 @@
     "repo": "CI-CD_EKS-GitHub_Actions",
     "url": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
     "description": "A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.",
-    "last_updated": "2026-11-16",
+    "last_updated": "2026-11-17",
     "latest_commit": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
     "commit_sha": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
     "commit_date": "2026-11-06",
     "commit_message": "CI-CD EKS: Update configurations for improved development and deployment",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 141,
-    "forks": 119,
-    "watchers": 141,
+    "stars": 142,
+    "forks": 120,
+    "watchers": 142,
     "ci_cd_status": "fail",
     "languages": [
       "JavaScript",
@@ -410,7 +410,7 @@
       "jenkins",
       "nodejs"
     ],
-    "raw_updated_at": "2026-11-16T14:41:26Z"
+    "raw_updated_at": "2026-11-17T06:23:04Z"
   },
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
@@ -631,7 +631,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 37,
-    "forks": 44,
+    "forks": 45,
     "watchers": 37,
     "ci_cd_status": "none",
     "languages": [
@@ -917,6 +917,62 @@
     "raw_updated_at": "2026-11-10T01:10:00Z"
   },
   {
+    "repo": "github-repo-status-tracker",
+    "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
+    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
+    "last_updated": "2026-11-17",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4129da44be2e99ba56fa9bb94fbe90238d8fcc95",
+    "commit_sha": "4129da44be2e99ba56fa9bb94fbe90238d8fcc95",
+    "commit_date": "2026-11-17",
+    "commit_message": "chore: update repository status [skip ci]",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 15,
+    "forks": 20,
+    "watchers": 15,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Shell",
+      "JavaScript",
+      "CSS"
+    ],
+    "license": "MIT License",
+    "topics": [],
+    "raw_updated_at": "2026-11-17T03:46:42Z"
+  },
+  {
+    "repo": "devops-skills",
+    "url": "https://github.com/NotHarshhaa/devops-skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "last_updated": "2026-11-17",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_date": "2026-09-19",
+    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 15,
+    "forks": 7,
+    "watchers": 15,
+    "ci_cd_status": "pass",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills",
+      "skills"
+    ],
+    "raw_updated_at": "2026-11-17T10:12:49Z"
+  },
+  {
     "repo": "Deployment-of-super-Mario-on-Kubernetes-using-terraform",
     "url": "https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform",
     "description": "Super Mario is a legendary game we all cherish! In this project, we will deploy Super Mario on Amazon EKS (Elastic Kubernetes Service) using Terraform and manage infrastructure with AWS resources.",
@@ -998,62 +1054,6 @@
     "license": "No license",
     "topics": [],
     "raw_updated_at": "2026-08-13T13:46:23Z"
-  },
-  {
-    "repo": "github-repo-status-tracker",
-    "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
-    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
-    "last_updated": "2026-11-13",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f065c3c932459d07e8c49a99d56795e201e59431",
-    "commit_sha": "f065c3c932459d07e8c49a99d56795e201e59431",
-    "commit_date": "2026-11-16",
-    "commit_message": "chore: update repository status [skip ci]",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 14,
-    "forks": 20,
-    "watchers": 14,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "Shell",
-      "JavaScript",
-      "CSS"
-    ],
-    "license": "MIT License",
-    "topics": [],
-    "raw_updated_at": "2026-11-13T18:25:44Z"
-  },
-  {
-    "repo": "devops-skills",
-    "url": "https://github.com/NotHarshhaa/devops-skills",
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-11-14",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_date": "2026-09-19",
-    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 14,
-    "forks": 7,
-    "watchers": 14,
-    "ci_cd_status": "pass",
-    "languages": [
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills",
-      "skills"
-    ],
-    "raw_updated_at": "2026-11-14T09:34:31Z"
   },
   {
     "repo": "tf-ecr-ecs-gh-deploy",

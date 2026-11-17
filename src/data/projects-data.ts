@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5601,
-    "forks": 4990,
+    "stars": 5599,
+    "forks": 4994,
     "issues": 30,
-    "lastUpdated": "2026-11-16T18:40:32Z",
+    "lastUpdated": "2026-11-17T15:06:58Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -57,7 +57,7 @@ export const PROJECTS: Project[] = [
     "stars": 1321,
     "forks": 957,
     "issues": 4,
-    "lastUpdated": "2026-11-16T06:12:33Z",
+    "lastUpdated": "2026-11-17T14:57:28Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -264,10 +264,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/CI-CD_EKS-GitHub_Actions",
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
-    "stars": 141,
-    "forks": 119,
+    "stars": 142,
+    "forks": 120,
     "issues": 1,
-    "lastUpdated": "2026-11-16T14:41:26Z",
+    "lastUpdated": "2026-11-17T06:23:04Z",
     "lastCommit": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df"
   },
   {
@@ -426,7 +426,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
     "stars": 37,
-    "forks": 44,
+    "forks": 45,
     "issues": 0,
     "lastUpdated": "2026-10-28T18:12:38Z",
     "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
@@ -598,6 +598,47 @@ export const PROJECTS: Project[] = [
     "lastCommit": "6a322f381ee00547ce805cefbe44570763122679"
   },
   {
+    "title": "Github repo status tracker",
+    "techStack": [
+      "TypeScript",
+      "Python",
+      "Shell",
+      "JavaScript",
+      "CSS"
+    ],
+    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in th...",
+    "link": {
+      "label": "github.com/github-repo-status-tracker",
+      "href": "https://github.com/NotHarshhaa/github-repo-status-tracker"
+    },
+    "stars": 15,
+    "forks": 20,
+    "issues": 0,
+    "lastUpdated": "2026-11-17T03:46:42Z",
+    "lastCommit": "4129da44be2e99ba56fa9bb94fbe90238d8fcc95"
+  },
+  {
+    "title": "Devops skills",
+    "techStack": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills"
+    ],
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "link": {
+      "label": "github.com/devops-skills",
+      "href": "https://github.com/NotHarshhaa/devops-skills"
+    },
+    "stars": 15,
+    "forks": 7,
+    "issues": 0,
+    "lastUpdated": "2026-11-17T10:12:49Z",
+    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
+  },
+  {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
     "techStack": [
       "aws",
@@ -654,47 +695,6 @@ export const PROJECTS: Project[] = [
     "issues": 9,
     "lastUpdated": "2026-08-13T13:46:23Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
-  },
-  {
-    "title": "Github repo status tracker",
-    "techStack": [
-      "TypeScript",
-      "Python",
-      "Shell",
-      "JavaScript",
-      "CSS"
-    ],
-    "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in th...",
-    "link": {
-      "label": "github.com/github-repo-status-tracker",
-      "href": "https://github.com/NotHarshhaa/github-repo-status-tracker"
-    },
-    "stars": 14,
-    "forks": 20,
-    "issues": 0,
-    "lastUpdated": "2026-11-13T18:25:44Z",
-    "lastCommit": "f065c3c932459d07e8c49a99d56795e201e59431"
-  },
-  {
-    "title": "Devops skills",
-    "techStack": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills"
-    ],
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "link": {
-      "label": "github.com/devops-skills",
-      "href": "https://github.com/NotHarshhaa/devops-skills"
-    },
-    "stars": 14,
-    "forks": 7,
-    "issues": 0,
-    "lastUpdated": "2026-11-14T09:34:31Z",
-    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
     "title": "Tf ecr ecs gh deploy",
