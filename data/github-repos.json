@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5599,
+    "stars": 5601,
     "forks": 4994,
-    "watchers": 5599,
+    "watchers": 5601,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-17T15:06:58Z"
+    "raw_updated_at": "2026-11-17T22:01:00Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1321,
+    "stars": 1322,
     "forks": 957,
-    "watchers": 1321,
+    "watchers": 1322,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-17T14:57:28Z"
+    "raw_updated_at": "2026-11-17T16:54:29Z"
   },
   {
     "repo": "into-the-devops",
@@ -921,8 +921,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4129da44be2e99ba56fa9bb94fbe90238d8fcc95",
-    "commit_sha": "4129da44be2e99ba56fa9bb94fbe90238d8fcc95",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/055d1a6d834299692cb41d5f3ead5c4e4e187b1e",
+    "commit_sha": "055d1a6d834299692cb41d5f3ead5c4e4e187b1e",
     "commit_date": "2026-11-17",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1971,10 +1971,10 @@
     "url": "https://github.com/NotHarshhaa/personal-blog",
     "description": "A personal blog site for DevOps & Cloud, AI Space based on Typescript, Next.js, TailwindCSS.",
     "last_updated": "2026-10-29",
-    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/9780014b92c701ae875aac588e4728cc93062195",
-    "commit_sha": "9780014b92c701ae875aac588e4728cc93062195",
-    "commit_date": "2026-11-15",
-    "commit_message": "blog: refactor(posts, actions, components): enhance post management and image handling",
+    "latest_commit": "https://github.com/NotHarshhaa/personal-blog/commit/3a7567d994f3e9ea4271427cb63305f46475c4fa",
+    "commit_sha": "3a7567d994f3e9ea4271427cb63305f46475c4fa",
+    "commit_date": "2026-11-17",
+    "commit_message": "blog: refactor(controls): update user prop type for enhanced role management",
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 2,

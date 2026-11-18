@@ -1,23 +1,23 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-17%2015%3A42:01.606 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-18%2000%3A45:02.945 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,577** combined stars
+**87** repositories tracked · **11,580** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,577** stars · **9,437** forks · **75** open issues
+> **87** repositories · **11,580** stars · **9,437** forks · **75** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,599 | 4,994 | 30 | — | 2026-11-17 |
-| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,321 | 957 | 4 | — | 2026-11-17 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,601 | 4,994 | 30 | — | 2026-11-17 |
+| 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,322 | 957 | 4 | — | 2026-11-17 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 926 | 545 | 0 | — | 2026-11-12 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 649 | 238 | 4 | — | 2026-11-13 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 540 | 406 | 1 | — | 2026-11-16 |
@@ -112,7 +112,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,599
+  &nbsp;·&nbsp; ⭐ 5,601
   &nbsp;·&nbsp; 🍴 4,994
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
@@ -140,7 +140,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Interview-Questions">DevOps-Interview-Questions</a></strong>
-  &nbsp;·&nbsp; ⭐ 1,321
+  &nbsp;·&nbsp; ⭐ 1,322
   &nbsp;·&nbsp; 🍴 957
   &nbsp;·&nbsp; CI —
   <br><sub>Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azu...</sub>
@@ -910,7 +910,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/4129da44be2e99ba56fa9bb94fbe90238d8fcc95) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/055d1a6d834299692cb41d5f3ead5c4e4e187b1e) |
 | **Commit date** | `2026-11-17` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-17` |
@@ -1946,8 +1946,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [blog: refactor(posts, actions, components): enhance post management and image handling](https://github.com/NotHarshhaa/personal-blog/commit/9780014b92c701ae875aac588e4728cc93062195) |
-| **Commit date** | `2026-11-15` |
+| **Latest commit** | [blog: refactor(controls): update user prop type for enhanced role management](https://github.com/NotHarshhaa/personal-blog/commit/3a7567d994f3e9ea4271427cb63305f46475c4fa) |
+| **Commit date** | `2026-11-17` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |

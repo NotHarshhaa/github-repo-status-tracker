@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5599,
+    "stars": 5601,
     "forks": 4994,
     "issues": 30,
-    "lastUpdated": "2026-11-17T15:06:58Z",
+    "lastUpdated": "2026-11-17T22:01:00Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1321,
+    "stars": 1322,
     "forks": 957,
     "issues": 4,
-    "lastUpdated": "2026-11-17T14:57:28Z",
+    "lastUpdated": "2026-11-17T16:54:29Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -615,7 +615,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "4129da44be2e99ba56fa9bb94fbe90238d8fcc95"
+    "lastCommit": "055d1a6d834299692cb41d5f3ead5c4e4e187b1e"
   },
   {
     "title": "Devops skills",
@@ -1346,7 +1346,7 @@ export const PROJECTS: Project[] = [
     "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-10-29T17:47:46Z",
-    "lastCommit": "9780014b92c701ae875aac588e4728cc93062195"
+    "lastCommit": "3a7567d994f3e9ea4271427cb63305f46475c4fa"
   },
   {
     "title": "Internal developer platform cli",
