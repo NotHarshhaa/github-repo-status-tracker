@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-18",
+    "last_updated": "2026-11-19",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5609,
-    "forks": 4995,
-    "watchers": 5609,
+    "stars": 5620,
+    "forks": 4997,
+    "watchers": 5620,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-18T21:24:41Z"
+    "raw_updated_at": "2026-11-19T15:21:57Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-18",
+    "last_updated": "2026-11-19",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1324,
-    "forks": 958,
-    "watchers": 1324,
+    "stars": 1325,
+    "forks": 959,
+    "watchers": 1325,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-18T13:53:57Z"
+    "raw_updated_at": "2026-11-19T08:27:57Z"
   },
   {
     "repo": "into-the-devops",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-11-18",
+    "last_updated": "2026-11-19",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 650,
+    "stars": 651,
     "forks": 238,
-    "watchers": 650,
+    "watchers": 651,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-11-18T10:41:03Z"
+    "raw_updated_at": "2026-11-19T14:39:42Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -575,16 +575,16 @@
     "repo": "aws-billing-alert-terraform",
     "url": "https://github.com/NotHarshhaa/aws-billing-alert-terraform",
     "description": "𝐓𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐚 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐦𝐨𝐝𝐮𝐥𝐞 𝐭𝐡𝐚𝐭 𝐡𝐞𝐥𝐩𝐬 𝐬𝐞𝐭 𝐮𝐩 𝐀𝐖𝐒 𝐛𝐢𝐥𝐥𝐢𝐧𝐠 𝐚𝐥𝐞𝐫𝐭𝐬",
-    "last_updated": "2026-08-10",
+    "last_updated": "2026-11-19",
     "latest_commit": "https://github.com/NotHarshhaa/aws-billing-alert-terraform/commit/0c80125fb75a3fba44c02bc92e039aefb6627877",
     "commit_sha": "0c80125fb75a3fba44c02bc92e039aefb6627877",
     "commit_date": "2026-03-21",
     "commit_message": "AWS-Billing-Alerts: feat: Add CloudWatch log group for billing logs and update SNS topic policy",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 58,
+    "stars": 59,
     "forks": 55,
-    "watchers": 58,
+    "watchers": 59,
     "ci_cd_status": "none",
     "languages": [
       "HCL"
@@ -597,7 +597,7 @@
       "terraform",
       "terraform-modules"
     ],
-    "raw_updated_at": "2026-08-10T10:49:04Z"
+    "raw_updated_at": "2026-11-19T06:49:05Z"
   },
   {
     "repo": "ai-platform-engineering-handbook",
@@ -858,6 +858,36 @@
     "raw_updated_at": "2026-06-04T09:26:19Z"
   },
   {
+    "repo": "devops-skills",
+    "url": "https://github.com/NotHarshhaa/devops-skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "last_updated": "2026-11-19",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_date": "2026-09-19",
+    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 18,
+    "forks": 7,
+    "watchers": 18,
+    "ci_cd_status": "pass",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills",
+      "skills"
+    ],
+    "raw_updated_at": "2026-11-19T15:24:44Z"
+  },
+  {
     "repo": "Zomato-Clone",
     "url": "https://github.com/NotHarshhaa/Zomato-Clone",
     "description": "This repository is a full-stack food delivery application inspired by Zomato. It includes a React.js frontend and integrates DevSecOps practices to ensure a secure and automated deployment pipeline.",
@@ -921,9 +951,9 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/9156da736c79840edf29d404b3da1cde2b7a6e7c",
-    "commit_sha": "9156da736c79840edf29d404b3da1cde2b7a6e7c",
-    "commit_date": "2026-11-18",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/438a0c9f9cb9ca4c45f498aa13ecf4c701c37fbe",
+    "commit_sha": "438a0c9f9cb9ca4c45f498aa13ecf4c701c37fbe",
+    "commit_date": "2026-11-19",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -941,36 +971,6 @@
     "license": "MIT License",
     "topics": [],
     "raw_updated_at": "2026-11-17T03:46:42Z"
-  },
-  {
-    "repo": "devops-skills",
-    "url": "https://github.com/NotHarshhaa/devops-skills",
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_date": "2026-09-19",
-    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 15,
-    "forks": 7,
-    "watchers": 15,
-    "ci_cd_status": "pass",
-    "languages": [
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills",
-      "skills"
-    ],
-    "raw_updated_at": "2026-11-17T10:12:49Z"
   },
   {
     "repo": "Deployment-of-super-Mario-on-Kubernetes-using-terraform",
@@ -1043,7 +1043,7 @@
     "commit_date": "2025-07-22",
     "commit_message": "awesome-devops-cloud: README: Expand tool listings and enhance contribution guidelines",
     "author": "NotHarshhaa",
-    "issues": 9,
+    "issues": 8,
     "stars": 14,
     "forks": 20,
     "watchers": 14,

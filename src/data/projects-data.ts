@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5609,
-    "forks": 4995,
+    "stars": 5620,
+    "forks": 4997,
     "issues": 30,
-    "lastUpdated": "2026-11-18T21:24:41Z",
+    "lastUpdated": "2026-11-19T15:21:57Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1324,
-    "forks": 958,
+    "stars": 1325,
+    "forks": 959,
     "issues": 4,
-    "lastUpdated": "2026-11-18T13:53:57Z",
+    "lastUpdated": "2026-11-19T08:27:57Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 650,
+    "stars": 651,
     "forks": 238,
     "issues": 4,
-    "lastUpdated": "2026-11-18T10:41:03Z",
+    "lastUpdated": "2026-11-19T14:39:42Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -390,10 +390,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/aws-billing-alert-terraform",
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
-    "stars": 58,
+    "stars": 59,
     "forks": 55,
     "issues": 0,
-    "lastUpdated": "2026-08-10T10:49:04Z",
+    "lastUpdated": "2026-11-19T06:49:05Z",
     "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
   },
   {
@@ -557,6 +557,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "dc06ce5ad9f1db755497112ed59a65cbfc1379b9"
   },
   {
+    "title": "Devops skills",
+    "techStack": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills"
+    ],
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "link": {
+      "label": "github.com/devops-skills",
+      "href": "https://github.com/NotHarshhaa/devops-skills"
+    },
+    "stars": 18,
+    "forks": 7,
+    "issues": 0,
+    "lastUpdated": "2026-11-19T15:24:44Z",
+    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
+  },
+  {
     "title": "Zomato  Clone",
     "techStack": [
       "devsecops",
@@ -615,28 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "9156da736c79840edf29d404b3da1cde2b7a6e7c"
-  },
-  {
-    "title": "Devops skills",
-    "techStack": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills"
-    ],
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "link": {
-      "label": "github.com/devops-skills",
-      "href": "https://github.com/NotHarshhaa/devops-skills"
-    },
-    "stars": 15,
-    "forks": 7,
-    "issues": 0,
-    "lastUpdated": "2026-11-17T10:12:49Z",
-    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
+    "lastCommit": "438a0c9f9cb9ca4c45f498aa13ecf4c701c37fbe"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -692,7 +692,7 @@ export const PROJECTS: Project[] = [
     },
     "stars": 14,
     "forks": 20,
-    "issues": 9,
+    "issues": 8,
     "lastUpdated": "2026-08-13T13:46:23Z",
     "lastCommit": "d0a9a3bca984b55babd7750e7159faa4b61d2192"
   },
