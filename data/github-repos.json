@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-20",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5619,
-    "forks": 5000,
-    "watchers": 5619,
+    "stars": 5623,
+    "forks": 5003,
+    "watchers": 5623,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-19T23:02:05Z"
+    "raw_updated_at": "2026-11-20T12:56:57Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -82,16 +82,16 @@
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-20",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
     "commit_message": "IntoTheDevOps: Enhance CI Script for Comprehensive Checks",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 926,
-    "forks": 545,
-    "watchers": 926,
+    "stars": 927,
+    "forks": 544,
+    "watchers": 927,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-19T23:05:25Z"
+    "raw_updated_at": "2026-11-20T06:21:24Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -193,7 +193,7 @@
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 381,
-    "forks": 278,
+    "forks": 277,
     "watchers": 381,
     "ci_cd_status": "none",
     "languages": [],
@@ -290,7 +290,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 198,
-    "forks": 211,
+    "forks": 210,
     "watchers": 198,
     "ci_cd_status": "none",
     "languages": [],
@@ -316,16 +316,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-20",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 171,
+    "stars": 172,
     "forks": 80,
-    "watchers": 171,
+    "watchers": 172,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -345,7 +345,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-11-13T10:28:17Z"
+    "raw_updated_at": "2026-11-20T01:38:13Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -514,7 +514,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 65,
-    "forks": 71,
+    "forks": 70,
     "watchers": 65,
     "ci_cd_status": "none",
     "languages": [
@@ -744,7 +744,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 22,
-    "forks": 44,
+    "forks": 43,
     "watchers": 22,
     "ci_cd_status": "none",
     "languages": [],
@@ -832,16 +832,16 @@
     "repo": "devops-skills",
     "url": "https://github.com/NotHarshhaa/devops-skills",
     "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-20",
     "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
     "commit_date": "2026-09-19",
     "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 19,
+    "stars": 20,
     "forks": 7,
-    "watchers": 19,
+    "watchers": 20,
     "ci_cd_status": "pass",
     "languages": [
       "JavaScript"
@@ -856,7 +856,7 @@
       "devops-skills",
       "skills"
     ],
-    "raw_updated_at": "2026-11-19T16:11:40Z"
+    "raw_updated_at": "2026-11-20T13:07:03Z"
   },
   {
     "repo": "AWS-Terraform-Workshop",
@@ -951,9 +951,9 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ff655694619a59c9ce3a562a0400f2737d66ecdc",
-    "commit_sha": "ff655694619a59c9ce3a562a0400f2737d66ecdc",
-    "commit_date": "2026-11-19",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/86d32375a6cd426778c25d8e5db731ae6d7515a4",
+    "commit_sha": "86d32375a6cd426778c25d8e5db731ae6d7515a4",
+    "commit_date": "2026-11-20",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,

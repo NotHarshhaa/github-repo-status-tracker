@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5619,
-    "forks": 5000,
+    "stars": 5623,
+    "forks": 5003,
     "issues": 30,
-    "lastUpdated": "2026-11-19T23:02:05Z",
+    "lastUpdated": "2026-11-20T12:56:57Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 926,
-    "forks": 545,
+    "stars": 927,
+    "forks": 544,
     "issues": 0,
-    "lastUpdated": "2026-11-19T23:05:25Z",
+    "lastUpdated": "2026-11-20T06:21:24Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 381,
-    "forks": 278,
+    "forks": 277,
     "issues": 3,
     "lastUpdated": "2026-11-19T23:20:34Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
@@ -202,7 +202,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps_Setup-Installations"
     },
     "stars": 198,
-    "forks": 211,
+    "forks": 210,
     "issues": 0,
     "lastUpdated": "2026-11-13T10:31:20Z",
     "lastCommit": "e44b1dde5f78d1687e8f804ffbe28eff73e2c4b3"
@@ -222,10 +222,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 171,
+    "stars": 172,
     "forks": 80,
     "issues": 0,
-    "lastUpdated": "2026-11-13T10:28:17Z",
+    "lastUpdated": "2026-11-20T01:38:13Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -349,7 +349,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
     "stars": 65,
-    "forks": 71,
+    "forks": 70,
     "issues": 0,
     "lastUpdated": "2026-11-11T20:29:24Z",
     "lastCommit": "e958464ecacb0bde6d3741faa37a9071c74fc486"
@@ -488,7 +488,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/Learning-Prometheus"
     },
     "stars": 22,
-    "forks": 44,
+    "forks": 43,
     "issues": 0,
     "lastUpdated": "2026-07-16T17:33:32Z",
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
@@ -550,10 +550,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 19,
+    "stars": 20,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-11-19T16:11:40Z",
+    "lastUpdated": "2026-11-20T13:07:03Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "ff655694619a59c9ce3a562a0400f2737d66ecdc"
+    "lastCommit": "86d32375a6cd426778c25d8e5db731ae6d7515a4"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
