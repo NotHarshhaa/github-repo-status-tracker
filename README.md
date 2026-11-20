@@ -1,30 +1,30 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-19%2015%3A28:08.337 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-20%2000%3A25:14.136 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,608** combined stars
+**87** repositories tracked · **11,607** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,608** stars · **9,444** forks · **74** open issues
+> **87** repositories · **11,607** stars · **9,448** forks · **74** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,620 | 4,997 | 30 | — | 2026-11-19 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,619 | 5,000 | 30 | — | 2026-11-19 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,325 | 959 | 4 | — | 2026-11-19 |
-| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 926 | 545 | 0 | — | 2026-11-12 |
+| 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 926 | 545 | 0 | — | 2026-11-19 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 651 | 238 | 4 | — | 2026-11-19 |
 | 5 | [kubernetes-projects-learning](https://github.com/NotHarshhaa/kubernetes-projects-learning) | 540 | 406 | 1 | — | 2026-11-16 |
-| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 382 | 278 | 3 | — | 2026-11-14 |
+| 6 | [devops-cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | 381 | 278 | 3 | — | 2026-11-19 |
 | 7 | [devops-tools](https://github.com/NotHarshhaa/devops-tools) | 248 | 165 | 5 | — | 2026-11-11 |
 | 8 | [Kubernetes](https://github.com/NotHarshhaa/Kubernetes) | 212 | 213 | 0 | — | 2026-11-08 |
-| 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 198 | 210 | 0 | — | 2026-11-13 |
+| 9 | [DevOps_Setup-Installations](https://github.com/NotHarshhaa/DevOps_Setup-Installations) | 198 | 211 | 0 | — | 2026-11-13 |
 | 10 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 171 | 80 | 0 | — | 2026-11-13 |
 | 11 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 166 | 124 | 0 | — | 2026-11-14 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 142 | 120 | 1 | Fail | 2026-11-17 |
@@ -41,8 +41,8 @@ Updates automatically every 6 hours via GitHub Actions.
 | 23 | [Learning-Prometheus](https://github.com/NotHarshhaa/Learning-Prometheus) | 22 | 44 | 0 | — | 2026-07-16 |
 | 24 | [AWS-EKS_Terraform](https://github.com/NotHarshhaa/AWS-EKS_Terraform) | 21 | 57 | 0 | — | 2026-09-14 |
 | 25 | [devops-monitoring-in-a-box](https://github.com/NotHarshhaa/devops-monitoring-in-a-box) | 21 | 23 | 1 | Pass | 2026-10-28 |
-| 26 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 26 | 1 | — | 2026-06-04 |
-| 27 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 18 | 7 | 0 | Pass | 2026-11-19 |
+| 26 | [devops-skills](https://github.com/NotHarshhaa/devops-skills) | 19 | 7 | 0 | Pass | 2026-11-19 |
+| 27 | [AWS-Terraform-Workshop](https://github.com/NotHarshhaa/AWS-Terraform-Workshop) | 18 | 26 | 1 | — | 2026-06-04 |
 | 28 | [Zomato-Clone](https://github.com/NotHarshhaa/Zomato-Clone) | 17 | 89 | 2 | — | 2026-09-04 |
 | 29 | [devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) | 15 | 5 | 0 | Fail | 2026-11-10 |
 | 30 | [github-repo-status-tracker](https://github.com/NotHarshhaa/github-repo-status-tracker) | 15 | 20 | 0 | — | 2026-11-17 |
@@ -112,8 +112,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
-  &nbsp;·&nbsp; ⭐ 5,620
-  &nbsp;·&nbsp; 🍴 4,997
+  &nbsp;·&nbsp; ⭐ 5,619
+  &nbsp;·&nbsp; 🍴 5,000
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -185,7 +185,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [IntoTheDevOps: Enhance CI Script for Comprehensive Checks](https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176) |
 | **Commit date** | `2025-06-22` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-12` |
+| **Repo updated** | `2026-11-19` |
 | **License** | `No license` |
 | **Languages** | `Python` · `Shell` · `HCL` |
 | **Topics** | `ansible` · `aws` · `azure` · `coding` · `containers` · `devops` |
@@ -252,7 +252,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/devops-cheatsheet">devops-cheatsheet</a></strong>
-  &nbsp;·&nbsp; ⭐ 382
+  &nbsp;·&nbsp; ⭐ 381
   &nbsp;·&nbsp; 🍴 278
   &nbsp;·&nbsp; CI —
   <br><sub>A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud...</sub>
@@ -269,7 +269,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [DevOps-Cheatsheet: chore: Remove obsolete configuration and assets](https://github.com/NotHarshhaa/devops-cheatsheet/commit/e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0) |
 | **Commit date** | `2026-10-29` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-14` |
+| **Repo updated** | `2026-11-19` |
 | **License** | `GNU General Public License v2.0` |
 | **Languages** | _None detected_ |
 | **Topics** | `automation` · `aws` · `azure` · `cheatsheet` · `cicd` · `cloud` |
@@ -337,7 +337,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps_Setup-Installations">DevOps_Setup-Installations</a></strong>
   &nbsp;·&nbsp; ⭐ 198
-  &nbsp;·&nbsp; 🍴 210
+  &nbsp;·&nbsp; 🍴 211
   &nbsp;·&nbsp; CI —
   <br><sub>Comprehensive repository covering the installation and setup of essential DevOps and DevSecOps tools</sub>
 </summary>
@@ -808,6 +808,34 @@ Updates automatically every 6 hours via GitHub Actions.
 
 </details>
 
+<!-- repo:devops-skills -->
+<details>
+<summary>
+  <strong><a href="https://github.com/NotHarshhaa/devops-skills">devops-skills</a></strong>
+  &nbsp;·&nbsp; ⭐ 19
+  &nbsp;·&nbsp; 🍴 7
+  &nbsp;·&nbsp; CI Pass
+  <br><sub>A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability,...</sub>
+</summary>
+<br>
+
+![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-skills?style=flat-square)
+![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-skills?style=flat-square)
+![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-skills?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-skills?style=flat-square)
+
+| | |
+|---|---|
+| **Latest commit** | [docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-r...](https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5) |
+| **Commit date** | `2026-09-19` |
+| **Author** | `NotHarshhaa` |
+| **Repo updated** | `2026-11-19` |
+| **License** | `MIT License` |
+| **Languages** | `JavaScript` |
+| **Topics** | `agent-skill` · `agent-skills` · `agents` · `devops-agent-skills` · `devops-agents` · `devops-skills` |
+
+</details>
+
 <!-- repo:AWS-Terraform-Workshop -->
 <details>
 <summary>
@@ -833,34 +861,6 @@ Updates automatically every 6 hours via GitHub Actions.
 | **License** | `GNU General Public License v2.0` |
 | **Languages** | `Shell` · `HCL` |
 | **Topics** | `automation` · `aws` · `aws-workshops` · `terraform` · `terraform-workshop` |
-
-</details>
-
-<!-- repo:devops-skills -->
-<details>
-<summary>
-  <strong><a href="https://github.com/NotHarshhaa/devops-skills">devops-skills</a></strong>
-  &nbsp;·&nbsp; ⭐ 18
-  &nbsp;·&nbsp; 🍴 7
-  &nbsp;·&nbsp; CI Pass
-  <br><sub>A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability,...</sub>
-</summary>
-<br>
-
-![Stars](https://img.shields.io/github/stars/NotHarshhaa/devops-skills?style=flat-square)
-![Forks](https://img.shields.io/github/forks/NotHarshhaa/devops-skills?style=flat-square)
-![Issues](https://img.shields.io/github/issues/NotHarshhaa/devops-skills?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/NotHarshhaa/devops-skills?style=flat-square)
-
-| | |
-|---|---|
-| **Latest commit** | [docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-r...](https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5) |
-| **Commit date** | `2026-09-19` |
-| **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-19` |
-| **License** | `MIT License` |
-| **Languages** | `JavaScript` |
-| **Topics** | `agent-skill` · `agent-skills` · `agents` · `devops-agent-skills` · `devops-agents` · `devops-skills` |
 
 </details>
 
@@ -938,7 +938,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/438a0c9f9cb9ca4c45f498aa13ecf4c701c37fbe) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ff655694619a59c9ce3a562a0400f2737d66ecdc) |
 | **Commit date** | `2026-11-19` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-17` |

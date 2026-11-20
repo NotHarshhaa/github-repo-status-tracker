@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5620,
-    "forks": 4997,
-    "watchers": 5620,
+    "stars": 5619,
+    "forks": 5000,
+    "watchers": 5619,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-19T15:21:57Z"
+    "raw_updated_at": "2026-11-19T23:02:05Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -82,7 +82,7 @@
     "repo": "into-the-devops",
     "url": "https://github.com/NotHarshhaa/into-the-devops",
     "description": "𝖫𝗂𝗇𝗎𝗑, 𝖩𝖾𝗇𝗄𝗂𝗇𝗌, 𝖠𝖶𝖲, 𝖲𝖱𝖤, 𝖯𝗋𝗈𝗆𝖾𝗍𝗁𝖾𝗎𝗌, 𝖣𝗈𝖼𝗄𝖾𝗋, 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖠𝗇𝗌𝗂𝖻𝗅𝖾, 𝖦𝗂𝗍, 𝖪𝗎𝖻𝖾𝗋𝗇𝖾𝗍𝖾𝗌, 𝖳𝖾𝗋𝗋𝖺𝖿𝗈𝗋𝗆, 𝖮𝗉𝖾𝗇𝖲𝗍𝖺𝖼𝗄, 𝖲𝖰𝖫, 𝖭𝗈𝖲𝖰𝖫, 𝖠𝗓𝗎𝗋𝖾, 𝖦𝖢𝖯, 𝖣𝖭𝖲, 𝖤𝗅𝖺𝗌𝗍𝗂𝖼, 𝖭𝖾𝗍𝗐𝗈𝗋𝗄, 𝖵𝗂𝗋𝗍𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇. 𝖣𝖾𝗏𝖮𝗉𝗌 𝖨𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝖰𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗌",
-    "last_updated": "2026-11-12",
+    "last_updated": "2026-11-19",
     "latest_commit": "https://github.com/NotHarshhaa/into-the-devops/commit/1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_sha": "1fef40a47764021ca15eb1e227502a6e64787176",
     "commit_date": "2025-06-22",
@@ -120,7 +120,7 @@
       "sre",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-12T11:37:20Z"
+    "raw_updated_at": "2026-11-19T23:05:25Z"
   },
   {
     "repo": "kubernetes-learning-path",
@@ -185,16 +185,16 @@
     "repo": "devops-cheatsheet",
     "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
     "description": "A comprehensive collection of quick-reference cheatsheets for DevOps tools, covering CI/CD, containerization, monitoring, security, cloud infrastructure, and networking. Perfect for DevOps engineers, sysadmins, developers, and newcomers looking for essential commands and best practices. Contributions are welcome!",
-    "last_updated": "2026-11-14",
+    "last_updated": "2026-11-19",
     "latest_commit": "https://github.com/NotHarshhaa/devops-cheatsheet/commit/e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
     "commit_sha": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0",
     "commit_date": "2026-10-29",
     "commit_message": "DevOps-Cheatsheet: chore: Remove obsolete configuration and assets",
     "author": "NotHarshhaa",
     "issues": 3,
-    "stars": 382,
+    "stars": 381,
     "forks": 278,
-    "watchers": 382,
+    "watchers": 381,
     "ci_cd_status": "none",
     "languages": [],
     "license": "GNU General Public License v2.0",
@@ -214,7 +214,7 @@
       "kubernetes",
       "monitoring"
     ],
-    "raw_updated_at": "2026-11-14T21:33:57Z"
+    "raw_updated_at": "2026-11-19T23:20:34Z"
   },
   {
     "repo": "devops-tools",
@@ -290,7 +290,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 198,
-    "forks": 210,
+    "forks": 211,
     "watchers": 198,
     "ci_cd_status": "none",
     "languages": [],
@@ -829,6 +829,36 @@
     "raw_updated_at": "2026-10-28T19:22:00Z"
   },
   {
+    "repo": "devops-skills",
+    "url": "https://github.com/NotHarshhaa/devops-skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "last_updated": "2026-11-19",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_date": "2026-09-19",
+    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 19,
+    "forks": 7,
+    "watchers": 19,
+    "ci_cd_status": "pass",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills",
+      "skills"
+    ],
+    "raw_updated_at": "2026-11-19T16:11:40Z"
+  },
+  {
     "repo": "AWS-Terraform-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-Terraform-Workshop",
     "description": "//  A beginner-friendly guide to setting up AWS infrastructure using Terraform! Learn how to automate and manage cloud resources with ease.  //",
@@ -856,36 +886,6 @@
       "terraform-workshop"
     ],
     "raw_updated_at": "2026-06-04T09:26:19Z"
-  },
-  {
-    "repo": "devops-skills",
-    "url": "https://github.com/NotHarshhaa/devops-skills",
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-11-19",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_date": "2026-09-19",
-    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 18,
-    "forks": 7,
-    "watchers": 18,
-    "ci_cd_status": "pass",
-    "languages": [
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills",
-      "skills"
-    ],
-    "raw_updated_at": "2026-11-19T15:24:44Z"
   },
   {
     "repo": "Zomato-Clone",
@@ -951,8 +951,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/438a0c9f9cb9ca4c45f498aa13ecf4c701c37fbe",
-    "commit_sha": "438a0c9f9cb9ca4c45f498aa13ecf4c701c37fbe",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/ff655694619a59c9ce3a562a0400f2737d66ecdc",
+    "commit_sha": "ff655694619a59c9ce3a562a0400f2737d66ecdc",
     "commit_date": "2026-11-19",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
