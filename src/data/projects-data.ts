@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5623,
-    "forks": 5004,
+    "stars": 5624,
+    "forks": 5006,
     "issues": 30,
-    "lastUpdated": "2026-11-21T04:02:01Z",
+    "lastUpdated": "2026-11-21T10:27:51Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1325,
-    "forks": 959,
+    "stars": 1326,
+    "forks": 960,
     "issues": 4,
-    "lastUpdated": "2026-11-19T08:27:57Z",
+    "lastUpdated": "2026-11-21T16:04:03Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 540,
+    "stars": 541,
     "forks": 406,
     "issues": 1,
-    "lastUpdated": "2026-11-16T11:51:47Z",
+    "lastUpdated": "2026-11-21T12:12:39Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
   },
   {
@@ -408,7 +408,7 @@ export const PROJECTS: Project[] = [
     "forks": 19,
     "issues": 1,
     "lastUpdated": "2026-11-09T07:17:25Z",
-    "lastCommit": "4488e7f514553a0ab61089cb6a388332970acc75"
+    "lastCommit": "beab0c6dc86efe6071e5bfbd3cff4d7a327b029b"
   },
   {
     "title": "Cloud  Native  Dev Ops  Project",
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "6fe97d1503aaedf0a546579a0af448fe100d10e1"
+    "lastCommit": "b622b8a64ea4f2039235006a9d56f606c4be7d6e"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -999,7 +999,7 @@ export const PROJECTS: Project[] = [
     "forks": 7,
     "issues": 0,
     "lastUpdated": "2026-11-12T11:18:54Z",
-    "lastCommit": "40750df65cc7c91fa3214575039f6c558fac85b3"
+    "lastCommit": "37cd77685de6dbc9cb1682010959487f6a40d8e8"
   },
   {
     "title": "Prodevopsguy.xyz",
