@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5628,
+    "stars": 5627,
     "forks": 5009,
     "issues": 30,
-    "lastUpdated": "2026-11-22T12:46:45Z",
+    "lastUpdated": "2026-11-22T23:12:39Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1328,
+    "stars": 1327,
     "forks": 961,
     "issues": 4,
-    "lastUpdated": "2026-11-22T10:39:38Z",
+    "lastUpdated": "2026-11-22T20:42:11Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 541,
+    "stars": 542,
     "forks": 406,
     "issues": 1,
-    "lastUpdated": "2026-11-21T12:12:39Z",
+    "lastUpdated": "2026-11-22T22:32:08Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
   },
   {
@@ -286,7 +286,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
     "stars": 136,
-    "forks": 59,
+    "forks": 60,
     "issues": 0,
     "lastUpdated": "2026-11-12T14:38:07Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
@@ -394,7 +394,7 @@ export const PROJECTS: Project[] = [
     "forks": 55,
     "issues": 0,
     "lastUpdated": "2026-11-19T06:49:05Z",
-    "lastCommit": "0c80125fb75a3fba44c02bc92e039aefb6627877"
+    "lastCommit": "b8631399e9220ff26e6e2a7ba3392f6c641ad399"
   },
   {
     "title": "Ai platform engineering handbook",
@@ -429,7 +429,7 @@ export const PROJECTS: Project[] = [
     "forks": 45,
     "issues": 0,
     "lastUpdated": "2026-10-28T18:12:38Z",
-    "lastCommit": "b9abb4e7ac0f05a45dfc0cd22fa65ce4dfd2b03b"
+    "lastCommit": "ea965ee4cb61c67bf94f244fdb58081c56c2e0a3"
   },
   {
     "title": "From  Docker to  Kubernetes",
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "5653647077591b6071ebaced982e8bd2acea47ea"
+    "lastCommit": "90f3cda9eca06bde4e2b299da4024c11cc8c4e5e"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
