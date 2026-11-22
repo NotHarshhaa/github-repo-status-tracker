@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5626,
-    "forks": 5008,
+    "stars": 5628,
+    "forks": 5009,
     "issues": 30,
-    "lastUpdated": "2026-11-22T05:31:49Z",
+    "lastUpdated": "2026-11-22T12:46:45Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1326,
+    "stars": 1328,
     "forks": 961,
     "issues": 4,
-    "lastUpdated": "2026-11-21T16:04:03Z",
+    "lastUpdated": "2026-11-22T10:39:38Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 927,
+    "stars": 928,
     "forks": 544,
     "issues": 0,
-    "lastUpdated": "2026-11-20T06:21:24Z",
+    "lastUpdated": "2026-11-22T07:08:05Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -96,10 +96,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-learning-path",
       "href": "https://github.com/NotHarshhaa/kubernetes-learning-path"
     },
-    "stars": 651,
+    "stars": 652,
     "forks": 238,
     "issues": 4,
-    "lastUpdated": "2026-11-19T14:39:42Z",
+    "lastUpdated": "2026-11-22T13:20:25Z",
     "lastCommit": "734c2cf7233dcca42bbb66203b764f4a462e00dd"
   },
   {
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "e2f15ebce2d5210a5faf75efa2cc6c59604a73bb"
+    "lastCommit": "5653647077591b6071ebaced982e8bd2acea47ea"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -834,7 +834,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-incident-agent"
     },
     "stars": 8,
-    "forks": 4,
+    "forks": 5,
     "issues": 7,
     "lastUpdated": "2026-10-28T19:22:48Z",
     "lastCommit": "ffc272d5d26758bc89dfff64a2ae878256230568"
