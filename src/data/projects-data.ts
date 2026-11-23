@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5627,
-    "forks": 5008,
+    "stars": 5632,
+    "forks": 5010,
     "issues": 30,
-    "lastUpdated": "2026-11-23T02:44:01Z",
+    "lastUpdated": "2026-11-23T21:08:29Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1328,
+    "stars": 1329,
     "forks": 961,
     "issues": 4,
-    "lastUpdated": "2026-11-23T04:51:35Z",
+    "lastUpdated": "2026-11-23T13:04:49Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -75,10 +75,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/into-the-devops",
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
-    "stars": 928,
+    "stars": 929,
     "forks": 544,
     "issues": 0,
-    "lastUpdated": "2026-11-22T07:08:05Z",
+    "lastUpdated": "2026-11-23T21:08:32Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
   },
   {
@@ -138,10 +138,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-cheatsheet",
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
-    "stars": 381,
+    "stars": 382,
     "forks": 277,
     "issues": 3,
-    "lastUpdated": "2026-11-19T23:20:34Z",
+    "lastUpdated": "2026-11-23T07:10:50Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
   },
   {
@@ -160,8 +160,8 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-tools"
     },
     "stars": 249,
-    "forks": 165,
-    "issues": 5,
+    "forks": 166,
+    "issues": 6,
     "lastUpdated": "2026-11-23T03:33:10Z",
     "lastCommit": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92"
   },
@@ -550,10 +550,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/devops-skills",
       "href": "https://github.com/NotHarshhaa/devops-skills"
     },
-    "stars": 20,
+    "stars": 21,
     "forks": 7,
     "issues": 0,
-    "lastUpdated": "2026-11-20T13:07:03Z",
+    "lastUpdated": "2026-11-23T15:27:25Z",
     "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "b56a45258df0bb8cee842941fff8984e9352caa3"
+    "lastCommit": "31d54d7022318fa5c9f98b0ff46d21288073fb7d"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -1346,7 +1346,7 @@ export const PROJECTS: Project[] = [
     "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-10-29T17:47:46Z",
-    "lastCommit": "3a7567d994f3e9ea4271427cb63305f46475c4fa"
+    "lastCommit": "e4f8e740e2bfbe3a451a9ee2ae922521e171a0ef"
   },
   {
     "title": "Internal developer platform cli",
