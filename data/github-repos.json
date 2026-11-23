@@ -3,7 +3,7 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-22",
+    "last_updated": "2026-11-23",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
@@ -11,7 +11,7 @@
     "author": "NotHarshhaa",
     "issues": 30,
     "stars": 5627,
-    "forks": 5009,
+    "forks": 5008,
     "watchers": 5627,
     "ci_cd_status": "none",
     "languages": [
@@ -43,22 +43,22 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-22T23:12:39Z"
+    "raw_updated_at": "2026-11-23T02:44:01Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
     "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
     "description": "Collection of 2,200+ DevOps, SRE & Platform Engineering interview questions with in-depth answers covering CI/CD, GitOps, Cloud (AWS, Azure, GCP), Kubernetes, Terraform, OpenTofu, Linux, Observability (OTel/Prometheus), Security, System Design & Incident Debugging. Perfect for all experience levels! 🌟🚀",
-    "last_updated": "2026-11-22",
+    "last_updated": "2026-11-23",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Interview-Questions/commit/5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_sha": "5081cf61629271e8e723d655db2f58a41ba1f993",
     "commit_date": "2026-08-28",
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1327,
+    "stars": 1328,
     "forks": 961,
-    "watchers": 1327,
+    "watchers": 1328,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-22T20:42:11Z"
+    "raw_updated_at": "2026-11-23T04:51:35Z"
   },
   {
     "repo": "into-the-devops",
@@ -220,16 +220,16 @@
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-23",
     "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_sha": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_date": "2026-11-02",
     "commit_message": "DevOps-Tools: Expand README with new tools and categories for enhanced resource coverage",
     "author": "NotHarshhaa",
     "issues": 5,
-    "stars": 248,
+    "stars": 249,
     "forks": 165,
-    "watchers": 248,
+    "watchers": 249,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -246,7 +246,7 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-11-11T20:32:24Z"
+    "raw_updated_at": "2026-11-23T03:33:10Z"
   },
   {
     "repo": "Kubernetes",
@@ -424,7 +424,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 136,
-    "forks": 60,
+    "forks": 61,
     "watchers": 136,
     "ci_cd_status": "none",
     "languages": [],
@@ -951,8 +951,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/90f3cda9eca06bde4e2b299da4024c11cc8c4e5e",
-    "commit_sha": "90f3cda9eca06bde4e2b299da4024c11cc8c4e5e",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b56a45258df0bb8cee842941fff8984e9352caa3",
+    "commit_sha": "b56a45258df0bb8cee842941fff8984e9352caa3",
     "commit_date": "2026-11-22",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
