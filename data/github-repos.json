@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-23",
+    "last_updated": "2026-11-24",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5632,
-    "forks": 5010,
-    "watchers": 5632,
+    "stars": 5633,
+    "forks": 5011,
+    "watchers": 5633,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-23T21:08:29Z"
+    "raw_updated_at": "2026-11-24T04:18:31Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -506,16 +506,16 @@
     "repo": "DevOps-Tool-Installer",
     "url": "https://github.com/NotHarshhaa/DevOps-Tool-Installer",
     "description": "Automate installation/uninstallation of essential DevOps tools on Linux and Windows with a single script. Perfect for DevOps engineers and enthusiasts looking to streamline their setup process.",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-24",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Tool-Installer/commit/e958464ecacb0bde6d3741faa37a9071c74fc486",
     "commit_sha": "e958464ecacb0bde6d3741faa37a9071c74fc486",
     "commit_date": "2026-10-19",
     "commit_message": "DevOps-Tool-Installer: Introduce new features for enhanced usability and diagnostics",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 65,
+    "stars": 66,
     "forks": 70,
-    "watchers": 65,
+    "watchers": 66,
     "ci_cd_status": "none",
     "languages": [
       "Shell",
@@ -535,7 +535,7 @@
       "terraform",
       "tools"
     ],
-    "raw_updated_at": "2026-11-11T20:29:24Z"
+    "raw_updated_at": "2026-11-24T07:51:15Z"
   },
   {
     "repo": "kubernetes-dashboard",
@@ -759,6 +759,36 @@
     "raw_updated_at": "2026-07-16T17:33:32Z"
   },
   {
+    "repo": "devops-skills",
+    "url": "https://github.com/NotHarshhaa/devops-skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "last_updated": "2026-11-24",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_date": "2026-09-19",
+    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 22,
+    "forks": 7,
+    "watchers": 22,
+    "ci_cd_status": "pass",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills",
+      "skills"
+    ],
+    "raw_updated_at": "2026-11-24T08:07:33Z"
+  },
+  {
     "repo": "AWS-EKS_Terraform",
     "url": "https://github.com/NotHarshhaa/AWS-EKS_Terraform",
     "description": "PROVISION EKS (Amazon Elastic Kubernetes Service) CLUSTER ON AWS USING TERRAFORM",
@@ -827,36 +857,6 @@
       "prometheus-metrics"
     ],
     "raw_updated_at": "2026-10-28T19:22:00Z"
-  },
-  {
-    "repo": "devops-skills",
-    "url": "https://github.com/NotHarshhaa/devops-skills",
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-11-23",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_date": "2026-09-19",
-    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 21,
-    "forks": 7,
-    "watchers": 21,
-    "ci_cd_status": "pass",
-    "languages": [
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills",
-      "skills"
-    ],
-    "raw_updated_at": "2026-11-23T15:27:25Z"
   },
   {
     "repo": "AWS-Terraform-Workshop",
@@ -951,8 +951,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/31d54d7022318fa5c9f98b0ff46d21288073fb7d",
-    "commit_sha": "31d54d7022318fa5c9f98b0ff46d21288073fb7d",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/cc705d18fa942184be9bc6943230b59c21bff33b",
+    "commit_sha": "cc705d18fa942184be9bc6943230b59c21bff33b",
     "commit_date": "2026-11-23",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",

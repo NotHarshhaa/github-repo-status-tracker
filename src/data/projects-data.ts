@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5632,
-    "forks": 5010,
+    "stars": 5633,
+    "forks": 5011,
     "issues": 30,
-    "lastUpdated": "2026-11-23T21:08:29Z",
+    "lastUpdated": "2026-11-24T04:18:31Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -348,10 +348,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Tool-Installer",
       "href": "https://github.com/NotHarshhaa/DevOps-Tool-Installer"
     },
-    "stars": 65,
+    "stars": 66,
     "forks": 70,
     "issues": 0,
-    "lastUpdated": "2026-11-11T20:29:24Z",
+    "lastUpdated": "2026-11-24T07:51:15Z",
     "lastCommit": "e958464ecacb0bde6d3741faa37a9071c74fc486"
   },
   {
@@ -494,6 +494,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "c79e4344f3531c08ab27ced74bfa2b018d8fe4e0"
   },
   {
+    "title": "Devops skills",
+    "techStack": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills"
+    ],
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "link": {
+      "label": "github.com/devops-skills",
+      "href": "https://github.com/NotHarshhaa/devops-skills"
+    },
+    "stars": 22,
+    "forks": 7,
+    "issues": 0,
+    "lastUpdated": "2026-11-24T08:07:33Z",
+    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
+  },
+  {
     "title": "A W S  E K S  Terraform",
     "techStack": [
       "aws-ec2",
@@ -534,27 +555,6 @@ export const PROJECTS: Project[] = [
     "issues": 1,
     "lastUpdated": "2026-10-28T19:22:00Z",
     "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
-  },
-  {
-    "title": "Devops skills",
-    "techStack": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills"
-    ],
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "link": {
-      "label": "github.com/devops-skills",
-      "href": "https://github.com/NotHarshhaa/devops-skills"
-    },
-    "stars": 21,
-    "forks": 7,
-    "issues": 0,
-    "lastUpdated": "2026-11-23T15:27:25Z",
-    "lastCommit": "3605f9452e331d984a2a119e5a00763ecdff23e5"
   },
   {
     "title": "A W S  Terraform  Workshop",
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "31d54d7022318fa5c9f98b0ff46d21288073fb7d"
+    "lastCommit": "cc705d18fa942184be9bc6943230b59c21bff33b"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
