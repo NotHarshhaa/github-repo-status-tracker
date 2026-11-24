@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5633,
-    "forks": 5011,
+    "stars": 5635,
+    "forks": 5012,
     "issues": 30,
-    "lastUpdated": "2026-11-24T04:18:31Z",
+    "lastUpdated": "2026-11-24T14:34:12Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -76,7 +76,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/into-the-devops"
     },
     "stars": 929,
-    "forks": 544,
+    "forks": 545,
     "issues": 0,
     "lastUpdated": "2026-11-23T21:08:32Z",
     "lastCommit": "1fef40a47764021ca15eb1e227502a6e64787176"
@@ -265,7 +265,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions"
     },
     "stars": 142,
-    "forks": 120,
+    "forks": 121,
     "issues": 1,
     "lastUpdated": "2026-11-17T06:23:04Z",
     "lastCommit": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df"
@@ -405,7 +405,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
     "stars": 44,
-    "forks": 19,
+    "forks": 20,
     "issues": 1,
     "lastUpdated": "2026-11-09T07:17:25Z",
     "lastCommit": "beab0c6dc86efe6071e5bfbd3cff4d7a327b029b"
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "cc705d18fa942184be9bc6943230b59c21bff33b"
+    "lastCommit": "d7f971dc63e42d99ea41b28f08989a682e7d0123"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -712,7 +712,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/tf-ecr-ecs-gh-deploy"
     },
     "stars": 11,
-    "forks": 24,
+    "forks": 25,
     "issues": 0,
     "lastUpdated": "2026-06-11T21:58:36Z",
     "lastCommit": "76a6209746bbf4c0fa3463bcc89ea9fad47ec9d1"
