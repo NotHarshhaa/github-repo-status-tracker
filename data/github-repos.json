@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-24",
+    "last_updated": "2026-11-25",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5635,
+    "stars": 5634,
     "forks": 5012,
-    "watchers": 5635,
+    "watchers": 5634,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-24T14:34:12Z"
+    "raw_updated_at": "2026-11-25T06:36:19Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-11-22",
+    "last_updated": "2026-11-25",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 652,
+    "stars": 653,
     "forks": 238,
-    "watchers": 652,
+    "watchers": 653,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,7 +149,7 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-11-22T13:20:25Z"
+    "raw_updated_at": "2026-11-25T02:49:00Z"
   },
   {
     "repo": "kubernetes-projects-learning",
@@ -733,6 +733,36 @@
     "raw_updated_at": "2026-11-11T09:20:59Z"
   },
   {
+    "repo": "devops-skills",
+    "url": "https://github.com/NotHarshhaa/devops-skills",
+    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
+    "last_updated": "2026-11-25",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
+    "commit_date": "2026-09-19",
+    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 23,
+    "forks": 7,
+    "watchers": 23,
+    "ci_cd_status": "pass",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "devops-agent-skills",
+      "devops-agents",
+      "devops-skills",
+      "skills"
+    ],
+    "raw_updated_at": "2026-11-25T00:38:33Z"
+  },
+  {
     "repo": "Learning-Prometheus",
     "url": "https://github.com/NotHarshhaa/Learning-Prometheus",
     "description": "𝘼 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙞𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙞𝙣𝙜 𝙋𝙧𝙤𝙢𝙚𝙩𝙝𝙚𝙪𝙨 𝙛𝙤𝙧 𝙢𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝙤𝙗𝙨𝙚𝙧𝙫𝙖𝙗𝙞𝙡𝙞𝙩𝙮 𝙞𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙚𝙣𝙫𝙞𝙧𝙤𝙣𝙢𝙚𝙣𝙩𝙨.",
@@ -757,36 +787,6 @@
       "prometheus-operator"
     ],
     "raw_updated_at": "2026-07-16T17:33:32Z"
-  },
-  {
-    "repo": "devops-skills",
-    "url": "https://github.com/NotHarshhaa/devops-skills",
-    "description": "A collection of reusable DevOps Agent Skills for incident response, infrastructure auditing, Kubernetes, Terraform, CI/CD, observability, security, and platform engineering.",
-    "last_updated": "2026-11-24",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-skills/commit/3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_sha": "3605f9452e331d984a2a119e5a00763ecdff23e5",
-    "commit_date": "2026-09-19",
-    "commit_message": "docs: add comprehensive README files for new skills including `/audit`, `/cost`, `/db-review`, `/docker-review`, `/dr-review`, `/gitops-review`, `/incident`, `/k8s-review`, `/observability`, `/pipeline-review`, `/release-readiness`, `/runbook`, `/security-review`, `/terraform-review`, and `/upgrade-review`",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 22,
-    "forks": 7,
-    "watchers": 22,
-    "ci_cd_status": "pass",
-    "languages": [
-      "JavaScript"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "agent-skill",
-      "agent-skills",
-      "agents",
-      "devops-agent-skills",
-      "devops-agents",
-      "devops-skills",
-      "skills"
-    ],
-    "raw_updated_at": "2026-11-24T08:07:33Z"
   },
   {
     "repo": "AWS-EKS_Terraform",
@@ -951,8 +951,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/d7f971dc63e42d99ea41b28f08989a682e7d0123",
-    "commit_sha": "d7f971dc63e42d99ea41b28f08989a682e7d0123",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f34f5c49b3434f41638081acfc05957cca6491d9",
+    "commit_sha": "f34f5c49b3434f41638081acfc05957cca6491d9",
     "commit_date": "2026-11-24",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
