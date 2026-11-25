@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5634,
-    "forks": 5012,
+    "stars": 5635,
+    "forks": 5014,
     "issues": 30,
-    "lastUpdated": "2026-11-25T06:36:19Z",
+    "lastUpdated": "2026-11-25T19:01:25Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1329,
-    "forks": 961,
+    "stars": 1330,
+    "forks": 962,
     "issues": 4,
-    "lastUpdated": "2026-11-23T13:04:49Z",
+    "lastUpdated": "2026-11-25T09:19:37Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -117,10 +117,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-projects-learning",
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
-    "stars": 542,
+    "stars": 541,
     "forks": 406,
     "issues": 1,
-    "lastUpdated": "2026-11-22T22:32:08Z",
+    "lastUpdated": "2026-11-25T19:55:24Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
   },
   {
@@ -554,7 +554,7 @@ export const PROJECTS: Project[] = [
     "forks": 23,
     "issues": 1,
     "lastUpdated": "2026-10-28T19:22:00Z",
-    "lastCommit": "f251d9d5bf5eead29aa18dc08000c36ecbdda9bf"
+    "lastCommit": "9ce354c0f2ba63898f0f5ae533da9b5c9a255673"
   },
   {
     "title": "A W S  Terraform  Workshop",
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "f34f5c49b3434f41638081acfc05957cca6491d9"
+    "lastCommit": "b084a248040bdf2b2cb7359a338f2aebb2fc98b8"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -1002,6 +1002,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "37cd77685de6dbc9cb1682010959487f6a40d8e8"
   },
   {
+    "title": "Devops mcp",
+    "techStack": [
+      "argocd",
+      "devops",
+      "gitops",
+      "kubectl",
+      "kubernetes",
+      "mcp"
+    ],
+    "description": "Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
+    "link": {
+      "label": "github.com/devops-mcp",
+      "href": "https://github.com/NotHarshhaa/devops-mcp"
+    },
+    "stars": 6,
+    "forks": 1,
+    "issues": 0,
+    "lastUpdated": "2026-11-25T09:45:16Z",
+    "lastCommit": "bbc0628051c59bf0f029f4e4c2b41e4ac5dfea45"
+  },
+  {
     "title": "Prodevopsguy.xyz",
     "techStack": [
       "Astro",
@@ -1041,27 +1062,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-11-04T20:36:47Z",
     "lastCommit": "1ec416a57a8e06739aecf4c504308bf6b369f880"
-  },
-  {
-    "title": "Devops mcp",
-    "techStack": [
-      "argocd",
-      "devops",
-      "gitops",
-      "kubectl",
-      "kubernetes",
-      "mcp"
-    ],
-    "description": "Unified MCP server for DevOps engineers — query and manage Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.",
-    "link": {
-      "label": "github.com/devops-mcp",
-      "href": "https://github.com/NotHarshhaa/devops-mcp"
-    },
-    "stars": 5,
-    "forks": 1,
-    "issues": 0,
-    "lastUpdated": "2026-11-22T02:43:16Z",
-    "lastCommit": "bbc0628051c59bf0f029f4e4c2b41e4ac5dfea45"
   },
   {
     "title": "Dev Ops  Engineering",
