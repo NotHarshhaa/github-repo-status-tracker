@@ -10,9 +10,9 @@
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5636,
+    "stars": 5641,
     "forks": 5014,
-    "watchers": 5636,
+    "watchers": 5641,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-26T00:18:03Z"
+    "raw_updated_at": "2026-11-26T19:35:03Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -126,16 +126,16 @@
     "repo": "kubernetes-learning-path",
     "url": "https://github.com/NotHarshhaa/kubernetes-learning-path",
     "description": "𝘼 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝 (𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧 𝙩𝙤 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙡𝙚𝙫𝙚𝙡)",
-    "last_updated": "2026-11-25",
+    "last_updated": "2026-11-26",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-learning-path/commit/734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_sha": "734c2cf7233dcca42bbb66203b764f4a462e00dd",
     "commit_date": "2025-03-08",
     "commit_message": "K8S-Roadmap: feat: Add Kubernetes learning resources",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 653,
+    "stars": 654,
     "forks": 238,
-    "watchers": 653,
+    "watchers": 654,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -149,22 +149,22 @@
       "leraning",
       "roadmap"
     ],
-    "raw_updated_at": "2026-11-25T02:49:00Z"
+    "raw_updated_at": "2026-11-26T14:40:16Z"
   },
   {
     "repo": "kubernetes-projects-learning",
     "url": "https://github.com/NotHarshhaa/kubernetes-projects-learning",
     "description": "𝘼 𝙧𝙚𝙥𝙤 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙋𝙧𝙖𝙘𝙩𝙞𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙪𝙥 𝙗𝙮 𝙙𝙤𝙞𝙣𝙜 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙍𝙚𝙖𝙡𝙩𝙞𝙢𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙩𝙚𝙖𝙘𝙝 𝙮𝙤𝙪 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙆𝙪𝙗𝙚𝙧𝙣𝙚𝙩𝙚𝙨 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮, 𝙢𝙖𝙣𝙖𝙜𝙚, 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙚 𝙘𝙤𝙣𝙩𝙖𝙞𝙣𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.",
-    "last_updated": "2026-11-25",
+    "last_updated": "2026-11-26",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-projects-learning/commit/b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_sha": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6",
     "commit_date": "2026-11-01",
     "commit_message": "Kubernetes: README update: Enhance the structure and content of README.md by adding a new \"What's Inside\" section, improving prerequisites descriptions, and including detailed installation instructions for essential tools. Additionally, introduce new guides and resources for better navigation and learning paths in Kubernetes.",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 541,
+    "stars": 542,
     "forks": 406,
-    "watchers": 541,
+    "watchers": 542,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -179,7 +179,7 @@
       "learning-kubernetes",
       "realtimeprojects"
     ],
-    "raw_updated_at": "2026-11-25T19:55:24Z"
+    "raw_updated_at": "2026-11-26T11:52:41Z"
   },
   {
     "repo": "devops-cheatsheet",
@@ -220,16 +220,16 @@
     "repo": "devops-tools",
     "url": "https://github.com/NotHarshhaa/devops-tools",
     "description": "A comprehensive collection of essential DevOps tools for development, deployment, monitoring, automation, security, and more. Whether you're a beginner exploring DevOps or a seasoned engineer looking for the best tools, this repository has everything you need!",
-    "last_updated": "2026-11-23",
+    "last_updated": "2026-11-26",
     "latest_commit": "https://github.com/NotHarshhaa/devops-tools/commit/4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_sha": "4fb93a63c45c598d63c2cde701653f0fa6c7bc92",
     "commit_date": "2026-11-02",
     "commit_message": "DevOps-Tools: Expand README with new tools and categories for enhanced resource coverage",
     "author": "NotHarshhaa",
     "issues": 6,
-    "stars": 249,
+    "stars": 250,
     "forks": 166,
-    "watchers": 249,
+    "watchers": 250,
     "ci_cd_status": "none",
     "languages": [
       "TypeScript",
@@ -246,7 +246,7 @@
       "devopstoolkit",
       "devopstools"
     ],
-    "raw_updated_at": "2026-11-23T03:33:10Z"
+    "raw_updated_at": "2026-11-26T11:52:36Z"
   },
   {
     "repo": "Kubernetes",
@@ -381,16 +381,16 @@
     "repo": "CI-CD_EKS-GitHub_Actions",
     "url": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions",
     "description": "A fully automated CI/CD pipeline that builds, tests, and deploys a Node.js application on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-26",
     "latest_commit": "https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions/commit/773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
     "commit_sha": "773858045c2e2b7c5bd3e9f8de0f5f2d6b6b00df",
     "commit_date": "2026-11-06",
     "commit_message": "CI-CD EKS: Update configurations for improved development and deployment",
     "author": "NotHarshhaa",
     "issues": 1,
-    "stars": 142,
+    "stars": 143,
     "forks": 121,
-    "watchers": 142,
+    "watchers": 143,
     "ci_cd_status": "fail",
     "languages": [
       "JavaScript",
@@ -410,22 +410,22 @@
       "jenkins",
       "nodejs"
     ],
-    "raw_updated_at": "2026-11-17T06:23:04Z"
+    "raw_updated_at": "2026-11-26T11:52:27Z"
   },
   {
     "repo": "AWS-GCP-Azure-Cloud-Projects-Workshop",
     "url": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop",
     "description": "A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience, build your portfolio, and prepare for certifications.",
-    "last_updated": "2026-11-12",
+    "last_updated": "2026-11-26",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_sha": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3",
     "commit_date": "2025-11-11",
     "commit_message": "aws-gcp-azure: README: Add banner image to README",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 136,
+    "stars": 137,
     "forks": 61,
-    "watchers": 136,
+    "watchers": 137,
     "ci_cd_status": "none",
     "languages": [],
     "license": "MIT License",
@@ -439,7 +439,7 @@
       "projects",
       "workshop"
     ],
-    "raw_updated_at": "2026-11-12T14:38:07Z"
+    "raw_updated_at": "2026-11-26T09:00:42Z"
   },
   {
     "repo": "azure-all_in_one",
@@ -583,7 +583,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 59,
-    "forks": 55,
+    "forks": 56,
     "watchers": 59,
     "ci_cd_status": "none",
     "languages": [
@@ -951,9 +951,9 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8ec7d5d48ad7d38bc53eb14d0fdfb76df933b681",
-    "commit_sha": "8ec7d5d48ad7d38bc53eb14d0fdfb76df933b681",
-    "commit_date": "2026-11-25",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/0ada8b94df824f60b2a0b2c3f4df35d0ee692f74",
+    "commit_sha": "0ada8b94df824f60b2a0b2c3f4df35d0ee692f74",
+    "commit_date": "2026-11-26",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
@@ -1159,7 +1159,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 9,
-    "forks": 10,
+    "forks": 11,
     "watchers": 9,
     "ci_cd_status": "none",
     "languages": [
