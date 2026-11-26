@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5635,
+    "stars": 5636,
     "forks": 5014,
     "issues": 30,
-    "lastUpdated": "2026-11-25T19:01:25Z",
+    "lastUpdated": "2026-11-26T00:18:03Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -54,10 +54,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Interview-Questions",
       "href": "https://github.com/NotHarshhaa/DevOps-Interview-Questions"
     },
-    "stars": 1330,
+    "stars": 1331,
     "forks": 962,
     "issues": 4,
-    "lastUpdated": "2026-11-25T09:19:37Z",
+    "lastUpdated": "2026-11-25T22:18:59Z",
     "lastCommit": "5081cf61629271e8e723d655db2f58a41ba1f993"
   },
   {
@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/devops-cheatsheet"
     },
     "stars": 382,
-    "forks": 277,
+    "forks": 278,
     "issues": 3,
     "lastUpdated": "2026-11-23T07:10:50Z",
     "lastCommit": "e1b590dcb0ce24988a5446f4c3b727f5b3b9d2d0"
@@ -222,10 +222,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-Projects",
       "href": "https://github.com/NotHarshhaa/AWS-Projects"
     },
-    "stars": 172,
+    "stars": 171,
     "forks": 81,
     "issues": 0,
-    "lastUpdated": "2026-11-20T01:38:13Z",
+    "lastUpdated": "2026-11-25T22:22:30Z",
     "lastCommit": "bb21262eef476b6ab4430e0997e26f1e6392e07a"
   },
   {
@@ -369,10 +369,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/kubernetes-dashboard",
       "href": "https://github.com/NotHarshhaa/kubernetes-dashboard"
     },
-    "stars": 63,
+    "stars": 64,
     "forks": 54,
     "issues": 0,
-    "lastUpdated": "2026-11-09T11:42:44Z",
+    "lastUpdated": "2026-11-26T06:55:25Z",
     "lastCommit": "14db0e6188e73851faa51989b4a9066cac605dd8"
   },
   {
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "b084a248040bdf2b2cb7359a338f2aebb2fc98b8"
+    "lastCommit": "8ec7d5d48ad7d38bc53eb14d0fdfb76df933b681"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -760,6 +760,27 @@ export const PROJECTS: Project[] = [
     "lastCommit": "2fec48f59b8ea0a59f03314763fe18fc4fe05fbd"
   },
   {
+    "title": "Devops project generator",
+    "techStack": [
+      "devops",
+      "devops-gen",
+      "devops-project",
+      "devops-project-generator",
+      "project-gen",
+      "project-generator"
+    ],
+    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "link": {
+      "label": "github.com/devops-project-generator",
+      "href": "https://github.com/NotHarshhaa/devops-project-generator"
+    },
+    "stars": 9,
+    "forks": 10,
+    "issues": 0,
+    "lastUpdated": "2026-11-26T06:55:12Z",
+    "lastCommit": "da9b3b007c801f0fddfdf9d89ec51dcd50f27925"
+  },
+  {
     "title": "Azure devops zero to hero",
     "techStack": [
       "azure-artifacts",
@@ -800,27 +821,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-11-11T16:35:05Z",
     "lastCommit": "d70306428ac14e9c088d530c5fc3f2ace939ba9a"
-  },
-  {
-    "title": "Devops project generator",
-    "techStack": [
-      "devops",
-      "devops-gen",
-      "devops-project",
-      "devops-project-generator",
-      "project-gen",
-      "project-generator"
-    ],
-    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "link": {
-      "label": "github.com/devops-project-generator",
-      "href": "https://github.com/NotHarshhaa/devops-project-generator"
-    },
-    "stars": 8,
-    "forks": 10,
-    "issues": 0,
-    "lastUpdated": "2026-11-11T15:49:22Z",
-    "lastCommit": "da9b3b007c801f0fddfdf9d89ec51dcd50f27925"
   },
   {
     "title": "Devops incident agent",
@@ -922,6 +922,25 @@ export const PROJECTS: Project[] = [
     "lastCommit": "d54f10fc513fc2fdd33f92041ae0f9dfaac36c43"
   },
   {
+    "title": "Interviews.prodevopsguytech.com",
+    "techStack": [
+      "MDX",
+      "TypeScript",
+      "CSS",
+      "JavaScript"
+    ],
+    "description": "This project powers a modern web UI designed to help DevOps professionals prepare for interviews with curated, categorized, and regularly updated questions.",
+    "link": {
+      "label": "github.com/interviews.prodevopsguytech.com",
+      "href": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com"
+    },
+    "stars": 7,
+    "forks": 3,
+    "issues": 0,
+    "lastUpdated": "2026-11-25T21:30:52Z",
+    "lastCommit": "99a59679aa43230c27d6ccea525211d622fda964"
+  },
+  {
     "title": "Projects.prodevopsguytech.com",
     "techStack": [
       "css",
@@ -960,25 +979,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-10-21T13:31:37Z",
     "lastCommit": "fc220424a589a947d9197d8343b7e6b4c60022e9"
-  },
-  {
-    "title": "Interviews.prodevopsguytech.com",
-    "techStack": [
-      "MDX",
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
-    "description": "This project powers a modern web UI designed to help DevOps professionals prepare for interviews with curated, categorized, and regularly updated questions.",
-    "link": {
-      "label": "github.com/interviews.prodevopsguytech.com",
-      "href": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com"
-    },
-    "stars": 6,
-    "forks": 3,
-    "issues": 0,
-    "lastUpdated": "2026-11-08T11:33:01Z",
-    "lastCommit": "99a59679aa43230c27d6ccea525211d622fda964"
   },
   {
     "title": "Personal portfolio",
@@ -1062,6 +1062,27 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-11-04T20:36:47Z",
     "lastCommit": "1ec416a57a8e06739aecf4c504308bf6b369f880"
+  },
+  {
+    "title": "Mlops project generator",
+    "techStack": [
+      "mlops",
+      "mlops-project",
+      "mlops-template",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
+    "link": {
+      "label": "github.com/mlops-project-generator",
+      "href": "https://github.com/NotHarshhaa/mlops-project-generator"
+    },
+    "stars": 5,
+    "forks": 2,
+    "issues": 0,
+    "lastUpdated": "2026-11-26T06:55:19Z",
+    "lastCommit": "e740ecd845db39da345c9b0db937d0161c6701aa"
   },
   {
     "title": "Dev Ops  Engineering",
@@ -1157,27 +1178,6 @@ export const PROJECTS: Project[] = [
     "issues": 0,
     "lastUpdated": "2026-10-21T14:41:19Z",
     "lastCommit": "4982b524d0e8aa78691aa5a62384423890c3b163"
-  },
-  {
-    "title": "Mlops project generator",
-    "techStack": [
-      "mlops",
-      "mlops-project",
-      "mlops-template",
-      "pytorch",
-      "scikit-learn",
-      "tensorflow"
-    ],
-    "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
-    "link": {
-      "label": "github.com/mlops-project-generator",
-      "href": "https://github.com/NotHarshhaa/mlops-project-generator"
-    },
-    "stars": 4,
-    "forks": 2,
-    "issues": 0,
-    "lastUpdated": "2026-11-11T13:31:07Z",
-    "lastCommit": "e740ecd845db39da345c9b0db937d0161c6701aa"
   },
   {
     "title": "Status.prodevopsguytech.com",

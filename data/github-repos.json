@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-25",
+    "last_updated": "2026-11-26",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5635,
+    "stars": 5636,
     "forks": 5014,
-    "watchers": 5635,
+    "watchers": 5636,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-25T19:01:25Z"
+    "raw_updated_at": "2026-11-26T00:18:03Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -56,9 +56,9 @@
     "commit_message": "DevOps-Interview: feat: Update Code of Conduct and Contributing Guidelines for clarity and inclusivity",
     "author": "NotHarshhaa",
     "issues": 4,
-    "stars": 1330,
+    "stars": 1331,
     "forks": 962,
-    "watchers": 1330,
+    "watchers": 1331,
     "ci_cd_status": "none",
     "languages": [],
     "license": "No license",
@@ -76,7 +76,7 @@
       "interview-questions",
       "jenkins-interview"
     ],
-    "raw_updated_at": "2026-11-25T09:19:37Z"
+    "raw_updated_at": "2026-11-25T22:18:59Z"
   },
   {
     "repo": "into-the-devops",
@@ -193,7 +193,7 @@
     "author": "NotHarshhaa",
     "issues": 3,
     "stars": 382,
-    "forks": 277,
+    "forks": 278,
     "watchers": 382,
     "ci_cd_status": "none",
     "languages": [],
@@ -316,16 +316,16 @@
     "repo": "AWS-Projects",
     "url": "https://github.com/NotHarshhaa/AWS-Projects",
     "description": "Real-world AWS projects for aspiring cloud engineers — Beginner to Advanced. Covers AWS services, Infrastructure as Code, CI/CD, containers, serverless, monitoring, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-20",
+    "last_updated": "2026-11-25",
     "latest_commit": "https://github.com/NotHarshhaa/AWS-Projects/commit/bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_sha": "bb21262eef476b6ab4430e0997e26f1e6392e07a",
     "commit_date": "2026-09-29",
     "commit_message": "AWS: AWS-Project-04 detailing on Serverless Bulk Email Notification & Dispatch System",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 172,
+    "stars": 171,
     "forks": 81,
-    "watchers": 172,
+    "watchers": 171,
     "ci_cd_status": "none",
     "languages": [
       "Python",
@@ -345,7 +345,7 @@
       "projects",
       "real-time-project"
     ],
-    "raw_updated_at": "2026-11-20T01:38:13Z"
+    "raw_updated_at": "2026-11-25T22:22:30Z"
   },
   {
     "repo": "Certified_Kubernetes_Administrator",
@@ -541,16 +541,16 @@
     "repo": "kubernetes-dashboard",
     "url": "https://github.com/NotHarshhaa/kubernetes-dashboard",
     "description": "This dashboard unifies multi-cluster fleet operations, real-time Metrics Server telemetry, AI/GPU accelerator observability, GitOps workflow safeguards (ArgoCD & Flux), next-gen Gateway API routing, and browser-native ANSI container terminal execution. Eliminate tool sprawl, prevent configuration drift, and manage mission-critical cloud-native work",
-    "last_updated": "2026-11-09",
+    "last_updated": "2026-11-26",
     "latest_commit": "https://github.com/NotHarshhaa/kubernetes-dashboard/commit/14db0e6188e73851faa51989b4a9066cac605dd8",
     "commit_sha": "14db0e6188e73851faa51989b4a9066cac605dd8",
     "commit_date": "2026-11-09",
     "commit_message": "fix: potential fix for code scanning alert no. 129: Server-side request forgery",
     "author": "𝙃 𝘼 𝙍 𝙎 𝙃 𝙃 𝘼 𝘼",
     "issues": 0,
-    "stars": 63,
+    "stars": 64,
     "forks": 54,
-    "watchers": 63,
+    "watchers": 64,
     "ci_cd_status": "pass",
     "languages": [
       "TypeScript",
@@ -569,7 +569,7 @@
       "kubernetes-setup",
       "monitoring"
     ],
-    "raw_updated_at": "2026-11-09T11:42:44Z"
+    "raw_updated_at": "2026-11-26T06:55:25Z"
   },
   {
     "repo": "aws-billing-alert-terraform",
@@ -951,8 +951,8 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b084a248040bdf2b2cb7359a338f2aebb2fc98b8",
-    "commit_sha": "b084a248040bdf2b2cb7359a338f2aebb2fc98b8",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/8ec7d5d48ad7d38bc53eb14d0fdfb76df933b681",
+    "commit_sha": "8ec7d5d48ad7d38bc53eb14d0fdfb76df933b681",
     "commit_date": "2026-11-25",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
@@ -1148,6 +1148,39 @@
     "raw_updated_at": "2026-04-26T11:51:26Z"
   },
   {
+    "repo": "devops-project-generator",
+    "url": "https://github.com/NotHarshhaa/devops-project-generator",
+    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
+    "last_updated": "2026-11-26",
+    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/da9b3b007c801f0fddfdf9d89ec51dcd50f27925",
+    "commit_sha": "da9b3b007c801f0fddfdf9d89ec51dcd50f27925",
+    "commit_date": "2026-11-11",
+    "commit_message": "devops-gen: Add new icons and manifest for enhanced branding and user experience",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 9,
+    "forks": 10,
+    "watchers": 9,
+    "ci_cd_status": "none",
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Jinja",
+      "Shell",
+      "CSS"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "devops",
+      "devops-gen",
+      "devops-project",
+      "devops-project-generator",
+      "project-gen",
+      "project-generator"
+    ],
+    "raw_updated_at": "2026-11-26T06:55:12Z"
+  },
+  {
     "repo": "azure-devops-zero-to-hero",
     "url": "https://github.com/NotHarshhaa/azure-devops-zero-to-hero",
     "description": "Azure DevOps Zero to Hero — comprehensive guide to master Azure DevOps from fundamentals to advanced use. Learn Boards, Pipelines, Repos, Artifacts & Test Plans with practical, step-by-step content for developers and DevOps engineers",
@@ -1215,39 +1248,6 @@
       "terraform"
     ],
     "raw_updated_at": "2026-11-11T16:35:05Z"
-  },
-  {
-    "repo": "devops-project-generator",
-    "url": "https://github.com/NotHarshhaa/devops-project-generator",
-    "description": "A CLI & UI Tool that generates production-ready DevOps repositories based on user-selected options like CI/CD, infrastructure, deployment, environments, observability, and security.",
-    "last_updated": "2026-11-11",
-    "latest_commit": "https://github.com/NotHarshhaa/devops-project-generator/commit/da9b3b007c801f0fddfdf9d89ec51dcd50f27925",
-    "commit_sha": "da9b3b007c801f0fddfdf9d89ec51dcd50f27925",
-    "commit_date": "2026-11-11",
-    "commit_message": "devops-gen: Add new icons and manifest for enhanced branding and user experience",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 8,
-    "forks": 10,
-    "watchers": 8,
-    "ci_cd_status": "none",
-    "languages": [
-      "TypeScript",
-      "Python",
-      "Jinja",
-      "Shell",
-      "CSS"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "devops",
-      "devops-gen",
-      "devops-project",
-      "devops-project-generator",
-      "project-gen",
-      "project-generator"
-    ],
-    "raw_updated_at": "2026-11-11T15:49:22Z"
   },
   {
     "repo": "devops-incident-agent",
@@ -1392,6 +1392,31 @@
     "raw_updated_at": "2026-10-06T17:41:13Z"
   },
   {
+    "repo": "interviews.prodevopsguytech.com",
+    "url": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com",
+    "description": "This project powers a modern web UI designed to help DevOps professionals prepare for interviews with curated, categorized, and regularly updated questions.",
+    "last_updated": "2026-11-25",
+    "latest_commit": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/99a59679aa43230c27d6ccea525211d622fda964",
+    "commit_sha": "99a59679aa43230c27d6ccea525211d622fda964",
+    "commit_date": "2026-11-08",
+    "commit_message": "interview-hub: feat: add comprehensive README for DevOps Interview Hub",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 7,
+    "forks": 3,
+    "watchers": 7,
+    "ci_cd_status": "none",
+    "languages": [
+      "MDX",
+      "TypeScript",
+      "CSS",
+      "JavaScript"
+    ],
+    "license": "No license",
+    "topics": [],
+    "raw_updated_at": "2026-11-25T21:30:52Z"
+  },
+  {
     "repo": "projects.prodevopsguytech.com",
     "url": "https://github.com/NotHarshhaa/projects.prodevopsguytech.com",
     "description": "A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using Next.js and styled with Tailwind CSS, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on DevOps and Cloud concepts!",
@@ -1452,31 +1477,6 @@
     "license": "No license",
     "topics": [],
     "raw_updated_at": "2026-10-21T13:31:37Z"
-  },
-  {
-    "repo": "interviews.prodevopsguytech.com",
-    "url": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com",
-    "description": "This project powers a modern web UI designed to help DevOps professionals prepare for interviews with curated, categorized, and regularly updated questions.",
-    "last_updated": "2026-11-08",
-    "latest_commit": "https://github.com/NotHarshhaa/interviews.prodevopsguytech.com/commit/99a59679aa43230c27d6ccea525211d622fda964",
-    "commit_sha": "99a59679aa43230c27d6ccea525211d622fda964",
-    "commit_date": "2026-11-08",
-    "commit_message": "interview-hub: feat: add comprehensive README for DevOps Interview Hub",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 6,
-    "forks": 3,
-    "watchers": 6,
-    "ci_cd_status": "none",
-    "languages": [
-      "MDX",
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
-    "license": "No license",
-    "topics": [],
-    "raw_updated_at": "2026-11-08T11:33:01Z"
   },
   {
     "repo": "personal-portfolio",
@@ -1599,6 +1599,39 @@
       "typescript"
     ],
     "raw_updated_at": "2026-11-04T20:36:47Z"
+  },
+  {
+    "repo": "mlops-project-generator",
+    "url": "https://github.com/NotHarshhaa/mlops-project-generator",
+    "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
+    "last_updated": "2026-11-26",
+    "latest_commit": "https://github.com/NotHarshhaa/mlops-project-generator/commit/e740ecd845db39da345c9b0db937d0161c6701aa",
+    "commit_sha": "e740ecd845db39da345c9b0db937d0161c6701aa",
+    "commit_date": "2026-11-11",
+    "commit_message": "MLOps-Gen: Enhance MLOpsForm and feedback components with new features and optimizations",
+    "author": "NotHarshhaa",
+    "issues": 0,
+    "stars": 5,
+    "forks": 2,
+    "watchers": 5,
+    "ci_cd_status": "fail",
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Jinja",
+      "CSS",
+      "Makefile"
+    ],
+    "license": "MIT License",
+    "topics": [
+      "mlops",
+      "mlops-project",
+      "mlops-template",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "raw_updated_at": "2026-11-26T06:55:19Z"
   },
   {
     "repo": "DevOps-Engineering",
@@ -1724,39 +1757,6 @@
     "license": "GNU General Public License v3.0",
     "topics": [],
     "raw_updated_at": "2026-10-21T14:41:19Z"
-  },
-  {
-    "repo": "mlops-project-generator",
-    "url": "https://github.com/NotHarshhaa/mlops-project-generator",
-    "description": "A CLI & UI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow.",
-    "last_updated": "2026-11-11",
-    "latest_commit": "https://github.com/NotHarshhaa/mlops-project-generator/commit/e740ecd845db39da345c9b0db937d0161c6701aa",
-    "commit_sha": "e740ecd845db39da345c9b0db937d0161c6701aa",
-    "commit_date": "2026-11-11",
-    "commit_message": "MLOps-Gen: Enhance MLOpsForm and feedback components with new features and optimizations",
-    "author": "NotHarshhaa",
-    "issues": 0,
-    "stars": 4,
-    "forks": 2,
-    "watchers": 4,
-    "ci_cd_status": "fail",
-    "languages": [
-      "Python",
-      "TypeScript",
-      "Jinja",
-      "CSS",
-      "Makefile"
-    ],
-    "license": "MIT License",
-    "topics": [
-      "mlops",
-      "mlops-project",
-      "mlops-template",
-      "pytorch",
-      "scikit-learn",
-      "tensorflow"
-    ],
-    "raw_updated_at": "2026-11-11T13:31:07Z"
   },
   {
     "repo": "status.prodevopsguytech.com",
