@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/DevOps-Projects",
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
-    "stars": 5641,
-    "forks": 5015,
+    "stars": 5642,
+    "forks": 5018,
     "issues": 30,
-    "lastUpdated": "2026-11-26T19:35:03Z",
+    "lastUpdated": "2026-11-27T17:57:58Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
   },
   {
@@ -118,7 +118,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/kubernetes-projects-learning"
     },
     "stars": 542,
-    "forks": 406,
+    "forks": 407,
     "issues": 1,
     "lastUpdated": "2026-11-26T11:52:41Z",
     "lastCommit": "b41f9b2c64f34c6dfa81db03b0997a21f9ec10e6"
@@ -391,7 +391,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/aws-billing-alert-terraform"
     },
     "stars": 59,
-    "forks": 56,
+    "forks": 55,
     "issues": 0,
     "lastUpdated": "2026-11-19T06:49:05Z",
     "lastCommit": "b8631399e9220ff26e6e2a7ba3392f6c641ad399"
@@ -425,10 +425,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/Cloud-Native-DevOps-Project",
       "href": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project"
     },
-    "stars": 37,
+    "stars": 38,
     "forks": 45,
     "issues": 0,
-    "lastUpdated": "2026-10-28T18:12:38Z",
+    "lastUpdated": "2026-11-27T19:59:27Z",
     "lastCommit": "ea965ee4cb61c67bf94f244fdb58081c56c2e0a3"
   },
   {
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "b07032a24a93d0a0ce5f194a1cbe95380b8a70b0"
+    "lastCommit": "f90dfc824d4b60386746667e181a2f7fbb9e2558"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",

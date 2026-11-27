@@ -3,16 +3,16 @@
     "repo": "DevOps-Projects",
     "url": "https://github.com/NotHarshhaa/DevOps-Projects",
     "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-    "last_updated": "2026-11-26",
+    "last_updated": "2026-11-27",
     "latest_commit": "https://github.com/NotHarshhaa/DevOps-Projects/commit/7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_sha": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d",
     "commit_date": "2026-09-04",
     "commit_message": "DevOps: README: Update README to include new project",
     "author": "NotHarshhaa",
     "issues": 30,
-    "stars": 5641,
-    "forks": 5015,
-    "watchers": 5641,
+    "stars": 5642,
+    "forks": 5018,
+    "watchers": 5642,
     "ci_cd_status": "none",
     "languages": [
       "Java",
@@ -43,7 +43,7 @@
       "realtimeprojects",
       "terraform"
     ],
-    "raw_updated_at": "2026-11-26T19:35:03Z"
+    "raw_updated_at": "2026-11-27T17:57:58Z"
   },
   {
     "repo": "DevOps-Interview-Questions",
@@ -163,7 +163,7 @@
     "author": "NotHarshhaa",
     "issues": 1,
     "stars": 542,
-    "forks": 406,
+    "forks": 407,
     "watchers": 542,
     "ci_cd_status": "none",
     "languages": [],
@@ -583,7 +583,7 @@
     "author": "NotHarshhaa",
     "issues": 0,
     "stars": 59,
-    "forks": 56,
+    "forks": 55,
     "watchers": 59,
     "ci_cd_status": "none",
     "languages": [
@@ -623,16 +623,16 @@
     "repo": "Cloud-Native-DevOps-Project",
     "url": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project",
     "description": "Build & deploy a Cloud-Native Full-Stack Application using Terraform, Jenkins, Docker & Kubernetes – all on AWS! 💥",
-    "last_updated": "2026-10-28",
+    "last_updated": "2026-11-27",
     "latest_commit": "https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project/commit/ea965ee4cb61c67bf94f244fdb58081c56c2e0a3",
     "commit_sha": "ea965ee4cb61c67bf94f244fdb58081c56c2e0a3",
     "commit_date": "2026-11-22",
     "commit_message": "cloud-native-project: README: Revise documentation and enhance Terraform configurations",
     "author": "NotHarshhaa",
     "issues": 0,
-    "stars": 37,
+    "stars": 38,
     "forks": 45,
-    "watchers": 37,
+    "watchers": 38,
     "ci_cd_status": "none",
     "languages": [
       "HCL",
@@ -659,7 +659,7 @@
       "sonarqube",
       "terraform"
     ],
-    "raw_updated_at": "2026-10-28T18:12:38Z"
+    "raw_updated_at": "2026-11-27T19:59:27Z"
   },
   {
     "repo": "From-Docker-to-Kubernetes",
@@ -951,9 +951,9 @@
     "url": "https://github.com/NotHarshhaa/github-repo-status-tracker",
     "description": "This project automates the tracking of multiple GitHub repositories, providing a real-time status update on key repository metrics. The status information is dynamically updated and displayed in the README.md file using GitHub Actions.",
     "last_updated": "2026-11-17",
-    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/b07032a24a93d0a0ce5f194a1cbe95380b8a70b0",
-    "commit_sha": "b07032a24a93d0a0ce5f194a1cbe95380b8a70b0",
-    "commit_date": "2026-11-26",
+    "latest_commit": "https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f90dfc824d4b60386746667e181a2f7fbb9e2558",
+    "commit_sha": "f90dfc824d4b60386746667e181a2f7fbb9e2558",
+    "commit_date": "2026-11-27",
     "commit_message": "chore: update repository status [skip ci]",
     "author": "NotHarshhaa",
     "issues": 0,
