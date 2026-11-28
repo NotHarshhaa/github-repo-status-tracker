@@ -1,22 +1,22 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-27%2020%3A53:36.354 UTC-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-28%2006%3A58:42.399 UTC-blue?style=flat-square)
 
 # GitHub Repository Status Tracker
 
 Live status dashboard for [@NotHarshhaa](https://github.com/NotHarshhaa) repositories.
 Updates automatically every 6 hours via GitHub Actions.
 
-**87** repositories tracked · **11,661** combined stars
+**87** repositories tracked · **11,663** combined stars
 
 ---
 
 <!-- START_REPO_STATUS -->
-> **87** repositories · **11,661** stars · **9,479** forks · **75** open issues
+> **87** repositories · **11,663** stars · **9,481** forks · **75** open issues
 
 ### Quick overview
 
 | # | Repository | Stars | Forks | Issues | CI | Updated |
 |:--:|------------|------:|------:|-------:|:--:|---------|
-| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,642 | 5,018 | 30 | — | 2026-11-27 |
+| 1 | [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,642 | 5,019 | 30 | — | 2026-11-27 |
 | 2 | [DevOps-Interview-Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) | 1,331 | 963 | 4 | — | 2026-11-26 |
 | 3 | [into-the-devops](https://github.com/NotHarshhaa/into-the-devops) | 929 | 545 | 0 | — | 2026-11-23 |
 | 4 | [kubernetes-learning-path](https://github.com/NotHarshhaa/kubernetes-learning-path) | 654 | 238 | 4 | — | 2026-11-26 |
@@ -28,13 +28,13 @@ Updates automatically every 6 hours via GitHub Actions.
 | 10 | [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects) | 171 | 81 | 0 | — | 2026-11-25 |
 | 11 | [Certified_Kubernetes_Administrator](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator) | 166 | 124 | 0 | — | 2026-11-14 |
 | 12 | [CI-CD_EKS-GitHub_Actions](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions) | 143 | 121 | 1 | Fail | 2026-11-26 |
-| 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 137 | 61 | 0 | — | 2026-11-26 |
+| 13 | [AWS-GCP-Azure-Cloud-Projects-Workshop](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop) | 138 | 61 | 0 | — | 2026-11-28 |
 | 14 | [azure-all_in_one](https://github.com/NotHarshhaa/azure-all_in_one) | 94 | 61 | 0 | — | 2026-10-21 |
 | 15 | [eks-cluster-terraform](https://github.com/NotHarshhaa/eks-cluster-terraform) | 74 | 68 | 0 | — | 2026-11-08 |
 | 16 | [DevOps-Tool-Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer) | 66 | 70 | 0 | — | 2026-11-24 |
 | 17 | [kubernetes-dashboard](https://github.com/NotHarshhaa/kubernetes-dashboard) | 64 | 54 | 0 | Pass | 2026-11-26 |
 | 18 | [aws-billing-alert-terraform](https://github.com/NotHarshhaa/aws-billing-alert-terraform) | 59 | 55 | 0 | — | 2026-11-19 |
-| 19 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 44 | 20 | 1 | — | 2026-11-09 |
+| 19 | [ai-platform-engineering-handbook](https://github.com/NotHarshhaa/ai-platform-engineering-handbook) | 45 | 21 | 1 | — | 2026-11-27 |
 | 20 | [Cloud-Native-DevOps-Project](https://github.com/NotHarshhaa/Cloud-Native-DevOps-Project) | 38 | 45 | 0 | — | 2026-11-27 |
 | 21 | [From-Docker-to-Kubernetes](https://github.com/NotHarshhaa/From-Docker-to-Kubernetes) | 35 | 35 | 2 | — | 2026-10-28 |
 | 22 | [AWS-DevOps_Real-Time_Deployment](https://github.com/NotHarshhaa/AWS-DevOps_Real-Time_Deployment) | 33 | 69 | 0 | — | 2026-11-11 |
@@ -113,7 +113,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/DevOps-Projects">DevOps-Projects</a></strong>
   &nbsp;·&nbsp; ⭐ 5,642
-  &nbsp;·&nbsp; 🍴 5,018
+  &nbsp;·&nbsp; 🍴 5,019
   &nbsp;·&nbsp; CI —
   <br><sub>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, a...</sub>
 </summary>
@@ -448,7 +448,7 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop">AWS-GCP-Azure-Cloud-Projects-Workshop</a></strong>
-  &nbsp;·&nbsp; ⭐ 137
+  &nbsp;·&nbsp; ⭐ 138
   &nbsp;·&nbsp; 🍴 61
   &nbsp;·&nbsp; CI —
   <br><sub>A complete, hands-on collection of AWS, Google Cloud (GCP), and Microsoft Azure projects designed to help you gain real-world experience,...</sub>
@@ -465,7 +465,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [aws-gcp-azure: README: Add banner image to README](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop/commit/2918d6d05e02dd981ef9a89bcf7202afde64d6e3) |
 | **Commit date** | `2025-11-11` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-26` |
+| **Repo updated** | `2026-11-28` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | `amazon-web-services` · `aws` · `azure` · `cloud-projects` · `google-cloud-platform` · `microsoft-azure` |
@@ -616,8 +616,8 @@ Updates automatically every 6 hours via GitHub Actions.
 <details>
 <summary>
   <strong><a href="https://github.com/NotHarshhaa/ai-platform-engineering-handbook">ai-platform-engineering-handbook</a></strong>
-  &nbsp;·&nbsp; ⭐ 44
-  &nbsp;·&nbsp; 🍴 20
+  &nbsp;·&nbsp; ⭐ 45
+  &nbsp;·&nbsp; 🍴 21
   &nbsp;·&nbsp; CI —
   <br><sub>Production-grade DevOps, MLOps, and Platform Engineering documentation with real-world AI infrastructure design, automation pipelines, an...</sub>
 </summary>
@@ -633,7 +633,7 @@ Updates automatically every 6 hours via GitHub Actions.
 | **Latest commit** | [ai-platform-handbook: Add banner image to README](https://github.com/NotHarshhaa/ai-platform-engineering-handbook/commit/beab0c6dc86efe6071e5bfbd3cff4d7a327b029b) |
 | **Commit date** | `2026-11-21` |
 | **Author** | `NotHarshhaa` |
-| **Repo updated** | `2026-11-09` |
+| **Repo updated** | `2026-11-27` |
 | **License** | `MIT License` |
 | **Languages** | _None detected_ |
 | **Topics** | _None_ |
@@ -938,7 +938,7 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/f90dfc824d4b60386746667e181a2f7fbb9e2558) |
+| **Latest commit** | [chore: update repository status [skip ci]](https://github.com/NotHarshhaa/github-repo-status-tracker/commit/0d070f343fd503871c9eeb6f2aa0439604655f7e) |
 | **Commit date** | `2026-11-27` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-17` |
@@ -994,8 +994,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [cv: feat: enhance CommandMenu and NavigationMenu with new command palette functionality](https://github.com/NotHarshhaa/cv-portfolio/commit/00b5293dc4774dc6ed89980628a1f4b2d539a19b) |
-| **Commit date** | `2026-11-13` |
+| **Latest commit** | [cv: feat: enhance layout and functionality across multiple components](https://github.com/NotHarshhaa/cv-portfolio/commit/7897add5ad7609c6a6b6c99f25fefc68605c73ec) |
+| **Commit date** | `2026-11-28` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |
@@ -1078,8 +1078,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [link: feat: integrate GitHub follower count and enhance contribution day block styles](https://github.com/NotHarshhaa/links-portfolio/commit/e53a8a09547ccc61105e2e4343ee0d5e6cca5e2d) |
-| **Commit date** | `2026-11-14` |
+| **Latest commit** | [link: feat: update site manifest and enhance HomePage functionality](https://github.com/NotHarshhaa/links-portfolio/commit/1e2bc4cab7f35d1b33f09fdce97f715d293d674d) |
+| **Commit date** | `2026-11-28` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |
@@ -1442,8 +1442,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [portfolio: style: refine global styles and enhance GitHub activity component](https://github.com/NotHarshhaa/personal-portfolio/commit/37cd77685de6dbc9cb1682010959487f6a40d8e8) |
-| **Commit date** | `2026-11-21` |
+| **Latest commit** | [portfolio: feat: update site manifest and enhance client layout with motion improvements](https://github.com/NotHarshhaa/personal-portfolio/commit/1492bd00156bdf57f277e382ff157c68db75ea3d) |
+| **Commit date** | `2026-11-28` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-11-12` |
 | **License** | `MIT License` |
@@ -1946,8 +1946,8 @@ Updates automatically every 6 hours via GitHub Actions.
 
 | | |
 |---|---|
-| **Latest commit** | [blog: enhance styling and accessibility for PostCard and PostsFilter components](https://github.com/NotHarshhaa/personal-blog/commit/e4f8e740e2bfbe3a451a9ee2ae922521e171a0ef) |
-| **Commit date** | `2026-11-23` |
+| **Latest commit** | [blog: refactor(actions): enhance error handling and revalidation for post and snippet a...](https://github.com/NotHarshhaa/personal-blog/commit/cb5d5085f5ea43c636de58d7d19821c92b22146c) |
+| **Commit date** | `2026-11-28` |
 | **Author** | `NotHarshhaa` |
 | **Repo updated** | `2026-10-29` |
 | **License** | `MIT License` |

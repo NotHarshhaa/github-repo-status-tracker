@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       "href": "https://github.com/NotHarshhaa/DevOps-Projects"
     },
     "stars": 5642,
-    "forks": 5018,
+    "forks": 5019,
     "issues": 30,
     "lastUpdated": "2026-11-27T17:57:58Z",
     "lastCommit": "7482982bb88f59e1a1bd1d5e57600d69a1c48d2d"
@@ -285,10 +285,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/AWS-GCP-Azure-Cloud-Projects-Workshop",
       "href": "https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop"
     },
-    "stars": 137,
+    "stars": 138,
     "forks": 61,
     "issues": 0,
-    "lastUpdated": "2026-11-26T09:00:42Z",
+    "lastUpdated": "2026-11-28T06:05:06Z",
     "lastCommit": "2918d6d05e02dd981ef9a89bcf7202afde64d6e3"
   },
   {
@@ -404,10 +404,10 @@ export const PROJECTS: Project[] = [
       "label": "github.com/ai-platform-engineering-handbook",
       "href": "https://github.com/NotHarshhaa/ai-platform-engineering-handbook"
     },
-    "stars": 44,
-    "forks": 20,
+    "stars": 45,
+    "forks": 21,
     "issues": 1,
-    "lastUpdated": "2026-11-09T07:17:25Z",
+    "lastUpdated": "2026-11-27T23:29:49Z",
     "lastCommit": "beab0c6dc86efe6071e5bfbd3cff4d7a327b029b"
   },
   {
@@ -636,7 +636,7 @@ export const PROJECTS: Project[] = [
     "forks": 20,
     "issues": 0,
     "lastUpdated": "2026-11-17T03:46:42Z",
-    "lastCommit": "f90dfc824d4b60386746667e181a2f7fbb9e2558"
+    "lastCommit": "0d070f343fd503871c9eeb6f2aa0439604655f7e"
   },
   {
     "title": "Deployment of super  Mario on  Kubernetes using terraform",
@@ -678,7 +678,7 @@ export const PROJECTS: Project[] = [
     "forks": 12,
     "issues": 0,
     "lastUpdated": "2026-10-29T16:04:36Z",
-    "lastCommit": "00b5293dc4774dc6ed89980628a1f4b2d539a19b"
+    "lastCommit": "7897add5ad7609c6a6b6c99f25fefc68605c73ec"
   },
   {
     "title": "Awesome devops cloud",
@@ -736,7 +736,7 @@ export const PROJECTS: Project[] = [
     "forks": 9,
     "issues": 0,
     "lastUpdated": "2026-10-29T15:09:26Z",
-    "lastCommit": "e53a8a09547ccc61105e2e4343ee0d5e6cca5e2d"
+    "lastCommit": "1e2bc4cab7f35d1b33f09fdce97f715d293d674d"
   },
   {
     "title": "Jenkins  Terraform  A W S  Infra",
@@ -999,7 +999,7 @@ export const PROJECTS: Project[] = [
     "forks": 7,
     "issues": 0,
     "lastUpdated": "2026-11-12T11:18:54Z",
-    "lastCommit": "37cd77685de6dbc9cb1682010959487f6a40d8e8"
+    "lastCommit": "1492bd00156bdf57f277e382ff157c68db75ea3d"
   },
   {
     "title": "Devops mcp",
@@ -1346,7 +1346,7 @@ export const PROJECTS: Project[] = [
     "forks": 4,
     "issues": 0,
     "lastUpdated": "2026-10-29T17:47:46Z",
-    "lastCommit": "e4f8e740e2bfbe3a451a9ee2ae922521e171a0ef"
+    "lastCommit": "cb5d5085f5ea43c636de58d7d19821c92b22146c"
   },
   {
     "title": "Internal developer platform cli",
